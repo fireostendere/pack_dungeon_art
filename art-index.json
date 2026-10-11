@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 510,
+  "imageCount": 530,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 510,
+  "creatureImageCount": 530,
   "locationImageCount": 0,
-  "imageBytes": 45087418,
+  "imageBytes": 46790378,
   "images": [
     {
       "category": "creature",
@@ -15163,6 +15163,606 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "2e08e5cdac32d040421724d4266c9be4ef06712e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-haladron",
+      "name": "Angel, Haladron",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angel-haladron/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 84214,
+      "sha256": "24d53bfe9b31ac29716a818724a5837b666f9f28a123cb79fe29db3c67935f46",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/haladron/"
+          },
+          {
+            "url": "https://anyflip.com/plzy/jxhb/basic/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "f5204bc64d1eff006a59636e446dec07eab851e6"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-haladron",
+      "name": "Angel, Haladron",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/angel-haladron/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 83026,
+      "sha256": "e541b8e2d4217cf9130d6441d36842593c8ea53a2dd5c503d366abdd223bf0d1",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/haladron/"
+          },
+          {
+            "url": "https://anyflip.com/plzy/jxhb/basic/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "da1f158ba56c2edfb9df36d73bb1066fd7a9be84"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-kalkydra",
+      "name": "Angel, Kalkydra",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angel-kalkydra/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 105018,
+      "sha256": "84aa57712bb21b03d4aa3522f343bfdc9616d2bdac84df2fd7aa84b3125573ff",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/kalkydra/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "0cf01c59b4cbd9d306fb2c876ba99669699ec090"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-kalkydra",
+      "name": "Angel, Kalkydra",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angel-kalkydra/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 88416,
+      "sha256": "26c877cafc093b77f6d235ae0ae25f3d951e794ec15d833c1e5403a13e706b1d",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/kalkydra/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "157cafee27a5eaf671dd15fc54a4c56bbf760ed5"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-kalkydra",
+      "name": "Angel, Kalkydra",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angel-kalkydra/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 83798,
+      "sha256": "ee84a0110845953dfb168be600d1817f2a5740b106a87be95b677d95d515835e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/kalkydra/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "aa2e780f7994c71fba6f3ddf68832cc9402e6c59"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-kalkydra",
+      "name": "Angel, Kalkydra",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/angel-kalkydra/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 87642,
+      "sha256": "c154f084bc7956ddded4f1838f876059d7d810a855bdb7a0817ff68b9e3cb7ef",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/kalkydra/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "f68a48978f4dd62380ff3f5a146a797b977c0572"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-of-judgment",
+      "name": "Angel of Judgment",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angel-of-judgment/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 75492,
+      "sha256": "b65c8c4b700f09112520e27526eb520e1285b840fb14c972e7ba36ec34ab9d98",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://github.com/open5e/open5e-api/blob/staging/data/v1/tob2/Monster.json"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/angel-of-judgment/"
+          },
+          {
+            "url": "https://koboldpress.com/saints-of-midgard-st-authketill-the-twice-slain/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "756e97718e7c238925cbf136138a8556aaecff7b"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-of-judgment",
+      "name": "Angel of Judgment",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angel-of-judgment/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 73612,
+      "sha256": "0f4f8028c10e2f995ca3a10e4beb908d04b237a4f21883afbf55b8b1284f7361",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://github.com/open5e/open5e-api/blob/staging/data/v1/tob2/Monster.json"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/angel-of-judgment/"
+          },
+          {
+            "url": "https://koboldpress.com/saints-of-midgard-st-authketill-the-twice-slain/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "595648cfd64e48653fe8f000ea8e2234ae3852ca"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-of-judgment",
+      "name": "Angel of Judgment",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angel-of-judgment/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 71060,
+      "sha256": "7bed3b8f3084d01029bda62d913ec228b906ab70fda764a2b1b8c5c5a437d02c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://github.com/open5e/open5e-api/blob/staging/data/v1/tob2/Monster.json"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/angel-of-judgment/"
+          },
+          {
+            "url": "https://koboldpress.com/saints-of-midgard-st-authketill-the-twice-slain/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "49e186c38933c0d288aa614b4ac713b8f6aeeb4d"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-of-judgment",
+      "name": "Angel of Judgment",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/angel-of-judgment/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 82578,
+      "sha256": "76e53c07a353d353981e0715a6beec69beac2ac302e77554998d4d35df25a33a",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://github.com/open5e/open5e-api/blob/staging/data/v1/tob2/Monster.json"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/angel-of-judgment/"
+          },
+          {
+            "url": "https://koboldpress.com/saints-of-midgard-st-authketill-the-twice-slain/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "b9136d73d7103ee8a05b0b1d327b91aae01ed1bc"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-pelagic-deva",
+      "name": "Angel, Pelagic Deva",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angel-pelagic-deva/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 110140,
+      "sha256": "a1b15d3420cf76d10b5b0244aa55b51641e4b6033fb1b8177061aa5e28fa0387",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/pelagic-deva/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "b5e1997d136727181086a8e16c6c091787cf2c08"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-pelagic-deva",
+      "name": "Angel, Pelagic Deva",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angel-pelagic-deva/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 98744,
+      "sha256": "976cac6ee7c684e4af60e2499fc14ea17ab9a7f6500115af93fab961dd67d6fc",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/pelagic-deva/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "b085ff756f7b2e4ffbb7932ed74d50a9efdff2e6"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-pelagic-deva",
+      "name": "Angel, Pelagic Deva",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angel-pelagic-deva/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 105540,
+      "sha256": "981f0651d64d228fb42f9fc44bc07ff1ca00b4d41484272bec23f82c9e000047",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/pelagic-deva/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "3f858ca47792934db7665da6dfbd03dcca3aa750"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-pelagic-deva",
+      "name": "Angel, Pelagic Deva",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/angel-pelagic-deva/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 107238,
+      "sha256": "e79d878189356b29f46c86ad69d4f969a90484c8af64b5534a99b9c506705f60",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/pelagic-deva/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "34c45eed750f085041e29bc45e679e660ba0cccd"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-psychopomp",
+      "name": "Angel, Psychopomp",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angel-psychopomp/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 66558,
+      "sha256": "03d9dc83bebf5cddf28725c1e4314613b6dcbe9c242102bfd2a1126df57bd3fc",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/angel-psychopomp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "0b85d9f63d97260cbbb0036f3dc6943d9b5726a4"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-psychopomp",
+      "name": "Angel, Psychopomp",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angel-psychopomp/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 71780,
+      "sha256": "3216ec7adbb73f72c32bb88677474f7efb53385ec571f49d2f4eb0a6a8bd86be",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/angel-psychopomp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "bf61fdf28a5d55cb74e9a0b8c3c88214daf66506"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-psychopomp",
+      "name": "Angel, Psychopomp",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angel-psychopomp/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 81264,
+      "sha256": "28d02a3fe489436bf1040f303b5f663a3886f3148e77a554d14fd69ca2604807",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/angel-psychopomp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "325a47be43c50a773ee2257d3d657f6f4f7e4914"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-psychopomp",
+      "name": "Angel, Psychopomp",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/angel-psychopomp/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 70826,
+      "sha256": "04325ca5648487866a2043f3818dd10776f8811f372f58f203f6d5a6ca8b6b5a",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/angel-psychopomp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "9717331cad9f9470d9c92d6a0b711ffe0abf4ca9"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-shrouded",
+      "name": "Angel, Shrouded",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angel-shrouded/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 90422,
+      "sha256": "3a9806826d4cef2ab54637e818a371fb38cac0dd5d6beb63977198c09be90010",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/angel-shrouded/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "b7005dbbeaea50d63e7518df2a2176e2db059887"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-shrouded",
+      "name": "Angel, Shrouded",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angel-shrouded/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 65592,
+      "sha256": "b32e5147d8a9cdffb50301a32bc4b695d2f6127a8c10063a3919596288cdf788",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/angel-shrouded/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "4674997292fa73f872b5ae443587a786f62ad3ce"
     }
   ]
 }
