@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 530,
+  "imageCount": 550,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 530,
+  "creatureImageCount": 550,
   "locationImageCount": 0,
-  "imageBytes": 46790378,
+  "imageBytes": 48577128,
   "images": [
     {
       "category": "creature",
@@ -15763,6 +15763,618 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "4674997292fa73f872b5ae443587a786f62ad3ce"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-shrouded",
+      "name": "Angel, Shrouded",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angel-shrouded/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 64108,
+      "sha256": "0abbd46a32a51c7cb7cd2b4d30a84f60a3f75e6b4b5f612d001f8485cf5a910d",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/angel-shrouded/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "8e03f8df9f4d487a4f480b4abc998f882961362b"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-shrouded",
+      "name": "Angel, Shrouded",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/angel-shrouded/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 64200,
+      "sha256": "41aabb87041330c2107dbbb7e912f3248eb7be017acb1c23732b4aa70933cd2f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/angel-shrouded/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "cb418210be3f51f62a92c1129dbee0ae10dbe9a1"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-zirnitran",
+      "name": "Angel, Zirnitran",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angel-zirnitran/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 102416,
+      "sha256": "cb9c23a3f9da1893afa0c444cbf29eb579050a78e647742148ae30e9a6217e59",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/angel-zirnitran/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "e2e291cdc378546204d5c70dfb3e6ecf21df2f15"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-zirnitran",
+      "name": "Angel, Zirnitran",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angel-zirnitran/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 98676,
+      "sha256": "55fe32e47923e3c2fa02f30b23c7a114200aa870d73e6dbce081e824b0c8aad6",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/angel-zirnitran/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "08fa9c71d8cb5c1a1289410ad903ea02f4724933"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-zirnitran",
+      "name": "Angel, Zirnitran",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angel-zirnitran/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 102068,
+      "sha256": "1e181764a1b5a103befc2cce2fb02452dd9b054527461024c15b11ce822ced56",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/angel-zirnitran/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "3e41c8f7ab21587a6159e079acd9cf41ce347499"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-zirnitran",
+      "name": "Angel, Zirnitran",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/angel-zirnitran/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 94882,
+      "sha256": "2e1521ac07709ae64f9bc2506296222e558b7b3b61ab532d030d7a4beb7566fe",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/angel-zirnitran/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "8c4d6f6b70fed6e52e6b39441f4a6c407055586d"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angelic-enforcer",
+      "name": "Angelic Enforcer",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angelic-enforcer/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 93736,
+      "sha256": "ecbbc161fd6820105ecf9cf77bafc0db7690656588e0c84d2fcd3a2004583cd2",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://github.com/open5e/open5e-api/blob/staging/data/v1/tob2/Monster.json"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/angelic-enforcer/"
+          },
+          {
+            "url": "https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition-hardcover/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "a272397685678fb896215335403d18659c372e08"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angelic-enforcer",
+      "name": "Angelic Enforcer",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angelic-enforcer/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 103496,
+      "sha256": "1fb99988df54c8d29157afb86cb732534a004c14216a84d108d9968b35735572",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://github.com/open5e/open5e-api/blob/staging/data/v1/tob2/Monster.json"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/angelic-enforcer/"
+          },
+          {
+            "url": "https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition-hardcover/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "57d709295928279ba9ab2d71521801a5b74d3232"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angelic-enforcer",
+      "name": "Angelic Enforcer",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angelic-enforcer/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 96804,
+      "sha256": "1fefe69599067a8a756b86c8f61a2db24117b885288332572db527ac57c8a9d6",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://github.com/open5e/open5e-api/blob/staging/data/v1/tob2/Monster.json"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/angelic-enforcer/"
+          },
+          {
+            "url": "https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition-hardcover/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "c72fae85dde3cc855a00e0bba8f41f81cf9366f6"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angelic-enforcer",
+      "name": "Angelic Enforcer",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/angelic-enforcer/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 87384,
+      "sha256": "7692aebc417b5458317e088bd40d25eb5e7c1e2338a0b5f1e012f14fd39c22fe",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://github.com/open5e/open5e-api/blob/staging/data/v1/tob2/Monster.json"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/angelic-enforcer/"
+          },
+          {
+            "url": "https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition-hardcover/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "10d1e96c7e30396215a8d9c87bfb09348a396588"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angler-worm",
+      "name": "Angler Worm",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angler-worm/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 72234,
+      "sha256": "3dfa876e4dbf09b79334dbcef81efbfd35c1186cdcc66962b374d1333851fa36",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/angler-worm-3pp"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "2050da0391db2b555dcf3ce17f96d2845a0bc382"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angler-worm",
+      "name": "Angler Worm",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angler-worm/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 85770,
+      "sha256": "2678079d932e2ac09b0476de632a331c17ba5060a96d6a96686e3a1bf3b3a27b",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/angler-worm-3pp"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "4808a522b7d524fd47c2b2a01ef4fae86e03645b"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angler-worm",
+      "name": "Angler Worm",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angler-worm/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 80994,
+      "sha256": "7532f1ad067c7640d632a30550035cf6562338033c2aeb445df05e83f8ce6bbf",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/angler-worm-3pp"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "0fb10271d50095044e63204d04f1e979bc46089e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angler-worm",
+      "name": "Angler Worm",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/angler-worm/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 65008,
+      "sha256": "ebb41f56068f306398d4806e776ff302a37b7ec46ba5aa4ae40abb9446e0a123",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/angler-worm-3pp"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "79dfab20f3bfdbbc1acd04f59fe9cfa1091b64aa"
+    },
+    {
+      "category": "creature",
+      "subjectId": "animal-lord-mammoth-queen",
+      "name": "Animal Lord, Mammoth Queen",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/animal-lord-mammoth-queen/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 105582,
+      "sha256": "7862f0158cd1fc0049bb912f7fcf8cab3fb692b0eb6925b2c5e511bf31659362",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2022/11/Queen-of-Mammoths.png"
+          },
+          {
+            "url": "https://anyflip.com/plzy/jxhb/basic"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "6029200bfbd65eb5fe1a172b0d581e32b09e1122"
+    },
+    {
+      "category": "creature",
+      "subjectId": "animal-lord-mammoth-queen",
+      "name": "Animal Lord, Mammoth Queen",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/animal-lord-mammoth-queen/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 96162,
+      "sha256": "c589106252ce215e86d1639cf42384e5ae7711255e29b5facab3d91710884cdb",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2022/11/Queen-of-Mammoths.png"
+          },
+          {
+            "url": "https://anyflip.com/plzy/jxhb/basic"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "e77e23dacde2570603e79419511a2c392fdc4d53"
+    },
+    {
+      "category": "creature",
+      "subjectId": "animal-lord-mammoth-queen",
+      "name": "Animal Lord, Mammoth Queen",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/animal-lord-mammoth-queen/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 100630,
+      "sha256": "d91088e1748ae114899aad5fcb9d06ef66d9e6783c33a71ac00e3fa068f0db8e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2022/11/Queen-of-Mammoths.png"
+          },
+          {
+            "url": "https://anyflip.com/plzy/jxhb/basic"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "552e16c03e6722201f05d87847161487fd4dff33"
+    },
+    {
+      "category": "creature",
+      "subjectId": "animal-lord-mammoth-queen",
+      "name": "Animal Lord, Mammoth Queen",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/animal-lord-mammoth-queen/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 100450,
+      "sha256": "6acd39a2d2f86ad10989b48ea046c68d19f16068b7e851a23ce4fdc11ccbda27",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2022/11/Queen-of-Mammoths.png"
+          },
+          {
+            "url": "https://anyflip.com/plzy/jxhb/basic"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "75ba823aae0792113fe1e4ac24f6c5acc4baf563"
+    },
+    {
+      "category": "creature",
+      "subjectId": "animated-armor",
+      "name": "Animated Armor",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/animated-armor/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 91214,
+      "sha256": "91b9d4fdda9358dd3c6ef7363db6e47f8762f8b38161cf669ba2c7cb8d3f27c1",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16786-animated-armor"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "4ac7711c59fa61672c141faa744e59702ca716df"
+    },
+    {
+      "category": "creature",
+      "subjectId": "animated-armor",
+      "name": "Animated Armor",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/animated-armor/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 80936,
+      "sha256": "3a38b53479ff54c15e4d2df539fde6ec6e382f306a103792d55256a1721819ce",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16786-animated-armor"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "bf3efc04f8bb88f1550b3048d7c0c7c8e32562d8"
     }
   ]
 }
