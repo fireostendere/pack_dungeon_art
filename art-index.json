@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 390,
+  "imageCount": 410,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 390,
+  "creatureImageCount": 410,
   "locationImageCount": 0,
-  "imageBytes": 33969466,
+  "imageBytes": 35978800,
   "images": [
     {
       "category": "creature",
@@ -11695,6 +11695,570 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "62d2cb536c8dbed9d3e13fdd157b45ee1fd74980"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-blue-dragon",
+      "name": "Ancient Blue Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-blue-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 95514,
+      "sha256": "c0c4a08b9d549577c42b91bdbe83a3dc59c4ca2028bdebf33cb648557a1de7c1",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16776-ancient-blue-dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "695d7e8e020fabe9ed12ea22dd04f4bbd7b8e4a2"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-blue-dragon",
+      "name": "Ancient Blue Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ancient-blue-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 113568,
+      "sha256": "a21d4b2b098924486454ebf50b3dd2790707745400d8c19c6848587b9f526480",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16776-ancient-blue-dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "7dd61003a1f1a3b54ef2786fdbfb305649e57da9"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-boreal-dragon",
+      "name": "Ancient Boreal Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-boreal-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 101282,
+      "sha256": "2ae55d1f8d4ce5397be39ad295792c52a61969010fbbf9c4489dc987db1a52d1",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/boreal-dragon-ancient/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/boreal-dragon-adult/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "3b32be17dce0e18ac9bb8c65b8ce625791fecf1f"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-boreal-dragon",
+      "name": "Ancient Boreal Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-boreal-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 111240,
+      "sha256": "86e1fddd2cd7fb33c02731bd5fc93c013d9be3f2d8d8e7530d87425f706f0866",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/boreal-dragon-ancient/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/boreal-dragon-adult/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "2dff18516f3dafedd39a1c9b7a8d0f3aa83ab0e1"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-boreal-dragon",
+      "name": "Ancient Boreal Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-boreal-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 97542,
+      "sha256": "50ac0de589d69d07f611960c3a517e447f3f03c296d2ffcb399dbfe1f710dfe8",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/boreal-dragon-ancient/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/boreal-dragon-adult/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "9d3e9b2e69fab80d9f70603414d9436fef59b18c"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-boreal-dragon",
+      "name": "Ancient Boreal Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ancient-boreal-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 107028,
+      "sha256": "62d62468da892d434c082d7390f4b00398b415835c0a58b5e9a7b8900dc17758",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/boreal-dragon-ancient/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/boreal-dragon-adult/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "e46daab0e7b0a9d25dfa91294dc6f76ea290ce40"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-brass-dragon",
+      "name": "Ancient Brass Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-brass-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 91606,
+      "sha256": "6001f34c557f5144e4956b23dee69b4e4c3a4c569d785203ab1130cd3f749467",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://shop.wizkids.com/products/pre-order-d-d-icons-of-the-realms-adult-brass-dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "9ea815977912691e65b668a2a292252aca4280cc"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-brass-dragon",
+      "name": "Ancient Brass Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-brass-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 96916,
+      "sha256": "ee963afc5e7603f1d016bb1f68116dcf19edcc73765042c4cd198553b2e5c0da",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://shop.wizkids.com/products/pre-order-d-d-icons-of-the-realms-adult-brass-dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "7bf7aa46fb4cd270d8f8bd013db65dd961c037a2"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-brass-dragon",
+      "name": "Ancient Brass Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-brass-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 100604,
+      "sha256": "6b3b852d59565c0c985cd3240e04ee30e9250c19717c3d4bd32dfc63e22efa7c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://shop.wizkids.com/products/pre-order-d-d-icons-of-the-realms-adult-brass-dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "dc243ae35e30c64b418858b3570b489e1147a96e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-brass-dragon",
+      "name": "Ancient Brass Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ancient-brass-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 92314,
+      "sha256": "bf464a7b90cf08c31aed91d825b63382b27327c946204985a5f9080aff5ff2a0",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://shop.wizkids.com/products/pre-order-d-d-icons-of-the-realms-adult-brass-dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ad78130108ef3390f21e441fdacd63f3c54f258f"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-bronze-dragon",
+      "name": "Ancient Bronze Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-bronze-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 94894,
+      "sha256": "d9011b7bd5bb152e28ae18006ef9c13f998023662b5e32268dcaed605d074b94",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://shop.wizkids.com/products/pre-order-d-d-icons-of-the-realms-adult-bronze-dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "b2248133c5b07abe01bc890fcae0f22d62868595"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-bronze-dragon",
+      "name": "Ancient Bronze Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-bronze-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 103662,
+      "sha256": "05ab7b40a20568a8e3202e078a6a9a07a8a0980af31028b7e3e0a16237d0f0d5",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://shop.wizkids.com/products/pre-order-d-d-icons-of-the-realms-adult-bronze-dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "eb35758b6b99113195a20871553e30efa3148201"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-bronze-dragon",
+      "name": "Ancient Bronze Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-bronze-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 95684,
+      "sha256": "a9db0d37630f5800cd377a935060cb786ec4fea355f4838ffddd930d31e4224b",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://shop.wizkids.com/products/pre-order-d-d-icons-of-the-realms-adult-bronze-dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "c7347ae37fb60e054b5a340082e45a07cf6838e0"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-bronze-dragon",
+      "name": "Ancient Bronze Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ancient-bronze-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 90172,
+      "sha256": "27276551d6f6f15e93ad9db95e1cc3e4a4e4a0b627e5d34049feb81bf2e90d41",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://shop.wizkids.com/products/pre-order-d-d-icons-of-the-realms-adult-bronze-dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "2fee186f1f486eb22f3ca2f7a0877f7c661e4a3a"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-copper-dragon",
+      "name": "Ancient Copper Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-copper-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 92132,
+      "sha256": "bd26523f5b41748bab3332e23947d7c131b18fa849520798aa4e794f00188aba",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16779-ancient-copper-dragon"
+          },
+          {
+            "url": "https://srd.dndtools.org/srd/monsters/monsters/core/monstersDrtoDw.html"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "94dedd7963346376fa81bebbcb29a1cf30cc6457"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-copper-dragon",
+      "name": "Ancient Copper Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-copper-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 104752,
+      "sha256": "0918347d480aa2a8300b62f696b672d525767e2e801642750ee0312d85b326c5",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16779-ancient-copper-dragon"
+          },
+          {
+            "url": "https://srd.dndtools.org/srd/monsters/monsters/core/monstersDrtoDw.html"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "4b3b891f33ab4caccac8c9e5b1b6d5fe0e50dd42"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-copper-dragon",
+      "name": "Ancient Copper Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-copper-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 113488,
+      "sha256": "b086e9ccec0871ea43d556f1369f3f6a3cbb4bf51116bc06d0a34dfbbf2d999c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16779-ancient-copper-dragon"
+          },
+          {
+            "url": "https://srd.dndtools.org/srd/monsters/monsters/core/monstersDrtoDw.html"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "dbbc366e2a20022e726e2bd5107f032e641b91ea"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-copper-dragon",
+      "name": "Ancient Copper Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ancient-copper-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 97256,
+      "sha256": "14e4d352e7fbb2f5404bc67293e6f52182b76e9e46c75bdcacc007050e1ed463",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16779-ancient-copper-dragon"
+          },
+          {
+            "url": "https://srd.dndtools.org/srd/monsters/monsters/core/monstersDrtoDw.html"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "a021fa0e27db58f5709b04654f4ec4b96cfcef7a"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-earth-dragon-a5e",
+      "name": "Ancient Earth Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-earth-dragon-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 108698,
+      "sha256": "fa8c5a5a4724cade0b9eba61fd9348aa0745ab9899267e4f57c8b559e80e423d",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1550"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "20ad3e195ea8f69f3c5817ae81d12fb543cc0ab9"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-earth-dragon-a5e",
+      "name": "Ancient Earth Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-earth-dragon-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 100982,
+      "sha256": "1e582732331766e55a3a0010fdffa1faad8cbf88bdbfa09e1be385e082053efe",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1550"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "254a6b6d4cbe42cc529d965139203afaafda54a2"
     }
   ]
 }
