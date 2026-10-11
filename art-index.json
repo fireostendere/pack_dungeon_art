@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 130,
+  "imageCount": 150,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 130,
+  "creatureImageCount": 150,
   "locationImageCount": 0,
-  "imageBytes": 11156754,
+  "imageBytes": 12979330,
   "images": [
     {
       "category": "creature",
@@ -3845,6 +3845,608 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "9d5dae685599523a0dd5eb41b463897b9a893508"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-red-dragon",
+      "name": "Adult Red Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-red-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 76978,
+      "sha256": "f32a6721c0396138460ea57c1d8270ced98f932a100694cf95f11a6183c1ab47",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "563dfa14c847bfa49261c8733c0b063ae078f6c8"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-red-dragon",
+      "name": "Adult Red Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/adult-red-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 102352,
+      "sha256": "3b12d2a3ad691af67c5725e94c6f4c9046cabee3062e5dc6e77985d9edce6e7f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "2252c817668a004a415ef5d3c4e7fc023a6e83fd"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-rime-worm",
+      "name": "Adult Rime Worm",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-rime-worm/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 106196,
+      "sha256": "6867028d6c1bc0d2921d0fc406d46eb2212051e291597dcbf2376bc2a45d5159",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2016/08/Tome-of-Beasts-Rime-Worms.pdf"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "23d01d280e61d7a3f9038cbf70a0c95c24d18f87"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-rime-worm",
+      "name": "Adult Rime Worm",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-rime-worm/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 90412,
+      "sha256": "a5ca0ea24bb892144ee7aa12a35de491f945455ca30f7c8b3af11b2763cd60cf",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2016/08/Tome-of-Beasts-Rime-Worms.pdf"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "d38106ac1c805a16df70daefde55e6aceeb7a338"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-rime-worm",
+      "name": "Adult Rime Worm",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-rime-worm/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 101640,
+      "sha256": "b98054b8a51fe267c9f4a37ee8808519f2ba31a0be5c14a49d8c6b6d47a29fd0",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2016/08/Tome-of-Beasts-Rime-Worms.pdf"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "5d8b365b3b6e120da493aba4c7c56a96a23ed10c"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-rime-worm",
+      "name": "Adult Rime Worm",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/adult-rime-worm/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 94808,
+      "sha256": "3d28102041d281f4f87f520ae4bd25aa499fe2e02cbc23a2dda56743073200e7",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2016/08/Tome-of-Beasts-Rime-Worms.pdf"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "6ee8bb98908453385099e9b1ceca08b221a3f987"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-river-dragon-a5e",
+      "name": "Adult River Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-river-dragon-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 106476,
+      "sha256": "46ce0dffbee7a88e4fc3fe917fa9c372000cdd7a3235bb55ca76565e96c25ccb",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1555"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/Dragon%2C%20river%20-%20Gui%20Sommer.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "22e71f8bae988212fbce22bc2e57453562da9988"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-river-dragon-a5e",
+      "name": "Adult River Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-river-dragon-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 87638,
+      "sha256": "aaef317867c484df6ab584c48e700cf8d8922782bdf623c66ba8aa3a7358dc1f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1555"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/Dragon%2C%20river%20-%20Gui%20Sommer.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "d71ac3e5b948126de295e96ec70291ffb0b5e242"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-river-dragon-a5e",
+      "name": "Adult River Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-river-dragon-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 101106,
+      "sha256": "a963c73067336e26340618e3c8ae416477371c6c734415ae8c2664038c374644",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1555"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/Dragon%2C%20river%20-%20Gui%20Sommer.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "0375079459f60a1110bd368e36fe039bcdd2e966"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-river-dragon-a5e",
+      "name": "Adult River Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/adult-river-dragon-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 98116,
+      "sha256": "61f154d163d5b229e6579ff2c6021525e9e10325fda7f29dbfc5b409fca09e30",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1555"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/Dragon%2C%20river%20-%20Gui%20Sommer.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "74e0d15f9d9220db868ef84bd1a97ccf66c895f6"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-sapphire-dragon-a5e",
+      "name": "Adult Sapphire Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-sapphire-dragon-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 84212,
+      "sha256": "eecc7f60ae05f032a376223096c1ace9ca4ad62b4df66a1d03451be35fa66056",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1571"
+          },
+          {
+            "url": "https://a5e.tools/rules/gem-dragons"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/dragon%2C%20saphire%20-%20Gui%20Sommer.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "3498ae8584d04c3ded836ff62cb748020bee0179"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-sapphire-dragon-a5e",
+      "name": "Adult Sapphire Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-sapphire-dragon-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 99276,
+      "sha256": "9ea1f92113efc2ae0cc66532314040ccc7e79a1fa949008c9b9d01b310a530e1",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1571"
+          },
+          {
+            "url": "https://a5e.tools/rules/gem-dragons"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/dragon%2C%20saphire%20-%20Gui%20Sommer.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "c2db38cf86a0bbc29df3318ae6c428a158f0a2c8"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-sapphire-dragon-a5e",
+      "name": "Adult Sapphire Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-sapphire-dragon-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 83258,
+      "sha256": "44984175a2ab9f74e5dbe10d4e86002b1f3d060a0022652fa8b0377de649f66c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1571"
+          },
+          {
+            "url": "https://a5e.tools/rules/gem-dragons"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/dragon%2C%20saphire%20-%20Gui%20Sommer.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "e6c2ebf56c6ea9ed87b0f5b80ffefcc9230d8885"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-sapphire-dragon-a5e",
+      "name": "Adult Sapphire Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/adult-sapphire-dragon-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 94298,
+      "sha256": "b255df50e93db05bea4949da2e935d9376470cf13e989490bdf77cfaa6ee0243",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1571"
+          },
+          {
+            "url": "https://a5e.tools/rules/gem-dragons"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/dragon%2C%20saphire%20-%20Gui%20Sommer.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "d5ec76fe4d8fa00d0f9f6f1ffe1c958c886bb496"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-sea-dragon",
+      "name": "Adult Sea Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-sea-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 88776,
+      "sha256": "4804d85ef8e092f7c6afb914e367f5c78e3532890950248a8b9f8ca9baebdad5",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-pawns/"
+          },
+          {
+            "url": "https://www.fantasygrounds.com/library/dnd5e/npcs/dragon-sea-adult/"
+          },
+          {
+            "url": "https://mz4250.com/posts/sea-dragon-is-83064103"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "2c5681f19c6fa0022f746e082789070dc0d9924a"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-sea-dragon",
+      "name": "Adult Sea Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-sea-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 81536,
+      "sha256": "f97e963755dfb596c184d36cddaaba71006540f603ebb0a051eafd7f696a6960",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-pawns/"
+          },
+          {
+            "url": "https://www.fantasygrounds.com/library/dnd5e/npcs/dragon-sea-adult/"
+          },
+          {
+            "url": "https://mz4250.com/posts/sea-dragon-is-83064103"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "45e4534ea8e8da6306acd00171b539792124b13a"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-sea-dragon",
+      "name": "Adult Sea Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-sea-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 93858,
+      "sha256": "422e773458bf48d591d5c9e356a38203b9595e05b8b1f8c0fa2f07c6d600a90a",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-pawns/"
+          },
+          {
+            "url": "https://www.fantasygrounds.com/library/dnd5e/npcs/dragon-sea-adult/"
+          },
+          {
+            "url": "https://mz4250.com/posts/sea-dragon-is-83064103"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "dec6f151f98bc5c26482681215195dec491a7bd7"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-sea-dragon",
+      "name": "Adult Sea Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/adult-sea-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 87302,
+      "sha256": "06018ecca133029e0e3d5ea7209796f1eb74c00b99fbc7895786f2a8fcca5729",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-pawns/"
+          },
+          {
+            "url": "https://www.fantasygrounds.com/library/dnd5e/npcs/dragon-sea-adult/"
+          },
+          {
+            "url": "https://mz4250.com/posts/sea-dragon-is-83064103"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "eb5c41bd16dd00682aa0cae5aa76a41393c698ee"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-shadow-dragon-a5e",
+      "name": "Adult Shadow Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-shadow-dragon-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 73308,
+      "sha256": "88a41dca403ee568e56a45b58e9e0cf80b40be365d10e01f61737da605851156",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1559"
+          },
+          {
+            "url": "https://a5e.tools/rules/shadow-dragon"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/Dragon%2C%20shadow%20-%20Gui%20Sommer.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "128cfcc139a45162120d6bb6bfd8dd96eb0ed997"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-shadow-dragon-a5e",
+      "name": "Adult Shadow Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-shadow-dragon-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 71030,
+      "sha256": "28dc3ecf8d6c10c44a9de3ce664d9ddbf6a22b627098f94db738829acd12feb2",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1559"
+          },
+          {
+            "url": "https://a5e.tools/rules/shadow-dragon"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/Dragon%2C%20shadow%20-%20Gui%20Sommer.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "76fa45d4e571b218bc5b2748d73c982d2ce85d58"
     }
   ]
 }
