@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 490,
+  "imageCount": 510,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 490,
+  "creatureImageCount": 510,
   "locationImageCount": 0,
-  "imageBytes": 43238988,
+  "imageBytes": 45087418,
   "images": [
     {
       "category": "creature",
@@ -14587,6 +14587,582 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "e67072a8ac43ada114736534ea16593ef8220517"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancientcavedragon-tob1-2023",
+      "name": "Ancient Cave Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancientcavedragon-tob1-2023/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 96502,
+      "sha256": "d602a5e32f16257fedef95ebd0bd884e9588c68dc2128452efc62927fd7def0c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/cave-dragon-ancient/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "4d4fa689eda5f86bde5bb186a76465bbe6817272"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancientcavedragon-tob1-2023",
+      "name": "Ancient Cave Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ancientcavedragon-tob1-2023/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 101988,
+      "sha256": "08ceddb565b89b055f8f7c6a02e7184efc67c0431b5d3f8f0096feb841924d4a",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/cave-dragon-ancient/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "70f70985842ce0848a78dcfbfa228c8bd3489669"
+    },
+    {
+      "category": "creature",
+      "subjectId": "andrenjinyi",
+      "name": "Andrenjinyi",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/andrenjinyi/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 95858,
+      "sha256": "8082bbe2f2f88b664f6cfea448dc3b72d8b7ec9705fa3af95407d2d8bde33e98",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/andrenjinyi-3pp/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "db89f13f3dfd964b644b57a74cd4cbf6b72ab931"
+    },
+    {
+      "category": "creature",
+      "subjectId": "andrenjinyi",
+      "name": "Andrenjinyi",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/andrenjinyi/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 104842,
+      "sha256": "edaf32b3042f686b53b8225596429b89b4d7633d7ff0d2e46693e256cd6d74ff",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/andrenjinyi-3pp/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "a07bde836fde4d6774c414815e83c75c710a9216"
+    },
+    {
+      "category": "creature",
+      "subjectId": "andrenjinyi",
+      "name": "Andrenjinyi",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/andrenjinyi/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 98854,
+      "sha256": "757a9b3243d5408d133b5822e53cee43312f591209f20ac764fd525444a0569b",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/andrenjinyi-3pp/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "36fa964d780befe02d6d0239061333ef8b923ed6"
+    },
+    {
+      "category": "creature",
+      "subjectId": "andrenjinyi",
+      "name": "Andrenjinyi",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/andrenjinyi/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 109092,
+      "sha256": "e25a1f47672fe93ab696910234c6271829d363e2e6c56c4617e39d25f8de738e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/andrenjinyi-3pp/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "13eaa7f3bd8b6bf141018f9f2cce5d880eedf8f8"
+    },
+    {
+      "category": "creature",
+      "subjectId": "androsphinx",
+      "name": "Androsphinx",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/androsphinx/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 103388,
+      "sha256": "0355c11a7c21ea70f0145b334f0e268678eecad807826f3a928333c35bdc9f6d",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16785-androsphinx"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/sphinx-androsphinx/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "320bb76eb9119315b1483b4ed0cc98101308964c"
+    },
+    {
+      "category": "creature",
+      "subjectId": "androsphinx",
+      "name": "Androsphinx",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/androsphinx/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 96786,
+      "sha256": "26ab376a05d8e57d6e51370e748dc16a57c8b1ae743d9c15059d5ea628c6f022",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16785-androsphinx"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/sphinx-androsphinx/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "59ab26f1c8876c07f5192e6feb1b02cd8cfa9ce7"
+    },
+    {
+      "category": "creature",
+      "subjectId": "androsphinx",
+      "name": "Androsphinx",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/androsphinx/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 82588,
+      "sha256": "850062f25638334a08e7fde8bb7232af99eb4e9f2a5c9ccdaff6ab879873f1ce",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16785-androsphinx"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/sphinx-androsphinx/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "b06d6446cd2d18228f50083de6d13d130bfd311f"
+    },
+    {
+      "category": "creature",
+      "subjectId": "androsphinx",
+      "name": "Androsphinx",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/androsphinx/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 85162,
+      "sha256": "2b926a7d0ade21401540b707f3f7a6a121f35c531314e3c57dcc8feb38c002d9",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16785-androsphinx"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/sphinx-androsphinx/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "c7da0cac529f1e8a7708f2c867a9beff4ec1f2d5"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angatra",
+      "name": "Angatra",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angatra/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 90382,
+      "sha256": "1981ab5c2c416430e6c018f0d7599a2e0bc7732cf5b3d51984ad215c747e2f0b",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/angatra-3pp-2/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "1a75c69301f8f0cae285160e1417ccb49319f49e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angatra",
+      "name": "Angatra",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angatra/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 68580,
+      "sha256": "eac42c1520dee2c822ce8bceab1f1fa859a4dc68324d1673e54f74834dfbeee6",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/angatra-3pp-2/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "b82c8b4c3caf14f4863e412e41d581d094f1a539"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angatra",
+      "name": "Angatra",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angatra/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 79984,
+      "sha256": "9c31d51d178415e6d80b4569d890f7e2ca5d426a14479611e32afeee9ffc5185",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/angatra-3pp-2/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "63412d7f3e918d64197b269d65ac82ec2d68eb02"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angatra",
+      "name": "Angatra",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/angatra/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 88804,
+      "sha256": "75e89efeeed6a6df5d02940425c88826241c1733a8b8a05d936823aafae05daf",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/angatra-3pp-2/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "1c5ab68670c810287833d2fea0602cf4b6d330d1"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-chained",
+      "name": "Angel, Chained",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angel-chained/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 97476,
+      "sha256": "578af7e1a1c2d3aa5b304ecf66bc4fa487549f9d0f4d7d8bcd4fb18dee889129",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/angel-chained-3pp-2/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "8a3d9ced1b4d23153f6c83d08f6cef4b7a7022de"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-chained",
+      "name": "Angel, Chained",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angel-chained/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 99338,
+      "sha256": "3614a42d70babe6e9a1a47a20f4da833ed58bf018520b95bf4bd9942752a8553",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/angel-chained-3pp-2/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "67ea0d158df40df026fe177cfa28347e761e6655"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-chained",
+      "name": "Angel, Chained",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angel-chained/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 94526,
+      "sha256": "7ec7fc57f9798386e0ff19831886d309933a96e6db439ef00216b14aeb8e3f24",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/angel-chained-3pp-2/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "a0565bf08a6debb9c077c0e3bfc1676aa52b304e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-chained",
+      "name": "Angel, Chained",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/angel-chained/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 103332,
+      "sha256": "25cdaf9419c8dfd5019e381cddaf856ccabf5882ab47d6c1b1f959634a08bb4e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/angel-chained-3pp-2/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "cece54944775513094c01ecce5995d970fca9ff8"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-haladron",
+      "name": "Angel, Haladron",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angel-haladron/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 76252,
+      "sha256": "d1cfd42a04f00c3b920651c55d5193ba5439cd1242f7d1954d2fcc4da603b799",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/haladron/"
+          },
+          {
+            "url": "https://anyflip.com/plzy/jxhb/basic/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "cd3de21796439d36fc88f313fdf908b9a5f32c24"
+    },
+    {
+      "category": "creature",
+      "subjectId": "angel-haladron",
+      "name": "Angel, Haladron",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/angel-haladron/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 74696,
+      "sha256": "b7c984e3e199cf417161eb725aa037af08fbdaaf04d7d134ec9597d81cac9d8d",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/haladron/"
+          },
+          {
+            "url": "https://anyflip.com/plzy/jxhb/basic/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "2e08e5cdac32d040421724d4266c9be4ef06712e"
     }
   ]
 }
