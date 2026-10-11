@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 330,
+  "imageCount": 350,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 330,
+  "creatureImageCount": 350,
   "locationImageCount": 0,
-  "imageBytes": 28245500,
+  "imageBytes": 30246412,
   "images": [
     {
       "category": "creature",
@@ -9889,6 +9889,618 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "77855d3f55f644112e632c030b32476622bd1891"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alpha-yek",
+      "name": "Alpha Yek",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alpha-yek/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 73344,
+      "sha256": "8df5bee9f5cc2e6725bb4189651c822b4c1b881b72ce05a8d067b53052fbb4d8",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://kpogl.wikidot.com/monster%3Ayek"
+          },
+          {
+            "url": "https://kpogl.wikidot.com/publication%3Acreature-codex"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "5a476d3c040473a133b0fc9aa1986bc8f6717d60"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alpha-yek",
+      "name": "Alpha Yek",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/alpha-yek/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 67372,
+      "sha256": "982b704dcb40e8a7f6a282441ea743b0bcd9353447e28f3ca706f3b40c2b7f69",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://kpogl.wikidot.com/monster%3Ayek"
+          },
+          {
+            "url": "https://kpogl.wikidot.com/publication%3Acreature-codex"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "3ad81c306769995c9e67bed49c973881f69992d4"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alpine-creeper",
+      "name": "Alpine Creeper",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alpine-creeper/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 125562,
+      "sha256": "d46848baa1f0cbf73633f4947abfc9bc507dbeeecbac866391411d74a7cf8a8f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alpine-creeper/"
+          },
+          {
+            "url": "https://koboldpress.com/monster-weaknesses-for-tome-of-beasts-3-part-5/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ba557ed3b381cc938558a1d3fa675c5471bac542"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alpine-creeper",
+      "name": "Alpine Creeper",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alpine-creeper/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 134872,
+      "sha256": "40e514b4ecd70df161dbf56fb1f42ff43e43c759fe82294f2082638b5eba6121",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alpine-creeper/"
+          },
+          {
+            "url": "https://koboldpress.com/monster-weaknesses-for-tome-of-beasts-3-part-5/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "95e20960beb3f68676ee2bac9124639c6d4ff9d6"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alpine-creeper",
+      "name": "Alpine Creeper",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alpine-creeper/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 125118,
+      "sha256": "db1d21955ff4580a3439d1b122c208cb224253dbee0c80c293c45e251c1adace",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alpine-creeper/"
+          },
+          {
+            "url": "https://koboldpress.com/monster-weaknesses-for-tome-of-beasts-3-part-5/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "8fe23b733467c6def4a94a16e10508708b85e1ff"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alpine-creeper",
+      "name": "Alpine Creeper",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/alpine-creeper/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 131052,
+      "sha256": "5cc7618022d44d2c4565d0b1ffd7b81c9ad09bc4419fd144820cc63e59acc777",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alpine-creeper/"
+          },
+          {
+            "url": "https://koboldpress.com/monster-weaknesses-for-tome-of-beasts-3-part-5/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ce938a3ce6d8ca7d89bb737c5c7ad973b5d5bb5d"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alseid",
+      "name": "Alseid",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alseid/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 88434,
+      "sha256": "7d5b51821381d51eb01e656c17c1853f922557ba33ded0767d402436f2fa5490",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alseid-3pp-2/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/race/alseid/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "4a1be477abc8733730d6b0ed399a9bf60c29edc3"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alseid",
+      "name": "Alseid",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alseid/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 91246,
+      "sha256": "ed2976777d649cd86dfff398fe7630ec65e88ba75b766c527c7a1663cbfc2737",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alseid-3pp-2/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/race/alseid/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "c50e5ee7801e6be41d820866ed69a32d73cd2233"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alseid",
+      "name": "Alseid",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alseid/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 73072,
+      "sha256": "580f589c37fc357d4108dedbc337fc99aa83c8ddef21d3d1b0c0cbebadc29b07",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alseid-3pp-2/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/race/alseid/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "3d95abd563ca903deca714bb3e683bfe9839794b"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alseid",
+      "name": "Alseid",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/alseid/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 108390,
+      "sha256": "496935c6e6799ed5a7b351f989d739e6972aa5e88417f470f50c34caf4897ba7",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alseid-3pp-2/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/race/alseid/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "61156a4171af3a036b167bca2bd8b81c1e6b691a"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alseid-grovekeeper",
+      "name": "Alseid Grovekeeper",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alseid-grovekeeper/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 98028,
+      "sha256": "40016927b9d1fc22768dbc2837ed6b00ff6dff479b0ca483d32d9893093b6d1f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alseid-3pp-2/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/race/alseid/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "08216fcb165ccf51639291351767e9bb11fc4713"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alseid-grovekeeper",
+      "name": "Alseid Grovekeeper",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alseid-grovekeeper/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 104024,
+      "sha256": "b01065d28d6ce73d4de41ab09d814577124621478fd5b6bdd2c61b3d35425a07",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alseid-3pp-2/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/race/alseid/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "8a5c263bafd5e20511eb5138a8814c87d3738411"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alseid-grovekeeper",
+      "name": "Alseid Grovekeeper",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alseid-grovekeeper/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 96478,
+      "sha256": "0e53c85d50cbda2678e97ed272e99b9a98e9065cc46e3b17cbdf4f5176ba0d2c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alseid-3pp-2/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/race/alseid/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "0d9f42546ec4974b906904edb8c0f2eeb82aca7d"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alseid-grovekeeper",
+      "name": "Alseid Grovekeeper",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/alseid-grovekeeper/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 116020,
+      "sha256": "6d0e0abcc06544e18210e09a82a835c85206a123235981038584c68ca221b936",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alseid-3pp-2/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/race/alseid/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "408df0353731d310874e33810415b579b4e0316c"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alseid-woad-warrior",
+      "name": "Alseid, Woad Warrior",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alseid-woad-warrior/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 94046,
+      "sha256": "22ed790abf7faffc631c23357fd7860c90bcd6e3799f1db052664d65a20413b1",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alseid-woad-warrior/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/alpine-creeper/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/race/alseid/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "94be1a4539577926c99c3e5627a7850c459d8471"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alseid-woad-warrior",
+      "name": "Alseid, Woad Warrior",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alseid-woad-warrior/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 93728,
+      "sha256": "7b033c7a8488b7bf449ef15f6dbc2880337bb2a57e40dae3be4c73094201fc34",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alseid-woad-warrior/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/alpine-creeper/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/race/alseid/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "a64b7e064f77851852636027126bf172c3f923d6"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alseid-woad-warrior",
+      "name": "Alseid, Woad Warrior",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alseid-woad-warrior/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 89284,
+      "sha256": "b81aeef75e7010b35439a29add760303876ab7f0d54ac9a2f6fc8cdb8ab9a29c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alseid-woad-warrior/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/alpine-creeper/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/race/alseid/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "f7562dc8654e90668bc8faa78bded8ef465c9167"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alseid-woad-warrior",
+      "name": "Alseid, Woad Warrior",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/alseid-woad-warrior/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 105422,
+      "sha256": "5bfb9221608c5720b3176efe883f5de701618c4405216452e0ec1ebac23a1722",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alseid-woad-warrior/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/alpine-creeper/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/race/alseid/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "2643ab4a80ba848cb0ee3116ead2bb51839cd73f"
+    },
+    {
+      "category": "creature",
+      "subjectId": "altar-flame-golem",
+      "name": "Altar Flame Golem",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/altar-flame-golem/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 92754,
+      "sha256": "ac926bebde30cf4b0dbf7e1d859750cd07fa6adb3c941d195e648c678d5b7ff3",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/golem-altar-flame/"
+          },
+          {
+            "url": "https://koboldpress.com/creature-codex-pocket-edition/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ba238cb1658a510e01e8454951b9d2d388b85341"
+    },
+    {
+      "category": "creature",
+      "subjectId": "altar-flame-golem",
+      "name": "Altar Flame Golem",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/altar-flame-golem/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 92666,
+      "sha256": "e11a403d57ecf4aa2d6579e9e26f387e734f7d132fa37ba55755c2fd861f5036",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/golem-altar-flame/"
+          },
+          {
+            "url": "https://koboldpress.com/creature-codex-pocket-edition/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "4cd56beaaccecbbbdf7a4fc6510c0e71de6a7317"
     }
   ]
 }
