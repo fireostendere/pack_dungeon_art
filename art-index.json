@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 70,
+  "imageCount": 90,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 70,
+  "creatureImageCount": 90,
   "locationImageCount": 0,
-  "imageBytes": 5952190,
+  "imageBytes": 7745118,
   "images": [
     {
       "category": "creature",
@@ -1950,6 +1950,72 @@
     },
     {
       "category": "creature",
+      "subjectId": "adult-black-dragon",
+      "name": "Adult Black Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-black-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 84586,
+      "sha256": "910aa40e0454b65001f3b59a2335e2745ceff358d1bae33d39598056925708a9",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1527"
+          },
+          {
+            "url": "https://www.dndbeyond.com/monsters/16764-adult-black-dragon"
+          },
+          {
+            "url": "https://forgottenrealms.fandom.com/wiki/Black_dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "7bab89d51c7da916b13d360a47fa867b05730b6c"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-black-dragon",
+      "name": "Adult Black Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/adult-black-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 77398,
+      "sha256": "5cf188a9ab32f0cee664feb41a21851d15631123c17ca29db7fefa3db0670da4",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1527"
+          },
+          {
+            "url": "https://www.dndbeyond.com/monsters/16764-adult-black-dragon"
+          },
+          {
+            "url": "https://forgottenrealms.fandom.com/wiki/Black_dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "eb69d3e813de2ffaea382afb4c3098fc41dbae09"
+    },
+    {
+      "category": "creature",
       "subjectId": "adult-black-dragon-lich-a5e",
       "name": "Adult Black Dragon Lich",
       "variantId": "01",
@@ -2067,6 +2133,552 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "c88c0a1e6ed5e8f98a6e0c18d6c38a946174ebbd"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-blue-dragon",
+      "name": "Adult Blue Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-blue-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 90640,
+      "sha256": "cfd80533fa823f4dafa1e30e23477534e9f6bc455fc4bed7dc9131529b103fbc",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1532"
+          },
+          {
+            "url": "https://www.dndbeyond.com/monsters/16765-adult-blue-dragon"
+          },
+          {
+            "url": "https://forgottenrealms.fandom.com/wiki/Blue_dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "919b90f238eb3da03b3116b770d25396759a38d9"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-blue-dragon",
+      "name": "Adult Blue Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-blue-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 98778,
+      "sha256": "c5912bcc637e4a2b319315871b652aea8dfdb578d716b5296e4f09fc9aa6502e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1532"
+          },
+          {
+            "url": "https://www.dndbeyond.com/monsters/16765-adult-blue-dragon"
+          },
+          {
+            "url": "https://forgottenrealms.fandom.com/wiki/Blue_dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "a45225de52caa51604784200669a5888fa17437f"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-blue-dragon",
+      "name": "Adult Blue Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-blue-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 88564,
+      "sha256": "f081d77516875ce4865e3dfd82e708e3e98a6f6644d886d23bf5123c12857450",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1532"
+          },
+          {
+            "url": "https://www.dndbeyond.com/monsters/16765-adult-blue-dragon"
+          },
+          {
+            "url": "https://forgottenrealms.fandom.com/wiki/Blue_dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "4eee219728b2fb28523df4987e758bbc324e9824"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-blue-dragon",
+      "name": "Adult Blue Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/adult-blue-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 90578,
+      "sha256": "1787316359acb0d40face09e45ea5979dc4e0d4df730eab38ac8bf8980e7cecd",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1532"
+          },
+          {
+            "url": "https://www.dndbeyond.com/monsters/16765-adult-blue-dragon"
+          },
+          {
+            "url": "https://forgottenrealms.fandom.com/wiki/Blue_dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "6095c59d56e47cb50b86c055e08abda6669b76d6"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-boreal-dragon",
+      "name": "Adult Boreal Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-boreal-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 100234,
+      "sha256": "9e8a1a68005dcc93b3b280dea652ceb1d7db12030d56675bd4814c77d390ef3e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/boreal-dragon-adult/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "3c58742c79b3436c23bd702b550ae29cbaa5323b"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-boreal-dragon",
+      "name": "Adult Boreal Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-boreal-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 100862,
+      "sha256": "4aaddac46a439dd8550547a2343e00206d012d2041f1daa2ab058198ae517f7e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/boreal-dragon-adult/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "60dce482d6dbeef711e61713eb80127fbb7ac8c4"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-boreal-dragon",
+      "name": "Adult Boreal Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-boreal-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 95846,
+      "sha256": "2682b78f605d7d1c2cb13ce3b83cb4d8d3b2e9a44b1a6945dc74dba773464015",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/boreal-dragon-adult/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "7c39dd135fb6fa4951d7399729414edf90c26193"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-boreal-dragon",
+      "name": "Adult Boreal Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/adult-boreal-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 100324,
+      "sha256": "4361564a63e600e723e50c76110498537599a0db97ef5f240855beb97b9bace6",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/boreal-dragon-adult/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "6935f0ddb3c0dc10d75b0e78d5749ce167024d58"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-brass-dragon",
+      "name": "Adult Brass Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-brass-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 91824,
+      "sha256": "f92717a785e200ba01667a1f96bd12acf22161d86626a2e1f0b5759b29eb407f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://shop.wizkids.com/products/pre-order-d-d-icons-of-the-realms-adult-brass-dragon"
+          },
+          {
+            "url": "https://a5e.tools/node/1575"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "9118581c2c2bafb8eef475e44e135ff1e3e37fa9"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-brass-dragon",
+      "name": "Adult Brass Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-brass-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 79274,
+      "sha256": "a9d9769b63694dbf9a6a3fc43424fb6a34d8c42ebe70d6070672bb452ca8c54e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://shop.wizkids.com/products/pre-order-d-d-icons-of-the-realms-adult-brass-dragon"
+          },
+          {
+            "url": "https://a5e.tools/node/1575"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "4a4f8c9787c1ac602cf78b9a29c9fadb2f326bbc"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-brass-dragon",
+      "name": "Adult Brass Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-brass-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 84338,
+      "sha256": "7f98018c2e5418b1ffaf685cf8143dc4936dada107ece2c20d82ea8f0a7bf182",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://shop.wizkids.com/products/pre-order-d-d-icons-of-the-realms-adult-brass-dragon"
+          },
+          {
+            "url": "https://a5e.tools/node/1575"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "2669e09f4f48ae8ead86579833c1aaa0b8d647a8"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-brass-dragon",
+      "name": "Adult Brass Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/adult-brass-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 97168,
+      "sha256": "437c57f27ae1872a7ef86c92274d6c2a7c4dae59af66d2776d03599d7de21bd9",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://shop.wizkids.com/products/pre-order-d-d-icons-of-the-realms-adult-brass-dragon"
+          },
+          {
+            "url": "https://a5e.tools/node/1575"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "9f07522aa52ed53bc6690bc3473e28d379335aa2"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-bronze-dragon",
+      "name": "Adult Bronze Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-bronze-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 88394,
+      "sha256": "3b9f21e8d4292c8c564ca20841222c5c02ef3e68be4c11e8cf378ffa1504a7d7",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://shop.wizkids.com/products/pre-order-d-d-icons-of-the-realms-adult-bronze-dragon"
+          },
+          {
+            "url": "https://a5e.tools/node/1579"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ff742a73e196f61aeb8f1a911e611ef01adc5a85"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-bronze-dragon",
+      "name": "Adult Bronze Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-bronze-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 90252,
+      "sha256": "163cb30260d6afb5b42e1f79f6be9b4f199a59485fe9950ec6cb983524a70612",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://shop.wizkids.com/products/pre-order-d-d-icons-of-the-realms-adult-bronze-dragon"
+          },
+          {
+            "url": "https://a5e.tools/node/1579"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "a30bf01461ef62f6a97b67fbdf25f26a3c229eb5"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-bronze-dragon",
+      "name": "Adult Bronze Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-bronze-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 97732,
+      "sha256": "360c2f086ff2ab212007bc29630e54ad665b4fe461473ce9488eb875efbfec7f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://shop.wizkids.com/products/pre-order-d-d-icons-of-the-realms-adult-bronze-dragon"
+          },
+          {
+            "url": "https://a5e.tools/node/1579"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "271555fa603eaca80ff4fdc570bf628c6b14ccc8"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-bronze-dragon",
+      "name": "Adult Bronze Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/adult-bronze-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 102022,
+      "sha256": "9392c6d1e8a76a01d38ecf9bdd90542feaca79066f624b6c4651aec15e11ad97",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://shop.wizkids.com/products/pre-order-d-d-icons-of-the-realms-adult-bronze-dragon"
+          },
+          {
+            "url": "https://a5e.tools/node/1579"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "e11365184a633e2daffa6e6a869ac01965e70985"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-cave-dragon",
+      "name": "Adult Cave Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-cave-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 76546,
+      "sha256": "229aab1f5e96927981e2ba46c7b98e65376d9b76e5201734bc31e84ad6769182",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-cave-adult-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "be0067f6f4400db1fb17aa067a084b08a2eccb01"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-cave-dragon",
+      "name": "Adult Cave Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-cave-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 57568,
+      "sha256": "fa89ba6fc46467be3c2a712e8f40d88c8138942c8b5d289e118663075a6f1403",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-cave-adult-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ce17fda344111b4c3046fa119969a6b733b0a789"
     }
   ]
 }
