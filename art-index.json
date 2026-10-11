@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 450,
+  "imageCount": 470,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 450,
+  "creatureImageCount": 470,
   "locationImageCount": 0,
-  "imageBytes": 39747060,
+  "imageBytes": 41503040,
   "images": [
     {
       "category": "creature",
@@ -13393,6 +13393,600 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "18548098b10d91f7531049ad861c1a1cb11cec3e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-river-dragon-a5e",
+      "name": "Ancient River Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-river-dragon-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 92748,
+      "sha256": "a34bba07ee963d531dab79a159787b38c0dd2804d8d615d8cd6a55c653c9cc12",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1554"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/Dragon%2C%20river%20-%20Gui%20Sommer.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "f5d076834605696c4fbaf0665ac9def7a70d054e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-river-dragon-a5e",
+      "name": "Ancient River Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ancient-river-dragon-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 110432,
+      "sha256": "da2fa141e9bb68423d08e8f73f5d9abdd0a378e1c24632207221833c777d043a",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1554"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/Dragon%2C%20river%20-%20Gui%20Sommer.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "46659ddac9e5e876d17354cb51083c6c3eb3b577"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-sapphire-dragon-a5e",
+      "name": "Ancient Sapphire Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-sapphire-dragon-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 86938,
+      "sha256": "86e31ffc60879cab443830b33de26ca758d99940e58ae05e23e74a383be533f6",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1570"
+          },
+          {
+            "url": "https://a5e.tools/rules/gem-dragons"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "87cfddd983613bed91b01dc88762ea5154eea105"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-sapphire-dragon-a5e",
+      "name": "Ancient Sapphire Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-sapphire-dragon-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 97986,
+      "sha256": "27c397a3e49e581da2f88ec91eb13a9e73fe1e8b9a85ec6186705b44848940cb",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1570"
+          },
+          {
+            "url": "https://a5e.tools/rules/gem-dragons"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "c0c9c486bc573329766c3e576bfa8e3f0a556288"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-sapphire-dragon-a5e",
+      "name": "Ancient Sapphire Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-sapphire-dragon-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 85558,
+      "sha256": "23570d4d9a6a2cd8f7bb2afdf7c15fc8a49b546430f96421f9cf91a1f7811034",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1570"
+          },
+          {
+            "url": "https://a5e.tools/rules/gem-dragons"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "5d77fcc4edae77653355309735662ce850994ef8"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-sapphire-dragon-a5e",
+      "name": "Ancient Sapphire Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ancient-sapphire-dragon-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 90480,
+      "sha256": "70e54a1bc193410e8f92ebe7a7c9dd48f529b4056998ac59dd4cdbf3e96cb3fd",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1570"
+          },
+          {
+            "url": "https://a5e.tools/rules/gem-dragons"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "93d4070e53117a45133ef9407d1053a0521e30f5"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-sea-dragon",
+      "name": "Ancient Sea Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-sea-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 90314,
+      "sha256": "65f8abec32854a888d1f8e6e4b3720a67b62b12d26d10781956b4f9ff0bbd884",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-sea-ancient-3pp/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-sea-adult-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "a24b5b94ac1737431f0fa69582402809a6f38fbe"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-sea-dragon",
+      "name": "Ancient Sea Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-sea-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 98990,
+      "sha256": "bf0f0cbb225f39cda91d8833b07c38b9f4f431d25d273bf7dcef2e5d78b61729",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-sea-ancient-3pp/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-sea-adult-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "1185b6791e008a28a7f7c2278aeda56d85760241"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-sea-dragon",
+      "name": "Ancient Sea Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-sea-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 90600,
+      "sha256": "39cbc3635b54f9e4fe3cc081f2f2661a896e768945065f48f2fdeb2bf971a32d",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-sea-ancient-3pp/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-sea-adult-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "b3e706613ca82ad6134bc8bf3fe7a03506aef66c"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-sea-dragon",
+      "name": "Ancient Sea Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ancient-sea-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 102580,
+      "sha256": "9806102677b69031b1a5aed794884ed4a851220ef8c6ce9e4801a1f732622ff9",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-sea-ancient-3pp/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-sea-adult-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ffd835936ae349c97b0d5a85c006d011275921d5"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-shadow-dragon-a5e",
+      "name": "Ancient Shadow Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-shadow-dragon-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 74174,
+      "sha256": "5bc39590bcb150db973527d87e6abe754ccc55baf1f13fe7bff44baafb71c0db",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1558"
+          },
+          {
+            "url": "https://a5e.tools/rules/shadow-dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "f4bc7fc820b8e4533298ee11c763eb2ebb1b929c"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-shadow-dragon-a5e",
+      "name": "Ancient Shadow Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-shadow-dragon-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 65106,
+      "sha256": "9a07111c3bbdef85afeaa65f5c6998edf5b58b5b72b8f1e0be972fc159a9956e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1558"
+          },
+          {
+            "url": "https://a5e.tools/rules/shadow-dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "7e1eeec621c5d41ea33a13773c271e13855b0989"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-shadow-dragon-a5e",
+      "name": "Ancient Shadow Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-shadow-dragon-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 57174,
+      "sha256": "53cbe95cc03d2f96185f41fb17cd261927e46d582bc6a22ab4037a66c74262ba",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1558"
+          },
+          {
+            "url": "https://a5e.tools/rules/shadow-dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "38672d1e128a5517adce6513d9c0e338edc9f390"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-shadow-dragon-a5e",
+      "name": "Ancient Shadow Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ancient-shadow-dragon-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 74160,
+      "sha256": "1833aa77dde60d91afda016e2d61da0defe0ced4f0b85bfa43d9e8f9ea4d411b",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1558"
+          },
+          {
+            "url": "https://a5e.tools/rules/shadow-dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "8081e5d5df2edb3a6b3be6efd3c4ed886a575ed5"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-silver-dragon",
+      "name": "Ancient Silver Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-silver-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 97282,
+      "sha256": "5affb67e5ac5a3f074346ecd412961668cce6737dd97593289082d0e3bbea3d1",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16783-ancient-silver-dragon"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/dragon-silver%20-%20Gui%20Sommer.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "8e0bd272c370f6c93519225ee67271691b781a75"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-silver-dragon",
+      "name": "Ancient Silver Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-silver-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 85180,
+      "sha256": "8de741bed297333032f43b92d2ac6dacf99845916d2421e800fcd335b1c11880",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16783-ancient-silver-dragon"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/dragon-silver%20-%20Gui%20Sommer.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "945ab8370b3942608c81b18c56fe68b3049fc999"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-silver-dragon",
+      "name": "Ancient Silver Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-silver-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 85060,
+      "sha256": "5b38f91947f66e7bc3e5dc9287f28898355d29d17b378ea4c648d0ac0f0f0125",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16783-ancient-silver-dragon"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/dragon-silver%20-%20Gui%20Sommer.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "41fc5ee682f7226b4fa11c95da1590cd6671e267"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-silver-dragon",
+      "name": "Ancient Silver Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ancient-silver-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 99810,
+      "sha256": "96c77ea66fd8ae6bc2f6ee410793c9610979abf4746bf4714ccbab05260f609c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16783-ancient-silver-dragon"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/dragon-silver%20-%20Gui%20Sommer.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "02448a03a4c727a98ce9a99c10f2ffb21abc3375"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-titan",
+      "name": "Ancient Titan",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-titan/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 99986,
+      "sha256": "69dc8ffa73978d6be2f9eeb5f2340d6ed033a640657d312fafdeeef3f69cf663",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/titan-ancient-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "aef200119c7bd899b9364c644852b1a17ab6eca7"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-titan",
+      "name": "Ancient Titan",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-titan/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 71422,
+      "sha256": "4d394a6db6afbc5de9b6a2c760f6b7df6d965a70f28e2faeaeeb2e7db5cf943f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/titan-ancient-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "74f02057d5ffe3f63cde4f5fe1d2ccae965dec8b"
     }
   ]
 }
