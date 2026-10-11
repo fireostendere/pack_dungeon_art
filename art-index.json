@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 250,
+  "imageCount": 270,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 250,
+  "creatureImageCount": 270,
   "locationImageCount": 0,
-  "imageBytes": 21544098,
+  "imageBytes": 23284668,
   "images": [
     {
       "category": "creature",
@@ -7519,6 +7519,588 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "d8421ff02f7da8f864538afb888b3e50d746f99a"
+    },
+    {
+      "category": "creature",
+      "subjectId": "albino-death-weasel",
+      "name": "Albino Death Weasel",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/albino-death-weasel/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 95070,
+      "sha256": "1600afe9f3f8326f909c6c1aa99dde13ea611afa45e641456317a550df0308f6",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/weasel-albino-death"
+          },
+          {
+            "url": "https://koboldpress.com/expanding-codex-albino-death-weasel/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2019/08/weasel-albino-death.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "d4ec8c39aedde4bafb1f3458d128118464859aaa"
+    },
+    {
+      "category": "creature",
+      "subjectId": "albino-death-weasel",
+      "name": "Albino Death Weasel",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/albino-death-weasel/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 78974,
+      "sha256": "465ee8f6af4095d6334d4afff22a42e1abfd80397a9918159967d888311ac535",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/weasel-albino-death"
+          },
+          {
+            "url": "https://koboldpress.com/expanding-codex-albino-death-weasel/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2019/08/weasel-albino-death.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "08be185ac0a951863fbf5d2dd8b0a51720fee777"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alchemical-apprentice",
+      "name": "Alchemical Apprentice",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alchemical-apprentice/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 78618,
+      "sha256": "5ed3e397ef800cbcbbe7c1d99d5394d68b45ffe9b239a887d507d5d342cc133e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ooze-alchemical-apprentice/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "794c862970a04260c9b1c09b6956a0dde6ffb72e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alchemical-apprentice",
+      "name": "Alchemical Apprentice",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alchemical-apprentice/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 75378,
+      "sha256": "b258144c0e61f6251a1a36bb76f1f205cce572db995785f1c988334e18da45cc",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ooze-alchemical-apprentice/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "17337bca1a90aea5d634890074b814a54fa55823"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alchemical-apprentice",
+      "name": "Alchemical Apprentice",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alchemical-apprentice/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 84242,
+      "sha256": "73a6bcb6d67be5707c93c052b0deeb91489e0243b0da57afb75019d192b8fa00",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ooze-alchemical-apprentice/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "f05c8b7b5e382b1bdd1957bbeb938c8cf757b1d6"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alchemical-apprentice",
+      "name": "Alchemical Apprentice",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/alchemical-apprentice/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 92740,
+      "sha256": "2b4671cc2ccb8e2808528c538821560fae2b6315aab7dee434dd26379cf3acd9",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ooze-alchemical-apprentice/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "618a6d4778cb3862c543ff7e2d2fbc961295b5dd"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alchemical-golem",
+      "name": "Alchemical Golem",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alchemical-golem/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 92080,
+      "sha256": "4631672b9d1acd99a4452ea85557fb02766d1f237236fdea8f1bb0378be4a689",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/golem-alchemical/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "147e5ad06ca3eb2a3907590a8d63c44714e3c82e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alchemical-golem",
+      "name": "Alchemical Golem",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alchemical-golem/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 89878,
+      "sha256": "d22535369f28eef9aaa909574ec9253dd1bd5b23db82c59f6308870ec7de00a7",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/golem-alchemical/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "6cca1c13900d1c974822e6caecce03d4139a00fe"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alchemical-golem",
+      "name": "Alchemical Golem",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alchemical-golem/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 111416,
+      "sha256": "fa045f6eec51348f1a1c65a942731ad9c171c7f6e67b793402d870182dfaac52",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/golem-alchemical/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "6c30410c40adb1f952db1f253e9172d505791dcd"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alchemical-golem",
+      "name": "Alchemical Golem",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/alchemical-golem/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 98188,
+      "sha256": "d68b69b0418c480aef5785ef9966440d3aabb71cb59b27308f97f793385d5158",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/golem-alchemical/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "333ca453f5f6fd0d60b3989fe02a51ea1f74dcea"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alchemical-skunk",
+      "name": "Alchemical Skunk",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alchemical-skunk/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 70390,
+      "sha256": "92404b54f77e7d23cb28ad7287872b4c630e50c02555b42049fa1c334b531826",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alchemical-skunk/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "9efc67f8c112d497acb46c5c3d86cf4de262ab12"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alchemical-skunk",
+      "name": "Alchemical Skunk",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alchemical-skunk/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 97480,
+      "sha256": "ea720bb948ed4c25a1c67dc7d68b2dc3603948dc31b05e3d166c80caaf3bc9d3",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alchemical-skunk/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "118af4b8df568894ea0c6375123f76d6d6769935"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alchemical-skunk",
+      "name": "Alchemical Skunk",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alchemical-skunk/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 82996,
+      "sha256": "222cf646df9a57404b7109883ec668aee65231b7e38c5697af8fe91aa6301c87",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alchemical-skunk/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "c731aa374b5fe367d5064e5729b4954b21b3eefd"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alchemical-skunk",
+      "name": "Alchemical Skunk",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/alchemical-skunk/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 99320,
+      "sha256": "c0d3674bf2ffc974e3ed28c4cd1c350c78717be257b6fcdea7c8fcfe2a1b74d0",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alchemical-skunk/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "b25018251dcba63fe95b8531e8b669d3a5245fa6"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alchemist-a5e",
+      "name": "Alchemist",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alchemist-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 75154,
+      "sha256": "517e964d3af522a0315a9f61cd147f63eb73377307bf40a7922067e7c55b7eca",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1834"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/Alchemist%20-%20Egil%20Thompson.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "32fcdfc31eb622437a4953723ebffc944a8385ba"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alchemist-a5e",
+      "name": "Alchemist",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alchemist-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 90134,
+      "sha256": "e5e8196c74b086707cf24d249331cdbdb4f6f243a1fa9900b4f05ecffdcfe45b",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1834"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/Alchemist%20-%20Egil%20Thompson.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "e3f6a547796fbd9a5c34f8013d0d2ae2190eaaa5"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alchemist-a5e",
+      "name": "Alchemist",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alchemist-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 79722,
+      "sha256": "7f5ac9dad1aaa1d408e013527d4950a5a4f00251883076eadb5137daabc75178",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1834"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/Alchemist%20-%20Egil%20Thompson.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "68630d185f00d26bb37bd778cf656af180551bd6"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alchemist-a5e",
+      "name": "Alchemist",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/alchemist-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 93382,
+      "sha256": "a710ebd6e49d232748bd263d920fa4dd9fc5abbb74e4b2b1fe1a0b4d4828751f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1834"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/Alchemist%20-%20Egil%20Thompson.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "d80f2f922c440085769b2a8869dfab25ba914536"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alchemist-archer",
+      "name": "Alchemist Archer",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alchemist-archer/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 81274,
+      "sha256": "cfe7822048a83aa987a3f42eb002a4450fd5f7bb9f9683011d353d74036a13e1",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/creature-codex-alchemist-archer-elf/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2018/10/alchemist-archer-elf.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "1f2031673f57a5e122c6cd6241eba23e875883d1"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alchemist-archer",
+      "name": "Alchemist Archer",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alchemist-archer/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 74134,
+      "sha256": "ee391b61bee7b657c87699e025faae33875a56835b1f6e35da4388b4c45d8d64",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/creature-codex-alchemist-archer-elf/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2018/10/alchemist-archer-elf.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "21cc0ffa9d838a224c2ff8f6d2c46e860fa94102"
     }
   ]
 }
