@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 170,
+  "imageCount": 190,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 170,
+  "creatureImageCount": 190,
   "locationImageCount": 0,
-  "imageBytes": 14728750,
+  "imageBytes": 16481678,
   "images": [
     {
       "category": "creature",
@@ -5107,6 +5107,618 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "93a6c5a77c4d52e3a07a505f40a409c6350f847a"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-wind-dragon",
+      "name": "Adult Wind Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-wind-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 84960,
+      "sha256": "a53c1ae50175c5f39cff16a5b21cfb3ea7f0252169f4f4ca148132c2fecf9960",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/dragons/dragon-wind/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-wind-adult-3pp/"
+          },
+          {
+            "url": "https://nerdarchy.com/the-dungeons-and-the-dragons-of-dungeons-dragons-wind-dragon-lairs/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "1443ff1cfb5fa339bfd565f525578f97599da13b"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-wind-dragon",
+      "name": "Adult Wind Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/adult-wind-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 79818,
+      "sha256": "a1a1a4fa68ead24aaad0be0f1ab4b8dfe798e4e8216ce268649434c4fae74182",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/dragons/dragon-wind/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-wind-adult-3pp/"
+          },
+          {
+            "url": "https://nerdarchy.com/the-dungeons-and-the-dragons-of-dungeons-dragons-wind-dragon-lairs/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "e3b58c5de9e4810df8ea2fc2deee4f4034a0e5f1"
+    },
+    {
+      "category": "creature",
+      "subjectId": "agnibarra",
+      "name": "Agnibarra",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/agnibarra/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 87824,
+      "sha256": "a33ffe2f395d73aa2e20f0e5ec3007d344f04e348e5d1558f9399476709f229a",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/agnibarra/"
+          },
+          {
+            "url": "https://www.deviantart.com/willobrien/art/Agnibarra-765065509"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "428f0a86ea12dab862083c1b6f878b8c05a4bf87"
+    },
+    {
+      "category": "creature",
+      "subjectId": "agnibarra",
+      "name": "Agnibarra",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/agnibarra/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 86644,
+      "sha256": "dd23469f498b1368fd4b33dbffbedb103ccad11a10856edf2a4e8a2615d78b28",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/agnibarra/"
+          },
+          {
+            "url": "https://www.deviantart.com/willobrien/art/Agnibarra-765065509"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "e1a92c67642c1b95f2ae7fa3b761f1272efdcb3f"
+    },
+    {
+      "category": "creature",
+      "subjectId": "agnibarra",
+      "name": "Agnibarra",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/agnibarra/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 83696,
+      "sha256": "068eccb506816b8d64eedefeb2e36be0042ce75d4a98b44a737926bc516a43b5",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/agnibarra/"
+          },
+          {
+            "url": "https://www.deviantart.com/willobrien/art/Agnibarra-765065509"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "62210cf90072876cdbc4b8aa0e79faf0920de6a6"
+    },
+    {
+      "category": "creature",
+      "subjectId": "agnibarra",
+      "name": "Agnibarra",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/agnibarra/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 91538,
+      "sha256": "0557e7f15e64217baa69c01d26c439c0a2fe6dd5cee195caa36a1dc11d1f437e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/agnibarra/"
+          },
+          {
+            "url": "https://www.deviantart.com/willobrien/art/Agnibarra-765065509"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "8765f7a63e684ec834a5553ed2e359fe1e84b3d5"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ahu-nixta",
+      "name": "Ahu-Nixta",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ahu-nixta/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 92036,
+      "sha256": "68b21a20aaaf62b29c8c7c12713d85c9f8de32f15838f0ad46d17e24e79bf329",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ahu-nixta/"
+          },
+          {
+            "url": "https://koboldpress.com/warlocks-apprentice-ahu-nixta-hivemind-of-the-concordant-chronosphere/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2021/12/ahu-nixta.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "6586eaabeb97bb8bb78244034e47e9a0615d2790"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ahu-nixta",
+      "name": "Ahu-Nixta",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ahu-nixta/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 90520,
+      "sha256": "f7d2a2a9b180735dc5178ac1adc66585233d1c822370888dccfb14bc2521c93d",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ahu-nixta/"
+          },
+          {
+            "url": "https://koboldpress.com/warlocks-apprentice-ahu-nixta-hivemind-of-the-concordant-chronosphere/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2021/12/ahu-nixta.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ddcd1cde8fe20be636de4c011af7b6136b597ce5"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ahu-nixta-cataphract",
+      "name": "Ahu-Nixta Cataphract",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ahu-nixta-cataphract/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 91770,
+      "sha256": "ad80fbff7bcb528576bf2cd458b8db31b66be60b52854291bcd88c5bf5bfc1ee",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ahu-nixta-cataphract/"
+          },
+          {
+            "url": "https://koboldpress.com/warlocks-apprentice-ahu-nixta-hivemind-of-the-concordant-chronosphere/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2021/12/ahu-nixta.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "bd1937278c2058085c84e7440c661b1564539289"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ahu-nixta-cataphract",
+      "name": "Ahu-Nixta Cataphract",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ahu-nixta-cataphract/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 99764,
+      "sha256": "46819532dbc94d428cd4ad76d89ce34af36ad4486b0230027f9c73463dc8bab3",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ahu-nixta-cataphract/"
+          },
+          {
+            "url": "https://koboldpress.com/warlocks-apprentice-ahu-nixta-hivemind-of-the-concordant-chronosphere/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2021/12/ahu-nixta.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "0d0470fe776fffccccf04573fa7b59a3a7b4bdea"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ahu-nixta-cataphract",
+      "name": "Ahu-Nixta Cataphract",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ahu-nixta-cataphract/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 93808,
+      "sha256": "9d71f77ee49c033ed2820036dc4f7c2c561b7a1bd8cd6477a6c34d423400cf9f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ahu-nixta-cataphract/"
+          },
+          {
+            "url": "https://koboldpress.com/warlocks-apprentice-ahu-nixta-hivemind-of-the-concordant-chronosphere/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2021/12/ahu-nixta.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "77e957c7efa99c8086c86e541f06a1eda79490d0"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ahu-nixta-cataphract",
+      "name": "Ahu-Nixta Cataphract",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ahu-nixta-cataphract/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 102928,
+      "sha256": "0ebdb67802351eec9cacd5aa52da814b0349974a020e78ede561194432e7fa56",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ahu-nixta-cataphract/"
+          },
+          {
+            "url": "https://koboldpress.com/warlocks-apprentice-ahu-nixta-hivemind-of-the-concordant-chronosphere/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2021/12/ahu-nixta.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "0476f7501a0f123c5c06ad05415d9e99fae4e5d6"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ahu-nixta-drudge",
+      "name": "Ahu-Nixta Drudge",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ahu-nixta-drudge/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 95316,
+      "sha256": "14ac925e90983df37be121421ab130d16b2a58d986ceaec2ceac6b255c388646",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ahu-nixta-drudge/"
+          },
+          {
+            "url": "https://koboldpress.com/maze-mondays-take-your-campaign-world-apart-and-build-it-into-something-more-monstrous-with-the-ahu-nixta/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "baab3e4c4010eb654564c6b37ff123f3cbcffa9f"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ahu-nixta-drudge",
+      "name": "Ahu-Nixta Drudge",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ahu-nixta-drudge/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 86990,
+      "sha256": "a7a4abaa48bcf8825262dfe201d7037294b4858aadd91e545f18c3d866aedbc6",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ahu-nixta-drudge/"
+          },
+          {
+            "url": "https://koboldpress.com/maze-mondays-take-your-campaign-world-apart-and-build-it-into-something-more-monstrous-with-the-ahu-nixta/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "72e2c906cc28335361a3ddd3d9874bdecdbd4260"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ahu-nixta-drudge",
+      "name": "Ahu-Nixta Drudge",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ahu-nixta-drudge/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 86018,
+      "sha256": "f7358c7e5a6184cb2b9a01c8e938b634e5127fb40da4be5902e9693cb1713e77",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ahu-nixta-drudge/"
+          },
+          {
+            "url": "https://koboldpress.com/maze-mondays-take-your-campaign-world-apart-and-build-it-into-something-more-monstrous-with-the-ahu-nixta/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "0835e4d1dcc7048501b194f55147807cb7eda0e3"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ahu-nixta-drudge",
+      "name": "Ahu-Nixta Drudge",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ahu-nixta-drudge/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 70444,
+      "sha256": "0ebac8d897d40dbb213b86ef615e515f53671cef80556d2929c608d019800852",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ahu-nixta-drudge/"
+          },
+          {
+            "url": "https://koboldpress.com/maze-mondays-take-your-campaign-world-apart-and-build-it-into-something-more-monstrous-with-the-ahu-nixta/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "7f32414af50550b666295df9e7021e53274a9f74"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ahu-nixta-mechanon",
+      "name": "Ahu-Nixta Mechanon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ahu-nixta-mechanon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 86160,
+      "sha256": "eb7c88722aa9e340a6dacc4f6ae3e89ba5bc0fa85123642a346ea29925f1941d",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ahu-nixta-mechanon/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "41accfc06c7a450e888fef08263ed32e27abcfad"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ahu-nixta-mechanon",
+      "name": "Ahu-Nixta Mechanon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ahu-nixta-mechanon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 77530,
+      "sha256": "309fb4a0f22f8c234d47df83c4aceb6ec92a6b7acbb7cde0f7b7b5603099fae2",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ahu-nixta-mechanon/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "7caefc9da232b7a7dcc28996dd62261f7f0a9873"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ahu-nixta-mechanon",
+      "name": "Ahu-Nixta Mechanon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ahu-nixta-mechanon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 89878,
+      "sha256": "48c009218dbd812dad812c26e5dedd062998c3ae2bd87aaa118a9e258c73c66f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ahu-nixta-mechanon/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "0ab0ad029403a94ad3cc9cb56297e53c02b9d3c9"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ahu-nixta-mechanon",
+      "name": "Ahu-Nixta Mechanon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ahu-nixta-mechanon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 75286,
+      "sha256": "2ea3b27236b9e54515b9ac42217bf54488efd55b85faa689634f6987e7d86a67",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ahu-nixta-mechanon/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "2a5787397fffd485ccbf22afec2c4ec660be8c85"
     }
   ]
 }
