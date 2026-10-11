@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 50,
+  "imageCount": 70,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 50,
+  "creatureImageCount": 70,
   "locationImageCount": 0,
-  "imageBytes": 4359104,
+  "imageBytes": 5952190,
   "images": [
     {
       "category": "creature",
@@ -1461,6 +1461,612 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "86f0fad4d5981d75eeb5469aa2b071edd60f0eef"
+    },
+    {
+      "category": "creature",
+      "subjectId": "accursed-spirit-naga-a5e",
+      "name": "Accursed Spirit Naga",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/accursed-spirit-naga-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 92570,
+      "sha256": "d71ebd8d685bdddc0a1022a600b58932bb41d6324e7b2a1d2185868044dd2d70",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1745"
+          },
+          {
+            "url": "https://a5e.tools/node/1743"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "7f65c8ca467e38e3b87280147559ce7a2b534a9e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "accursed-spirit-naga-a5e",
+      "name": "Accursed Spirit Naga",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/accursed-spirit-naga-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 78698,
+      "sha256": "4311f2da9c3f44afe3fb582ed6e9bfdbea6639dfc7f3e9839fba958fb5f61e19",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1745"
+          },
+          {
+            "url": "https://a5e.tools/node/1743"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "5905fb33b2e4ecfb478772617311d128d84dc525"
+    },
+    {
+      "category": "creature",
+      "subjectId": "acid-ant",
+      "name": "Acid Ant",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/acid-ant/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 74826,
+      "sha256": "6a06bafe8f601a3c686b4a7ab15b137b3228b25136cc710bd6de799cf3d005de",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/acid-ant/"
+          },
+          {
+            "url": "https://worldbuilderblog.me/2018/09/20/creature-codex-preview-acid-ant/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "fce61e63a28556d384ed336419ebe90052a2ccee"
+    },
+    {
+      "category": "creature",
+      "subjectId": "acid-ant",
+      "name": "Acid Ant",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/acid-ant/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 78100,
+      "sha256": "2189101a03458fa169d7972bb50207066feef6b05d923cc825828324f1ea26b8",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/acid-ant/"
+          },
+          {
+            "url": "https://worldbuilderblog.me/2018/09/20/creature-codex-preview-acid-ant/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "b3195486420b7c4e312d82c44974a2d658036908"
+    },
+    {
+      "category": "creature",
+      "subjectId": "acid-ant",
+      "name": "Acid Ant",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/acid-ant/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 91344,
+      "sha256": "5d399d8948509d1825f6449232befea87ecc56f952218eff003a0407206fb7e2",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/acid-ant/"
+          },
+          {
+            "url": "https://worldbuilderblog.me/2018/09/20/creature-codex-preview-acid-ant/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "314453b3f30c941a89d268365cc61cf14e38e533"
+    },
+    {
+      "category": "creature",
+      "subjectId": "acid-ant",
+      "name": "Acid Ant",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/acid-ant/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 77112,
+      "sha256": "a06f57463b8374fe41b8ac33839934587c2ca40cd732c17ec82f25d93095ce9c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/acid-ant/"
+          },
+          {
+            "url": "https://worldbuilderblog.me/2018/09/20/creature-codex-preview-acid-ant/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "3802381ea6560b411dc8b322500d9d130d0e8915"
+    },
+    {
+      "category": "creature",
+      "subjectId": "acolyte",
+      "name": "Acolyte",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/acolyte/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 54624,
+      "sha256": "e4c69d5a5ffc47c67883ddb2c45608ce8e12bd13cbaeb8a7293cd3737ffdcdde",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16763-acolyte"
+          },
+          {
+            "url": "https://a5e.tools/node/1871"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "b88f00f3493430bccc1bdcf1c25143ce75013244"
+    },
+    {
+      "category": "creature",
+      "subjectId": "acolyte",
+      "name": "Acolyte",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/acolyte/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 88246,
+      "sha256": "64220613fbeed15954ffc0480f2537dd61bea77fa1acce5d25ca8c0ac47fee48",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16763-acolyte"
+          },
+          {
+            "url": "https://a5e.tools/node/1871"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "199f222aab0a6db8b05d7c67207879aa92b7c4ac"
+    },
+    {
+      "category": "creature",
+      "subjectId": "acolyte",
+      "name": "Acolyte",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/acolyte/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 46598,
+      "sha256": "2f7bf2c7f574f1953d989d86764e2c78cf76581374ecfe7956e5d452c5355625",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16763-acolyte"
+          },
+          {
+            "url": "https://a5e.tools/node/1871"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "9b881ce9b168de46a18970171169a963560340b5"
+    },
+    {
+      "category": "creature",
+      "subjectId": "acolyte",
+      "name": "Acolyte",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/acolyte/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 82430,
+      "sha256": "e108726d1adecd2fb38b1e236cad9ddc81a4efde5c50cdd3913c2c87da4ff676",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16763-acolyte"
+          },
+          {
+            "url": "https://a5e.tools/node/1871"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "d06797a1c85b2490e77e29306fc0e30fa219e063"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-amethyst-dragon-a5e",
+      "name": "Adult Amethyst Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-amethyst-dragon-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 82404,
+      "sha256": "3f2c643f481c7a1152f1f72918c2a63eae3d6e93c38cd22d0c5771673ba711f5",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1563"
+          },
+          {
+            "url": "https://a5e.tools/rules/gem-dragons"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "fb43e0977a1de0a64a0a02e242be56acdcca88b3"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-amethyst-dragon-a5e",
+      "name": "Adult Amethyst Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-amethyst-dragon-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 77918,
+      "sha256": "b87f2eeca32b11720f91702683d74cfcb7c3077df4592e0f5b32f20e20da4627",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1563"
+          },
+          {
+            "url": "https://a5e.tools/rules/gem-dragons"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "1daec39a533a6ff5ae5a000c9f8e3f2440aaa9a4"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-amethyst-dragon-a5e",
+      "name": "Adult Amethyst Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-amethyst-dragon-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 81674,
+      "sha256": "84529f87ed99b156d429ef0dd6f695a58c756d7785f0933003440517afae1652",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1563"
+          },
+          {
+            "url": "https://a5e.tools/rules/gem-dragons"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "6281c41087a52e2792da72689250fa846228e1e9"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-amethyst-dragon-a5e",
+      "name": "Adult Amethyst Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/adult-amethyst-dragon-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 84820,
+      "sha256": "3ef65837042b5e9cced0e1b359ddeb23727b66810bf64088c1d50c97113f2b44",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1563"
+          },
+          {
+            "url": "https://a5e.tools/rules/gem-dragons"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "791d0d67b2502004146696a52dc3aaa0dbd66777"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-black-dragon",
+      "name": "Adult Black Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-black-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 73212,
+      "sha256": "32fa51863ffdcafca908b116cc7019aa7a19dc04496eb0b932c6436af76184de",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1527"
+          },
+          {
+            "url": "https://www.dndbeyond.com/monsters/16764-adult-black-dragon"
+          },
+          {
+            "url": "https://forgottenrealms.fandom.com/wiki/Black_dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "6846029819f73ac3f31ce3feaf6c29abf438850b"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-black-dragon",
+      "name": "Adult Black Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-black-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 77800,
+      "sha256": "50e5b8fab92c2503c250dc57c1602f51556d0daede81b4e94ed656cf0239e683",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1527"
+          },
+          {
+            "url": "https://www.dndbeyond.com/monsters/16764-adult-black-dragon"
+          },
+          {
+            "url": "https://forgottenrealms.fandom.com/wiki/Black_dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "8c04b9bfe8d3397319497397581153f99dd18b29"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-black-dragon-lich-a5e",
+      "name": "Adult Black Dragon Lich",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-black-dragon-lich-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 83148,
+      "sha256": "e90f1b6fc635e47a0077bed2635caffc15b3cdc6d0213c0404b5db4898833106",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1524"
+          },
+          {
+            "url": "https://a5e.tools/rules/dragon-lich-template"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "4474a6f85d2eeb8fba3330a4ac14cfa999b2d4e4"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-black-dragon-lich-a5e",
+      "name": "Adult Black Dragon Lich",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-black-dragon-lich-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 84446,
+      "sha256": "27e2546ed3e6858cc5ea910b644686885f246395bf9d4b0c08f8f62bf96903c4",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1524"
+          },
+          {
+            "url": "https://a5e.tools/rules/dragon-lich-template"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "5d38796c68aa02b82545a36fb5408cbfefc95213"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-black-dragon-lich-a5e",
+      "name": "Adult Black Dragon Lich",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-black-dragon-lich-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 85948,
+      "sha256": "d866879265c7cc3fa5047682cfd37728f1d824258f541ff7f577251864add243",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1524"
+          },
+          {
+            "url": "https://a5e.tools/rules/dragon-lich-template"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "911a37cba024eee846948a1e08d0fc05826cb12c"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-black-dragon-lich-a5e",
+      "name": "Adult Black Dragon Lich",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/adult-black-dragon-lich-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 97168,
+      "sha256": "e32a5b4b1d9e49fb2fcb348ea46e903c662fe3ca0153b6cfe63ee59a9f7e6d4e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1524"
+          },
+          {
+            "url": "https://a5e.tools/rules/dragon-lich-template"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "c88c0a1e6ed5e8f98a6e0c18d6c38a946174ebbd"
     }
   ]
 }
