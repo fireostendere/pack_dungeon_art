@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 150,
+  "imageCount": 170,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 150,
+  "creatureImageCount": 170,
   "locationImageCount": 0,
-  "imageBytes": 12979330,
+  "imageBytes": 14728750,
   "images": [
     {
       "category": "creature",
@@ -4447,6 +4447,666 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "76fa45d4e571b218bc5b2748d73c982d2ce85d58"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-shadow-dragon-a5e",
+      "name": "Adult Shadow Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-shadow-dragon-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 69728,
+      "sha256": "da32012059e072efb8ca4c75f0bca21a0e56b14c7eee68088b555bbe75c851ae",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1559"
+          },
+          {
+            "url": "https://a5e.tools/rules/shadow-dragon"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/Dragon%2C%20shadow%20-%20Gui%20Sommer.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ccbeda5fd7a84889f1d8a5e906dc0d32bced3356"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-shadow-dragon-a5e",
+      "name": "Adult Shadow Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/adult-shadow-dragon-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 75672,
+      "sha256": "b9157dfd9e41ba36a78d78edfde7aec8faec63e5e6da0d68c2112df97dae99c6",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1559"
+          },
+          {
+            "url": "https://a5e.tools/rules/shadow-dragon"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/Dragon%2C%20shadow%20-%20Gui%20Sommer.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "a27e56ebb515263baa16e7d68ec3eac4c1217aa6"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-silver-dragon",
+      "name": "Adult Silver Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-silver-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 99172,
+      "sha256": "db1a518cd478846c47e78fc18e7f0187aace8404136079116cb5207860ae6c24",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1592"
+          },
+          {
+            "url": "https://www.dndbeyond.com/monsters/16772-adult-silver-dragon"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/dragon-silver%20-%20Gui%20Sommer.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "19e32d2997ab44470f8e8d493fde1c0f3a17f846"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-silver-dragon",
+      "name": "Adult Silver Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-silver-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 88768,
+      "sha256": "6cb90bf2f263f0f83ce0a22f5261c82c21f7e5b1f5220d8181930213c06c1cb3",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1592"
+          },
+          {
+            "url": "https://www.dndbeyond.com/monsters/16772-adult-silver-dragon"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/dragon-silver%20-%20Gui%20Sommer.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "f258c2c2c80b1bcf99a6f92420b86cb6865e1f71"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-silver-dragon",
+      "name": "Adult Silver Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-silver-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 99186,
+      "sha256": "d2bd0ddcef597b7bfd7104f4e0362132b8be33cd6a6a16cf774f9c84feaee63e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1592"
+          },
+          {
+            "url": "https://www.dndbeyond.com/monsters/16772-adult-silver-dragon"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/dragon-silver%20-%20Gui%20Sommer.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "cb8cdf2558a928ab12a2339821d3ef70fdf1a4f2"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-silver-dragon",
+      "name": "Adult Silver Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/adult-silver-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 95040,
+      "sha256": "de358b2c2cd65ef9c5666560ac552bf6a8fb5a106d7da75040576dbb3e66aa26",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1592"
+          },
+          {
+            "url": "https://www.dndbeyond.com/monsters/16772-adult-silver-dragon"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/dragon-silver%20-%20Gui%20Sommer.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "901e67dfcb6f8b051b3f860b6d60754242c36692"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-void-dragon",
+      "name": "Adult Void Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-void-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 84652,
+      "sha256": "37c728fbdb01fed9d5d7635f12fc9b0f7cc8dd667bc2f46510943aac6f697817",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/posts/1698-void-dragons-when-you-gaze-into-the-void-the-void"
+          },
+          {
+            "url": "https://www.dndbeyond.com/attachments/11/279/04-051-ancient-void-dragon-compressed.jpg"
+          },
+          {
+            "url": "https://koboldpress.com/kpstore/product-category/monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "b14b89a2867a54ca24a8521432ec340316188648"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-void-dragon",
+      "name": "Adult Void Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-void-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 84916,
+      "sha256": "0c3fc0a63009944750d2c9a7aa2f536da583510237f5d34af08380519221a79f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/posts/1698-void-dragons-when-you-gaze-into-the-void-the-void"
+          },
+          {
+            "url": "https://www.dndbeyond.com/attachments/11/279/04-051-ancient-void-dragon-compressed.jpg"
+          },
+          {
+            "url": "https://koboldpress.com/kpstore/product-category/monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "6adb96f56d843c9ef2d9c1d57db33d6ca85c11ff"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-void-dragon",
+      "name": "Adult Void Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-void-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 82988,
+      "sha256": "ffe5cdd16c099a635e9630657b500336b7bfb2eab1c93c8682e82c62f6310424",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/posts/1698-void-dragons-when-you-gaze-into-the-void-the-void"
+          },
+          {
+            "url": "https://www.dndbeyond.com/attachments/11/279/04-051-ancient-void-dragon-compressed.jpg"
+          },
+          {
+            "url": "https://koboldpress.com/kpstore/product-category/monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "74fa2d347d03059168448ea45d70a1ff0ec44c28"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-void-dragon",
+      "name": "Adult Void Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/adult-void-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 85864,
+      "sha256": "0d1def5d09a193cd54910252450eb0da4b86ed49846903887051b880c8b07b76",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/posts/1698-void-dragons-when-you-gaze-into-the-void-the-void"
+          },
+          {
+            "url": "https://www.dndbeyond.com/attachments/11/279/04-051-ancient-void-dragon-compressed.jpg"
+          },
+          {
+            "url": "https://koboldpress.com/kpstore/product-category/monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "86bf9603f2ec639dfdb226027d8a13f9c7ddca04"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-wasteland-dragon",
+      "name": "Adult Wasteland Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-wasteland-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 91482,
+      "sha256": "d66ec01a5878f3abf616ec5c994570cccd85b2af3f72d935a20e9065b5001c3b",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/wasteland-dragon-adult/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          },
+          {
+            "url": "https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "30e403cc6a97f80a710893b3db8f8f86df7f0460"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-wasteland-dragon",
+      "name": "Adult Wasteland Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-wasteland-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 89054,
+      "sha256": "841d14f316fb2ca1d0a01af84c0118276bb2ff649f214218d7c411419949fee7",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/wasteland-dragon-adult/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          },
+          {
+            "url": "https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "bcb59a7e14df727b0d2ef991b1a10a9795afe3b1"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-wasteland-dragon",
+      "name": "Adult Wasteland Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-wasteland-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 86672,
+      "sha256": "6e4bf34dc7a35183e2f5ba8a8611cff4751db416985d445a725f19d1316191c5",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/wasteland-dragon-adult/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          },
+          {
+            "url": "https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "630601fe5cbd3dfa9b164db7f4c026cb3cc86af0"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-wasteland-dragon",
+      "name": "Adult Wasteland Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/adult-wasteland-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 96408,
+      "sha256": "f00e85113df3205688d6d5fb582dc40faead45a387f954ccf404549f80403b2e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/wasteland-dragon-adult/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          },
+          {
+            "url": "https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "0513db98eedde1112cdd57a383b925b3d4283a4d"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-white-dragon",
+      "name": "Adult White Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-white-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 100714,
+      "sha256": "61c1bf7839a576a05f648aae0e1bd7ec0e0f18e17198cd2df7f2d6393634e83f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16773-adult-white-dragon"
+          },
+          {
+            "url": "https://a5e.tools/node/1547"
+          },
+          {
+            "url": "https://www.dndbeyond.com/avatars/thumbnails/30782/433/1000/1000/638061962219215658.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "95a280251bdf40603d81577e0eaa0b1abc44fa73"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-white-dragon",
+      "name": "Adult White Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-white-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 91328,
+      "sha256": "44e275981c2de6f5bed4ce4f6fd5b4faaddc102b106f5c53907685225a510d27",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16773-adult-white-dragon"
+          },
+          {
+            "url": "https://a5e.tools/node/1547"
+          },
+          {
+            "url": "https://www.dndbeyond.com/avatars/thumbnails/30782/433/1000/1000/638061962219215658.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "4afb48a110a82161e5a74ac3038b159a59c72d28"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-white-dragon",
+      "name": "Adult White Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-white-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 80010,
+      "sha256": "d05cfb1a500d59e0ef81759ff52af58e41f7ee8d55b95cbff995924be1c5e195",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16773-adult-white-dragon"
+          },
+          {
+            "url": "https://a5e.tools/node/1547"
+          },
+          {
+            "url": "https://www.dndbeyond.com/avatars/thumbnails/30782/433/1000/1000/638061962219215658.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "48bdd97004256ac622b7d7b3f9cfa7238b9df02d"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-white-dragon",
+      "name": "Adult White Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/adult-white-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 91846,
+      "sha256": "702155da2005c29eca9163dbe7b32cc7fe3185d4cea3c6e52ba7105732409e03",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16773-adult-white-dragon"
+          },
+          {
+            "url": "https://a5e.tools/node/1547"
+          },
+          {
+            "url": "https://www.dndbeyond.com/avatars/thumbnails/30782/433/1000/1000/638061962219215658.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "2273dc75da4c9d006d63bd8c916bfbaa84a1b37e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-wind-dragon",
+      "name": "Adult Wind Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-wind-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 73930,
+      "sha256": "8b944a3e3d6c02f23e198ffcb15b1e59d63892970f84a92fb72a4c2d7740f730",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/dragons/dragon-wind/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-wind-adult-3pp/"
+          },
+          {
+            "url": "https://nerdarchy.com/the-dungeons-and-the-dragons-of-dungeons-dragons-wind-dragon-lairs/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "aa15fae1a7ee6aaaa4058244fb4b5e1dde547f0d"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-wind-dragon",
+      "name": "Adult Wind Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-wind-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 81990,
+      "sha256": "f22a114667465fb2665fd9b062f2ae16a58acd54c2fa8a698c547efcbc25c637",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/dragons/dragon-wind/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-wind-adult-3pp/"
+          },
+          {
+            "url": "https://nerdarchy.com/the-dungeons-and-the-dragons-of-dungeons-dragons-wind-dragon-lairs/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "93a6c5a77c4d52e3a07a505f40a409c6350f847a"
     }
   ]
 }
