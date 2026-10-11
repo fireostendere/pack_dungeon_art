@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 590,
+  "imageCount": 610,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 590,
+  "creatureImageCount": 610,
   "locationImageCount": 0,
-  "imageBytes": 52001468,
+  "imageBytes": 53766790,
   "images": [
     {
       "category": "creature",
@@ -17485,6 +17485,570 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "5a475e9241162afe32c023526fed871f3c6cd0cb"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ankou-soul-seeker",
+      "name": "Ankou Soul Seeker",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ankou-soul-seeker/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 64264,
+      "sha256": "a5a66cf8806e3be0cf33d9d76194a0eb8dfbab88f66a2d24ef16f71a031ec361",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ankou-soul-seeker/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/ankou-soul-herald/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "5c5273d789404da943e746f2d4b202fd12459da7"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ankou-soul-seeker",
+      "name": "Ankou Soul Seeker",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ankou-soul-seeker/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 80996,
+      "sha256": "3c3fd4dc9f9722cf40288e099fb98b01323f8be28c7d7a7cece4d8e33bed6d77",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ankou-soul-seeker/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/ankou-soul-herald/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "8d40129e63d408373277732fa56366a9021ca2d6"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ankylosaurus-a5e",
+      "name": "Ankylosaurus",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ankylosaurus-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 99222,
+      "sha256": "64c947f0f03dd554820ceab467304076e6dfa497a547b33e1bc042bd3fb40d4f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1489"
+          },
+          {
+            "url": "https://www.nhm.ac.uk/discover/dino-directory/ankylosaurus.html"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "dc04186e236389a05aaca8125ce6dda645019ea7"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ankylosaurus-a5e",
+      "name": "Ankylosaurus",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ankylosaurus-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 84678,
+      "sha256": "f6923d9ee370533201bf2661dd51e9124ec89bc5524deb02ed198c54674f9670",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1489"
+          },
+          {
+            "url": "https://www.nhm.ac.uk/discover/dino-directory/ankylosaurus.html"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "64d5795106663974fe0857b976decc31a5ba7548"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ankylosaurus-a5e",
+      "name": "Ankylosaurus",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ankylosaurus-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 114648,
+      "sha256": "d9a8e2bbb6cf0da44dc22a6910f31d83b2e353de32419af917ed11132dd34f92",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1489"
+          },
+          {
+            "url": "https://www.nhm.ac.uk/discover/dino-directory/ankylosaurus.html"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "4942321a5f964f01cca66d067226abe2ca840b5b"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ankylosaurus-a5e",
+      "name": "Ankylosaurus",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ankylosaurus-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 106282,
+      "sha256": "6168a7b6b25d0cbfa66abd154cafb5762d64a609b28ad359f7dff10b51aca8b1",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1489"
+          },
+          {
+            "url": "https://www.nhm.ac.uk/discover/dino-directory/ankylosaurus.html"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "520ed82333142cbd7832a801c34eb60d417d347e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "annelidast-tob1-2023",
+      "name": "Annelidast",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/annelidast-tob1-2023/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 94418,
+      "sha256": "56b2d1f39e9605c15e0816e4b3daaa23497df0e77fc0879c417a0fbf19f66375",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/annelidast/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "6a2fd46252a4c4cc219c7c4a4952593be80fb793"
+    },
+    {
+      "category": "creature",
+      "subjectId": "annelidast-tob1-2023",
+      "name": "Annelidast",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/annelidast-tob1-2023/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 88858,
+      "sha256": "4f4eee23c4f1a3f73a44a884acbd432005b5adab7e498e7f317b8becf5b17074",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/annelidast/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "11784004ead2c0b1296e1f4c6b9a11370289bdaa"
+    },
+    {
+      "category": "creature",
+      "subjectId": "annelidast-tob1-2023",
+      "name": "Annelidast",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/annelidast-tob1-2023/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 88542,
+      "sha256": "89a6e198fc0fd0a319cfa99809d486cbaa329cb09fe773c8475836877cd6cda7",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/annelidast/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "839eef0fc768c642bccd82e78f47c7b7b889267e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "annelidast-tob1-2023",
+      "name": "Annelidast",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/annelidast-tob1-2023/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 102646,
+      "sha256": "2d818827049c8d65ecec7b9d74a6f14aca5407695570e71ebac0f071a601f284",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/annelidast/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "372cbbc657c6bc6ab9a78c11d2a146e847ec7b8d"
+    },
+    {
+      "category": "creature",
+      "subjectId": "anophiloi",
+      "name": "Anophiloi",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/anophiloi/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 77384,
+      "sha256": "943de83b6b1ad8252d10fb12f9079dd5b2ba5d8ac2fff42e8c5d8d31d539c078",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/anophiloi/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "d47d01b78c08f26c98a098b06c7b2226895a0023"
+    },
+    {
+      "category": "creature",
+      "subjectId": "anophiloi",
+      "name": "Anophiloi",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/anophiloi/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 75948,
+      "sha256": "0cf2f073b5fc37dacb2466d3c6231cb13b0d16d33e6f3e9b3147b57c12cda6b4",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/anophiloi/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "e3c9209c0c139b9684f5819dcb17d61b1f2d9243"
+    },
+    {
+      "category": "creature",
+      "subjectId": "anophiloi",
+      "name": "Anophiloi",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/anophiloi/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 71564,
+      "sha256": "4d6b9a22e65eddf357e770fd76db2a140516b8e1be3f3ac31136c14ef9b79d44",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/anophiloi/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "aeaf099682a6a6e2acbf33dbdaea81eae223ad0b"
+    },
+    {
+      "category": "creature",
+      "subjectId": "anophiloi",
+      "name": "Anophiloi",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/anophiloi/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 82250,
+      "sha256": "2dfb711224b682211da36d79767c23411206af39f4c14908bcefc38e0afc406b",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/anophiloi/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "7d93d2efade383c052a8fac794df6b135639d02f"
+    },
+    {
+      "category": "creature",
+      "subjectId": "anubian",
+      "name": "Anubian",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/anubian/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 94906,
+      "sha256": "ecb1981e6415990b9304f961110c1b27a317b930d0a1a2e304f4fbf816357610",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/anubian-3pp"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "106b1559b250374c1bf2fd945e47e8b61a81cd87"
+    },
+    {
+      "category": "creature",
+      "subjectId": "anubian",
+      "name": "Anubian",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/anubian/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 77640,
+      "sha256": "9d71726e500f68a65cd14258949b802371b5d04591da2d6d0afe5f307cd66348",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/anubian-3pp"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "00bb697922b0fb7c048c136eb7edc012f211e527"
+    },
+    {
+      "category": "creature",
+      "subjectId": "anubian",
+      "name": "Anubian",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/anubian/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 82356,
+      "sha256": "771b31ee53ae0359b647a6a6ce37c6290f256a30d66c57fbc6d6cc1c3ae6ab4b",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/anubian-3pp"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "d35aa006ab1a3355845a1d6020969cbd6ea44249"
+    },
+    {
+      "category": "creature",
+      "subjectId": "anubian",
+      "name": "Anubian",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/anubian/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 93564,
+      "sha256": "bee947e1c77480760eade4e6488e5411798cf14442b141564c72811dfc1ec902",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/anubian-3pp"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "95f801b537d4a40a1a894a4399d70407f5702e7d"
+    },
+    {
+      "category": "creature",
+      "subjectId": "anzu",
+      "name": "Anzu",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/anzu/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 92026,
+      "sha256": "e5da46b07636902658d93459cf4a0256861f11b282ad962adade004c91dded15",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/anzu/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "fcdf5704bc96bca8b27b3f0c47683375e4403485"
+    },
+    {
+      "category": "creature",
+      "subjectId": "anzu",
+      "name": "Anzu",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/anzu/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 93130,
+      "sha256": "5e5bd3c5490cb9fb49cc524663c6de2d40610ddd4b21bc036797b0d785257fe1",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/anzu/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "954a848871e0ac0190dd63f304e670be8d250e6f"
     }
   ]
 }
