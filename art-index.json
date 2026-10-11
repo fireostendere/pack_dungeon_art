@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 430,
+  "imageCount": 450,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 430,
+  "creatureImageCount": 450,
   "locationImageCount": 0,
-  "imageBytes": 37967634,
+  "imageBytes": 39747060,
   "images": [
     {
       "category": "creature",
@@ -12835,6 +12835,564 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "713eb09f977f2abf613eb5303cb923f3c1fa9fba"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-imperial-dragon",
+      "name": "Ancient Imperial Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-imperial-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 116784,
+      "sha256": "89d336df2e832990366bb6d797c381adf8d783ffdef4e6145ed455e36d43880b",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/imperial-dragon-ancient/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ad8d65889853063c1880eed5b334faf449a3ac08"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-imperial-dragon",
+      "name": "Ancient Imperial Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ancient-imperial-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 103452,
+      "sha256": "bd89714df1e51cc10b7f0684a1060a6e22e579c69f900bd9a3c1e9aea09a5ee3",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/imperial-dragon-ancient/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "60f9d97c757549b59b554720309d66d93a44b600"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-light-dragon",
+      "name": "Ancient Light Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-light-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 75996,
+      "sha256": "8ba99de3df9cc8593fd9625336309c949e2b0d07376966c11d5ef98f68c6c268",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-light-ancient/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "e223e31f64562e503be59e0aab97f453dc0cb29d"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-light-dragon",
+      "name": "Ancient Light Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-light-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 75730,
+      "sha256": "4333f05a5e5c7e68eabc8e01fba4ffc73075708f9fd1b1b8dce263a6b42824ec",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-light-ancient/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "f4c775de92e0152d2993dd11dac0a2dc04474c28"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-light-dragon",
+      "name": "Ancient Light Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-light-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 88134,
+      "sha256": "c71d64fd9a2093477d62b2f0ef6f7eb3d9be3db4786c35d73f91a7a2aa244779",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-light-ancient/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "1bb1f3bb1d314177ebaf154ffee9135b96fdf69b"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-light-dragon",
+      "name": "Ancient Light Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ancient-light-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 96260,
+      "sha256": "1410abef99152b8a21252125d6db49f085fe63beec7397209767f7b240be321c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-light-ancient/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "91a3c979036c83d314531a94755f1f607a021626"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-mandriano",
+      "name": "Ancient Mandriano",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-mandriano/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 69992,
+      "sha256": "7715217ff65c054dd16f127288451813813ad7a2094c1dfb8b7339dea696c40c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/mandriano-ancient/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "727e8d0b0d435f5beef4c6472b5e8566e3e5d2a9"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-mandriano",
+      "name": "Ancient Mandriano",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-mandriano/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 70382,
+      "sha256": "832dbe0af3ae398c8b14d666b761f4c58545cf9095ed143c5575797a6fed30c7",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/mandriano-ancient/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "7de1b1411285924778bd098a5093f6f66e4a0e8d"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-mandriano",
+      "name": "Ancient Mandriano",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-mandriano/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 83102,
+      "sha256": "8c2e84e61a24ccb0725968e0a81242f0b1443243507e805e68cc27cbe4304a16",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/mandriano-ancient/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "5e6a6099d1080e185d1629ca6c2bfd68560c7186"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-mandriano",
+      "name": "Ancient Mandriano",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ancient-mandriano/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 85444,
+      "sha256": "bace944a5cf3de9f993a29eaa1ce2fab72674978e21089722d39b24178d97c3f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/mandriano-ancient/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "095bb6d817203e94376f1c8f1e80d00d641351a7"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-mithral-dragon",
+      "name": "Ancient Mithral Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-mithral-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 75272,
+      "sha256": "ec4c60e285e0cdd297f75fdd889ac1592419c4a2927fca1bce4ebef933040eaf",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-mithral-ancient-3pp/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2016/07/Tome-of-Beasts-Mithral-Dragon.pdf"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "cad9def2dccd28fdd7ca6267f6d9747e339dcb69"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-mithral-dragon",
+      "name": "Ancient Mithral Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-mithral-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 76616,
+      "sha256": "9fc967bfc1e5e62c4b54291c3f9c209e569e585df132047653065ba152b0b0cf",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-mithral-ancient-3pp/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2016/07/Tome-of-Beasts-Mithral-Dragon.pdf"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "5a00205c1c6f45be368ecc2814e31b4e925b2e0f"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-mithral-dragon",
+      "name": "Ancient Mithral Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-mithral-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 81276,
+      "sha256": "7debaaf0286903562076cc2d9ca1d89ffc3f8ecd09bcdd98e62fb650fd70fa0b",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-mithral-ancient-3pp/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2016/07/Tome-of-Beasts-Mithral-Dragon.pdf"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "68c9354854f4374c9c3698ea8723f959da36e7aa"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-mithral-dragon",
+      "name": "Ancient Mithral Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ancient-mithral-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 70248,
+      "sha256": "3bcb35a4e169dc86710a171ced58a85bccf5b2864068f126736dbb8eaa1aa6f7",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-mithral-ancient-3pp/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2016/07/Tome-of-Beasts-Mithral-Dragon.pdf"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "c23d86a9182545a03572d92b57aee6850f83fcf2"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-red-dragon",
+      "name": "Ancient Red Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-red-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 100018,
+      "sha256": "ac046280e468ccbc3bd03f13b869788ea70439d07dc44c5d9002548e7166003b",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16782-ancient-red-dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "d5df75cc48f79084e81df724f291627ed0d71ac3"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-red-dragon",
+      "name": "Ancient Red Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-red-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 94970,
+      "sha256": "e649f313b7f95bf95ea5f2cc49273b83154834c3d7de24be9473ff9431dacb76",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16782-ancient-red-dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "fea94f759900723e608e3a8fc70cfcacfd79066c"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-red-dragon",
+      "name": "Ancient Red Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-red-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 93908,
+      "sha256": "003096db03dc098c4eb373a71c72505f7e901efb7bd8c6cda51883fcca2a94b0",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16782-ancient-red-dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "69ee01ddb4fe021b55f7b42b2ab68fbd08ce425f"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-red-dragon",
+      "name": "Ancient Red Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ancient-red-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 98086,
+      "sha256": "2582e7f2602e43df18034cbdaf3dd0d8501fe0b648766f0a6f5d7b751e8318fe",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16782-ancient-red-dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "2575e9850cff37f0d615c87f97459170af328b92"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-river-dragon-a5e",
+      "name": "Ancient River Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-river-dragon-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 106192,
+      "sha256": "5e1b4ac7ba96eaa56c0073cae470441b5f73234843a352f6ec01742643171bd2",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1554"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/Dragon%2C%20river%20-%20Gui%20Sommer.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ea55b9e033f37169f8b9f1b4063be0a6834c28b0"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-river-dragon-a5e",
+      "name": "Ancient River Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-river-dragon-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 117564,
+      "sha256": "b2022a08439734265c9d775d424fbdbef11896f8658d5d0e1c78836c28fd9c4b",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1554"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/Dragon%2C%20river%20-%20Gui%20Sommer.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "18548098b10d91f7531049ad861c1a1cb11cec3e"
     }
   ]
 }
