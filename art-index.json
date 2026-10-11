@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 570,
+  "imageCount": 590,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 570,
+  "creatureImageCount": 590,
   "locationImageCount": 0,
-  "imageBytes": 50308746,
+  "imageBytes": 52001468,
   "images": [
     {
       "category": "creature",
@@ -16915,6 +16915,576 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "f669fd8b1a666c971aeb867ce5ccfda79cbc1faa"
+    },
+    {
+      "category": "creature",
+      "subjectId": "animated-offal",
+      "name": "Animated Offal",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/animated-offal/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 81400,
+      "sha256": "c30b67af7e44f46cc0d1122fb829f5ebb723803006a0a4020de16a64b25965ee",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/animated-offal/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "a8cbedfc1ab8711afacc63280110891bf66936f3"
+    },
+    {
+      "category": "creature",
+      "subjectId": "animated-offal",
+      "name": "Animated Offal",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/animated-offal/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 86508,
+      "sha256": "1cc38b73cbd2a68fb9135259722f37c952b80d069384b0d937ca7c0f837d7e19",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/animated-offal/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "936fd099d7b457ae46b4312d4a412e64f2cef26a"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ankheg",
+      "name": "Ankheg",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ankheg/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 109490,
+      "sha256": "4111cf875568188869d640120d86f032ca0888c7f057742f9b7f923a58042a22",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16787-ankheg"
+          },
+          {
+            "url": "https://a5e.tools/node/1438"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "6be2647dbd77d6cdfc61a022961b1fb1dce41b3a"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ankheg",
+      "name": "Ankheg",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ankheg/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 95062,
+      "sha256": "f36247656148404eac07ad075647a8c7567ad32315bea43f056a260cbba8b9e3",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16787-ankheg"
+          },
+          {
+            "url": "https://a5e.tools/node/1438"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "fd3a8907fb75f18cb391de67ccbce8a3fe91ae21"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ankheg",
+      "name": "Ankheg",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ankheg/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 80932,
+      "sha256": "faa98ba957a709f44331bef1421e48fb088fbc73a992d23a431b30a0503c66e9",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16787-ankheg"
+          },
+          {
+            "url": "https://a5e.tools/node/1438"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "64f88c703a6440331e89a48505e1f6a4fca794e4"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ankheg",
+      "name": "Ankheg",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ankheg/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 87274,
+      "sha256": "052e6bf1aabf21acc0211271db1e852e9468bcbded76bf88340933f85c02346e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16787-ankheg"
+          },
+          {
+            "url": "https://a5e.tools/node/1438"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ff18f40095938b4773c1b6787426bc409cd0582c"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ankheg-queen-a5e",
+      "name": "Ankheg Queen",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ankheg-queen-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 100354,
+      "sha256": "3962580aca139e81cd2d102bad1c64d227b1afd075f083da2788ac62b732d535",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1463"
+          },
+          {
+            "url": "https://a5e.tools/node/1438"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "db306ba5c104c852f903cab58f2da3768efc05ad"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ankheg-queen-a5e",
+      "name": "Ankheg Queen",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ankheg-queen-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 92152,
+      "sha256": "b393675e0377411b5b4242ab3231b41edbde7af6532dcc577167d88ecc533ffd",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1463"
+          },
+          {
+            "url": "https://a5e.tools/node/1438"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "aee05696c4621ed98730d7894c7dfa146a7900dc"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ankheg-queen-a5e",
+      "name": "Ankheg Queen",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ankheg-queen-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 89060,
+      "sha256": "ad79576e0bb9af0a97eec17d674efa9d2f55f343005f6c4730fd1e0e72af6a79",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1463"
+          },
+          {
+            "url": "https://a5e.tools/node/1438"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "f095d9811c7cf46c8a49fa9a3ed54e8d4ac686c1"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ankheg-queen-a5e",
+      "name": "Ankheg Queen",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ankheg-queen-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 102588,
+      "sha256": "2c3287013608dedcb246a175153da8d7c112fbb1cd6cd452f15a404080c6db49",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1463"
+          },
+          {
+            "url": "https://a5e.tools/node/1438"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "9b5a4662f2e425d2b0c7f4635014a1ed3b20e04d"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ankheg-spawn-a5e",
+      "name": "Ankheg Spawn",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ankheg-spawn-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 86310,
+      "sha256": "c9cc08b8bdf02d441b4cfb009f6fa4a186257f496bcd049861377f43bd9999e8",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1439"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "f961c2eda792fb2fc61e7ec0baf2c6cd84be568f"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ankheg-spawn-a5e",
+      "name": "Ankheg Spawn",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ankheg-spawn-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 82344,
+      "sha256": "b7b8708049da310cc6dc032c6311fe9c3c90a1f3d20533ba5de1182a8e03309f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1439"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "88b7e47206c2f2babd86a35d1fc767d06bad3dca"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ankheg-spawn-a5e",
+      "name": "Ankheg Spawn",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ankheg-spawn-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 90730,
+      "sha256": "a26115664cf7246bc283f2f324f60e0740013796f33a24aaef284e8f6b063985",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1439"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "81aca27e16732dc18411b17b967556559d458bde"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ankheg-spawn-a5e",
+      "name": "Ankheg Spawn",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ankheg-spawn-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 103160,
+      "sha256": "920ccb00dcd984a14259d6e0e9ec95380a5e5956ab569a3e2243421c29e6a7a2",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1439"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "483e28f6081da094e53c4c7b1c6fa7dd98a803c5"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ankou-soul-herald",
+      "name": "Ankou Soul Herald",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ankou-soul-herald/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 74244,
+      "sha256": "0681a0f000454fc9d4bc345775774eb6771c59cddcd704014d5c947c52fdd4a9",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ankou-soul-herald/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "2e23503f73f4e8975a3360b0a9e72f66e8186b41"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ankou-soul-herald",
+      "name": "Ankou Soul Herald",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ankou-soul-herald/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 68154,
+      "sha256": "4355072f9fc56367912075a72268c8ca79939cd250df2ee7f2fb15358e09fd73",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ankou-soul-herald/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "4c8daa251a5f9113ddf7f1bb2b803b7692cfa534"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ankou-soul-herald",
+      "name": "Ankou Soul Herald",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ankou-soul-herald/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 73870,
+      "sha256": "556a3acd5f04651d4473667694873067dd1c51091508271bbf80edf9f2db33ae",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ankou-soul-herald/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "8c75604fe3982ae45417130c7d34b4bab793d3f8"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ankou-soul-herald",
+      "name": "Ankou Soul Herald",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ankou-soul-herald/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 76230,
+      "sha256": "a77b459b7ac813d59713bdc0546d3a023dd55aeb6f570cd54806c1bb5c9680ba",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ankou-soul-herald/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ba0d60e47d6df7de40f57cc0445446d97397ef77"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ankou-soul-seeker",
+      "name": "Ankou Soul Seeker",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ankou-soul-seeker/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 53668,
+      "sha256": "7fa6f8014975c295d7b68e7776c242cd00d87415cf6003145cfebdea4e03fc20",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ankou-soul-seeker/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/ankou-soul-herald/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "08464fa64737f46286b2a87ad734893259e892da"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ankou-soul-seeker",
+      "name": "Ankou Soul Seeker",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ankou-soul-seeker/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 59192,
+      "sha256": "31d42e818928c09831dc03e967e61a01f4bd3e6c3b8b114dcf4ae4a525031564",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ankou-soul-seeker/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/ankou-soul-herald/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "5a475e9241162afe32c023526fed871f3c6cd0cb"
     }
   ]
 }
