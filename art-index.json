@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 630,
+  "imageCount": 650,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 630,
+  "creatureImageCount": 650,
   "locationImageCount": 0,
-  "imageBytes": 55562008,
+  "imageBytes": 57302366,
   "images": [
     {
       "category": "creature",
@@ -18607,6 +18607,564 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "371cc9969557791bca37918dae3a76c95740908a"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aphasian-abomination",
+      "name": "Aphasian Abomination",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/aphasian-abomination/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 94184,
+      "sha256": "ef08c374ecb3c947cf72ec3222346cef31a24f25cf01415c19025396f84252fd",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/aphasian-abomination/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "97d412990046fb242114d32a0c26f7183b77e5bd"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aphasian-abomination",
+      "name": "Aphasian Abomination",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/aphasian-abomination/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 86014,
+      "sha256": "c7c621a8eb4aae83903b031dd40e1c4ff68422d5acd18924b7e21a17e2374115",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/aphasian-abomination/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "7751169608831912c8a23ad2d1f77cdd6b718357"
+    },
+    {
+      "category": "creature",
+      "subjectId": "apprentice-mage-a5e",
+      "name": "Apprentice Mage",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/apprentice-mage-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 72992,
+      "sha256": "d9613d19a127583425d820e12a1d35fbe411e739d6339e3c460666f47ed1a5d4",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1860"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "f591cfd1ea61cf5e852bd971c4c5d375bf12fd09"
+    },
+    {
+      "category": "creature",
+      "subjectId": "apprentice-mage-a5e",
+      "name": "Apprentice Mage",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/apprentice-mage-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 55330,
+      "sha256": "3de85d446928a3677d42eba485f18cf3810c466ced1a312fba49935c2e142278",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1860"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "c5e657f60f52913b469994de799c1d32279b723b"
+    },
+    {
+      "category": "creature",
+      "subjectId": "apprentice-mage-a5e",
+      "name": "Apprentice Mage",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/apprentice-mage-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 73584,
+      "sha256": "a6c9e4c03b8a4b53df29703b51907dc0b0f231779ffa44546fa76fdc7b811bd2",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1860"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "5b7c4884734559c60e1b031ff1db7fb41858ed32"
+    },
+    {
+      "category": "creature",
+      "subjectId": "apprentice-mage-a5e",
+      "name": "Apprentice Mage",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/apprentice-mage-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 73666,
+      "sha256": "8fe04481f2212b4f7f681adb0376c2f04dec81d7ff12d1c6d0b1da740ece61d4",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1860"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "05a56822325ca4aa767bcaf406ef4b2d87b51692"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arachnocrat",
+      "name": "Arachnocrat",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/arachnocrat/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 79080,
+      "sha256": "188bfad8721ea52486fadc486cd2f37881be24cfb176c6fe6d91e6a695f2cbfc",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/arachnocrat/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "4f5b770ca9ff2f8f9f46916022cb0648cba6a857"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arachnocrat",
+      "name": "Arachnocrat",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/arachnocrat/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 70892,
+      "sha256": "4e8f3ccc51dc5ea3a06ebf1a4c4d76a73f87fda1ebb7fd4418663b12b748b5d7",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/arachnocrat/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "8a0c9b2b52dad18db225c68f0e09f4bb10f8be98"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arachnocrat",
+      "name": "Arachnocrat",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/arachnocrat/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 80052,
+      "sha256": "d4bfe4e4d0522f4f076199b43bdf63191da36187fcc95e9b92796d10e4a6f032",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/arachnocrat/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "85720b754d866260766eb559a72e0eadfdc68463"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arachnocrat",
+      "name": "Arachnocrat",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/arachnocrat/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 84152,
+      "sha256": "3212e3ad914ad5478c69e2aa521a836460f25f9c82eecb6a98e80cb80969e0e0",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/arachnocrat/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "6ed586738314881f1d53f29fa61a329ecbb4e664"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arbeyach",
+      "name": "Arbeyach",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/arbeyach/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 87850,
+      "sha256": "aca624f6af23c6eadf5f2505f4b77c5bd4489de521ca276d4746d57b78f2ae96",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.worldanvil.com/w/ouroboros-unknownplayer25/a/arbeyach-article"
+          },
+          {
+            "url": "https://koboldpress.com/monday-monster-ia%E2%80%99affrat-the-insatiable/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "4049fdaaef909b22ab19f77f64dbbf587fd32483"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arbeyach",
+      "name": "Arbeyach",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/arbeyach/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 98158,
+      "sha256": "e97a192bedee6614759529b5c5c38fa6e73c6d2bc4dbb68718c3392a5514d39c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.worldanvil.com/w/ouroboros-unknownplayer25/a/arbeyach-article"
+          },
+          {
+            "url": "https://koboldpress.com/monday-monster-ia%E2%80%99affrat-the-insatiable/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "67c4a3e2efc3a5f265a5595d084795345b65dea4"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arbeyach",
+      "name": "Arbeyach",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/arbeyach/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 91238,
+      "sha256": "fbe353232322c23ba73629fa8058ff9692ce478b7f6173b575ee9c57262585bc",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.worldanvil.com/w/ouroboros-unknownplayer25/a/arbeyach-article"
+          },
+          {
+            "url": "https://koboldpress.com/monday-monster-ia%E2%80%99affrat-the-insatiable/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "6a359061afd110d0a84727bc602b21ed22284fb6"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arbeyach",
+      "name": "Arbeyach",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/arbeyach/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 74730,
+      "sha256": "a5b732415955ed718d9510faf87137e6733a1fce93802e4a8d4db3b8935a641c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.worldanvil.com/w/ouroboros-unknownplayer25/a/arbeyach-article"
+          },
+          {
+            "url": "https://koboldpress.com/monday-monster-ia%E2%80%99affrat-the-insatiable/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "32d24a188f961a39e04b3012dc8309e37f35e092"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arborcyte",
+      "name": "Arborcyte",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/arborcyte/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 100602,
+      "sha256": "9abced688270acc0865affea36ec5a76256558c012887b60597c84b4fb4245bc",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/arborcyte/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "704db8a7c34387bfea8f897df59d72ae36756313"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arborcyte",
+      "name": "Arborcyte",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/arborcyte/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 104382,
+      "sha256": "a5ac24725d3ef59d026449ff01ffae11341755cf47f68867acfec4bbaf24f8c5",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/arborcyte/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "f5a7be6b2149e894fe9903a79aa2fc087b429570"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arborcyte",
+      "name": "Arborcyte",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/arborcyte/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 99684,
+      "sha256": "086781731abf25c6c6c0ae7b77c1224cfb6c0f3a7473889df92d4e7dfe9ee2f8",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/arborcyte/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "4d69ee1d905d8bb89ba4e44ba49fb8f334e1418a"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arborcyte",
+      "name": "Arborcyte",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/arborcyte/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 111170,
+      "sha256": "8af3c86e684bd21ebc59dfa210635d236567ccd3344096ca3aaa45192c1f6606",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/arborcyte/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "0b1c7b1752b28db8be582c469a2905f88407418e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arboreal-grappler",
+      "name": "Arboreal Grappler",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/arboreal-grappler/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 106198,
+      "sha256": "bc30e4fc833e0514f81ab195a959c87ce1fa6efce3e95a3ea16510143e508033",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/arboreal-grappler-3pp/"
+          },
+          {
+            "url": "https://d1vzi28wh99zvq.cloudfront.net/pdf_previews/224812-sample.pdf"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "51a0638d4612b87a310bb52d8d5dc8bb0fcdc498"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arboreal-grappler",
+      "name": "Arboreal Grappler",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/arboreal-grappler/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 96400,
+      "sha256": "a55c3d1c22c2da1d73ad9459534e6c697a6e17ad58823cd6b3b73365c5397413",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/arboreal-grappler-3pp/"
+          },
+          {
+            "url": "https://d1vzi28wh99zvq.cloudfront.net/pdf_previews/224812-sample.pdf"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "faf8a3413571d7f6a5c1a6eab0066bdfbd0cb2bd"
     }
   ]
 }
