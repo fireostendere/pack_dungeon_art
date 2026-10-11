@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 690,
+  "imageCount": 705,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 690,
+  "creatureImageCount": 705,
   "locationImageCount": 0,
-  "imageBytes": 61037762,
+  "imageBytes": 62369178,
   "images": [
     {
       "category": "creature",
@@ -20305,6 +20305,441 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "65150c01c21ebf33ed5cd66acdd7d67c160e4f7a"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archon-siege",
+      "name": "Archon, Siege",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/archon-siege/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 101878,
+      "sha256": "14f21f99ef1bb5a3966910a721bc7e5187c9d3e3d509a262391d7491c71dd0af",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/monstrous-crits-one-better-part-6/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/siege-archon/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "949b91e1f0ccc436ca2ffa7611258116b2511e67"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archon-siege",
+      "name": "Archon, Siege",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/archon-siege/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 103504,
+      "sha256": "a7d1565030b15b17387ad9872ae6ef68dbac90508f4a6d343f45208110522800",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/monstrous-crits-one-better-part-6/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/siege-archon/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "09cf0b79576a68de0b249504d2216f7294bc2d0b"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archon-ursan",
+      "name": "Archon, Ursan",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/archon-ursan/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 89214,
+      "sha256": "3ece802cafcabcd58eef6e635be91549ac3e13e3f7b39eb1baaa4f331d62ea20",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ursan-archon/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "b28a6e6a3949490f59064c156eb9a2bd923a1cd6"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archon-ursan",
+      "name": "Archon, Ursan",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/archon-ursan/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 90308,
+      "sha256": "9beaee8770a483883fd3fb96ff2b248ba19806133be6aa28e673e4769da15db2",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ursan-archon/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "c620029ff2bb3b598cf12f9ac07cdde5edb7a4b9"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archon-ursan",
+      "name": "Archon, Ursan",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/archon-ursan/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 85532,
+      "sha256": "5d7e712a0ec4ba45d661c1c2c815dede624777d4a2f3951e1d1944cdeaadf955",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ursan-archon/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "8448301f14d541bf1bedddf672c33a08bec1c3e9"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archon-ursan",
+      "name": "Archon, Ursan",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/archon-ursan/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 91466,
+      "sha256": "df9c28616e92f198f7a978a33bb953afa936ee8da224babf7913aa6399ac6412",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ursan-archon/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "7d644b9b4054562d859d6bf026d11d86164747ee"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archon-word",
+      "name": "Archon, Word",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/archon-word/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 84978,
+      "sha256": "0da984b25e0ae468684910f8741af65f168190563339ad303a9cb5d3a3e612cd",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/word-archon/"
+          },
+          {
+            "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2210470/ss_a79e160fd27187f1da53fc3634dcde28c1b68e49.1920x1080.jpg?t=1669731245"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "0dc1c74f34f506f153308ff578e179086daf8d87"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archon-word",
+      "name": "Archon, Word",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/archon-word/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 113600,
+      "sha256": "eec386f25e49a36c5e38319dea8b05f7a58e7921c4b6f567c0a3a108bab1a34e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/word-archon/"
+          },
+          {
+            "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2210470/ss_a79e160fd27187f1da53fc3634dcde28c1b68e49.1920x1080.jpg?t=1669731245"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "87eba242e9b472231a8c70a3bdb0c471fd380ddd"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archon-word",
+      "name": "Archon, Word",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/archon-word/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 86258,
+      "sha256": "d87269c5288d7be7df202f0fc4d71488488c8ba0b1b71b5b56bb2b1952f56561",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/word-archon/"
+          },
+          {
+            "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2210470/ss_a79e160fd27187f1da53fc3634dcde28c1b68e49.1920x1080.jpg?t=1669731245"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "f62bffdd392ac1f1697bcf43c69d76a4db87feab"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archon-word",
+      "name": "Archon, Word",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/archon-word/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 85296,
+      "sha256": "5947b569f1869327ee9a8e043dc4b135fca82e59b907a6570ed872be02463dce",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/word-archon/"
+          },
+          {
+            "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2210470/ss_a79e160fd27187f1da53fc3634dcde28c1b68e49.1920x1080.jpg?t=1669731245"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "a05d756868be102aa6d122dff814a1bbad067846"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archpriest-a5e",
+      "name": "Archpriest",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/archpriest-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 96134,
+      "sha256": "5586f9bde3a816eb04acfe47a6ce349c2720969a2368a89370680c6988df8830",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1872"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "201db9bc8b8ec0d562c3b806e79e7084dbd4b3cc"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archpriest-a5e",
+      "name": "Archpriest",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/archpriest-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 82638,
+      "sha256": "4b05b32d0303b392fc4c47bb943cdd1d3d837dcd39d9e7902e50b9788b321f2e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1872"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "51d46f9d07643309d7270eac8d0a0760dedf6c64"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archpriest-a5e",
+      "name": "Archpriest",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/archpriest-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 73392,
+      "sha256": "cc286459d447ce05f94df39bcfa565c9868d6afda82f7afff11e117d74b44447",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1872"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "59df862b3a70ae3ea6f33800a277f44aa5770a99"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aridni",
+      "name": "Aridni",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/aridni/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 72316,
+      "sha256": "50c9a90374b50fbbb09cc2d1c248275f2c22b41b1adadd7100ed8d68b2873609",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/races-of-midgard-aridni/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2018/06/aridni.jpg"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/aridni-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "09793963eb7dbf598ffb84007e889c4062394477"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aridni",
+      "name": "Aridni",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/aridni/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 74902,
+      "sha256": "3dfdc643ce21e461d7afb19b101a26dbe75f4829f5977bb82de2a6ad979ebfa8",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/races-of-midgard-aridni/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2018/06/aridni.jpg"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/aridni-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "4fb37af57ecbeca8637f8f19b013a34518c5e586"
     }
   ]
 }
