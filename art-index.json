@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 230,
+  "imageCount": 250,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 230,
+  "creatureImageCount": 250,
   "locationImageCount": 0,
-  "imageBytes": 19986004,
+  "imageBytes": 21544098,
   "images": [
     {
       "category": "creature",
@@ -6925,6 +6925,600 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "85ff0fd36aef9dc89345705dac77d3f5b1aaa038"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ala",
+      "name": "Ala",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ala/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 86148,
+      "sha256": "ec27e4234a768b618e33c3b679583033b539b51ef5d79ffcf6033126e607b5b8",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ala-3pp-2"
+          },
+          {
+            "url": "https://koboldpress.com/kpstore/product/errata-for-2nd-printing-pdf/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "84c372a5e3ba05c4a527502696b6d47af7d0a8b2"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ala",
+      "name": "Ala",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ala/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 97704,
+      "sha256": "44d8122fc7f51159e8e4f7d7a5e72b07cf7532f4309b87dcfd2abb4c2f0289f6",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ala-3pp-2"
+          },
+          {
+            "url": "https://koboldpress.com/kpstore/product/errata-for-2nd-printing-pdf/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "a92e9bf1010e3ee256766efdd1d5432fa65818d1"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alabaster-tree",
+      "name": "Alabaster Tree",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alabaster-tree/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 129764,
+      "sha256": "55f66eedb63ce9dcf7c83c4e17449269a9a7e6f8c455d86369ebfc7b17ec3b69",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alabaster-tree/"
+          },
+          {
+            "url": "https://www.robinloft.com/monsters/alabaster-tree/creature-codex"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "a0987fa167d33f20ccd7607585c6080b5dadc4d8"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alabaster-tree",
+      "name": "Alabaster Tree",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alabaster-tree/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 124886,
+      "sha256": "b12a96fd06f1cbec65577983b1fb375bf7de1d7758c94618892b43d05c2b0107",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alabaster-tree/"
+          },
+          {
+            "url": "https://www.robinloft.com/monsters/alabaster-tree/creature-codex"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "692218bbcef2c9c1817d03675e3500627a2d77a0"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alabaster-tree",
+      "name": "Alabaster Tree",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alabaster-tree/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 123646,
+      "sha256": "3c87aa06df5758a72f5a3334e1a4507b13a9a16146f8bf9942d88ed55e142760",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alabaster-tree/"
+          },
+          {
+            "url": "https://www.robinloft.com/monsters/alabaster-tree/creature-codex"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "b2ad5bcce078772374828a5a44dbfd750ff92b99"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alabaster-tree",
+      "name": "Alabaster Tree",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/alabaster-tree/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 135832,
+      "sha256": "1794c21c3765625b568d4937848bfd219172b5fa9b892a7b11e7032f1207eb08",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alabaster-tree/"
+          },
+          {
+            "url": "https://www.robinloft.com/monsters/alabaster-tree/creature-codex"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "7cdaf7e3167d6697249877344271ebd839e3a044"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alabroza",
+      "name": "Alabroza",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alabroza/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 67370,
+      "sha256": "a53430660cd714698c27724f8976f13fcc96b29e2600075bcae0b2f8887a4089",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alabroza/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "37c07d63aa0f103237fe5d0e240519276038dc05"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alabroza",
+      "name": "Alabroza",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alabroza/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 44864,
+      "sha256": "87bf6f2fd7714be1b86bff14d4d2aa1a31ba44e0b7d27d0d275133b3f784108e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alabroza/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "8ffc6aa6d3f508aeb017ada91183105f9aab6949"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alabroza",
+      "name": "Alabroza",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alabroza/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 60322,
+      "sha256": "d8b3aeb6dfb8cce9031565257d1ed9b4f16b582c06c94eec9f041e7a9f5b559d",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alabroza/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "817e4a27e4d3dc0efccda18cc4ebf81e16aa2fbc"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alabroza",
+      "name": "Alabroza",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/alabroza/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 62688,
+      "sha256": "0094dd65c1fa2917878e00787fec958d743a75cf8189522d5b2f21301eb251a5",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alabroza/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "210c84234ba9a7098cfaf8aeed79457da140dbda"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alabroza-bloodfiend",
+      "name": "Alabroza, Bloodfiend",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alabroza-bloodfiend/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 64528,
+      "sha256": "c27e40d518b432b6b7ea9538162819e0dd9b7774227a34a63002ebf6ac62d8a7",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alabroza-bloodfiend/"
+          },
+          {
+            "url": "https://koboldpress.com/kpstore/product/tome-of-beasts-3-pawns/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "11c5f7e3b38b6d8147ffe87f04b9a4bbee8bf133"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alabroza-bloodfiend",
+      "name": "Alabroza, Bloodfiend",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alabroza-bloodfiend/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 63396,
+      "sha256": "b69f1219a0398ca74d09bee3d3abfa21b6d155929dd1b379169e283b112f7b84",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alabroza-bloodfiend/"
+          },
+          {
+            "url": "https://koboldpress.com/kpstore/product/tome-of-beasts-3-pawns/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "6b46d37e2fbcf175bee93d998b3629a6c1d4ff8a"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alabroza-bloodfiend",
+      "name": "Alabroza, Bloodfiend",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alabroza-bloodfiend/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 55572,
+      "sha256": "ba163c9105702eff76a147de1fee1e3dcd6813e4ff8e77a80540a2cf7d8b5eed",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alabroza-bloodfiend/"
+          },
+          {
+            "url": "https://koboldpress.com/kpstore/product/tome-of-beasts-3-pawns/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "a4518e3e21044e1eee13264f960a2b487f6d4c9e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alabroza-bloodfiend",
+      "name": "Alabroza, Bloodfiend",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/alabroza-bloodfiend/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 58884,
+      "sha256": "47700bbbce69d0f469d709efc8c38e9e2ef07affd021b5046eeb9db9bdce25dc",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alabroza-bloodfiend/"
+          },
+          {
+            "url": "https://koboldpress.com/kpstore/product/tome-of-beasts-3-pawns/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "58f6e4c1c8f24b67aee332d0f9cb6693cc3f4d37"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alazai",
+      "name": "Alazai",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alazai/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 47492,
+      "sha256": "6aaeea83847f07ccc02d9867e05d9883a0e1971bac3f024675147e5f573256f8",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alazai/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "edb68130207a4b24efb5f819824a1cb827490586"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alazai",
+      "name": "Alazai",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alazai/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 72676,
+      "sha256": "99bf7ad2bef342b5b83f12e5fa3c831dc5d0420bc71c2426660717082a8b71dd",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alazai/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "8d22879db898e49ff336e318a546bb667549693c"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alazai",
+      "name": "Alazai",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alazai/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 70708,
+      "sha256": "cfbef6834be4891504cdb140e9ae1273f36bf4f9f1b437c655ed6547c4f18554",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alazai/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "0bf4e97333864c01f312052d44ba3b0f7028de8e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alazai",
+      "name": "Alazai",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/alazai/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 67840,
+      "sha256": "afc07cd14ebbce2a59bf0605b33630593fe7bdc72e7ea9a54a6a0735bef8698e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alazai/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "4f341b45c3b839149dd3d058acf93d65b57472cb"
+    },
+    {
+      "category": "creature",
+      "subjectId": "albino-death-weasel",
+      "name": "Albino Death Weasel",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/albino-death-weasel/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 60788,
+      "sha256": "2e7c1216c780e764129034cb3f95261e927d20bca09507d9dc40804c0e4d633b",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/weasel-albino-death"
+          },
+          {
+            "url": "https://koboldpress.com/expanding-codex-albino-death-weasel/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2019/08/weasel-albino-death.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "baf712bd89f63254d878b6328aa802719e38a171"
+    },
+    {
+      "category": "creature",
+      "subjectId": "albino-death-weasel",
+      "name": "Albino Death Weasel",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/albino-death-weasel/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 62986,
+      "sha256": "ffcfb1d6a089a4561e97956c79f29f36d0666b986f9e873ca2fa2a35d00d5182",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/weasel-albino-death"
+          },
+          {
+            "url": "https://koboldpress.com/expanding-codex-albino-death-weasel/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2019/08/weasel-albino-death.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "d8421ff02f7da8f864538afb888b3e50d746f99a"
     }
   ]
 }
