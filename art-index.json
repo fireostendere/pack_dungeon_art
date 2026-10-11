@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 90,
+  "imageCount": 110,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 90,
+  "creatureImageCount": 110,
   "locationImageCount": 0,
-  "imageBytes": 7745118,
+  "imageBytes": 9553454,
   "images": [
     {
       "category": "creature",
@@ -2679,6 +2679,594 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "ce17fda344111b4c3046fa119969a6b733b0a789"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-cave-dragon",
+      "name": "Adult Cave Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-cave-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 58708,
+      "sha256": "a492fc32ea5568cdbe16c1f5eca09ba4f681e98b778623a56a9c01559d263755",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-cave-adult-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "028a695e7bfb1ac018aca55786ee14dd252fcd28"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-cave-dragon",
+      "name": "Adult Cave Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/adult-cave-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 65942,
+      "sha256": "26976321e219629a47a755d43720d87624cbffc8a5cd33a08feb81ec7608811d",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-cave-adult-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "2db583ce3250dca85b694ed757c176ae0556d30c"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-copper-dragon",
+      "name": "Adult Copper Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-copper-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 95022,
+      "sha256": "05f4ce4cd7eeeac8a415acff664909ee0ee57e5cd4618b8a5c6b19821d038545",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://srd.dndtools.org/srd/monsters/monsters/core/monstersDrtoDw.html"
+          },
+          {
+            "url": "https://a5e.tools/node/1583"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "30f19a65f42bc88b612f356d60c4dcb1dffd829a"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-copper-dragon",
+      "name": "Adult Copper Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-copper-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 84310,
+      "sha256": "beaba46b8509dd13445e4ab1c02e5347fe65ddd932cd91ebeeb9727995be8310",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://srd.dndtools.org/srd/monsters/monsters/core/monstersDrtoDw.html"
+          },
+          {
+            "url": "https://a5e.tools/node/1583"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "3a42e20051667f6dfbe444425a7d3b7854baa3e5"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-copper-dragon",
+      "name": "Adult Copper Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-copper-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 95220,
+      "sha256": "b7e985e0f513311c88cf146616698c9ddcae5ea551ac23372058fd306c08ba00",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://srd.dndtools.org/srd/monsters/monsters/core/monstersDrtoDw.html"
+          },
+          {
+            "url": "https://a5e.tools/node/1583"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "6285288debf2665ca389e06a8fad574666bf32d7"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-copper-dragon",
+      "name": "Adult Copper Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/adult-copper-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 90792,
+      "sha256": "0fffd099b0049eb64d93e32603c665380fc92f286b2e1d300ab36ce54c84c3da",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://srd.dndtools.org/srd/monsters/monsters/core/monstersDrtoDw.html"
+          },
+          {
+            "url": "https://a5e.tools/node/1583"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "dd931ca01ba219bb012f025e3ba4962b3ba6f802"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-earth-dragon-a5e",
+      "name": "Adult Earth Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-earth-dragon-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 105494,
+      "sha256": "19e582f02b54351497b107255ac7d3f3405f25189b966df2e91fc33f84009044",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1551"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/dragon-earth%20-%20Gui%20Sommer.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "8bb6af415fdb40b3a10f41425bbfb9c933de4ed1"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-earth-dragon-a5e",
+      "name": "Adult Earth Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-earth-dragon-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 89412,
+      "sha256": "93c22ec46028715afc77797333aaf96d8cb081d1998e04c4fd9c1049097a5810",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1551"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/dragon-earth%20-%20Gui%20Sommer.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ff6286fb88f8d5b3a32a29e3325e13d593af58c3"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-earth-dragon-a5e",
+      "name": "Adult Earth Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-earth-dragon-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 97532,
+      "sha256": "5b7251d2074ef1b111a83a146594975d566acaf1148c1cd7c4234afcd13eca31",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1551"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/dragon-earth%20-%20Gui%20Sommer.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "d9094121ee24976f6ab4677af494d5efa765eb3e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-earth-dragon-a5e",
+      "name": "Adult Earth Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/adult-earth-dragon-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 103804,
+      "sha256": "ca4d29760619f293c4ecac2c2bf5125f122e53de2b91d5913ddf7fc4e464decf",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1551"
+          },
+          {
+            "url": "https://a5e.tools/sites/default/files/monsters/dragon-earth%20-%20Gui%20Sommer.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "f158fde472307b570cd0beb9d60603af4c7b36f9"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-emerald-dragon-a5e",
+      "name": "Adult Emerald Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-emerald-dragon-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 93534,
+      "sha256": "7f8f772bcbd3314a142c8cd680aee0a798f2cd1dcff0a1ac8c0f28fb1b8be968",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/rules/gem-dragons"
+          },
+          {
+            "url": "https://a5e.tools/node/1567"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "856143aacfe82178788f814fd946fcbd374962eb"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-emerald-dragon-a5e",
+      "name": "Adult Emerald Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-emerald-dragon-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 98426,
+      "sha256": "3dd8ef7319597f2a84c935f36121485f66fad9cebbb1d6ed75bf543cbf834aed",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/rules/gem-dragons"
+          },
+          {
+            "url": "https://a5e.tools/node/1567"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "4de4503ff89d37dfef96052464f06c2ca7f81b28"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-emerald-dragon-a5e",
+      "name": "Adult Emerald Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-emerald-dragon-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 108880,
+      "sha256": "fda5fca1f8bffeffb0b06dc8ee836cbf101a2377c4c7cbfba7fda7f9b72d1430",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/rules/gem-dragons"
+          },
+          {
+            "url": "https://a5e.tools/node/1567"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "c020b24bba81bb774a28294c5ffb077ac3516510"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-emerald-dragon-a5e",
+      "name": "Adult Emerald Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/adult-emerald-dragon-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 108666,
+      "sha256": "6026deea96796082d53f1ed9ab9970b0d3b5139677b714f4aff4eb8a411397b8",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/rules/gem-dragons"
+          },
+          {
+            "url": "https://a5e.tools/node/1567"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ea57e7528ebef45599457975c84c5947ed62915f"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-flame-dragon",
+      "name": "Adult Flame Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-flame-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 78966,
+      "sha256": "72d91fd86a6a4d937fa43705fedd01d647aa7e06d96b203e8cb02ee495589e5c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-flame-adult-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "f08193187b9ce09c1a3f177f36927b3ccaeb7230"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-flame-dragon",
+      "name": "Adult Flame Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-flame-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 91132,
+      "sha256": "194be755b755ba8606d92f0913dd5119149891f6d8133afbf4ac55fac47c4b8e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-flame-adult-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "e72bf5c415822562848be0be2d0f89d0a61852ed"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-flame-dragon",
+      "name": "Adult Flame Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-flame-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 75044,
+      "sha256": "d4b9f56f9ff962d2193ea2b3edc2ccf221d08313dc369e1e0485099ce5a7e5ed",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-flame-adult-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "b0d632aa3b5d55a67cfcf58341e83f340cd878f8"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-flame-dragon",
+      "name": "Adult Flame Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/adult-flame-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 81788,
+      "sha256": "fee0113fabc48e65f15ddcf7141a96711e517e2dd93e6b6cc5a800b842b8754b",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-flame-adult-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "757b79b84f37f7ed4f15626d1a529998a3b8cba7"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-gold-dragon",
+      "name": "Adult Gold Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-gold-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 90182,
+      "sha256": "3d4ad5e207b9ba748ebc4fae6db269081b6e97b70fa97549988f29a17921e428",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://wizkids.com/dd-icons-of-the-realms-adult-gold-dragon/"
+          },
+          {
+            "url": "https://www.dndbeyond.com/monsters/16769-adult-gold-dragon"
+          },
+          {
+            "url": "https://a5e.tools/node/1588"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "a6f4a6f44fd171a162b0a9cce90a724dd6ab42c4"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-gold-dragon",
+      "name": "Adult Gold Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-gold-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 95482,
+      "sha256": "9c2332c2f1f9fbee389f7e97a2930b606924087fe7433eb03dd971f2c692a344",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://wizkids.com/dd-icons-of-the-realms-adult-gold-dragon/"
+          },
+          {
+            "url": "https://www.dndbeyond.com/monsters/16769-adult-gold-dragon"
+          },
+          {
+            "url": "https://a5e.tools/node/1588"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "2cbbb6635f8409607b71e5fb8d04752d823ba00d"
     }
   ]
 }
