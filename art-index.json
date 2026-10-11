@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 110,
+  "imageCount": 130,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 110,
+  "creatureImageCount": 130,
   "locationImageCount": 0,
-  "imageBytes": 9553454,
+  "imageBytes": 11156754,
   "images": [
     {
       "category": "creature",
@@ -3267,6 +3267,584 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "2cbbb6635f8409607b71e5fb8d04752d823ba00d"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-gold-dragon",
+      "name": "Adult Gold Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-gold-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 98304,
+      "sha256": "6ae58a427feacf6b302b14104732e073165ffe43e7b46e4ed1912741bf84fdd2",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://wizkids.com/dd-icons-of-the-realms-adult-gold-dragon/"
+          },
+          {
+            "url": "https://www.dndbeyond.com/monsters/16769-adult-gold-dragon"
+          },
+          {
+            "url": "https://a5e.tools/node/1588"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "c56f5968e8e53a0b31912c84d52628c57fca0c24"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-gold-dragon",
+      "name": "Adult Gold Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/adult-gold-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 87564,
+      "sha256": "46e00c158aaa4a7ce9694b1ef254c4c0c3e4c0de91820bf8656aa5cebf26641f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://wizkids.com/dd-icons-of-the-realms-adult-gold-dragon/"
+          },
+          {
+            "url": "https://www.dndbeyond.com/monsters/16769-adult-gold-dragon"
+          },
+          {
+            "url": "https://a5e.tools/node/1588"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "fef2c8a78d5b457243adb14ac36885e8979a1a15"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-green-dragon",
+      "name": "Adult Green Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-green-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 89508,
+      "sha256": "cf7b1c306c1aad1ce217291b4fcba7f0ba5e144609a146aad37c9a447f849a2e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16770-adult-green-dragon"
+          },
+          {
+            "url": "https://a5e.tools/node/1537"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "5fa7c709f2090d5ec86b015d1b7b28634963c01f"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-green-dragon",
+      "name": "Adult Green Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-green-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 85320,
+      "sha256": "ddf2589ed916b34274355050a1354b11d49a1166da9657085905e68778ba3b3a",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16770-adult-green-dragon"
+          },
+          {
+            "url": "https://a5e.tools/node/1537"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "9463df33e402aa385011e07c0f059142e45f153e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-green-dragon",
+      "name": "Adult Green Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-green-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 84642,
+      "sha256": "af637b6d33a5887d11893b3979d3a1c6706edaa480070e56d2f9c025b4bb5ebf",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16770-adult-green-dragon"
+          },
+          {
+            "url": "https://a5e.tools/node/1537"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "6dfcebd3ea8f29c9ab516d6d0a9d5827c2ab6a6d"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-green-dragon",
+      "name": "Adult Green Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/adult-green-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 80670,
+      "sha256": "cf167ca559202f9e1e3cea0c274cde7d16dfc7a0628e7392aa8d17840cf0ac83",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16770-adult-green-dragon"
+          },
+          {
+            "url": "https://a5e.tools/node/1537"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "729b1932dfcf7d32f556c4bc5c73ff32d1bd70b3"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-imperial-dragon",
+      "name": "Adult Imperial Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-imperial-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 95780,
+      "sha256": "5361d8d6c57347d964ce0aca32cbc36b2a72ef5bfe8142b88b81a5cb0e583f1c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/imperial-dragon-adult/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "248c8ab2c7f5ca14f7335f033f7d3a00099c81cc"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-imperial-dragon",
+      "name": "Adult Imperial Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-imperial-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 86846,
+      "sha256": "f5196240f31bf993b10ca1f8406487f668ff499704cca78e69ff59f73e3a7866",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/imperial-dragon-adult/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "2f9d2541cf04fb9391bd31516584f9fcff2757ca"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-imperial-dragon",
+      "name": "Adult Imperial Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-imperial-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 102652,
+      "sha256": "6225316e5d5dc95f60173cf8f82b8f418d25982a9f8766f68c45f1678e7cc32a",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/imperial-dragon-adult/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "c768a747a16d1a291c38f79a6c593abc2bc4b1d3"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-imperial-dragon",
+      "name": "Adult Imperial Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/adult-imperial-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 91778,
+      "sha256": "2f72a1b8bd343c19dd300b56f63192648de5b439bcf021c482f694c1114e1aa1",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/imperial-dragon-adult/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "931f77ab10c22db31219eb6ffc5b1829accfd421"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-light-dragon",
+      "name": "Adult Light Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-light-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 61090,
+      "sha256": "46fe3341c71d6b3d32eabe1fce9772cf7436c7c8dcc26ef361f59731ceef2eff",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-light-adult/"
+          },
+          {
+            "url": "https://marketplace.roll20.net/browse/set/12759/monsters-dragons-and-drakes"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ced4c567255dbaeea161176ed6dfb6528dc3d6e1"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-light-dragon",
+      "name": "Adult Light Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-light-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 71542,
+      "sha256": "1c6c1b365a5ba14943e843bc53af243f97f8eccc42c0df28aa8c1cb56e9ffcf1",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-light-adult/"
+          },
+          {
+            "url": "https://marketplace.roll20.net/browse/set/12759/monsters-dragons-and-drakes"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "60b8ecc80a56ae3c168f36aea1e96e17a0ea125e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-light-dragon",
+      "name": "Adult Light Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-light-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 66470,
+      "sha256": "2b79cd90a83d836fb70e333c5725d4700d36450930df6e6dd77b77c3fe2cdc54",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-light-adult/"
+          },
+          {
+            "url": "https://marketplace.roll20.net/browse/set/12759/monsters-dragons-and-drakes"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "48327ac1ede5f301704fd3f9fe8c87e9ed80501f"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-light-dragon",
+      "name": "Adult Light Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/adult-light-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 66312,
+      "sha256": "26a0312fc9165cddcadce69b4f9c43bd9fefb2ec74589d8d9fa73675a4546dba",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-light-adult/"
+          },
+          {
+            "url": "https://marketplace.roll20.net/browse/set/12759/monsters-dragons-and-drakes"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "dd292d6f263586e5e6dcad893f087cd2f56c05d9"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-mithral-dragon",
+      "name": "Adult Mithral Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-mithral-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 55316,
+      "sha256": "84d4fa975b99c7f75fffcdd1b55bd9485eed9096db46c220beeeee825684bca7",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2016/07/Tome-of-Beasts-Mithral-Dragon.pdf"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-mithral-adult-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "055e9b912d0a4569d37937e3824fcd86cbf1d445"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-mithral-dragon",
+      "name": "Adult Mithral Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-mithral-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 74848,
+      "sha256": "84df073bc76682ae4e27307e0cf45e720038c60d4fbcb43c718dda4e9f47e47d",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2016/07/Tome-of-Beasts-Mithral-Dragon.pdf"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-mithral-adult-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "617177452c800a0f8aeb4839b953e4b2eba6be37"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-mithral-dragon",
+      "name": "Adult Mithral Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-mithral-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 73792,
+      "sha256": "39bb4f17eec916269a7f3bd949bb6cf4ec4ca45cfddbbde4f21396c9680c420a",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2016/07/Tome-of-Beasts-Mithral-Dragon.pdf"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-mithral-adult-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "2ac7fb7c60f7980a061045fbf886a9a38f5ffbc0"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-mithral-dragon",
+      "name": "Adult Mithral Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/adult-mithral-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 67560,
+      "sha256": "04f77fdba90962db99d0f0ac5255bffbc6fc0705a4df3e5e5ef737119326f7c2",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2016/07/Tome-of-Beasts-Mithral-Dragon.pdf"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-mithral-adult-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "41321dba00108c22e78905d35b5fe2e700ca575e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-red-dragon",
+      "name": "Adult Red Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-red-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 83242,
+      "sha256": "d739e3884618028ada6520a36f3aaa39f1eb8f56d617cce7eba116c1b41096d7",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "dc4863cb5ae5679abd88f7685124e22fdc03c202"
+    },
+    {
+      "category": "creature",
+      "subjectId": "adult-red-dragon",
+      "name": "Adult Red Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/adult-red-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 80064,
+      "sha256": "cdddd1ad7d7a9b8b223ba0aeb2a71e6ab4b38da78f7b05adc6d2190fdda5cf7f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "9d5dae685599523a0dd5eb41b463897b9a893508"
     }
   ]
 }
