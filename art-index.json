@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 550,
+  "imageCount": 570,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 550,
+  "creatureImageCount": 570,
   "locationImageCount": 0,
-  "imageBytes": 48577128,
+  "imageBytes": 50308746,
   "images": [
     {
       "category": "creature",
@@ -16375,6 +16375,546 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "bf3efc04f8bb88f1550b3048d7c0c7c8e32562d8"
+    },
+    {
+      "category": "creature",
+      "subjectId": "animated-armor",
+      "name": "Animated Armor",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/animated-armor/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 97518,
+      "sha256": "891444dd9b624af0dbae52d386b4150cbfe3adb01b9d6faac164898f7ad13752",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16786-animated-armor"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "cedf12f39108c0a970913c19c44f6b08ef246400"
+    },
+    {
+      "category": "creature",
+      "subjectId": "animated-armor",
+      "name": "Animated Armor",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/animated-armor/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 85946,
+      "sha256": "e8969297e4ee071e2c4eb7e1cc21358e3a57bb3574901c5f70855988746153e5",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16786-animated-armor"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "eadd5349402371eb157ef67c75f1b025de723568"
+    },
+    {
+      "category": "creature",
+      "subjectId": "animated-bearskin-rug",
+      "name": "Animated Bearskin Rug",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/animated-bearskin-rug/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 75892,
+      "sha256": "8f88c8175219392da5e02ca288a0747a0f0a8f1f4530a76ef0bf8a59bd43df1e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/animated-bearskin-rug/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "5e23ee438ec533dba2fabc498e2788b83a682291"
+    },
+    {
+      "category": "creature",
+      "subjectId": "animated-bearskin-rug",
+      "name": "Animated Bearskin Rug",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/animated-bearskin-rug/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 75300,
+      "sha256": "06a50e3a804294041876539eead226010f0aea5cc744a04c03dbd2b393b7f986",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/animated-bearskin-rug/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "0c9c097eee33dab1a97d555605d2a3f54dc9ade8"
+    },
+    {
+      "category": "creature",
+      "subjectId": "animated-bearskin-rug",
+      "name": "Animated Bearskin Rug",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/animated-bearskin-rug/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 90026,
+      "sha256": "0754afe6a7c089769e85e63731e05f0dfb22e68fa7e216e651fb69e99631934e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/animated-bearskin-rug/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "35d4e934a9448ea0ada71610ddeeedf06b70da85"
+    },
+    {
+      "category": "creature",
+      "subjectId": "animated-bearskin-rug",
+      "name": "Animated Bearskin Rug",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/animated-bearskin-rug/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 80544,
+      "sha256": "99799beb4682232a803f3bf404dc9aa410e6bbe62604e38d6652263644c0c3dd",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/animated-bearskin-rug/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "6551b3d4ebe910f7466bec84ac2f3587b0deaeb0"
+    },
+    {
+      "category": "creature",
+      "subjectId": "animated-instrument",
+      "name": "Animated Instrument",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/animated-instrument/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 69636,
+      "sha256": "cdc60dbe3a4376530eefcdd4269ce88d94e95ad0e6417ae08e6361b389af9392",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/animated-instrument/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "261a38b6bfd55219aeb4bb1f0decb34c181a2e34"
+    },
+    {
+      "category": "creature",
+      "subjectId": "animated-instrument",
+      "name": "Animated Instrument",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/animated-instrument/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 60582,
+      "sha256": "faa4a9e17e1f66f0011119071fcf4f30998f35aa66b93c1782b2a7020f8a0ac6",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/animated-instrument/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "1abbf7cd6db9258742e08bd1f6e6f1728168dd80"
+    },
+    {
+      "category": "creature",
+      "subjectId": "animated-instrument",
+      "name": "Animated Instrument",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/animated-instrument/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 65240,
+      "sha256": "e591c7a9502cd534492d5f3613627a8255bdbd887d3baf0a18ff1d9507e4b490",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/animated-instrument/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "5cd7bd4d93b18b25e14167a452f111e408eab908"
+    },
+    {
+      "category": "creature",
+      "subjectId": "animated-instrument",
+      "name": "Animated Instrument",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/animated-instrument/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 55136,
+      "sha256": "6497d6ee9835ca7b0f8ad030d807935efc72e2850766cd361e46427c4c9a6d37",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/animated-instrument/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "e385c7ecbffee23d214fd1cb6fa5c072371dbf2e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "animated-instrument-quartet",
+      "name": "Animated Instrument, Quartet",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/animated-instrument-quartet/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 94282,
+      "sha256": "5bb58b1833d6054c5944b87317da817efaf9c0ab0e48c899295146ec7bf5ca44",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/animated-quartet/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "f8e5b27a896d17239d98fad069797d9c2974b0a9"
+    },
+    {
+      "category": "creature",
+      "subjectId": "animated-instrument-quartet",
+      "name": "Animated Instrument, Quartet",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/animated-instrument-quartet/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 95352,
+      "sha256": "d5bca9d80b5a7e082867cd433bfe18bdfd252bc53fff6b92938da6426bacf8b2",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/animated-quartet/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "487c835898ddd037d44249bfbc776c99b04dd2c3"
+    },
+    {
+      "category": "creature",
+      "subjectId": "animated-instrument-quartet",
+      "name": "Animated Instrument, Quartet",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/animated-instrument-quartet/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 89652,
+      "sha256": "112eca1ad783b24edf6588c87fb76fc8172bf9e552a2547b2984fc163c891bea",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/animated-quartet/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "f053a1fe3dbd34df4b8408c43a1c4eed2227104c"
+    },
+    {
+      "category": "creature",
+      "subjectId": "animated-instrument-quartet",
+      "name": "Animated Instrument, Quartet",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/animated-instrument-quartet/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 74394,
+      "sha256": "39a70842938309c988d7107ce19af84daeaee32a881650a373551c9cf6ad3173",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/animated-quartet/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "356b813aa8c1e5081381e9401b35bab9612bfeb8"
+    },
+    {
+      "category": "creature",
+      "subjectId": "animated-instrument-symphony",
+      "name": "Animated Instrument, Symphony",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/animated-instrument-symphony/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 123368,
+      "sha256": "08c0f2300e193b8a0b6d9d00d911a92746b381b4bbedec90327a8de3a110b56b",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/animated-symphony/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "e5206993acf2cfc2c7fcbe5dd3fab1718b2aa135"
+    },
+    {
+      "category": "creature",
+      "subjectId": "animated-instrument-symphony",
+      "name": "Animated Instrument, Symphony",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/animated-instrument-symphony/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 114468,
+      "sha256": "8880914d989b41d1f108d2efe3253e20179663e00553910d70f366af97579c7a",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/animated-symphony/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "3801302ae6ea944928e371bae121762ce40990c5"
+    },
+    {
+      "category": "creature",
+      "subjectId": "animated-instrument-symphony",
+      "name": "Animated Instrument, Symphony",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/animated-instrument-symphony/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 107156,
+      "sha256": "e8a047cae6502e46c3a60abb29ce90632a9164cbd180955767c57dc3327da860",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/animated-symphony/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "102d8ae688e1059aab11eb8014144acb3bca4b0b"
+    },
+    {
+      "category": "creature",
+      "subjectId": "animated-instrument-symphony",
+      "name": "Animated Instrument, Symphony",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/animated-instrument-symphony/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 111872,
+      "sha256": "acdd2f813aec5a6f5a2d6dfb8b1a5b6b73a10916fdc4140e28706c9e7b8023be",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/animated-symphony/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "e9b11f416682c8d4e58e6630d7b88362006961fe"
+    },
+    {
+      "category": "creature",
+      "subjectId": "animated-offal",
+      "name": "Animated Offal",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/animated-offal/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 77866,
+      "sha256": "7d5b303506712f065ed41b684d406267c0c7876a79b477f309a8e2cb6d3c535e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/animated-offal/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "a7b0085fad2940a08f915e5594e9ea995063049c"
+    },
+    {
+      "category": "creature",
+      "subjectId": "animated-offal",
+      "name": "Animated Offal",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/animated-offal/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 87388,
+      "sha256": "075cf890c3f9669dfa93d77999d074766695b1ffc70f3b8802299d4aec9209c9",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/animated-offal/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "f669fd8b1a666c971aeb867ce5ccfda79cbc1faa"
     }
   ]
 }
