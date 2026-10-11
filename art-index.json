@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 610,
+  "imageCount": 630,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 610,
+  "creatureImageCount": 630,
   "locationImageCount": 0,
-  "imageBytes": 53766790,
+  "imageBytes": 55562008,
   "images": [
     {
       "category": "creature",
@@ -18049,6 +18049,564 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "954a848871e0ac0190dd63f304e670be8d250e6f"
+    },
+    {
+      "category": "creature",
+      "subjectId": "anzu",
+      "name": "Anzu",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/anzu/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 112006,
+      "sha256": "00e3dd18044c8c9c429120772057d90934b72435784f9de0632d3becfc83ebec",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/anzu/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "073f039e58e311d0b446a0eefcad6c0d47ff92a2"
+    },
+    {
+      "category": "creature",
+      "subjectId": "anzu",
+      "name": "Anzu",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/anzu/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 105512,
+      "sha256": "de43f95d420d4a1dd79d1d5977fac283bacabe83010ce5db63b3bc11d69cc9f4",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/anzu/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "67f9233ff886402c6c65726678dc029ef2a06481"
+    },
+    {
+      "category": "creature",
+      "subjectId": "apau-perape",
+      "name": "Apau Perape",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/apau-perape/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 87558,
+      "sha256": "57b9c40513648473cb0120af458aad403879eae9604f4bd39975baf2f522b91c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/demon-apau-perape-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "1948968c7744c225ce8bcc0c72ac302530bd1056"
+    },
+    {
+      "category": "creature",
+      "subjectId": "apau-perape",
+      "name": "Apau Perape",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/apau-perape/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 83960,
+      "sha256": "f3a049327c11394817fbbd44ff2800ae12c878ebb9042984af57c68158f47010",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/demon-apau-perape-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "b1bea4a7deaf6c917b905d7040376dc97592c255"
+    },
+    {
+      "category": "creature",
+      "subjectId": "apau-perape",
+      "name": "Apau Perape",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/apau-perape/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 64518,
+      "sha256": "f0298629fcd8bc300630f1040cc9332afeffc8b2e57590e824a7bc0bfd1c9048",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/demon-apau-perape-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "84efe1b5444084ac9182183ad0d25f8f44f9868b"
+    },
+    {
+      "category": "creature",
+      "subjectId": "apau-perape",
+      "name": "Apau Perape",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/apau-perape/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 75732,
+      "sha256": "59de949f1756dc718982be1de63eeefef30b6ef936f371ef81d5c185423dd26c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/demon-apau-perape-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "c33fbdd546a35af9f5d46d35367e5716393644bb"
+    },
+    {
+      "category": "creature",
+      "subjectId": "apaxrusl",
+      "name": "Apaxrusl",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/apaxrusl/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 79526,
+      "sha256": "15f64400092dcafb7a6a4d529c9db3442befe8db1310170bac58cd2be6506701",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/apaxrusl/"
+          },
+          {
+            "url": "https://koboldpress.com/tome-unbound-apaxrusl/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "fd53ec2877cf309a22722905f4e69d1ca11419a9"
+    },
+    {
+      "category": "creature",
+      "subjectId": "apaxrusl",
+      "name": "Apaxrusl",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/apaxrusl/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 92896,
+      "sha256": "4c42be1c6ba9f591f626d762e77a655f27bd29010e2746182113ebe9d597095f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/apaxrusl/"
+          },
+          {
+            "url": "https://koboldpress.com/tome-unbound-apaxrusl/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "c22ac75ff02ab3391e6d76a140d7c33a3a95f9ea"
+    },
+    {
+      "category": "creature",
+      "subjectId": "apaxrusl",
+      "name": "Apaxrusl",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/apaxrusl/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 110586,
+      "sha256": "f67ddc6862c9149e44e3525d72afde91ec68494804e1b56eccfd14260b2690ba",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/apaxrusl/"
+          },
+          {
+            "url": "https://koboldpress.com/tome-unbound-apaxrusl/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "d56574229d96ceb06b09cf06e7e3102230c47396"
+    },
+    {
+      "category": "creature",
+      "subjectId": "apaxrusl",
+      "name": "Apaxrusl",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/apaxrusl/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 84836,
+      "sha256": "4766cc20a0439c3b52d7e12e9f1d74166efd8e96b1ebe71f7effa32ca9e6d1e6",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/apaxrusl/"
+          },
+          {
+            "url": "https://koboldpress.com/tome-unbound-apaxrusl/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "50415e46a6f9f791c15e3ce2e7c98b6347857c39"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ape",
+      "name": "Ape",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ape/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 99512,
+      "sha256": "df5e33fe1aa73dacc0accf6c3691c7007c26903c1d3056e0c8319a3a72c625bd",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16788-ape"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "c2be1c90bc8df1538a51f9f7b91f653df440b906"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ape",
+      "name": "Ape",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ape/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 89336,
+      "sha256": "e98035dc663b91c169dbf4a245da30cce2767b59b1636b47a1f5a6642be0b710",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16788-ape"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "02e550a7c8671b0565ad1936f93eb4c79e553ed0"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ape",
+      "name": "Ape",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ape/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 81888,
+      "sha256": "16005481099fefa183a419e8b4e5b079743c8cc795d34f9c9918611f61183a5e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16788-ape"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "b2180537faf68feb4d66496f407fbb81c39ce392"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ape",
+      "name": "Ape",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ape/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 80700,
+      "sha256": "5469ad7813583f0235a7937b89fba65a5088a09f6af35db2798c8e38f5272793",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16788-ape"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "0ad863b2593c7b99e3b6b605bc880a282c638bee"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ape_giant_bf",
+      "name": "Ape, Giant",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ape_giant_bf/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 88872,
+      "sha256": "eb86dd89f6cbb698dc2108f7c95b0ece9d19b481bfe5db501733b66eaca56e22",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://bfrd.net/rules/monsters/beasts"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "1fb278c5e14ffc53b7fc29f568edb6e551e40f01"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ape_giant_bf",
+      "name": "Ape, Giant",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ape_giant_bf/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 95754,
+      "sha256": "c03ec5c9ec8e45fbfefbc36fd46f7da4d271c45db01d62546e74a4ea2932ef61",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://bfrd.net/rules/monsters/beasts"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "71521568d4244b5730e339c7df5d534c8c3bc2ed"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ape_giant_bf",
+      "name": "Ape, Giant",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ape_giant_bf/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 96380,
+      "sha256": "2d1742d5a4bde84962f263d7c94b06e6a306f552cda5ae6a59fa8b1d3ea81931",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://bfrd.net/rules/monsters/beasts"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "00546622676f1c451da5e275c41d1685348be29e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ape_giant_bf",
+      "name": "Ape, Giant",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ape_giant_bf/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 81990,
+      "sha256": "7e3401e43d9824ce5e5da602d9fa958a0fc7a80dc4c9b470c2c4fb1f9d722774",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://bfrd.net/rules/monsters/beasts"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "42f8839560a93e33299c4fe2172071d6c9d24318"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aphasian-abomination",
+      "name": "Aphasian Abomination",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/aphasian-abomination/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 94470,
+      "sha256": "efa1fbd8a695fe5d1296445f2d49251fd5cdf03c3012605567f14fc06dba3e21",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/aphasian-abomination/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "221800702514d5c33eda13d12f65661c6187a182"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aphasian-abomination",
+      "name": "Aphasian Abomination",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/aphasian-abomination/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 89186,
+      "sha256": "518a79e5401255f8acfc05a8b8811eff5554f8126061f80cc431dfe7f10b3a1b",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/aphasian-abomination/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "371cc9969557791bca37918dae3a76c95740908a"
     }
   ]
 }
