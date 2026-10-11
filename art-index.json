@@ -1,0 +1,1466 @@
+{
+  "schemaVersion": 1,
+  "language": "en",
+  "repository": "fireostendere/pack_dungeon_art",
+  "imageStorage": "individual-files",
+  "migrationStatus": "in-progress",
+  "imageCount": 50,
+  "plannedReadyImageCount": 5680,
+  "creatureImageCount": 50,
+  "locationImageCount": 0,
+  "imageBytes": 4359104,
+  "images": [
+    {
+      "category": "creature",
+      "subjectId": "a-mi-kuk",
+      "name": "A-mi-kuk",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/a-mi-kuk/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 87372,
+      "sha256": "da12da0eff2d93106f8f000383e2d803254f8f012904bba0b26beae1e8f7cbed",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/a-mi-kuk/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "923108bd90a2b69edbe05ba33b84b693a94b1d7e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "a-mi-kuk",
+      "name": "A-mi-kuk",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/a-mi-kuk/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 99100,
+      "sha256": "ec7feebbe55a16f3277af13a6ecc22dda8edb62fb305766ce48421dd8abfb1cd",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/a-mi-kuk/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "26cca5a880f3fa4bf6f98c656c74e1a2e04ff99e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "a-mi-kuk",
+      "name": "A-mi-kuk",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/a-mi-kuk/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 86262,
+      "sha256": "21464d4f2e71338f37d264014830d33a2e0bcc479dff51f20a203183cd440b1e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/a-mi-kuk/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "44802f0b3b0bd5464baa3247e22f4bd0db10f620"
+    },
+    {
+      "category": "creature",
+      "subjectId": "a-mi-kuk",
+      "name": "A-mi-kuk",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/a-mi-kuk/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 88390,
+      "sha256": "4764d5061c15ca790f46bb8fcfd2d17be072cffe01a5ca582485b5ccb338ad2f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/a-mi-kuk/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ee2861030bf9ccaac12908183644f0f06ad733bd"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aalpamac",
+      "name": "Aalpamac",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/aalpamac/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 105876,
+      "sha256": "b992b3adf9dabba4450c32764af72923c983095f7f375dff4504ca14846d4acb",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://github.com/open5e/open5e-api/blob/staging/data/v1/tob2/Monster.json"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "d6fcdbfde08aad174eb7a7ea474711b8611be9ee"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aalpamac",
+      "name": "Aalpamac",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/aalpamac/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 102688,
+      "sha256": "a4261c0f2327b07f9a6017856555f8b0c2e2d51a0b3ce991161bd0c565a61dee",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://github.com/open5e/open5e-api/blob/staging/data/v1/tob2/Monster.json"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "f4cc15a7163e0e55613db6e11b20a8c92800a027"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aalpamac",
+      "name": "Aalpamac",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/aalpamac/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 90988,
+      "sha256": "84525c9a56c56e947c0db87db13a439f6b100f9e102e4b4fd0c4a5049177f59b",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://github.com/open5e/open5e-api/blob/staging/data/v1/tob2/Monster.json"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "efc11cdcd48835fcec3d0812118b18c99248ec97"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aalpamac",
+      "name": "Aalpamac",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/aalpamac/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 86888,
+      "sha256": "bc34db56a9b2507272c0d19ff32d4f999eec16dfc613f14d6444d56af4120aea",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://github.com/open5e/open5e-api/blob/staging/data/v1/tob2/Monster.json"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "47ad121ea99e913727e6dc2248c07615d3fdcc5e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aatxe",
+      "name": "Aatxe",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/aatxe/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 54334,
+      "sha256": "e82ac788b5329067148dee533069aff69b62ecf59becb5b76a22554f226bc926",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://d1vzi28wh99zvq.cloudfront.net/pdf_previews/252157-sample.pdf"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "282f448d7b75098a23a9da8b7e11bcde38dffeb9"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aatxe",
+      "name": "Aatxe",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/aatxe/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 75332,
+      "sha256": "94c348000d2159489d4be8f9785790f8e7b459817fb20f2cfcbb41afdab5eb40",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://d1vzi28wh99zvq.cloudfront.net/pdf_previews/252157-sample.pdf"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "14ab6ce505a866eda129eddda113bdbf4dbb9bd3"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aatxe",
+      "name": "Aatxe",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/aatxe/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 96786,
+      "sha256": "8bc7dbf4db0bd326a121170b00f5a7b3cb62d8df60380c2ad652ff7da80927f2",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://d1vzi28wh99zvq.cloudfront.net/pdf_previews/252157-sample.pdf"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "7037f7f7d5c97e0013957a11a81be7ede188af52"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aatxe",
+      "name": "Aatxe",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/aatxe/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 80424,
+      "sha256": "217de138339b07d84ced893bc693f118324c782686110e5883758f0f671e734c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://d1vzi28wh99zvq.cloudfront.net/pdf_previews/252157-sample.pdf"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "8d354e1a9ae1ca3339cf49636a7df73b45a5d4f5"
+    },
+    {
+      "category": "creature",
+      "subjectId": "abaasy",
+      "name": "Abaasy",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/abaasy/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 92590,
+      "sha256": "ee4cc7410d06b0b666cc36bbb92019a0bce78b42386f3dc7275fafa92382d1e5",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://kpogl.wikidot.com/monster%3Aabaasy"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "8fdeef0fc9a460704a674605001acfa8cc14e845"
+    },
+    {
+      "category": "creature",
+      "subjectId": "abaasy",
+      "name": "Abaasy",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/abaasy/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 92874,
+      "sha256": "2764719aef9fa4459e9b87d80b5687bfec5464daed042f05cc6fe0f97040fd54",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://kpogl.wikidot.com/monster%3Aabaasy"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "2fc0645e4b0c32838bbac871aefb3ba482b22004"
+    },
+    {
+      "category": "creature",
+      "subjectId": "abaasy",
+      "name": "Abaasy",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/abaasy/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 91920,
+      "sha256": "b7acb422b61ef279446b8183fb42fe86a736c3500dd051bf4f65ef0db5797ecd",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://kpogl.wikidot.com/monster%3Aabaasy"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "a5a5fac66c3bf8a5b941d56a117692cd50e217b4"
+    },
+    {
+      "category": "creature",
+      "subjectId": "abaasy",
+      "name": "Abaasy",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/abaasy/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 87756,
+      "sha256": "6838da2534a582cd7a60aec446686c0ea99a5a6bab6aae4fd42beeac883b5e19",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://kpogl.wikidot.com/monster%3Aabaasy"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "d0281ffed3256b23348f0cc77fa090b5f00579a8"
+    },
+    {
+      "category": "creature",
+      "subjectId": "abbanith-giant",
+      "name": "Abbanith Giant",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/abbanith-giant/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 112752,
+      "sha256": "e12867b1124b2c7975128d6c44cb05d12c462331c2e22444a1c0fa5206bcd42c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://github.com/open5e/open5e-api/blob/staging/data/v1/tob2/Monster.json"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "2cbf48bf212bc3daf948a1a2368483c6b7a74ee2"
+    },
+    {
+      "category": "creature",
+      "subjectId": "abbanith-giant",
+      "name": "Abbanith Giant",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/abbanith-giant/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 95750,
+      "sha256": "3f6a12c30543a14f557288919036c8ea4f8f305df63e8ae445082d756788b4d1",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://github.com/open5e/open5e-api/blob/staging/data/v1/tob2/Monster.json"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "039c1ca100cb3f829cbc95428c567d325d3fd24c"
+    },
+    {
+      "category": "creature",
+      "subjectId": "abbanith-giant",
+      "name": "Abbanith Giant",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/abbanith-giant/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 86716,
+      "sha256": "ef6178a8ce25d415c107b8b1891627d06f4bd9c6fe2ecb902a28b5c0cd6b1306",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://github.com/open5e/open5e-api/blob/staging/data/v1/tob2/Monster.json"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "05697eb3b2bdd073ab557d2ca1abdb57a72b2b1f"
+    },
+    {
+      "category": "creature",
+      "subjectId": "abbanith-giant",
+      "name": "Abbanith Giant",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/abbanith-giant/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 76582,
+      "sha256": "0d9dd8e1d0141cd0f2d8089b4dbb039ba41fbba062481b4cc44bc89c8e23bf21",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://github.com/open5e/open5e-api/blob/staging/data/v1/tob2/Monster.json"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "6ba4764c00dad0888d8c6c4b6a627fa7183221a3"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aboleth",
+      "name": "Aboleth",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/aboleth/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 86512,
+      "sha256": "c91e7b6f086797229caeb330b99e8d832e866571c2a6a0c73c24b044b613ed3c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1432"
+          },
+          {
+            "url": "https://www.dndbeyond.com/monsters/5194867-aboleth"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ba4608c0382e1bb778aca36ed8f6d99da507c09d"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aboleth",
+      "name": "Aboleth",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/aboleth/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 74248,
+      "sha256": "d96423db2216f60af78d439926e398576da439bd807834e95c3d833ee41d2d94",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1432"
+          },
+          {
+            "url": "https://www.dndbeyond.com/monsters/5194867-aboleth"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "b3355c5135d8bf535019773639b069356ca05f09"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aboleth",
+      "name": "Aboleth",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/aboleth/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 82548,
+      "sha256": "3dfd4a21046cb3dea20a0917de5d2e3ee013d8529471b6f607b35a8d161ef06c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1432"
+          },
+          {
+            "url": "https://www.dndbeyond.com/monsters/5194867-aboleth"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "8e9667abf07cf03f7e780d5c6dce266904548628"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aboleth",
+      "name": "Aboleth",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/aboleth/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 89492,
+      "sha256": "735f61d4debef318cf0f1eff755934c6c8e645ff6c342287d4cdfdb0675c2b42",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1432"
+          },
+          {
+            "url": "https://www.dndbeyond.com/monsters/5194867-aboleth"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ec69fe0ef05ded8d79862894b3c9c439e9225e38"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aboleth-nihilith",
+      "name": "Aboleth, Nihilith",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/aboleth-nihilith/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 83120,
+      "sha256": "34f47e7fb09d01cd09b4afbcd23d773a7cc607490cb3812e174fee3efe3ddde8",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/creature-codex-nihileth-aboleth/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "3d46d02d4b041622efae22b78840306911f8153c"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aboleth-nihilith",
+      "name": "Aboleth, Nihilith",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/aboleth-nihilith/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 81222,
+      "sha256": "7fea8d50f99c8f3fd7f19647c854e4679d8571b4353f3690951f91a1f98e07c8",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/creature-codex-nihileth-aboleth/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "fa038677c7cd23b5030119bccf7e8737d663ffdc"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aboleth-nihilith",
+      "name": "Aboleth, Nihilith",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/aboleth-nihilith/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 73348,
+      "sha256": "6255a8cc942a8d9d0b7b450dac9e25f29c87e66b6a957e3dece05a6c7d233f23",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/creature-codex-nihileth-aboleth/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ecc7d832cba994cd6384b8bcc678596b90b3fc5d"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aboleth-nihilith",
+      "name": "Aboleth, Nihilith",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/aboleth-nihilith/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 79854,
+      "sha256": "d30b8fdb8ff1b7a8f1140070a25d2d87d5924863b3743b207616f165dd055111",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/creature-codex-nihileth-aboleth/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "0c96e7bd6f576db8b81e8cf06755bf7335a86eba"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aboleth-thrall-a5e",
+      "name": "Aboleth Thrall",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/aboleth-thrall-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 75314,
+      "sha256": "3e78f26440fa77b40f4c959e9f267e5bf4feca9f604f797fb6db55b9f7a66143",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1435"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "3908543ef685ef143124d97d719fedfc7af035c6"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aboleth-thrall-a5e",
+      "name": "Aboleth Thrall",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/aboleth-thrall-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 91870,
+      "sha256": "110c363d1d82304577bea5d7c5dc10d622a8e9a8c8fba752b5b674e3c2cb62ef",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1435"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "198a0c9d25ce37acbfb1a1ded93d28fd12739ac3"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aboleth-thrall-a5e",
+      "name": "Aboleth Thrall",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/aboleth-thrall-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 82828,
+      "sha256": "468e3c3716ceb6601393dd68d01cb0217f1dfce7cb91d75bc76febd3c90e1cb5",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1435"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "f2cf293c917e9b3c81de44b2da26cd41029e8621"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aboleth-thrall-a5e",
+      "name": "Aboleth Thrall",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/aboleth-thrall-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 72664,
+      "sha256": "ae5a23b98113fcec427d511db3db7f6aaf0e1581960b1d6a4b366c2655312ca2",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1435"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "9cdc06ebd5b29e1890e6af8b464f52c29307b980"
+    },
+    {
+      "category": "creature",
+      "subjectId": "abominable-beauty",
+      "name": "Abominable Beauty",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/abominable-beauty/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 88086,
+      "sha256": "5bad4a5875b1cd63c79f60bef47abd03720d918e1fef35b7fcc1dcf24934ceff",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.kassoon.com/dnd/monster-stat-block/543/abominable-beauty/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "7167918315b550bf337a2651e8040c46adcc3d58"
+    },
+    {
+      "category": "creature",
+      "subjectId": "abominable-beauty",
+      "name": "Abominable Beauty",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/abominable-beauty/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 75984,
+      "sha256": "4cced4eb76dcfddfce9e095208ef8637c17dd4cb9515303faee9cd14bc062008",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.kassoon.com/dnd/monster-stat-block/543/abominable-beauty/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "860215a29f5cbfc0e22172b130ba34f8b519c5f7"
+    },
+    {
+      "category": "creature",
+      "subjectId": "abominable-beauty",
+      "name": "Abominable Beauty",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/abominable-beauty/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 86904,
+      "sha256": "c315bfd3117035a9501a1d6aa9612e56cc199bd756a2f6d9c64e8bc04fa0d816",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.kassoon.com/dnd/monster-stat-block/543/abominable-beauty/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "71050f142cd460be215b1124ff7752bb30f4943b"
+    },
+    {
+      "category": "creature",
+      "subjectId": "abominable-beauty",
+      "name": "Abominable Beauty",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/abominable-beauty/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 93036,
+      "sha256": "562825e22d476389a6ac5e71618f7d9678805b1807861da30fda056c77694d9a",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.kassoon.com/dnd/monster-stat-block/543/abominable-beauty/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "62cb4d64b6460bb9d43a7d7eac9fa0afafa9b191"
+    },
+    {
+      "category": "creature",
+      "subjectId": "abominable-snowman-a5e",
+      "name": "Abominable Snowman",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/abominable-snowman-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 96936,
+      "sha256": "ca2523dee67b4b60d1d150db6ca042d81ab43a4466b02d68871fd5eb45d7780f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.a5e.tools/node/1826"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "48124a5fdaa8c21633348ff08dec4af7a8c262e2"
+    },
+    {
+      "category": "creature",
+      "subjectId": "abominable-snowman-a5e",
+      "name": "Abominable Snowman",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/abominable-snowman-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 104704,
+      "sha256": "5d170675dd169eec3cc9db664f59b8adb6fdb0e7f8095f1155d904dc9ce467a7",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.a5e.tools/node/1826"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "fb6fa748bda7fa908b7772fff550f6a433f1cf55"
+    },
+    {
+      "category": "creature",
+      "subjectId": "abominable-snowman-a5e",
+      "name": "Abominable Snowman",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/abominable-snowman-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 84162,
+      "sha256": "4bf68632a8fbafd433d93ac2b173bb55b7db2dfd3e10f75e125ff55fbaafca8b",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.a5e.tools/node/1826"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "2e4891801a3e6f0178efe052660dd69ec42eb26a"
+    },
+    {
+      "category": "creature",
+      "subjectId": "abominable-snowman-a5e",
+      "name": "Abominable Snowman",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/abominable-snowman-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 103622,
+      "sha256": "6b08c4b4d34de9752cb303504a4e28b7442f83fc53af4ffeaa3ff09999935621",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.a5e.tools/node/1826"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "da18a921b55bda7a2c5c92f84d11b7443e40f2fe"
+    },
+    {
+      "category": "creature",
+      "subjectId": "accursed-defiler",
+      "name": "Accursed Defiler",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/accursed-defiler/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 85888,
+      "sha256": "f58ba071cdb97f00cb378edc53928049a41e4bdf596c187d0c1dcd3be15e7b21",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/accursed-defiler-3pp-2"
+          },
+          {
+            "url": "https://koboldpress.com/tome-unleashed-accursed-defiler/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ab7af7604f87d15c7d6d322285e4cfd902c99e6b"
+    },
+    {
+      "category": "creature",
+      "subjectId": "accursed-defiler",
+      "name": "Accursed Defiler",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/accursed-defiler/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 87732,
+      "sha256": "bb221e6fab9ba15de266518ad07ec4bbbf9adda57de48d1b560050fc4ab2d33c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/accursed-defiler-3pp-2"
+          },
+          {
+            "url": "https://koboldpress.com/tome-unleashed-accursed-defiler/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "c2917ed5657f38d1605ea036f163e4cce28a0bae"
+    },
+    {
+      "category": "creature",
+      "subjectId": "accursed-defiler",
+      "name": "Accursed Defiler",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/accursed-defiler/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 82732,
+      "sha256": "a92ab306bbed5308f207b65efd4b2ec81b424150ae6b2da92a78114047627d02",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/accursed-defiler-3pp-2"
+          },
+          {
+            "url": "https://koboldpress.com/tome-unleashed-accursed-defiler/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "0f4160a9d8d89c6d73dfa7fb93a21e73ddc1c049"
+    },
+    {
+      "category": "creature",
+      "subjectId": "accursed-defiler",
+      "name": "Accursed Defiler",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/accursed-defiler/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 84152,
+      "sha256": "b871d62133132f0118079a1fb532b574046aa4b58adb2bd973d17a3ba3b7efc4",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/accursed-defiler-3pp-2"
+          },
+          {
+            "url": "https://koboldpress.com/tome-unleashed-accursed-defiler/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "60a9998d68e5570ab48223150acc23146c085762"
+    },
+    {
+      "category": "creature",
+      "subjectId": "accursed-guardian-naga-a5e",
+      "name": "Accursed Guardian Naga",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/accursed-guardian-naga-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 96694,
+      "sha256": "b7064645c91708ebc4a00587e85bebb7fdc43449da67b30435270cc71e20e54b",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1744"
+          },
+          {
+            "url": "https://a5e.tools/node/1742"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "da7edb02f8536708e2912ff353b003e950f14fbe"
+    },
+    {
+      "category": "creature",
+      "subjectId": "accursed-guardian-naga-a5e",
+      "name": "Accursed Guardian Naga",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/accursed-guardian-naga-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 89306,
+      "sha256": "f8a47a59a81a64022a0f0836388766b34a80f9f9487375a7234c586439022fe7",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1744"
+          },
+          {
+            "url": "https://a5e.tools/node/1742"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "5e825eef0f2218c27431fee49de87b908b148498"
+    },
+    {
+      "category": "creature",
+      "subjectId": "accursed-guardian-naga-a5e",
+      "name": "Accursed Guardian Naga",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/accursed-guardian-naga-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 90634,
+      "sha256": "0aecf4655e5e6024dad060b8659b08c43da83cc668fcdd4c682536236b8693d4",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1744"
+          },
+          {
+            "url": "https://a5e.tools/node/1742"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "16ac862ab1fbe8aee5df81fed6a048e9958cf25f"
+    },
+    {
+      "category": "creature",
+      "subjectId": "accursed-guardian-naga-a5e",
+      "name": "Accursed Guardian Naga",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/accursed-guardian-naga-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 87426,
+      "sha256": "9beeb12ce063310124914213dd3c6a48ce842fc14b3b1f14ac1781a6b9a67b1d",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1744"
+          },
+          {
+            "url": "https://a5e.tools/node/1742"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "987bef691720e128bb2ff6425994af9eab698cb7"
+    },
+    {
+      "category": "creature",
+      "subjectId": "accursed-spirit-naga-a5e",
+      "name": "Accursed Spirit Naga",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/accursed-spirit-naga-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 76846,
+      "sha256": "96e3421e76b3508173e457697b6c86707fcd21ccbc4fdbcb68402cf8f78affeb",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1745"
+          },
+          {
+            "url": "https://a5e.tools/node/1743"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "2c7a3a1e67d80a0908668e52e3e820b3761c9382"
+    },
+    {
+      "category": "creature",
+      "subjectId": "accursed-spirit-naga-a5e",
+      "name": "Accursed Spirit Naga",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/accursed-spirit-naga-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 79860,
+      "sha256": "e28f7a0d9d03901e36b519fc050634b921ab1610e67341de55dfb98348ba301b",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1745"
+          },
+          {
+            "url": "https://a5e.tools/node/1743"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "86f0fad4d5981d75eeb5469aa2b071edd60f0eef"
+    }
+  ]
+}
