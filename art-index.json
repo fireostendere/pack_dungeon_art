@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 410,
+  "imageCount": 430,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 410,
+  "creatureImageCount": 430,
   "locationImageCount": 0,
-  "imageBytes": 35978800,
+  "imageBytes": 37967634,
   "images": [
     {
       "category": "creature",
@@ -12259,6 +12259,582 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "254a6b6d4cbe42cc529d965139203afaafda54a2"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-earth-dragon-a5e",
+      "name": "Ancient Earth Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-earth-dragon-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 104254,
+      "sha256": "550ece6b899f809dc02e4fb93012e707bc00e7b2a85e0b1ee8eb8ab874626c94",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1550"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "b4f6b2949e8dd64f375dc9f3642bd80fe4a1f0f1"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-earth-dragon-a5e",
+      "name": "Ancient Earth Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ancient-earth-dragon-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 118258,
+      "sha256": "88c2442b8cf3cd8a29a986b87d6089bd0ecbf5865b4f0772c55b92fe94af328f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1550"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "1fa0641a3c487fdd26388ef4b363beedc9d96dc1"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-emerald-dragon-a5e",
+      "name": "Ancient Emerald Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-emerald-dragon-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 89602,
+      "sha256": "39936136f2f9430fd32066340e7be81038b8a8ecafbcd37cae40b9b2fcc51224",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1566"
+          },
+          {
+            "url": "https://a5e.tools/rules/gem-dragons"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "51441405a6607fd655f8452dd2d00431909ed848"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-emerald-dragon-a5e",
+      "name": "Ancient Emerald Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-emerald-dragon-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 108730,
+      "sha256": "89274ac85ca255e1332ce738cbcd7942ac466bffbd7e522ce42d4564bf567a72",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1566"
+          },
+          {
+            "url": "https://a5e.tools/rules/gem-dragons"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "cf97fac956270d1ad6fe11fdc3af63a6e574053d"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-emerald-dragon-a5e",
+      "name": "Ancient Emerald Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-emerald-dragon-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 97860,
+      "sha256": "8f23adaebb7c525e2c451b1087f09e10430e2932a11efc7ff820b4cb5ea81d44",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1566"
+          },
+          {
+            "url": "https://a5e.tools/rules/gem-dragons"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "27d94ec7bec9ca60ae8287e8814d1ea030313edd"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-emerald-dragon-a5e",
+      "name": "Ancient Emerald Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ancient-emerald-dragon-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 113050,
+      "sha256": "662c8f57788d2184e0aaaf9c4834bc6a3ca76b77c40649578363d5c8d5999383",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1566"
+          },
+          {
+            "url": "https://a5e.tools/rules/gem-dragons"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "c6edf77cd18f47d1d01185b469db7a391cd37606"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-flame-dragon",
+      "name": "Ancient Flame Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-flame-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 86154,
+      "sha256": "c759e3b84e35cd0f9834be4b85e04ab043fb1082e6e610f4c2f261a92b99513e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-flame-ancient-3pp/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-flame-adult-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "8da92ef3299910cde12e656f9b32d72d3f6609f5"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-flame-dragon",
+      "name": "Ancient Flame Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-flame-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 85630,
+      "sha256": "28794f5b4bbf8e3093d30072d057225795012f04c10bd2f0f1a2c8c56edd6cc7",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-flame-ancient-3pp/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-flame-adult-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "e6f7746a2c3b68da99fb043280c813a02b9e1636"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-flame-dragon",
+      "name": "Ancient Flame Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-flame-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 91546,
+      "sha256": "a042858813b3368124da6651e9debe8dacbf77cde47695a47e38b832b49ddc33",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-flame-ancient-3pp/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-flame-adult-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "d947a0035dddb40d42a3a714848f8fc64da5d0bd"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-flame-dragon",
+      "name": "Ancient Flame Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ancient-flame-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 93654,
+      "sha256": "c7ec0af1d2e666b1bbd3119cb780cdeeaf542538a2d49a3d94711fb0858669e0",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-flame-ancient-3pp/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-flame-adult-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "a41f82500353e2edc014ba961c837543649734c4"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-gold-dragon",
+      "name": "Ancient Gold Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-gold-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 94078,
+      "sha256": "3f5a7bcc3011c86fad9cb0f5f4b9ed062fc18d74aa351e570f41d43d77d1d103",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://wizkids.com/dd-icons-of-the-realms-adult-gold-dragon/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "72aac227fd865489e2d1a5a275d141aa8af10f6e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-gold-dragon",
+      "name": "Ancient Gold Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-gold-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 98130,
+      "sha256": "5369074312791f90a73c7f20205735211a2b9e08f5c607c60a44fe409277b8b2",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://wizkids.com/dd-icons-of-the-realms-adult-gold-dragon/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "a08e5e91364c41e6f38ea0d203a5ec07d3b3b98b"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-gold-dragon",
+      "name": "Ancient Gold Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-gold-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 103220,
+      "sha256": "cef576985fbbc1a639b168c48919efee561755884f7d426fe5e497498460a7fc",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://wizkids.com/dd-icons-of-the-realms-adult-gold-dragon/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "19204a7c770813c4ec33a885e8b353c83bd4f7df"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-gold-dragon",
+      "name": "Ancient Gold Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ancient-gold-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 99844,
+      "sha256": "35612ec0bfd92c526a37f026a5c90fe8e79410ea565695473864e228cdd4f963",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://wizkids.com/dd-icons-of-the-realms-adult-gold-dragon/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "35762074658f0fe3bfe55ea6f123da2e38299afa"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-green-dragon",
+      "name": "Ancient Green Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-green-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 105126,
+      "sha256": "e887e71487337b3b03a3bef93a54006603110259b0d0761d1a911c085fc6aae6",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16781-ancient-green-dragon"
+          },
+          {
+            "url": "https://www.dndbeyond.com/monsters/16770-adult-green-dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "bda4395ee32005dccaf315a1b5f04101bf9c9989"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-green-dragon",
+      "name": "Ancient Green Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-green-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 80298,
+      "sha256": "36e0212809536c33a688ffd400f730c1c02e16af5cf820cfb88605b3b6274346",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16781-ancient-green-dragon"
+          },
+          {
+            "url": "https://www.dndbeyond.com/monsters/16770-adult-green-dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "9235551d4fe039240415d5fca3dc100178ac1603"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-green-dragon",
+      "name": "Ancient Green Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-green-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 102794,
+      "sha256": "0618aea368b9919259ad21118ce21c0bd09c0a838e394c7e914ae06c1173fc06",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16781-ancient-green-dragon"
+          },
+          {
+            "url": "https://www.dndbeyond.com/monsters/16770-adult-green-dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "92d9a2673b2135d492970ff040b2e4c41cfa6f15"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-green-dragon",
+      "name": "Ancient Green Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ancient-green-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 104248,
+      "sha256": "9b6f5a3b16ffebe14207f8b5cbc3944fcf726c4c75932d51da6093fc153a0c6a",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16781-ancient-green-dragon"
+          },
+          {
+            "url": "https://www.dndbeyond.com/monsters/16770-adult-green-dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "53ff82444acf8bb7588921d9b0bb8263aebba232"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-imperial-dragon",
+      "name": "Ancient Imperial Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-imperial-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 112952,
+      "sha256": "cc58d98eeac99cb14416e85ae51a8a8aadd8b62db61fcbf6899f95d33f84cf5c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/imperial-dragon-ancient/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "783d04063d6046f8de408eb5db9a87f190dff86c"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-imperial-dragon",
+      "name": "Ancient Imperial Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-imperial-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 99406,
+      "sha256": "d34cc8d9ce8535748ed9bcb93563e9c5ddd8373ba3cd73f99cad5634792609f1",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/imperial-dragon-ancient/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "713eb09f977f2abf613eb5303cb923f3c1fa9fba"
     }
   ]
 }
