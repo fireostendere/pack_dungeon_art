@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 310,
+  "imageCount": 330,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 310,
+  "creatureImageCount": 330,
   "locationImageCount": 0,
-  "imageBytes": 26617870,
+  "imageBytes": 28245500,
   "images": [
     {
       "category": "creature",
@@ -9313,6 +9313,582 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "0235a3b1d8cecce84d2aca254e59a9dd8b5d5f71"
+    },
+    {
+      "category": "creature",
+      "subjectId": "allosaurus-a5e",
+      "name": "Allosaurus",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/allosaurus-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 86566,
+      "sha256": "dab5d09305a25aa27ac78c65117b1ae6f2cf9e58a6e91db1b2e5a5a6b2fbb6d6",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/monster-terrains/swamp"
+          },
+          {
+            "url": "https://www.nhm.ac.uk/discover/dino-directory/allosaurus.html"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "c05b5eb9ea6012e5ce0367fca67ac8366df7da6a"
+    },
+    {
+      "category": "creature",
+      "subjectId": "allosaurus-a5e",
+      "name": "Allosaurus",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/allosaurus-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 100740,
+      "sha256": "e2823ea7e8669d836fb2d73e5a894d88a001fb1a10bae1d177f457b5ea79c8e1",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/monster-terrains/swamp"
+          },
+          {
+            "url": "https://www.nhm.ac.uk/discover/dino-directory/allosaurus.html"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "c18055effa8e92812934b1fe4345bcdb1bcef8c2"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alnaar",
+      "name": "Alnaar",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alnaar/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 76428,
+      "sha256": "b7aaae935aa71b0882c10469943f958602240b7fc6cfd754328bf275fd507807",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/creature-codex-alnaar-demon/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2018/11/alnaar.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "1850e27451d4918be4f132610e4e09fee16d48bd"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alnaar",
+      "name": "Alnaar",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alnaar/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 66832,
+      "sha256": "012177ddbd15b920ada12493d707387d4a6ac6055b8ce3fd6ffd54ee426f787e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/creature-codex-alnaar-demon/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2018/11/alnaar.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "4294a1c4e4ed48c6415ee51d6f7a4504664a2b50"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alnaar",
+      "name": "Alnaar",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alnaar/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 91092,
+      "sha256": "e32d1ee97322c268dfa1a0c9d2d4bc09732210ff5b5d4af5e5af70650b7c28a1",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/creature-codex-alnaar-demon/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2018/11/alnaar.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "98d66df584e5d7704e6a6bd5ded36dae28d26269"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alnaar",
+      "name": "Alnaar",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/alnaar/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 88912,
+      "sha256": "7505136001277afefebbae980005ba81e540ee4d68da9cdaa281261bf30250d7",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/creature-codex-alnaar-demon/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2018/11/alnaar.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "5c50f560b807e5758d1fd64f1abbedf6bacfe9f9"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alp",
+      "name": "Alp",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alp/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 51868,
+      "sha256": "fc543c46736fc9e1fb12effb571a4d893d273708aa6e405c032c9620f65d80f2",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "24e60626113b11b450ea186128d531c2ca329bca"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alp",
+      "name": "Alp",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alp/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 68610,
+      "sha256": "f8d7cdbf5e5213095b70c6502c89e0cb9e81c99fcd0ca5f715e8f99b41b58ff8",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "0b433d83d028ca6cbe027ce14995136b4572dfe0"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alp",
+      "name": "Alp",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alp/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 78818,
+      "sha256": "24940a1965773cbe74985b2de4d996675c21dea6975aa7400ce0e4f4814e6f37",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ea5a8e0d8a17eb0a417ec205a60a4e83f0572d1a"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alp",
+      "name": "Alp",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/alp/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 67086,
+      "sha256": "9eeaddbbe9a551d8d19556a0d7b62cdeef7eb80273fa8992bbb2163eb145f56e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "24e77935cc3f1dfe6ed17d73e4a60df40d502052"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alpha-fish",
+      "name": "Alpha Fish",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alpha-fish/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 90444,
+      "sha256": "e774445c47c6689ee78a1bba1f2bbcdc5b85761b14b3ecfdd4bd0695207d31a7",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alpha-fish/"
+          },
+          {
+            "url": "https://github.com/open5e/open5e-api/blob/staging/data/v1/tob2/Monster.json"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "2d8a55b3da387c664875c25947714eacf25049bb"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alpha-fish",
+      "name": "Alpha Fish",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alpha-fish/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 107482,
+      "sha256": "277eed2f4912d8fcd1d3056ef9f9d2f77e272392f6300deeeb69abb5f605f04c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alpha-fish/"
+          },
+          {
+            "url": "https://github.com/open5e/open5e-api/blob/staging/data/v1/tob2/Monster.json"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "5a00338cb58e626c54c9773c8de18611a3f2d700"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alpha-fish",
+      "name": "Alpha Fish",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alpha-fish/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 85656,
+      "sha256": "2b041559cc75021ecc0d20b8448ce9209ca1c6790950f236871f9b4440a91c3b",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alpha-fish/"
+          },
+          {
+            "url": "https://github.com/open5e/open5e-api/blob/staging/data/v1/tob2/Monster.json"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "713af988526a30d2b335ecbf6df0171301bcaf9f"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alpha-fish",
+      "name": "Alpha Fish",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/alpha-fish/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 101496,
+      "sha256": "388647a12b7884ede77ec12615948f12731d92745e0685e442fc992367c45005",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alpha-fish/"
+          },
+          {
+            "url": "https://github.com/open5e/open5e-api/blob/staging/data/v1/tob2/Monster.json"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "8b3c141934530f246c06897ff0c87d04c9b4ace0"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alpha-werewolf-a5e",
+      "name": "Alpha Werewolf",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alpha-werewolf-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 70348,
+      "sha256": "204bf415f3368041f0c7084d8812787ec218fe35eb706ffc30740a9f48051225",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1721"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "2500cdd1bb1a8c4a5bb02134d7b24bd9104bc03f"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alpha-werewolf-a5e",
+      "name": "Alpha Werewolf",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alpha-werewolf-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 97998,
+      "sha256": "03b33f1556d9a2f625cf5579d2d3b2fcd004d00ff7848cba8a480ac481da41db",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1721"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "90d2a8be044882f361d2337c009fce7b3bf0fe02"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alpha-werewolf-a5e",
+      "name": "Alpha Werewolf",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alpha-werewolf-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 67444,
+      "sha256": "5f2480080cc6eb41264f0618cf3c53f49d21a214409a02fa65758f968802d8a3",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1721"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "234ad645685d0e0ce8d5801794cbab81b2adbefa"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alpha-werewolf-a5e",
+      "name": "Alpha Werewolf",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/alpha-werewolf-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 78422,
+      "sha256": "e6c3759c5b7e54051720492b77f3ab5da3708f80b1cdafc81e8d5b38bc4635ba",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1721"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "1e788e536aa55ff73a29e0233fd2a3d1d92520ad"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alpha-yek",
+      "name": "Alpha Yek",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alpha-yek/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 67746,
+      "sha256": "3b03f4673f17e7e3cf075a3f8c21371b652167763d338d8cb90354002b70b12c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://kpogl.wikidot.com/monster%3Ayek"
+          },
+          {
+            "url": "https://kpogl.wikidot.com/publication%3Acreature-codex"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "957645a330d7947001e5ae0c75340ed850ce2e82"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alpha-yek",
+      "name": "Alpha Yek",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alpha-yek/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 83642,
+      "sha256": "c5d9267f741029be0afd32daed59304fe2f4f480513a593bdd0610772558c38c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://kpogl.wikidot.com/monster%3Ayek"
+          },
+          {
+            "url": "https://kpogl.wikidot.com/publication%3Acreature-codex"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "77855d3f55f644112e632c030b32476622bd1891"
     }
   ]
 }
