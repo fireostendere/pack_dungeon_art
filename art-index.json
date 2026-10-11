@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 290,
+  "imageCount": 310,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 290,
+  "creatureImageCount": 310,
   "locationImageCount": 0,
-  "imageBytes": 24862718,
+  "imageBytes": 26617870,
   "images": [
     {
       "category": "creature",
@@ -8668,6 +8668,126 @@
     },
     {
       "category": "creature",
+      "subjectId": "alligator",
+      "name": "Alligator",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alligator/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 90328,
+      "sha256": "91a78cfe28dfe019b8e4c198ad23a2d0288989d338bb102c0f74a7f87b04d9fd",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          },
+          {
+            "url": "https://nationalzoo.si.edu/animals/american-alligator"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "67d2ea3416fee106dc1ab46d17b1afb6e7d880cd"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alligator",
+      "name": "Alligator",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alligator/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 96024,
+      "sha256": "d7035b46c0ee9f2d617aeaf37d9a7b70f4d3437951e2c6ee14f46c3a0aef6197",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          },
+          {
+            "url": "https://nationalzoo.si.edu/animals/american-alligator"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "38a925615b17dbc0deab2f28f84a339bdc74b305"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alligator",
+      "name": "Alligator",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alligator/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 72920,
+      "sha256": "7a2e1806bdc3ee75b18a6bd0fccbf0b30773b6092047699f08edc5f7be6312ea",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          },
+          {
+            "url": "https://nationalzoo.si.edu/animals/american-alligator"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "243eff247d68107e0e2fcdbd6b7b76c848382a76"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alligator",
+      "name": "Alligator",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/alligator/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 88922,
+      "sha256": "037ee7e912ef30be484740517509d7f82dda3ca2779eba09adf668735cb4dc9c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          },
+          {
+            "url": "https://nationalzoo.si.edu/animals/american-alligator"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "d6eba1ffc09709654258aa9d8a33fc2b99171365"
+    },
+    {
+      "category": "creature",
       "subjectId": "alligator-turtle",
       "name": "Alligator Turtle",
       "variantId": "01",
@@ -8731,6 +8851,468 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "f10a30db9822db4d0ee4dc88661241a30dfb2619"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alligator-turtle",
+      "name": "Alligator Turtle",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alligator-turtle/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 94454,
+      "sha256": "af65b9c465d95fa19b6505627b53648a90225699f500b3f74b0376f3664d3426",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alligator-turtle/"
+          },
+          {
+            "url": "https://www.nationalzoo.si.edu/animals/alligator-snapping-turtle"
+          },
+          {
+            "url": "https://mdc.mo.gov/discover-nature/field-guide/western-alligator-snapping-turtle"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "55439fc5e6e64026836ead508c2cfd4e9a7f1f49"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alligator-turtle",
+      "name": "Alligator Turtle",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/alligator-turtle/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 76922,
+      "sha256": "63aeda24cae0e32804003b76994e72fb8b04325e86673830901bf9f64bd51816",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alligator-turtle/"
+          },
+          {
+            "url": "https://www.nationalzoo.si.edu/animals/alligator-snapping-turtle"
+          },
+          {
+            "url": "https://mdc.mo.gov/discover-nature/field-guide/western-alligator-snapping-turtle"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "d77ad02fc0669b5c68ce9fe14e19b160910ab06e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alliumite",
+      "name": "Alliumite",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alliumite/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 84508,
+      "sha256": "5e73b625a2b38488bc0154f35c7fbf59b011efd4e97e1185b3c6b7d86cca4497",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alliumite/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "22de5493a2493fe436eb63df8061ff7c85b01ebb"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alliumite",
+      "name": "Alliumite",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alliumite/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 86998,
+      "sha256": "c4f66255439320c1d29dd00b9c536ed5aa9ee73d7fffbe23c966106fdf6797cd",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alliumite/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "2c373deba8cd2120cdc1a029c7dc8f946a0fcd24"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alliumite",
+      "name": "Alliumite",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alliumite/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 77110,
+      "sha256": "fd4767478b585ae5a263130a0709f5451215694eceec6c89612e76e70710f6bc",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alliumite/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "34aa4565dded6c7150bb91f37cea806c0f9d0d51"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alliumite",
+      "name": "Alliumite",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/alliumite/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 72814,
+      "sha256": "b7b38cac184560233dfc3e4616e3a4efb925c5e55bcaea05d507939fe0b70480",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alliumite/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "9ed5631f3fc82ea279c1e68570f0e62fe72fad7f"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alliumite-husker",
+      "name": "Alliumite, Husker",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alliumite-husker/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 104246,
+      "sha256": "35916e040be372e09bd56540be9b3489ce35ef95704f257bdd9e8cb5e9f79cad",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alliumite-husker/"
+          },
+          {
+            "url": "https://comicbook.com/gaming/news/dungeons-dragons-tome-of-beasts-3-kickstarter-preview-live/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "d83c1b8cd1a9a8c9718a4404936e9e1921ccbf29"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alliumite-husker",
+      "name": "Alliumite, Husker",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alliumite-husker/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 94080,
+      "sha256": "906a39c67d0cd2e91d64e21b7663d1671a1cf17ce7cc42e96b11a72bad0eabd7",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alliumite-husker/"
+          },
+          {
+            "url": "https://comicbook.com/gaming/news/dungeons-dragons-tome-of-beasts-3-kickstarter-preview-live/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "a2ab427a669b2f808d10729042bb4af225e1c3ce"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alliumite-husker",
+      "name": "Alliumite, Husker",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alliumite-husker/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 93932,
+      "sha256": "091f73a61b0e43e3fd180c0f6ee41c83971aa1bd113d31d69c71db19535d55b8",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alliumite-husker/"
+          },
+          {
+            "url": "https://comicbook.com/gaming/news/dungeons-dragons-tome-of-beasts-3-kickstarter-preview-live/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "28388e15f4d17362cf7f5a475fe032385a4c2d77"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alliumite-husker",
+      "name": "Alliumite, Husker",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/alliumite-husker/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 99002,
+      "sha256": "b4c90f1d75ec37e3eac47a3d757e94b6cbad546bbdb1eedd5267b3635df51920",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alliumite-husker/"
+          },
+          {
+            "url": "https://comicbook.com/gaming/news/dungeons-dragons-tome-of-beasts-3-kickstarter-preview-live/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ff2af0261e35e319724f549ed37b656b6e0efd87"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alliumite-rapscallion",
+      "name": "Alliumite, Rapscallion",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alliumite-rapscallion/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 85764,
+      "sha256": "e30e162c35cb37c20150afe34140a4bfca4a833857720b48d23b920928adc57e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alliumite-rapscallion/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "c587687647ee7d66de8a4746ba36efa30ff2596e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alliumite-rapscallion",
+      "name": "Alliumite, Rapscallion",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alliumite-rapscallion/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 66382,
+      "sha256": "12c931be0556252120e4df863199c44f2a1a65f4f75d7151759b7623a531a19e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alliumite-rapscallion/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "8e938d2cb8ea9158aa3628ac8e3347659b9cf789"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alliumite-rapscallion",
+      "name": "Alliumite, Rapscallion",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alliumite-rapscallion/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 99468,
+      "sha256": "f81d8cf8c908ec59e3d2d2848a6f91f06821a72dfca55f8d163eaebc0aa8727c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alliumite-rapscallion/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "9505b39a281e8b2d9a162f9a88055c357133ad3b"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alliumite-rapscallion",
+      "name": "Alliumite, Rapscallion",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/alliumite-rapscallion/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 86258,
+      "sha256": "4462e9f77b32e1989a7714936c2712db5469a7a53b2366b095feff5ee2682bf1",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alliumite-rapscallion/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "70f4b3dd98e1e7c606f367fe8fc344bb36125726"
+    },
+    {
+      "category": "creature",
+      "subjectId": "allosaurus-a5e",
+      "name": "Allosaurus",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/allosaurus-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 103084,
+      "sha256": "1da9c73b528b3798f32ecd75eb1d736bad7a867cfdabcb8ea5d308391e498032",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/monster-terrains/swamp"
+          },
+          {
+            "url": "https://www.nhm.ac.uk/discover/dino-directory/allosaurus.html"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "5503a41845fa78c2b676fd8eb872eb08ebe8dd9d"
+    },
+    {
+      "category": "creature",
+      "subjectId": "allosaurus-a5e",
+      "name": "Allosaurus",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/allosaurus-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 81936,
+      "sha256": "eb3ee695b552ce6199e723d2ab175c2075185c3ded272e176d57ec190d0f3c6d",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/monster-terrains/swamp"
+          },
+          {
+            "url": "https://www.nhm.ac.uk/discover/dino-directory/allosaurus.html"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "0235a3b1d8cecce84d2aca254e59a9dd8b5d5f71"
     }
   ]
 }
