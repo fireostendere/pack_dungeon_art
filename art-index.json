@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 470,
+  "imageCount": 490,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 470,
+  "creatureImageCount": 490,
   "locationImageCount": 0,
-  "imageBytes": 41503040,
+  "imageBytes": 43238988,
   "images": [
     {
       "category": "creature",
@@ -13987,6 +13987,606 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "74f02057d5ffe3f63cde4f5fe1d2ccae965dec8b"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-titan",
+      "name": "Ancient Titan",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-titan/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 89244,
+      "sha256": "287b3108f2edb1deb591e1cb0c410008559b64ff5ea0e57c56c6b1f98da65dd3",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/titan-ancient-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "7c5735b7c8a80a8c639285e164e5cfc0676d566b"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-titan",
+      "name": "Ancient Titan",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ancient-titan/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 95834,
+      "sha256": "8ce1930a98a7637f698bdfdff470596a9b6e8e8597ed970c9e2a06b7ef5bb744",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/titan-ancient-3pp/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "c878333b48eaa62c731b540e5be846c46382e353"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-void-dragon",
+      "name": "Ancient Void Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-void-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 86460,
+      "sha256": "13fb58139e1b0780ace41a741a1ff7f267ffd9afde9ae38730c9cf6ce424c295",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/posts/1698-void-dragons-when-you-gaze-into-the-void-the-void"
+          },
+          {
+            "url": "https://www.dndbeyond.com/attachments/11/279/04-051-ancient-void-dragon-compressed.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "68eae047c14ea6b703648b801331a0c472d5ca64"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-void-dragon",
+      "name": "Ancient Void Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-void-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 80708,
+      "sha256": "6fca7977d3f9689740f56b344f657c16a8314cbdd7b56c1d189e6b50bdc05322",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/posts/1698-void-dragons-when-you-gaze-into-the-void-the-void"
+          },
+          {
+            "url": "https://www.dndbeyond.com/attachments/11/279/04-051-ancient-void-dragon-compressed.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "da64dbcdf82b55d872b6ac959b11d1e8495a0c4e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-void-dragon",
+      "name": "Ancient Void Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-void-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 89506,
+      "sha256": "3ea9b288748eec19b66543f5fe1ab216a720a9e51fc15a9808d687a7e2a8ab0b",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/posts/1698-void-dragons-when-you-gaze-into-the-void-the-void"
+          },
+          {
+            "url": "https://www.dndbeyond.com/attachments/11/279/04-051-ancient-void-dragon-compressed.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "18eb8a2804d4f1fc299ffd3c9e7069d5312636f6"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-void-dragon",
+      "name": "Ancient Void Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ancient-void-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 85678,
+      "sha256": "3a5034f2705923a1a3c03bf03162b214fcbcb8949f4fbf9f512b3094958988fe",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/posts/1698-void-dragons-when-you-gaze-into-the-void-the-void"
+          },
+          {
+            "url": "https://www.dndbeyond.com/attachments/11/279/04-051-ancient-void-dragon-compressed.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "f08ccc9d356eaa5b700ae17e6179221655532352"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-wasteland-dragon",
+      "name": "Ancient Wasteland Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-wasteland-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 100316,
+      "sha256": "9fd7e3e4a9ec00c984a245054de50369391ac0a63e20590ee3fbea22b18f625a",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/wasteland-dragon-ancient/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "518ded5ac939843447eefe47b9e727b991f250fc"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-wasteland-dragon",
+      "name": "Ancient Wasteland Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-wasteland-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 89180,
+      "sha256": "8adbbd56c03512e2f1a6003f2eed2fcdd0163851c8a1a90062e6aaa6279cfa76",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/wasteland-dragon-ancient/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "bc380374db937ac1543ba1c8f500b80b7da698a9"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-wasteland-dragon",
+      "name": "Ancient Wasteland Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-wasteland-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 88132,
+      "sha256": "e9a16e2e81e70834ce0006d03ebeedfe72af8ee96e55eef80422191af87b33e6",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/wasteland-dragon-ancient/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ce3ae05a5997befae0b77cb05781a6d2d64c7c2a"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-wasteland-dragon",
+      "name": "Ancient Wasteland Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ancient-wasteland-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 93604,
+      "sha256": "40b293b143c8906e8a1158a3d3f2761736df7ed78008380b5a3b1dc05b3e656d",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/wasteland-dragon-ancient/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "0af055034c86a687b881eef034d5681185c52c3e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-white-dragon",
+      "name": "Ancient White Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-white-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 95542,
+      "sha256": "1a980576c3cbb3c85a6404f482ecff5b836688cd0aea43999a623fb216ca11cd",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16784-ancient-white-dragon"
+          },
+          {
+            "url": "https://www.dndbeyond.com/avatars/thumbnails/30782/433/1000/1000/638061962219215658.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "748ea58d367d985fc01541792bb781d34a34ebaa"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-white-dragon",
+      "name": "Ancient White Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-white-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 94946,
+      "sha256": "d705e927bcb4321d628f755d310736aaf829c0e62ad27607873f7640893be153",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16784-ancient-white-dragon"
+          },
+          {
+            "url": "https://www.dndbeyond.com/avatars/thumbnails/30782/433/1000/1000/638061962219215658.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "378a4dcb99d5eef52f2f4bbd7006b756db107464"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-white-dragon",
+      "name": "Ancient White Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-white-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 81108,
+      "sha256": "936f2d0085df88ef32fa59372bac8656f12e107f4a74a3b15ea04841d8445874",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16784-ancient-white-dragon"
+          },
+          {
+            "url": "https://www.dndbeyond.com/avatars/thumbnails/30782/433/1000/1000/638061962219215658.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "26a2b92912badaa330633ddbcdee9ebab63703ab"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-white-dragon",
+      "name": "Ancient White Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ancient-white-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 89024,
+      "sha256": "e8ebf7aa726765c301a20b906e98315e2e89d59f179491954ae09f524378f7de",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16784-ancient-white-dragon"
+          },
+          {
+            "url": "https://www.dndbeyond.com/avatars/thumbnails/30782/433/1000/1000/638061962219215658.png"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "acec372471e4f77c7a7a781a41c97372826118e7"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-wind-dragon",
+      "name": "Ancient Wind Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-wind-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 75006,
+      "sha256": "89d92ad02cee51f538734809973c84e6b1e79ef613c2038d77f4d0dc9d9fed13",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-wind-ancient-3pp/"
+          },
+          {
+            "url": "https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/dragons/dragon-wind/"
+          },
+          {
+            "url": "https://nerdarchy.com/the-dungeons-and-the-dragons-of-dungeons-dragons-wind-dragon-lairs/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "bd5265f939b38bb59c2a41e3c903b2ca967bd7de"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-wind-dragon",
+      "name": "Ancient Wind Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-wind-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 81416,
+      "sha256": "6dd966a6db36761de9d804ce46d58e876425337edcecd5c042872c5fb63f313b",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-wind-ancient-3pp/"
+          },
+          {
+            "url": "https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/dragons/dragon-wind/"
+          },
+          {
+            "url": "https://nerdarchy.com/the-dungeons-and-the-dragons-of-dungeons-dragons-wind-dragon-lairs/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "800b0657e5070681c498aad6dfc25b81331b15f4"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-wind-dragon",
+      "name": "Ancient Wind Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-wind-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 79608,
+      "sha256": "e1e8ace2d45aed18d4f7ab289e42b6658721acb2eab8d4edd7eb93998ddc9a33",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-wind-ancient-3pp/"
+          },
+          {
+            "url": "https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/dragons/dragon-wind/"
+          },
+          {
+            "url": "https://nerdarchy.com/the-dungeons-and-the-dragons-of-dungeons-dragons-wind-dragon-lairs/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "097d64da17dc944271feb1a322283a5061b6863f"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-wind-dragon",
+      "name": "Ancient Wind Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ancient-wind-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 69098,
+      "sha256": "65c03c58144cf4bdff18edc7f4633b0a0d90050165782ac568104d05ed2de2fa",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/dragon-wind-ancient-3pp/"
+          },
+          {
+            "url": "https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/dragons/dragon-wind/"
+          },
+          {
+            "url": "https://nerdarchy.com/the-dungeons-and-the-dragons-of-dungeons-dragons-wind-dragon-lairs/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "a3fd49c815f7e804f1204e3f14ce49c9dd262415"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancientcavedragon-tob1-2023",
+      "name": "Ancient Cave Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancientcavedragon-tob1-2023/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 86230,
+      "sha256": "7b724a1e84f3505fce39ab7e3d1f8cb173071a73642ebc5f71bf4e2e94a8c10f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/cave-dragon-ancient/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "9274ccabd092d8705e0891c21988e9daf4498b4d"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancientcavedragon-tob1-2023",
+      "name": "Ancient Cave Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancientcavedragon-tob1-2023/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 85308,
+      "sha256": "6008a0517ef984c6827af1e4f60e81dd9737c12d04db8384f9e2e8415c29d03d",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/cave-dragon-ancient/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "e67072a8ac43ada114736534ea16593ef8220517"
     }
   ]
 }
