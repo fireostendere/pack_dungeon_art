@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 650,
+  "imageCount": 670,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 650,
+  "creatureImageCount": 670,
   "locationImageCount": 0,
-  "imageBytes": 57302366,
+  "imageBytes": 59141418,
   "images": [
     {
       "category": "creature",
@@ -19165,6 +19165,552 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "faf8a3413571d7f6a5c1a6eab0066bdfbd0cb2bd"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arboreal-grappler",
+      "name": "Arboreal Grappler",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/arboreal-grappler/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 102948,
+      "sha256": "255fb560354c68a9f1476f478728ab1baa691567feba55d6700c8d322fd630f5",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/arboreal-grappler-3pp/"
+          },
+          {
+            "url": "https://d1vzi28wh99zvq.cloudfront.net/pdf_previews/224812-sample.pdf"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "4c067074bfd143cb2f22a314d30ef5e5a7e2f6a2"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arboreal-grappler",
+      "name": "Arboreal Grappler",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/arboreal-grappler/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 109310,
+      "sha256": "e915ddd14d63b1314d5a997af6202ffd62194ed2be58669e2cf108b360a94447",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/arboreal-grappler-3pp/"
+          },
+          {
+            "url": "https://d1vzi28wh99zvq.cloudfront.net/pdf_previews/224812-sample.pdf"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ab1d38154fcdf2be697af527d1ba7ab01c1e3753"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arcamag",
+      "name": "Arcamag",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/arcamag/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 90548,
+      "sha256": "37de7318bb0b50846534cbc4a866880beec3acc3f81a630e02e8f3ae3d218724",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/arcamag/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "86d9da91e4a58bf31fba82a9db3098c1ef8be61d"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arcamag",
+      "name": "Arcamag",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/arcamag/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 54172,
+      "sha256": "4789bed4026d53a4fae698e3e955b8629435b6733d9d85c71766621c1ef84f60",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/arcamag/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "0dad9641eebeb1699f58a6fafb2f2f77664fd386"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arcamag",
+      "name": "Arcamag",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/arcamag/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 67380,
+      "sha256": "f779069742b0d5bba4ed2ba2a6bc84a71ad200fc000cfaffa993d03bb465efb0",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/arcamag/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "c27b094a0f8bf6506c326e49fbfa6894cada050b"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arcamag",
+      "name": "Arcamag",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/arcamag/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 77912,
+      "sha256": "cddfb2176b98dd69b1e26f46ae311258ff8ef92be598e7b1fabf143b67bc1a50",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/arcamag/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ed51b671c6b76276b5cf695d9403e3db2cf34de2"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arcanaphage",
+      "name": "Arcanaphage",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/arcanaphage/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 73676,
+      "sha256": "a13e44d88cf0e6d2c94f45c029265112712995cab72f0624982f2ecda362901e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/arcanaphage/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "7ff38809804f8d212f9f8af3c4de81681e02878c"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arcanaphage",
+      "name": "Arcanaphage",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/arcanaphage/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 80994,
+      "sha256": "ca3051970d8434b911d03c7581b3a8fb5cb307525436ffee1337a0725990742c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/arcanaphage/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ef4b992b90205fb57fbd9944145f25f212b60cde"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arcanaphage",
+      "name": "Arcanaphage",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/arcanaphage/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 95304,
+      "sha256": "80c526ae93770c56b4d2ae91ec55b61398a865803469862c56a44cfadeaaac8a",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/arcanaphage/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "4ab625d8da3f4e861cebdeb6c450f76aabf156f1"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arcanaphage",
+      "name": "Arcanaphage",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/arcanaphage/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 93776,
+      "sha256": "523ca0913ccb951b2dd2c9e256735fcd70db92323b2e37887af9e779b0096f9a",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/arcanaphage/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "fdef4098877040f4937e6d78f5ab727965aa4c7a"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arcane-blademaster-a5e",
+      "name": "Arcane Blademaster",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/arcane-blademaster-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 82212,
+      "sha256": "ee609f77fd62a1b5937bdd3bef1d3bdd736a4716fdad64bc14db2b346c0b6e52",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1861"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "bcaa60bcb923f512ea54e0193ef3fb130940cf82"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arcane-blademaster-a5e",
+      "name": "Arcane Blademaster",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/arcane-blademaster-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 87942,
+      "sha256": "d9f623d8db337a749e6b860805b42b05083b005ed9c2e8fbd5ed34cccfb57c87",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1861"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "dd8261f81d11b02eae5b3fffd02b7a0c3594d3e9"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arcane-blademaster-a5e",
+      "name": "Arcane Blademaster",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/arcane-blademaster-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 85770,
+      "sha256": "dee3d82c7b819224c4d037358a60e2c32b7d341501c669475cd5463d29e3d183",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1861"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "1b84c137d4ae55fe127b04a44fc2ce66d27593bb"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arcane-blademaster-a5e",
+      "name": "Arcane Blademaster",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/arcane-blademaster-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 106192,
+      "sha256": "10416c16229d376b2dcc1891eb0ce4f6e572532083cfa8aba080d373b162b5fc",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1861"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "b505420a13c50bdb902c7235d727e95703c16dc0"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arcane-leviathan",
+      "name": "Arcane Leviathan",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/arcane-leviathan/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 102858,
+      "sha256": "879156e6519cdce9f77b70bf5c12032270208b7a359ac0f9100c944b4742c624",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/arcane-leviathan/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "94c4416508711eaa1f218806fd9c515072f4d24c"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arcane-leviathan",
+      "name": "Arcane Leviathan",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/arcane-leviathan/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 105552,
+      "sha256": "d115209fd7884bf454fa3a9cd6ca81c2984eae974a1acb5f3bf847fcc69735cb",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/arcane-leviathan/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "308d2bcaa25ea4ab7c1cdefa08364c9a3e204f9d"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arcane-leviathan",
+      "name": "Arcane Leviathan",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/arcane-leviathan/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 116326,
+      "sha256": "5dcc023e8ed38572b8e81c6b24dd3a4bccb76f13be230934c49a70c0f7ff7dfa",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/arcane-leviathan/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "892afb1143cb5236838a1bac5d4b693a56316aa9"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arcane-leviathan",
+      "name": "Arcane Leviathan",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/arcane-leviathan/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 112708,
+      "sha256": "c4aad364b26cbff896f465bed96d1f5284fa2daf51cc736aea1c7371373825a9",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/arcane-leviathan/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "0526a461271dbca34d8236ed72d983b8cd6ac91d"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arcane-scavenger",
+      "name": "Arcane Scavenger",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/arcane-scavenger/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 94424,
+      "sha256": "4b68fdc76bca5fdfc3d45c1ee32e4f52809a57a4167e9e2e4ddb7c1c3a1ec398",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/arcane-scavenger/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "73f7afc6064e258e21f058fa83ffa98234e53e5d"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arcane-scavenger",
+      "name": "Arcane Scavenger",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/arcane-scavenger/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 99048,
+      "sha256": "e0fefc86a626271677aa8299229808fb511c394aa9c283e02513fcf09729f4f8",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/arcane-scavenger/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "a29a2b1de1bf0d4a3f3cc38d29cee432015bca5a"
     }
   ]
 }
