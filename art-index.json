@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 270,
+  "imageCount": 290,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 270,
+  "creatureImageCount": 290,
   "locationImageCount": 0,
-  "imageBytes": 23284668,
+  "imageBytes": 24862718,
   "images": [
     {
       "category": "creature",
@@ -8101,6 +8101,636 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "21cc0ffa9d838a224c2ff8f6d2c46e860fa94102"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alchemist-archer",
+      "name": "Alchemist Archer",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alchemist-archer/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 82574,
+      "sha256": "282a67ea188f4a1853362fe21688536d265caca8cda00cd9274f23a7475689af",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/creature-codex-alchemist-archer-elf/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2018/10/alchemist-archer-elf.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "7ffa38ce82aafd4827f4c8231e3c410396c3a0c3"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alchemist-archer",
+      "name": "Alchemist Archer",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/alchemist-archer/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 86198,
+      "sha256": "65e51d1ed8622f6cff4a0d2cc305c946520fb5cd552f53ac34ef97848d558ae4",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/creature-codex-alchemist-archer-elf/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2018/10/alchemist-archer-elf.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "9812d4f0138121dde03b651e91946cd17886eeca"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alehouse-drake",
+      "name": "Alehouse Drake",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alehouse-drake/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 69588,
+      "sha256": "3da7761bc235913ebc34c85fb58ae8f0b93fcb1b41a6dc2589ad9275fb0f4d77",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/drake-alehouse-3pp/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2023/01/alehouse-drake.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "dc1137f26b4ff847d66a765e58fb7c446bcbdde0"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alehouse-drake",
+      "name": "Alehouse Drake",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alehouse-drake/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 75414,
+      "sha256": "81bf465bbd38d7c79702ce9b80f48dd72b73af2a6f94dbd6968d3e0f8d6db83c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/drake-alehouse-3pp/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2023/01/alehouse-drake.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "3e5676f8839a0a51274f244c7665822b574ff48f"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alehouse-drake",
+      "name": "Alehouse Drake",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alehouse-drake/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 68442,
+      "sha256": "14bbe5f1d31640766006111ad970ebcc9277b54ca04d77564f80cbf0892ce989",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/drake-alehouse-3pp/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2023/01/alehouse-drake.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "5fcd5cc51f96de1ea266a1d831125541f1209e38"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alehouse-drake",
+      "name": "Alehouse Drake",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/alehouse-drake/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 72824,
+      "sha256": "f1336c29c130e4c7489482e03dc677dc7052d5f16deac54c2be5595f2dee2147",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/drake-alehouse-3pp/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2023/01/alehouse-drake.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "0ebced63f4c62c8d1ebde0605bcc0f6a9d32abef"
+    },
+    {
+      "category": "creature",
+      "subjectId": "algorith",
+      "name": "Algorith",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/algorith/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 72124,
+      "sha256": "ea9e665f2ca1b9dcc179a3b46131b3a4c0bb4b0da2c580a951ccfc038031b061",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/algorith-3pp-2/"
+          },
+          {
+            "url": "https://forums.giantitp.com/showsinglepost.php?p=21305338&postcount=20"
+          },
+          {
+            "url": "https://5ecompendium.github.io/bestiary/creature/algorith"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "a1ddba1c4ea6f82c24480e0af4090b37df4cfe3b"
+    },
+    {
+      "category": "creature",
+      "subjectId": "algorith",
+      "name": "Algorith",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/algorith/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 67046,
+      "sha256": "e23a2c8c0045cfcf3cab2d214b0a13004395004868354641e35f6bf6cdd705db",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/algorith-3pp-2/"
+          },
+          {
+            "url": "https://forums.giantitp.com/showsinglepost.php?p=21305338&postcount=20"
+          },
+          {
+            "url": "https://5ecompendium.github.io/bestiary/creature/algorith"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "68312ca816ff04b0adfa8d3de6164cb9feefeba1"
+    },
+    {
+      "category": "creature",
+      "subjectId": "algorith",
+      "name": "Algorith",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/algorith/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 62310,
+      "sha256": "29c4976059e9371033ec7355e17564b4afdfa025c52b37ce7780be614c6506e6",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/algorith-3pp-2/"
+          },
+          {
+            "url": "https://forums.giantitp.com/showsinglepost.php?p=21305338&postcount=20"
+          },
+          {
+            "url": "https://5ecompendium.github.io/bestiary/creature/algorith"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "4261bfc2c1649d3861631b696f88a25418426bc0"
+    },
+    {
+      "category": "creature",
+      "subjectId": "algorith",
+      "name": "Algorith",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/algorith/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 68650,
+      "sha256": "d0d3cc82e0caec24043425420dbc60ede10b597136ddd159f4f62dfc4aa406ea",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/algorith-3pp-2/"
+          },
+          {
+            "url": "https://forums.giantitp.com/showsinglepost.php?p=21305338&postcount=20"
+          },
+          {
+            "url": "https://5ecompendium.github.io/bestiary/creature/algorith"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "8c7117bdcbc08223923bcb8799f0ab919950bc1c"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alke",
+      "name": "Alke",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alke/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 81800,
+      "sha256": "a3e8bf963e4e56ff23f7ef40602c02196bc7a9efc3da0146c566e59fe86b9cb2",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alke/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2022/11/Alke-1536x1209.png"
+          },
+          {
+            "url": "https://koboldpress.com/monster-weaknesses-for-tome-of-beasts-3-part-3/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "86fe0d6502c130ff99e38d18fc00f24ee6962f23"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alke",
+      "name": "Alke",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alke/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 87188,
+      "sha256": "d54273f6dd89ca7af62fec4f09db88fe8dd72db6359ac1c50392f45b2a415fd0",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alke/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2022/11/Alke-1536x1209.png"
+          },
+          {
+            "url": "https://koboldpress.com/monster-weaknesses-for-tome-of-beasts-3-part-3/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "12febc11eb966ad8a7427271b140a0506a9bcb09"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alke",
+      "name": "Alke",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alke/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 98828,
+      "sha256": "f03d51e156b6e899c396b9b1d7dae7a2dec8111c32a8b660201801f6b41fd9a8",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alke/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2022/11/Alke-1536x1209.png"
+          },
+          {
+            "url": "https://koboldpress.com/monster-weaknesses-for-tome-of-beasts-3-part-3/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "33e78ceb951151c4646ffc594c25a46351a26ac7"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alke",
+      "name": "Alke",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/alke/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 78880,
+      "sha256": "229b696425fbd0b7780078742076b108afcf6d1d92c3af3ac7df02dd65c3c2d7",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alke/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2022/11/Alke-1536x1209.png"
+          },
+          {
+            "url": "https://koboldpress.com/monster-weaknesses-for-tome-of-beasts-3-part-3/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "1b19f7e50a7dc9e6b8167497ff4d9788e7e30cb0"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alkonost",
+      "name": "Alkonost",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alkonost/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 64318,
+      "sha256": "0da1321fd4e47efa5aa0725c78f6a196ae1cd5cefd6e9ab86b60e590ec6f1f57",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alkonost"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "e88b226c888a1850275fdfb078a7536fc45fd91e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alkonost",
+      "name": "Alkonost",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alkonost/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 91932,
+      "sha256": "fb7202feb263910f2714ac6edb12c3946efea8d0f31b1f0ba4d2e99b8c67bb8b",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alkonost"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "394d490e4ef5cc7c34a3cd7268a5691a456504fa"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alkonost",
+      "name": "Alkonost",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alkonost/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 72998,
+      "sha256": "75102ad8611da1bbad0da61f87b30766d7762a86ba4b0a86a6bcbff765aa9c10",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alkonost"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "d4bcb124b6d7dd9e70ee0bddb68c6f613cfbfd58"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alkonost",
+      "name": "Alkonost",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/alkonost/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 94500,
+      "sha256": "c12fc54c1ff3be52b68db0ca38714b3d611ccc5328e9f553d2c8ec688ce1160e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alkonost"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "0ea9b64bd64a537c92c52ab6bcd1266f9988ac50"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alligator-turtle",
+      "name": "Alligator Turtle",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alligator-turtle/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 87388,
+      "sha256": "3e61a6cdcb405d3e5baa11eff7e0f5c75765d67235e01b338b52adf627a675d1",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alligator-turtle/"
+          },
+          {
+            "url": "https://www.nationalzoo.si.edu/animals/alligator-snapping-turtle"
+          },
+          {
+            "url": "https://mdc.mo.gov/discover-nature/field-guide/western-alligator-snapping-turtle"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "015cdf7ea804beac998e2c9ccef507886908a9a8"
+    },
+    {
+      "category": "creature",
+      "subjectId": "alligator-turtle",
+      "name": "Alligator Turtle",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/alligator-turtle/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 95048,
+      "sha256": "83a01f0436413f62057bd5c1314b24192023dfbb57369619c36e4712f27055ec",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/alligator-turtle/"
+          },
+          {
+            "url": "https://www.nationalzoo.si.edu/animals/alligator-snapping-turtle"
+          },
+          {
+            "url": "https://mdc.mo.gov/discover-nature/field-guide/western-alligator-snapping-turtle"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "f10a30db9822db4d0ee4dc88661241a30dfb2619"
     }
   ]
 }
