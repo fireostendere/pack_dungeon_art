@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 670,
+  "imageCount": 690,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 670,
+  "creatureImageCount": 690,
   "locationImageCount": 0,
-  "imageBytes": 59141418,
+  "imageBytes": 61037762,
   "images": [
     {
       "category": "creature",
@@ -19711,6 +19711,600 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "a29a2b1de1bf0d4a3f3cc38d29cee432015bca5a"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arcane-scavenger",
+      "name": "Arcane Scavenger",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/arcane-scavenger/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 99034,
+      "sha256": "cb49c92c2bf0371d3bb37d032081ca3fa16f9cbfe0d9de8dbf2d7a72b5aa30ad",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/arcane-scavenger/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "b96ac4d39d7c12276db484e3d1607520dcc508d8"
+    },
+    {
+      "category": "creature",
+      "subjectId": "arcane-scavenger",
+      "name": "Arcane Scavenger",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/arcane-scavenger/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 93288,
+      "sha256": "fc6d577de4ef730b6e38820b6d39e7945bd594daa79a3bae7433c20122bea223",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/arcane-scavenger/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "3d85a29be36a14fa656efd56ddfe1f01325fa2a9"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archaeopteryx",
+      "name": "Archaeopteryx",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/archaeopteryx/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 80346,
+      "sha256": "6ca84bca822bac7a6322beb337e299ef509251512fd4bd1c7beb6abbd0e73862",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/archaeopteryx/"
+          },
+          {
+            "url": "https://www.nhm.ac.uk/discover/dino-directory/archaeopteryx.html"
+          },
+          {
+            "url": "https://www.nhm.ac.uk/discover/what-were-the-first-birds-like.html"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "e3a982a4949acfade78d3666895ce79955dd6c1a"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archaeopteryx",
+      "name": "Archaeopteryx",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/archaeopteryx/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 91642,
+      "sha256": "a20fc600ff799058afb904897aa20bebe107239037cf72611f5a2a7084a8b791",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/archaeopteryx/"
+          },
+          {
+            "url": "https://www.nhm.ac.uk/discover/dino-directory/archaeopteryx.html"
+          },
+          {
+            "url": "https://www.nhm.ac.uk/discover/what-were-the-first-birds-like.html"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "72d7db6f2316df3a7b44901b1a6454eecb2b3627"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archaeopteryx",
+      "name": "Archaeopteryx",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/archaeopteryx/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 77022,
+      "sha256": "aa86741c8193991cccadfea14c3d16da6c4c8c16e78914357754724cf223915c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/archaeopteryx/"
+          },
+          {
+            "url": "https://www.nhm.ac.uk/discover/dino-directory/archaeopteryx.html"
+          },
+          {
+            "url": "https://www.nhm.ac.uk/discover/what-were-the-first-birds-like.html"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "cb22ac2912f1aa396296efe5ccfc69147ef5ae94"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archaeopteryx",
+      "name": "Archaeopteryx",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/archaeopteryx/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 59000,
+      "sha256": "4a47ea05c737c4a57e4041a4763fb6a4aa66b7aa526846a308c924f32630f00b",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/archaeopteryx/"
+          },
+          {
+            "url": "https://www.nhm.ac.uk/discover/dino-directory/archaeopteryx.html"
+          },
+          {
+            "url": "https://www.nhm.ac.uk/discover/what-were-the-first-birds-like.html"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "175209f6bc733ed4b0fa79d12dab0659325779a4"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archdruid_bf",
+      "name": "Archdruid",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/archdruid_bf/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 107230,
+      "sha256": "e717fe95d60295a29be915cf677f10b96093f6adfe7cccd00635b8c146572e62",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://bfrd.net/classes/druid"
+          },
+          {
+            "url": "https://bfrd.net/rules/monsters/humanoids"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "63c92aa67d6b0a8980b34d7636339b05fe8c3f08"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archdruid_bf",
+      "name": "Archdruid",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/archdruid_bf/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 89082,
+      "sha256": "d2c05ae13b6b72fd901686191d0b959c1f94ceb20342723ef4b2aff607b3da84",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://bfrd.net/classes/druid"
+          },
+          {
+            "url": "https://bfrd.net/rules/monsters/humanoids"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "83d78c3d0534b54561ef738ae3f26dac22a29fee"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archdruid_bf",
+      "name": "Archdruid",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/archdruid_bf/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 93888,
+      "sha256": "7cb2430943862305db2051d2ca04f4879888df7b7d687a14dec11ebbb992d670",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://bfrd.net/classes/druid"
+          },
+          {
+            "url": "https://bfrd.net/rules/monsters/humanoids"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "3611299c129ab21b8fe19ccf203a107f1f2ccdcb"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archdruid_bf",
+      "name": "Archdruid",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/archdruid_bf/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 116178,
+      "sha256": "97679726a3425bf85a673e5863e4df3a4ec03f846f8bd257f6899b6f5d2536a6",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://bfrd.net/classes/druid"
+          },
+          {
+            "url": "https://bfrd.net/rules/monsters/humanoids"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "d0854830478a4a4abfec2f03c0c23bd8e64b47f8"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archfey-a5e",
+      "name": "Archfey",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/archfey-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 100376,
+      "sha256": "c91597854e37b8eacadad6cacbd16db9c594dab7c33031a55d1bdac8c8c9f7e6",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1606"
+          },
+          {
+            "url": "https://a5e.tools/rules/faeries"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "056a853713210c57393754a36965680327c5b68e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archfey-a5e",
+      "name": "Archfey",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/archfey-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 104948,
+      "sha256": "ac060875dfd9e87523fea00087cee88a7543ef25258ebb81ce32e61bc3d80ce9",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1606"
+          },
+          {
+            "url": "https://a5e.tools/rules/faeries"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "78cd82fdd666cfd559671c7e28c6a00adfc1b600"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archfey-a5e",
+      "name": "Archfey",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/archfey-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 106110,
+      "sha256": "6f3e45dddd74ed24534ff2929239920bffa249fb9720986f75c2e28943df178c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1606"
+          },
+          {
+            "url": "https://a5e.tools/rules/faeries"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "3c47960aeba54ce1020a62c5f32046fbb6dc7842"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archfey-a5e",
+      "name": "Archfey",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/archfey-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 92940,
+      "sha256": "58abf75c0164aa5bdfcb64825d959b38cb9e2c4548e4ee65e10ffd3a0db5f11f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1606"
+          },
+          {
+            "url": "https://a5e.tools/rules/faeries"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "195cee44532c7dbcc4115816ff02758b9952cf71"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archmage",
+      "name": "Archmage",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/archmage/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 87222,
+      "sha256": "1051f419cc723a798a61f9ea2ea2ad4599075e6ef7060fc26a2aa7509e50c8b8",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.a5e.tools/node/1862"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "9d84b8586e3ede10bbc1e08a72e7eb08303b2303"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archmage",
+      "name": "Archmage",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/archmage/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 66980,
+      "sha256": "16284cd2eb3720f59a8ea9c536b63bead694022d9d8c41a265cb0541ecffcd74",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.a5e.tools/node/1862"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "86873d6e37d3d0cf7ad97ba33a9e1c09dd1f5f6f"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archmage",
+      "name": "Archmage",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/archmage/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 105404,
+      "sha256": "4e403affb71c005d5f672fa7858bd62c12a2c71d8d3297fc41186407e94a465f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.a5e.tools/node/1862"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "fbdc43f6c7fa96b154030152038e5fe806202b8e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archmage",
+      "name": "Archmage",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/archmage/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 105534,
+      "sha256": "5f154635b00727b2ae2e9c1c20a823708b9ce630f6ed6307693504135d60eed8",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.a5e.tools/node/1862"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "a59de39911ec791a065eed1a002607c7a3df5efa"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archon-siege",
+      "name": "Archon, Siege",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/archon-siege/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 104160,
+      "sha256": "62c04cc7228f4f5948145aa58b0883910cd7097e124948785e2e33026ac35a3f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/monstrous-crits-one-better-part-6/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/siege-archon/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "1cefa286457571df97fa743f9addc8ddfdd38772"
+    },
+    {
+      "category": "creature",
+      "subjectId": "archon-siege",
+      "name": "Archon, Siege",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/archon-siege/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 115960,
+      "sha256": "11764a27941bef78e89d97fa8250b47e7d91e1114b76ca45f7945bf52d5fbd94",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/monstrous-crits-one-better-part-6/"
+          },
+          {
+            "url": "https://www.5esrd.com/database/creature/siege-archon/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "65150c01c21ebf33ed5cd66acdd7d67c160e4f7a"
     }
   ]
 }
