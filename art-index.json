@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 350,
+  "imageCount": 370,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 350,
+  "creatureImageCount": 370,
   "locationImageCount": 0,
-  "imageBytes": 30246412,
+  "imageBytes": 32045508,
   "images": [
     {
       "category": "creature",
@@ -10501,6 +10501,600 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "4cd56beaaccecbbbdf7a4fc6510c0e71de6a7317"
+    },
+    {
+      "category": "creature",
+      "subjectId": "altar-flame-golem",
+      "name": "Altar Flame Golem",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/altar-flame-golem/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 95500,
+      "sha256": "19a57f88ff9410aa284777b49d45753460a7feceffffe4511a8d6d08ce713be8",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/golem-altar-flame/"
+          },
+          {
+            "url": "https://koboldpress.com/creature-codex-pocket-edition/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "33ad78d3b5b72283eaf9e97f6f64b8237e955829"
+    },
+    {
+      "category": "creature",
+      "subjectId": "altar-flame-golem",
+      "name": "Altar Flame Golem",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/altar-flame-golem/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 87492,
+      "sha256": "8803ede1fd0de01544ee1eff2b78a59c3c72474ca25ddc6c6737edddbbf039fa",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/golem-altar-flame/"
+          },
+          {
+            "url": "https://koboldpress.com/creature-codex-pocket-edition/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ff7ddeae84f715a4d16dd82e438b0db4e74b4271"
+    },
+    {
+      "category": "creature",
+      "subjectId": "amber-ooze",
+      "name": "Amber Ooze",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/amber-ooze/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 112998,
+      "sha256": "cd8fd62ccf6440507acfbdff3b2827a2d099435c24e99560a269ff4894703f03",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ooze-amber-2/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "114a7c1bfb5d3e98879cfe6da400a4d1958bb943"
+    },
+    {
+      "category": "creature",
+      "subjectId": "amber-ooze",
+      "name": "Amber Ooze",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/amber-ooze/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 83674,
+      "sha256": "1df314e72c747a89b0bcdc177c28117c4f3a064c8900247bbd86cae6cc5c97ce",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ooze-amber-2/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "bc2aa1bef1e19ce5461ff06e79b651f629749b9a"
+    },
+    {
+      "category": "creature",
+      "subjectId": "amber-ooze",
+      "name": "Amber Ooze",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/amber-ooze/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 109772,
+      "sha256": "254998131523e924b9053e574c454a5e8c643b1d0e6cb2684bd33c9ad1a16a32",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ooze-amber-2/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "7fd9c2ea2fa6e4bcaf8e09bb4dbdd8358129915f"
+    },
+    {
+      "category": "creature",
+      "subjectId": "amber-ooze",
+      "name": "Amber Ooze",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/amber-ooze/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 109348,
+      "sha256": "e3e5b3e7f865727613556de20138dabc6a15588cdc7195540bec03b246c919fb",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ooze-amber-2/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "1cf795b1866a856a90df4924cb4a3bbba7c623a5"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ambush_hag_bf",
+      "name": "Ambush Hag",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ambush_hag_bf/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 74896,
+      "sha256": "fe9e376a643ea59f5bbeacfdd7068fa3a1d1eb68285b4ed7657a4d71082eb4c1",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2025/07/Black-Flag-Roleplaying-v04_2025_07_01.pdf"
+          },
+          {
+            "url": "https://koboldpress.com/kpstore/product/tales-of-the-valiant-monster-vault-pawns/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "727ef891c3a520c20f635dbe98d4c39cd75b8920"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ambush_hag_bf",
+      "name": "Ambush Hag",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ambush_hag_bf/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 69358,
+      "sha256": "bd79cd6c099a6df510c84985b7b6475e959ffd72f8e61b3c1a1071c953fc3fa6",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2025/07/Black-Flag-Roleplaying-v04_2025_07_01.pdf"
+          },
+          {
+            "url": "https://koboldpress.com/kpstore/product/tales-of-the-valiant-monster-vault-pawns/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "257926fd0b0eac3eb3de917fc440707f8f48f10a"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ambush_hag_bf",
+      "name": "Ambush Hag",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ambush_hag_bf/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 89670,
+      "sha256": "bffcdc3ca2d5e0d2f298f32e7977e38503d5e5ee64804b08bca34889057287ce",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2025/07/Black-Flag-Roleplaying-v04_2025_07_01.pdf"
+          },
+          {
+            "url": "https://koboldpress.com/kpstore/product/tales-of-the-valiant-monster-vault-pawns/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "a4bd42266b1ff2c3b562249d9d404b9003f632bc"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ambush_hag_bf",
+      "name": "Ambush Hag",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ambush_hag_bf/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 99398,
+      "sha256": "e12a29d50d467f8f30354f690e7c61bd28657dd82957b7503c3e20c5869b3bab",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2025/07/Black-Flag-Roleplaying-v04_2025_07_01.pdf"
+          },
+          {
+            "url": "https://koboldpress.com/kpstore/product/tales-of-the-valiant-monster-vault-pawns/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "9878790758b00701544ece37e76d896966c81ca4"
+    },
+    {
+      "category": "creature",
+      "subjectId": "amethyst-dragon-wyrmling-a5e",
+      "name": "Amethyst Dragon Wyrmling",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/amethyst-dragon-wyrmling-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 82472,
+      "sha256": "8d58ed13d248e35c681329b8cf80cb0941aa51b818ffe9f8246a9e3276d87286",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1565"
+          },
+          {
+            "url": "https://a5e.tools/rules/gem-dragons"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "c77ae66ce4880f84e7195acb704f4c59b8c9fd4d"
+    },
+    {
+      "category": "creature",
+      "subjectId": "amethyst-dragon-wyrmling-a5e",
+      "name": "Amethyst Dragon Wyrmling",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/amethyst-dragon-wyrmling-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 90740,
+      "sha256": "fbfab281598e8900611cc671c61799768a64c14a2846031fd798e30ba632585e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1565"
+          },
+          {
+            "url": "https://a5e.tools/rules/gem-dragons"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "cc2603bc47454d1c6adb94274d412080dd0973e1"
+    },
+    {
+      "category": "creature",
+      "subjectId": "amethyst-dragon-wyrmling-a5e",
+      "name": "Amethyst Dragon Wyrmling",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/amethyst-dragon-wyrmling-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 95884,
+      "sha256": "9554d66d7c0b96d72fc66facbb3f03c08f972ddb06b8402d647bfc533b052888",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1565"
+          },
+          {
+            "url": "https://a5e.tools/rules/gem-dragons"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "c1ed2e8a480c23b6125b012e727771389fd9b68d"
+    },
+    {
+      "category": "creature",
+      "subjectId": "amethyst-dragon-wyrmling-a5e",
+      "name": "Amethyst Dragon Wyrmling",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/amethyst-dragon-wyrmling-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 98832,
+      "sha256": "2964ed7f9c68cf3c9821524cedf2ca4ee06bd4b4de41a58b77d7f7d0fe70a685",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1565"
+          },
+          {
+            "url": "https://a5e.tools/rules/gem-dragons"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ce999c53fc938beef7a56dd35d621e9cd9ea841b"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ammut",
+      "name": "Ammut",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ammut/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 75178,
+      "sha256": "4211c0905504115432bd4d92eed513c20fcb5392dd8f5b42c303db2ceeb2bd2f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ammut/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "5c246d3e85b0d9a444e1c0d8a03dfd9a8d92f48b"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ammut",
+      "name": "Ammut",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ammut/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 72090,
+      "sha256": "7cf9c06333d7df362a44c764f3bd0913229072bad03ac7f0a9305e442b459074",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ammut/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "5d96c0ef2b3c36fa553936cae18533cdd4ae48b6"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ammut",
+      "name": "Ammut",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ammut/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 87862,
+      "sha256": "afb7ad0e311884bc3b334ab4b3e9c39cec4f3310f32d512958abf07638b44d15",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ammut/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "b349b21f4023b69c09f062306195982e58bbb3e7"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ammut",
+      "name": "Ammut",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ammut/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 83506,
+      "sha256": "b783b4854111c81c2522646b7a4d81cd0ac2b499107db0d13ca7f82f48a9b547",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ammut/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "a45090006983f3e6863c5a864a0bae13bc34dca3"
+    },
+    {
+      "category": "creature",
+      "subjectId": "amphibolt",
+      "name": "Amphibolt",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/amphibolt/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 91786,
+      "sha256": "54d6a756eb4421c9a9866fcce229e5c72bbd925abc2dedcc886dc1e59a58f019",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/amphibolt/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "f8de4c6df42a607511d10b2a1679e1a298f445cf"
+    },
+    {
+      "category": "creature",
+      "subjectId": "amphibolt",
+      "name": "Amphibolt",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/amphibolt/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 88640,
+      "sha256": "e756ac52d4a9b1b7a0b5dc098eb491c5cf27e1885c86a7a00bbe8eb4f51e53db",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/amphibolt/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "bee4bfbf9681d8753507230450746bd43e97527b"
     }
   ]
 }
