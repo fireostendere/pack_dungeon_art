@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 370,
+  "imageCount": 390,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 370,
+  "creatureImageCount": 390,
   "locationImageCount": 0,
-  "imageBytes": 32045508,
+  "imageBytes": 33969466,
   "images": [
     {
       "category": "creature",
@@ -11095,6 +11095,606 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "bee4bfbf9681d8753507230450746bd43e97527b"
+    },
+    {
+      "category": "creature",
+      "subjectId": "amphibolt",
+      "name": "Amphibolt",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/amphibolt/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 99576,
+      "sha256": "ea8353d116bda923501d0dcf4add95823f050b6cbc7af26dcbbeff4db9552277",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/amphibolt/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "04cc0bc7cee758f865cc2dcb7b077d749e2266da"
+    },
+    {
+      "category": "creature",
+      "subjectId": "amphibolt",
+      "name": "Amphibolt",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/amphibolt/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 98218,
+      "sha256": "49d9359e5814eb4eb985e7175b28a2d8e4cfc6a0d26240c2d8a503de87b3fcd4",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/amphibolt/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "7e06a55edbff128f6465d167d83d5e0480dcfd87"
+    },
+    {
+      "category": "creature",
+      "subjectId": "amphiptere",
+      "name": "Amphiptere",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/amphiptere/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 99890,
+      "sha256": "bfec08c1da9c806632707492e587ead97b01c3eeb2c9f92410e157b5e034dc27",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/amphiptere-3pp-2/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "6de8489fb974a07d369582c20b41d56bf83afc64"
+    },
+    {
+      "category": "creature",
+      "subjectId": "amphiptere",
+      "name": "Amphiptere",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/amphiptere/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 84308,
+      "sha256": "a424c6cfe38c43330ce4e026b15309128997486c679438aab49520b3275f04cd",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/amphiptere-3pp-2/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "8005fbd2085ce9dcef03c158c5ef72abfc619242"
+    },
+    {
+      "category": "creature",
+      "subjectId": "amphiptere",
+      "name": "Amphiptere",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/amphiptere/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 83120,
+      "sha256": "ff186af5edfe2ce03516b563f25ca2ee432ca0d672e17359c513ef6218ee2958",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/amphiptere-3pp-2/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "09024800139de5f97a823525f2e406de1a8fc591"
+    },
+    {
+      "category": "creature",
+      "subjectId": "amphiptere",
+      "name": "Amphiptere",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/amphiptere/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 109972,
+      "sha256": "74c244ce647e8fe21f9114388ee5edd1078de33d67caa5d6f2fc1840d22f481b",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/amphiptere-3pp-2/"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "cfc5925a12c327c27dad8b74a16fe14f1870e42f"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-aboleth-a5e",
+      "name": "Ancient Aboleth",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-aboleth-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 85478,
+      "sha256": "adc2936cc6a6af24e103fbca104c7a7642282f2148aa1bbe5bf761d7b2864463",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1459"
+          },
+          {
+            "url": "https://a5e.tools/node/1432"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "96001050b82e712fd0fb7014e41560b631589cc4"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-aboleth-a5e",
+      "name": "Ancient Aboleth",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-aboleth-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 91230,
+      "sha256": "d3a7a972d458751d993d2f25f6868f9f3fafa5ebe7c581b40e3da3306a48b3bc",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1459"
+          },
+          {
+            "url": "https://a5e.tools/node/1432"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "44fffa914c55d9f43f1781678ddfd9917c532f8e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-aboleth-a5e",
+      "name": "Ancient Aboleth",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-aboleth-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 87120,
+      "sha256": "c4972318374756468d745cd9797e7176c1222fd9c018322448ba4df8a0fa568f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1459"
+          },
+          {
+            "url": "https://a5e.tools/node/1432"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "97503dd78e80d6b8e846917d9f55da6c67e50ee0"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-aboleth-a5e",
+      "name": "Ancient Aboleth",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ancient-aboleth-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 104228,
+      "sha256": "8bb47acaba5c40483fc20692b5ed8de0e6a413487b049a9ba04f8cb0fe8d8e12",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1459"
+          },
+          {
+            "url": "https://a5e.tools/node/1432"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "490143cc0f7ed6ba60cbfc159843b6f579fd0636"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-amethyst-dragon-a5e",
+      "name": "Ancient Amethyst Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-amethyst-dragon-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 113006,
+      "sha256": "a8affe6264f58b4b66d85ef6de93ece0c46cb5cd929fa0734130a4c5ff932c5e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1562"
+          },
+          {
+            "url": "https://a5e.tools/rules/gem-dragons"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "005d029dc230634ef4c6537736629f00770b2a4b"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-amethyst-dragon-a5e",
+      "name": "Ancient Amethyst Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-amethyst-dragon-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 98362,
+      "sha256": "0dacea4c90664b1af1be12feb3a551d29ec83fb9444426417a4593e2dff828c3",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1562"
+          },
+          {
+            "url": "https://a5e.tools/rules/gem-dragons"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "29e54ca74c37305a7d43a36d8f48c0f2b1eb8b5c"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-amethyst-dragon-a5e",
+      "name": "Ancient Amethyst Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-amethyst-dragon-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 99508,
+      "sha256": "aab5014acc4b456399f6b9456694317837a33b52a01121a9126551ea96a12276",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1562"
+          },
+          {
+            "url": "https://a5e.tools/rules/gem-dragons"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "0b9da74fde5058e3e6bd96c71304fe4eb96ad0ce"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-amethyst-dragon-a5e",
+      "name": "Ancient Amethyst Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ancient-amethyst-dragon-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 112134,
+      "sha256": "faf5e2875abcac6e9ee1cfe9e6cb1c2a1dc1fd779fda014eda4aa76408566f34",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1562"
+          },
+          {
+            "url": "https://a5e.tools/rules/gem-dragons"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "bae406fab2442e7192ff98f611deefe562b1c286"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-black-dragon",
+      "name": "Ancient Black Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-black-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 81744,
+      "sha256": "ba0021a421b13d59e40988733fdb2091758815b2dc4615e07a71bdf1aa84c988",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16775-ancient-black-dragon"
+          },
+          {
+            "url": "https://www.a5e.tools/node/1525"
+          },
+          {
+            "url": "https://media.dndbeyond.com/compendium-images/phb/DnD-Dragon-Art-Book.pdf"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "3a55825a3aaf0accafd83946ccf546fde669517c"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-black-dragon",
+      "name": "Ancient Black Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-black-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 92050,
+      "sha256": "e97194d6006ef38705947a22679b9f6f5ca93e96db701502412927368742785a",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16775-ancient-black-dragon"
+          },
+          {
+            "url": "https://www.a5e.tools/node/1525"
+          },
+          {
+            "url": "https://media.dndbeyond.com/compendium-images/phb/DnD-Dragon-Art-Book.pdf"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "ee3415b4fd20ae679df4dff3665df54366ce3b71"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-black-dragon",
+      "name": "Ancient Black Dragon",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-black-dragon/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 87996,
+      "sha256": "64fbadf706048ae33b0068c1f7135e2aa77be5d792a8cb48125fd7e3e06af331",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16775-ancient-black-dragon"
+          },
+          {
+            "url": "https://www.a5e.tools/node/1525"
+          },
+          {
+            "url": "https://media.dndbeyond.com/compendium-images/phb/DnD-Dragon-Art-Book.pdf"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "e0078c3f5617f5ab0a4eda26b765725b7ad54444"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-black-dragon",
+      "name": "Ancient Black Dragon",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ancient-black-dragon/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 91118,
+      "sha256": "13d1c1eedc01aed91aec61cd5a5ed573beffeb8378932ea04a849da58ee4dc5e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16775-ancient-black-dragon"
+          },
+          {
+            "url": "https://www.a5e.tools/node/1525"
+          },
+          {
+            "url": "https://media.dndbeyond.com/compendium-images/phb/DnD-Dragon-Art-Book.pdf"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "5b5809f69922b4aacf4cd742159f7385c217a364"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-blue-dragon",
+      "name": "Ancient Blue Dragon",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-blue-dragon/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 94060,
+      "sha256": "00dcbf4fe48091b8e53c1827ceced97e5a5c8008024b7bc3aea43e3118579d4f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16776-ancient-blue-dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "9dbbb9ed04ac9dfd6a18a067c0d35097128fecc6"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ancient-blue-dragon",
+      "name": "Ancient Blue Dragon",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ancient-blue-dragon/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 110840,
+      "sha256": "fd566410f6d4b1008bfc9c5ac9e0b49d6f03d71e65a9c25855ef3f627bf7e12e",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-10-01",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16776-ancient-blue-dragon"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "62d2cb536c8dbed9d3e13fdd157b45ee1fd74980"
     }
   ]
 }
