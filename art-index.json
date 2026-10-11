@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 210,
+  "imageCount": 230,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 210,
+  "creatureImageCount": 230,
   "locationImageCount": 0,
-  "imageBytes": 18186042,
+  "imageBytes": 19986004,
   "images": [
     {
       "category": "creature",
@@ -6325,6 +6325,606 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "1f86a6c66f347de8efe0ff2e2fa9af38aae0f7f6"
+    },
+    {
+      "category": "creature",
+      "subjectId": "akhlut",
+      "name": "Akhlut",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/akhlut/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 59898,
+      "sha256": "7fc864e1f474968cdff78e0bf951fdea15b571be3d0a928781be29d0eb06f1f7",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/akhlut/"
+          },
+          {
+            "url": "https://www.theloremistress.co.uk/post/monster-monday-22-akhlut"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "64d4846f19abc21b6e49b50e86bcf4a8f8c87a28"
+    },
+    {
+      "category": "creature",
+      "subjectId": "akhlut",
+      "name": "Akhlut",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/akhlut/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 83076,
+      "sha256": "9d4ab85ff31367cc8c165814cdbf05fa5de3f1f67d526a4f3a3de135bc8a73b2",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/akhlut/"
+          },
+          {
+            "url": "https://www.theloremistress.co.uk/post/monster-monday-22-akhlut"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "82271e08c754ec4a03a783cb5f3ea9fc56e39ee6"
+    },
+    {
+      "category": "creature",
+      "subjectId": "akkorokamui",
+      "name": "Akkorokamui",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/akkorokamui/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 107728,
+      "sha256": "e4058ccea6210d339af982c9e7b87010ded0d5e80c3c2fdc0857fb0c01ba53bd",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/akkorokamui/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "566ad9a59008ee63180761c829c4dedbed7c1e0e"
+    },
+    {
+      "category": "creature",
+      "subjectId": "akkorokamui",
+      "name": "Akkorokamui",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/akkorokamui/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 98056,
+      "sha256": "5b9bddfb251709ab98fa69d0d61e6e04ae125184aca3ad9f0157daa8eb8ddc35",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/akkorokamui/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "f75c52a28ba64378d4b5e721af6260a7e495a01d"
+    },
+    {
+      "category": "creature",
+      "subjectId": "akkorokamui",
+      "name": "Akkorokamui",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/akkorokamui/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 97258,
+      "sha256": "974eccf12994ae4ac4f04500ce5235f4f5eb7692c042895dd4482f471cf6afb8",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/akkorokamui/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "d2ecc3b95e2aae4babff58c91161a7ce4460f56a"
+    },
+    {
+      "category": "creature",
+      "subjectId": "akkorokamui",
+      "name": "Akkorokamui",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/akkorokamui/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 93434,
+      "sha256": "5641769b3a9f0e8f012cf3762afe7c76cbf6ef4c9df61e13659f5e3ac03b4e40",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/akkorokamui/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "1fdf32bfc94c0a3e0bbfb3ef47876c7bd2141756"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aklea-a5e",
+      "name": "Aklea",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/aklea-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 86300,
+      "sha256": "dc450f81aadb3af41c171ff1e9468e35d596c11c638b573d07a8164958b0a340",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1801"
+          },
+          {
+            "url": "https://a5e.tools/node/1801"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "8fd43525f8998dbbfd3a6d8b0aacb451da73e17c"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aklea-a5e",
+      "name": "Aklea",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/aklea-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 106962,
+      "sha256": "f95979371be96de18cff3603a2b92672b0b2281866546827d3685dadc0c9d731",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1801"
+          },
+          {
+            "url": "https://a5e.tools/node/1801"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "48e783d04ace868157623f3e22554bedad1519c5"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aklea-a5e",
+      "name": "Aklea",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/aklea-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 100650,
+      "sha256": "fd521d96a6eab24f18bb1749f7d4f4878b02c9d507c20f97319d9c03414d325f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1801"
+          },
+          {
+            "url": "https://a5e.tools/node/1801"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "1e44c5f066d9f636b305c0484455ad51d32b30d1"
+    },
+    {
+      "category": "creature",
+      "subjectId": "aklea-a5e",
+      "name": "Aklea",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/aklea-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 79596,
+      "sha256": "21cc5a4991da49fff0a4af335fadf3bc9045a9f6cb3229cbed70d8b0da5b2871",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://a5e.tools/node/1801"
+          },
+          {
+            "url": "https://a5e.tools/node/1801"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "c380cee63a0521ddb696bdb36ab85c28dcb90bf6"
+    },
+    {
+      "category": "creature",
+      "subjectId": "akyishigal-tob1-2023",
+      "name": "Akyishigal",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/akyishigal-tob1-2023/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 96886,
+      "sha256": "448e3612dee41cbe2f62bb550e1ee8351e9973492ed3339b19b828e4260e38e0",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/demon-lord-of-cockroaches-3pp/"
+          },
+          {
+            "url": "https://www.nosolorol.com/noticias/akyishigal-en-tomo-de-las-bestias"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "c730246623bd4356773b00a56b2770944b62d42b"
+    },
+    {
+      "category": "creature",
+      "subjectId": "akyishigal-tob1-2023",
+      "name": "Akyishigal",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/akyishigal-tob1-2023/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 86374,
+      "sha256": "67421e9b2820434bc34772dc27ee2bc3cf7f1a594bf2ed4232f47c65f5089b6c",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/demon-lord-of-cockroaches-3pp/"
+          },
+          {
+            "url": "https://www.nosolorol.com/noticias/akyishigal-en-tomo-de-las-bestias"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "fa00a70612ea8632dfdde37d8710477419278ad7"
+    },
+    {
+      "category": "creature",
+      "subjectId": "akyishigal-tob1-2023",
+      "name": "Akyishigal",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/akyishigal-tob1-2023/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 90920,
+      "sha256": "0a6b7b60b4f91903d289d4fc2e0b16f3f9b2f597f52d3c52c41ee6647e7c768f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/demon-lord-of-cockroaches-3pp/"
+          },
+          {
+            "url": "https://www.nosolorol.com/noticias/akyishigal-en-tomo-de-las-bestias"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "711d4eeed5d4a5820e11160de3cd933c2751ee60"
+    },
+    {
+      "category": "creature",
+      "subjectId": "akyishigal-tob1-2023",
+      "name": "Akyishigal",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/akyishigal-tob1-2023/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 98998,
+      "sha256": "6a338037980db4ff1e334f4a3353bb82468caff19d140eb9aa6e0dc7d96d13c2",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/demon-lord-of-cockroaches-3pp/"
+          },
+          {
+            "url": "https://www.nosolorol.com/noticias/akyishigal-en-tomo-de-las-bestias"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "e31f6c40324b1400cf9dfd26c53cf82f517bb0aa"
+    },
+    {
+      "category": "creature",
+      "subjectId": "al-aeshma-genie",
+      "name": "Al-Aeshma Genie",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/al-aeshma-genie/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 92408,
+      "sha256": "290dc4b0594fda7b94d4db490bf24573b38f5a4206bc0e131eac801b28d91f23",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/genie-al-aeshma-3pp/"
+          },
+          {
+            "url": "https://dr-eigenvalue.github.io/bestiary/creature/al-aeshma-genie"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "6d7437cc4a69eab45aa742f5ebd12d329bedf1b7"
+    },
+    {
+      "category": "creature",
+      "subjectId": "al-aeshma-genie",
+      "name": "Al-Aeshma Genie",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/al-aeshma-genie/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 82750,
+      "sha256": "85f2ccda012a376e9bd7aeb09319a18edcea394b7103426fc8d7e76b1e89c89d",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/genie-al-aeshma-3pp/"
+          },
+          {
+            "url": "https://dr-eigenvalue.github.io/bestiary/creature/al-aeshma-genie"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "accca8d729d7cbf2b7279755605c78ee91c3c7b2"
+    },
+    {
+      "category": "creature",
+      "subjectId": "al-aeshma-genie",
+      "name": "Al-Aeshma Genie",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/al-aeshma-genie/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 82066,
+      "sha256": "a44c6de9186254a87b5c0b51a927edd04a85c5ea24a5e7863e077939ef4aec37",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/genie-al-aeshma-3pp/"
+          },
+          {
+            "url": "https://dr-eigenvalue.github.io/bestiary/creature/al-aeshma-genie"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "4067797c9cfdbb0c961bed244f2ce2482b8916f9"
+    },
+    {
+      "category": "creature",
+      "subjectId": "al-aeshma-genie",
+      "name": "Al-Aeshma Genie",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/al-aeshma-genie/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 86368,
+      "sha256": "c4aa2d3ddc542d656288c7bfb275ce341d88494e4d51e471eb66770597cd9736",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/genie-al-aeshma-3pp/"
+          },
+          {
+            "url": "https://dr-eigenvalue.github.io/bestiary/creature/al-aeshma-genie"
+          },
+          {
+            "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "eab7a03747a14e36b891a6a60492e72c0e1015bc"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ala",
+      "name": "Ala",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ala/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 92130,
+      "sha256": "01d0bcff318b2bbfa56cb18a5b6dd7967895d0ff1c2581963af73a34eefef7ae",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ala-3pp-2"
+          },
+          {
+            "url": "https://koboldpress.com/kpstore/product/errata-for-2nd-printing-pdf/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "6eb27c99fc47a7f27efc77f0c0df358e1d17a283"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ala",
+      "name": "Ala",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ala/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 78104,
+      "sha256": "b8ffb11c43ec39891c66693b2aec0e6d00371b5fd01dc2b7ce6e5e35a425a9e8",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ala-3pp-2"
+          },
+          {
+            "url": "https://koboldpress.com/kpstore/product/errata-for-2nd-printing-pdf/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "85ff0fd36aef9dc89345705dac77d3f5b1aaa038"
     }
   ]
 }
