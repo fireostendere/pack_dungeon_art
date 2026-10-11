@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "in-progress",
-  "imageCount": 190,
+  "imageCount": 210,
   "plannedReadyImageCount": 5680,
-  "creatureImageCount": 190,
+  "creatureImageCount": 210,
   "locationImageCount": 0,
-  "imageBytes": 16481678,
+  "imageBytes": 18186042,
   "images": [
     {
       "category": "creature",
@@ -5362,6 +5362,72 @@
     },
     {
       "category": "creature",
+      "subjectId": "ahu-nixta",
+      "name": "Ahu-Nixta",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ahu-nixta/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 103532,
+      "sha256": "01618bc9d30eca4d35e9a717769e2e5115c2788dd26baedf431e20f8397edff0",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ahu-nixta/"
+          },
+          {
+            "url": "https://koboldpress.com/warlocks-apprentice-ahu-nixta-hivemind-of-the-concordant-chronosphere/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2021/12/ahu-nixta.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "c892b69699d3056ad68ab5a7e79d8e36548dccff"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ahu-nixta",
+      "name": "Ahu-Nixta",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ahu-nixta/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 115360,
+      "sha256": "98749b376250f41e4a2f81478998cfd65d45d21d2bbed88a22905e16273d7f58",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ahu-nixta/"
+          },
+          {
+            "url": "https://koboldpress.com/warlocks-apprentice-ahu-nixta-hivemind-of-the-concordant-chronosphere/"
+          },
+          {
+            "url": "https://koboldpress.com/wp-content/uploads/2021/12/ahu-nixta.jpg"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "82947744c92c31f69b95630d2f12cd2a76d779a6"
+    },
+    {
+      "category": "creature",
       "subjectId": "ahu-nixta-cataphract",
       "name": "Ahu-Nixta Cataphract",
       "variantId": "01",
@@ -5719,6 +5785,546 @@
         "promptStatus": "retained-in-source-backups"
       },
       "gitBlobSha": "2a5787397fffd485ccbf22afec2c4ec660be8c85"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ahuizotl",
+      "name": "Ahuizotl",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ahuizotl/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 63042,
+      "sha256": "f5ac83a59c0227bfcdbcc196690bde4f4490d61689038957955becfbd751fae4",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ahuizotl/"
+          },
+          {
+            "url": "https://forum.rpg.net/index.php?threads%2Flets-read-kobold-presss-creature-codex.839349%2F="
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "013c1f8de900d0b450f593342a61728a1dd4a55c"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ahuizotl",
+      "name": "Ahuizotl",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ahuizotl/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 92252,
+      "sha256": "cd224c6c3fc079cf07d7fc5bb0704d929f7dcc68ab25eed04657c5795a487581",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ahuizotl/"
+          },
+          {
+            "url": "https://forum.rpg.net/index.php?threads%2Flets-read-kobold-presss-creature-codex.839349%2F="
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "d4f9002161061af76007e21db63235a9a042494a"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ahuizotl",
+      "name": "Ahuizotl",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/ahuizotl/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 65248,
+      "sha256": "0b5e07d6fe0d302143c344d5003ac8cdc2096e7af22411dc619ba70640b60222",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ahuizotl/"
+          },
+          {
+            "url": "https://forum.rpg.net/index.php?threads%2Flets-read-kobold-presss-creature-codex.839349%2F="
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "451d038647e8692d68de2181ec926e3d4aeb3924"
+    },
+    {
+      "category": "creature",
+      "subjectId": "ahuizotl",
+      "name": "Ahuizotl",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/ahuizotl/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 97482,
+      "sha256": "5d9364a8a425d73aaa35b596b4770d1218bc42bd531197150bdae612180e75ad",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/ahuizotl/"
+          },
+          {
+            "url": "https://forum.rpg.net/index.php?threads%2Flets-read-kobold-presss-creature-codex.839349%2F="
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "1cdde99669f4ce26b1914055a388945a235cc5f8"
+    },
+    {
+      "category": "creature",
+      "subjectId": "air-elemental",
+      "name": "Air Elemental",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/air-elemental/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 91214,
+      "sha256": "23e701ce7164d47ce8d58dfabc8467ee3065d7859647599a719ebb2830f7dc17",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16774-air-elemental"
+          },
+          {
+            "url": "https://a5e.tools/node/1595"
+          },
+          {
+            "url": "https://bfrd.net/monsters/air-elemental"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "57678292a959f5796de1d2e25e75167243b46b6c"
+    },
+    {
+      "category": "creature",
+      "subjectId": "air-elemental",
+      "name": "Air Elemental",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/air-elemental/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 87546,
+      "sha256": "74c824dbe7615880a2a5c4b23b4a4a971e2942f8d4e79a17eeab55852bebf21f",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16774-air-elemental"
+          },
+          {
+            "url": "https://a5e.tools/node/1595"
+          },
+          {
+            "url": "https://bfrd.net/monsters/air-elemental"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "18a9bcd816c20c5d6266b35dc562c0adc3b9fb43"
+    },
+    {
+      "category": "creature",
+      "subjectId": "air-elemental",
+      "name": "Air Elemental",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/air-elemental/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 89366,
+      "sha256": "faa90ab24e624a84a9bc972dc909a7be48972e63a97fbb10838b0ea5eb4a70c1",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16774-air-elemental"
+          },
+          {
+            "url": "https://a5e.tools/node/1595"
+          },
+          {
+            "url": "https://bfrd.net/monsters/air-elemental"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "8e9b7209bd859592036198f53b47f0aaeaeaa316"
+    },
+    {
+      "category": "creature",
+      "subjectId": "air-elemental",
+      "name": "Air Elemental",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/air-elemental/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 98570,
+      "sha256": "e84c27bedb3e81fd40257e78dd592e29e6dcd7b48fc7006e38d6e9126cd5a018",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.dndbeyond.com/monsters/16774-air-elemental"
+          },
+          {
+            "url": "https://a5e.tools/node/1595"
+          },
+          {
+            "url": "https://bfrd.net/monsters/air-elemental"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "48fdf482c3fd15a011ac99b937299d1f44929fd6"
+    },
+    {
+      "category": "creature",
+      "subjectId": "akaasit",
+      "name": "Akaasit",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/akaasit/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 77210,
+      "sha256": "d81ba9bcde1fef6cca1aab63f24cfffac34841bfc7ace84a85923ba516c1adb6",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/akaasit/"
+          },
+          {
+            "url": "https://willobrien.artstation.com/projects/68rWOW"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "40ac92bf6d73eb28e9dd04900d9495ea28e14a0f"
+    },
+    {
+      "category": "creature",
+      "subjectId": "akaasit",
+      "name": "Akaasit",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/akaasit/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 63320,
+      "sha256": "5454ad726a508dd016efd0b41e3037cd71542e0275230e0ce33e5458aed315f2",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/akaasit/"
+          },
+          {
+            "url": "https://willobrien.artstation.com/projects/68rWOW"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "f9eb97c9c8c809ab65c36286e9d7c696de366bf0"
+    },
+    {
+      "category": "creature",
+      "subjectId": "akaasit",
+      "name": "Akaasit",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/akaasit/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 83142,
+      "sha256": "31aafaf67ebd52581c28d7ecee3029539303235d42ffd32beebd3c81774d7672",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/akaasit/"
+          },
+          {
+            "url": "https://willobrien.artstation.com/projects/68rWOW"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "2430a7ad324806279b2670a49fe069e4a42b64ce"
+    },
+    {
+      "category": "creature",
+      "subjectId": "akaasit",
+      "name": "Akaasit",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/akaasit/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 67358,
+      "sha256": "45ba8e79c28870315d3fe3293e7a2af4fe86e81d4d78472bd78490992c9aae97",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/akaasit/"
+          },
+          {
+            "url": "https://willobrien.artstation.com/projects/68rWOW"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "32c9db5158d77c9cdad3a505498460ba05f38190"
+    },
+    {
+      "category": "creature",
+      "subjectId": "akanka",
+      "name": "Akanka",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/akanka/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 87250,
+      "sha256": "1e9fb1adeec15bb169dc8731e736693ac6676308bffccb412f22ce6fc33e8407",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/akanka-2/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "9fccd48bedc176b6415208b3fa406824e7f8236d"
+    },
+    {
+      "category": "creature",
+      "subjectId": "akanka",
+      "name": "Akanka",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/akanka/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 79660,
+      "sha256": "d2c0143f59b32422e62072d41f8d1a7e9c5dfdf8916f81be2846051751224b1a",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/akanka-2/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "77adc04ba9381e61fd229a6032f23b988e9c5a19"
+    },
+    {
+      "category": "creature",
+      "subjectId": "akanka",
+      "name": "Akanka",
+      "variantId": "03",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/akanka/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 85486,
+      "sha256": "266d42db6bd519b8c1e091e24e1a8d99f26ccbbf49817d5bac1af9ebd371abb8",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/akanka-2/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "a2a06b1db90e93eb28fd82ec296a7c261a0df6da"
+    },
+    {
+      "category": "creature",
+      "subjectId": "akanka",
+      "name": "Akanka",
+      "variantId": "04",
+      "style": "yolo",
+      "path": "public/assets/creature-avatars/akanka/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 97938,
+      "sha256": "23314006a7ce63e53916ae3c3c7da77ba275027d7dec2b2de6b8fb573881b413",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/akanka-2/"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "8b07cf6d62e73cceb8ac4d47b22991c534d65918"
+    },
+    {
+      "category": "creature",
+      "subjectId": "akhlut",
+      "name": "Akhlut",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/akhlut/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 90534,
+      "sha256": "b417345031d610c4ed39ea8fbd821c80172a9d942f01c95744a02b8971567e3d",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/akhlut/"
+          },
+          {
+            "url": "https://www.theloremistress.co.uk/post/monster-monday-22-akhlut"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "61cf86efc33eff3c0044cd084a529993d95012cc"
+    },
+    {
+      "category": "creature",
+      "subjectId": "akhlut",
+      "name": "Akhlut",
+      "variantId": "02",
+      "style": "normal",
+      "path": "public/assets/creature-avatars/akhlut/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 68854,
+      "sha256": "f423dfa2e95e1529fafe1aa49a2203976047e5ef03f5f0d35cb8156bd75049a2",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "generatedAt": "2026-09-30",
+        "designReferences": [
+          {
+            "url": "https://www.5esrd.com/database/creature/akhlut/"
+          },
+          {
+            "url": "https://www.theloremistress.co.uk/post/monster-monday-22-akhlut"
+          }
+        ],
+        "license": "generated-output; no third-party artwork license asserted",
+        "promptStatus": "retained-in-source-backups"
+      },
+      "gitBlobSha": "1f86a6c66f347de8efe0ff2e2fa9af38aae0f7f6"
     }
   ]
 }

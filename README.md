@@ -2,7 +2,7 @@
 
 ## Migration in progress
 
-**190 of 5,680 ready images are currently available in this repository.**
+**210 of 5,680 ready images are currently available in this repository.**
 More images are being added in verified batches.
 
 The files are stored individually under `public/assets/`, using their original
