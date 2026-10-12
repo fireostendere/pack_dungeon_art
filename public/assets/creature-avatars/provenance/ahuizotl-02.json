@@ -1,0 +1,19 @@
+{
+  "creatureId": "ahuizotl",
+  "variantId": "02",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-09-30",
+  "designReferences": [
+    {
+      "url": "https://www.5esrd.com/database/creature/ahuizotl/"
+    },
+    {
+      "url": "https://forum.rpg.net/index.php?threads%2Flets-read-kobold-presss-creature-codex.839349%2F="
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

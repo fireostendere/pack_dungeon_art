@@ -1,0 +1,19 @@
+{
+  "creatureId": "ancient-sapphire-dragon-a5e",
+  "variantId": "03",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-01",
+  "designReferences": [
+    {
+      "url": "https://a5e.tools/node/1570"
+    },
+    {
+      "url": "https://a5e.tools/rules/gem-dragons"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

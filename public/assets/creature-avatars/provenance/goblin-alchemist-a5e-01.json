@@ -1,0 +1,16 @@
+{
+  "creatureId": "goblin-alchemist-a5e",
+  "variantId": "01",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-07",
+  "designReferences": [
+    {
+      "url": "https://a5e.tools/node/1651"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

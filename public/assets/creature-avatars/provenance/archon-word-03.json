@@ -1,0 +1,19 @@
+{
+  "creatureId": "archon-word",
+  "variantId": "03",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-01",
+  "designReferences": [
+    {
+      "url": "https://www.5esrd.com/database/creature/word-archon/"
+    },
+    {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2210470/ss_a79e160fd27187f1da53fc3634dcde28c1b68e49.1920x1080.jpg?t=1669731245"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

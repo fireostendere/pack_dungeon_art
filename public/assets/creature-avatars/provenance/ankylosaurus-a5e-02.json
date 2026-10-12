@@ -1,0 +1,19 @@
+{
+  "creatureId": "ankylosaurus-a5e",
+  "variantId": "02",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-01",
+  "designReferences": [
+    {
+      "url": "https://a5e.tools/node/1489"
+    },
+    {
+      "url": "https://www.nhm.ac.uk/discover/dino-directory/ankylosaurus.html"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

@@ -1,0 +1,19 @@
+{
+  "creatureId": "aatxe",
+  "variantId": "04",
+  "style": "yolo",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-09-30",
+  "designReferences": [
+    {
+      "url": "https://d1vzi28wh99zvq.cloudfront.net/pdf_previews/252157-sample.pdf"
+    },
+    {
+      "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

@@ -1,0 +1,31 @@
+{
+  "creatureId": "dust-mephit",
+  "variantId": "01",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-05",
+  "designReferences": [
+    {
+      "url": "https://5thsrd.org/gamemaster_rules/monsters/dust_mephit/"
+    },
+    {
+      "url": "https://a5e.tools/node/1727"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/open5e/open5e-api/1253adb7e58dde6cae556c6bd3515dcb521b723e/data/v1/menagerie/Monster.json"
+    },
+    {
+      "url": "https://www.koboldpress.com/bfr-reference-doc/#page=318"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/open5e/open5e-api/1253adb7e58dde6cae556c6bd3515dcb521b723e/data/v1/blackflag/Monster.json"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/open5e/open5e-api/1253adb7e58dde6cae556c6bd3515dcb521b723e/data/v1/blackflag/Document.json"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

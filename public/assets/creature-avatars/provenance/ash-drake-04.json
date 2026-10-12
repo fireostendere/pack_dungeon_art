@@ -1,0 +1,19 @@
+{
+  "creatureId": "ash-drake",
+  "variantId": "04",
+  "style": "yolo",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-01",
+  "designReferences": [
+    {
+      "url": "https://www.5esrd.com/database/creature/drake-ash-3pp/"
+    },
+    {
+      "url": "https://marketplace.roll20.net/browse/set/12759/monsters-dragons-and-drakes"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

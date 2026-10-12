@@ -1,0 +1,28 @@
+{
+  "creatureId": "giant-bombardier-beetle",
+  "variantId": "01",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-06",
+  "designReferences": [
+    {
+      "url": "https://github.com/open5e/open5e-api/blob/1253adb7e58dde6cae556c6bd3515dcb521b723e/data/v1/tob2/Monster.json"
+    },
+    {
+      "url": "https://www.5esrd.com/database/creature/beetle-giant-bombardier/"
+    },
+    {
+      "url": "https://news.mit.edu/2015/how-bombardier-beetles-produce-defensive-spray-0430"
+    },
+    {
+      "url": "https://australian.museum/learn/species-identification/ask-an-expert/what-do-beetles-look-like/"
+    },
+    {
+      "url": "https://askabiologist.asu.edu/tiger-beetle-anatomy"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

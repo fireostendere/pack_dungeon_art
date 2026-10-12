@@ -1,0 +1,22 @@
+{
+  "creatureId": "insect_swarm_of_insects_bf",
+  "variantId": "01",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-08",
+  "designReferences": [
+    {
+      "url": "https://github.com/open5e/open5e-api/blob/1253adb7e58dde6cae556c6bd3515dcb521b723e/data/v1/blackflag/Monster.json#L9360"
+    },
+    {
+      "url": "https://github.com/open5e/open5e-api/blob/1253adb7e58dde6cae556c6bd3515dcb521b723e/data/v1/blackflag/Document.json"
+    },
+    {
+      "url": "https://koboldpress.com/wp-content/uploads/2024/05/Black-Flag-Roleplaying.pdf"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

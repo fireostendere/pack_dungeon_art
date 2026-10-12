@@ -1,0 +1,16 @@
+{
+  "creatureId": "cloud-giant",
+  "variantId": "04",
+  "style": "yolo",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-03",
+  "designReferences": [
+    {
+      "url": "https://koboldpress.com/monster-vault-preview-tales-of-the-valiant-presents-cloud-giant/"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

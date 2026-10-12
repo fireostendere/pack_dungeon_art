@@ -1,0 +1,19 @@
+{
+  "creatureId": "adult-mithral-dragon",
+  "variantId": "01",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-09-30",
+  "designReferences": [
+    {
+      "url": "https://koboldpress.com/wp-content/uploads/2016/07/Tome-of-Beasts-Mithral-Dragon.pdf"
+    },
+    {
+      "url": "https://www.5esrd.com/database/creature/dragon-mithral-adult-3pp/"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

@@ -1,0 +1,19 @@
+{
+  "creatureId": "altar-flame-golem",
+  "variantId": "04",
+  "style": "yolo",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-01",
+  "designReferences": [
+    {
+      "url": "https://www.5esrd.com/database/creature/golem-altar-flame/"
+    },
+    {
+      "url": "https://koboldpress.com/creature-codex-pocket-edition/"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

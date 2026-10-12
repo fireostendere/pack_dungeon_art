@@ -1,0 +1,22 @@
+{
+  "creatureId": "alseid-woad-warrior",
+  "variantId": "04",
+  "style": "yolo",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-01",
+  "designReferences": [
+    {
+      "url": "https://www.5esrd.com/database/creature/alseid-woad-warrior/"
+    },
+    {
+      "url": "https://www.5esrd.com/database/creature/alpine-creeper/"
+    },
+    {
+      "url": "https://www.5esrd.com/database/race/alseid/"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

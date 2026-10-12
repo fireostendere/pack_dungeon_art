@@ -1,0 +1,22 @@
+{
+  "creatureId": "dinosaur-thundercall-hadrosaur",
+  "variantId": "04",
+  "style": "yolo",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-04",
+  "designReferences": [
+    {
+      "url": "https://www.5esrd.com/database/creature/thundercall-hadrosaur/"
+    },
+    {
+      "url": "https://www.nhm.ac.uk/discover/dino-directory/parasaurolophus.html"
+    },
+    {
+      "url": "https://github.com/open5e/open5e-api/blob/staging/data/v1/tob3/Monster.json"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

@@ -1,0 +1,22 @@
+{
+  "creatureId": "drop-bear-a5e",
+  "variantId": "04",
+  "style": "yolo",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-05",
+  "designReferences": [
+    {
+      "url": "https://a5e.tools/node/1984"
+    },
+    {
+      "url": "https://a5esrd.com/s/a5e_srd_20_beasts_creatures.pdf#page=19"
+    },
+    {
+      "url": "https://a5esrd.com/a5esrd"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

@@ -1,0 +1,25 @@
+{
+  "creatureId": "mule",
+  "variantId": "01",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-09",
+  "designReferences": [
+    {
+      "url": "https://github.com/open5e/open5e-api/blob/1253adb7e58dde6cae556c6bd3515dcb521b723e/data/v1/wotc-srd/Monster.json#L10452"
+    },
+    {
+      "url": "https://github.com/open5e/open5e-api/blob/1253adb7e58dde6cae556c6bd3515dcb521b723e/data/v1/wotc-srd/Document.json"
+    },
+    {
+      "url": "https://www.dndbeyond.com/monsters/16960-mule"
+    },
+    {
+      "url": "https://www.nps.gov/choh/learn/historyculture/mules.htm"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

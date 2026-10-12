@@ -1,0 +1,19 @@
+{
+  "creatureId": "clay-golem",
+  "variantId": "02",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-02",
+  "designReferences": [
+    {
+      "url": "https://www.dndbeyond.com/sources/dnd/basic-rules-2014/monster-stat-blocks-c"
+    },
+    {
+      "url": "https://github.com/open5e/open5e-api/blob/staging/data/v1/blackflag/Monster.json"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

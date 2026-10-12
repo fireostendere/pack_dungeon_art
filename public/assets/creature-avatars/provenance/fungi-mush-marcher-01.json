@@ -1,0 +1,22 @@
+{
+  "creatureId": "fungi-mush-marcher",
+  "variantId": "01",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-06",
+  "designReferences": [
+    {
+      "url": "https://www.5esrd.com/database/creature/mush-marcher/"
+    },
+    {
+      "url": "https://github.com/open5e/open5e-api/blob/1253adb7e58dde6cae556c6bd3515dcb521b723e/data/v1/tob3/Monster.json"
+    },
+    {
+      "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

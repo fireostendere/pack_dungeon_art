@@ -1,0 +1,22 @@
+{
+  "creatureId": "drow",
+  "variantId": "04",
+  "style": "yolo",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-05",
+  "designReferences": [
+    {
+      "url": "https://5thsrd.org/gamemaster_rules/monsters/elf_drow/"
+    },
+    {
+      "url": "https://www.5esrd.com/database/creature/elf-drow/"
+    },
+    {
+      "url": "https://www.koboldpress.com/bfr-reference-doc/#page=286"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

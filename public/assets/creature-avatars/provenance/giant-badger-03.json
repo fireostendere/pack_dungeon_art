@@ -1,0 +1,31 @@
+{
+  "creatureId": "giant-badger",
+  "variantId": "03",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-06",
+  "designReferences": [
+    {
+      "url": "https://github.com/open5e/open5e-api/blob/1253adb7e58dde6cae556c6bd3515dcb521b723e/data/v1/wotc-srd/Monster.json"
+    },
+    {
+      "url": "https://github.com/open5e/open5e-api/blob/1253adb7e58dde6cae556c6bd3515dcb521b723e/data/v1/menagerie/Monster.json"
+    },
+    {
+      "url": "https://a5e.tools/node/1936"
+    },
+    {
+      "url": "https://tpwd.texas.gov/huntwild/wild/species/badger/"
+    },
+    {
+      "url": "https://www.nps.gov/yell/learn/nature/badger.htm"
+    },
+    {
+      "url": "https://www.dndbeyond.com/monsters/16874-giant-badger"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

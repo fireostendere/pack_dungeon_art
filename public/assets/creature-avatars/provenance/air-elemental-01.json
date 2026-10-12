@@ -1,0 +1,22 @@
+{
+  "creatureId": "air-elemental",
+  "variantId": "01",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-09-30",
+  "designReferences": [
+    {
+      "url": "https://www.dndbeyond.com/monsters/16774-air-elemental"
+    },
+    {
+      "url": "https://a5e.tools/node/1595"
+    },
+    {
+      "url": "https://bfrd.net/monsters/air-elemental"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

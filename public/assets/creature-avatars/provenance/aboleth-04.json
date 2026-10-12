@@ -1,0 +1,19 @@
+{
+  "creatureId": "aboleth",
+  "variantId": "04",
+  "style": "yolo",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-09-30",
+  "license": "generated-output; no third-party artwork license asserted",
+  "designReferences": [
+    {
+      "url": "https://a5e.tools/node/1432"
+    },
+    {
+      "url": "https://www.dndbeyond.com/monsters/5194867-aboleth"
+    }
+  ],
+  "promptStatus": "retained-in-source-backups"
+}

@@ -1,0 +1,19 @@
+{
+  "creatureId": "alnaar",
+  "variantId": "02",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-01",
+  "designReferences": [
+    {
+      "url": "https://koboldpress.com/creature-codex-alnaar-demon/"
+    },
+    {
+      "url": "https://koboldpress.com/wp-content/uploads/2018/11/alnaar.jpg"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

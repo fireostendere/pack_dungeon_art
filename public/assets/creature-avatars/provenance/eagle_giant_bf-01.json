@@ -1,0 +1,19 @@
+{
+  "creatureId": "eagle_giant_bf",
+  "variantId": "01",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-05",
+  "designReferences": [
+    {
+      "url": "https://github.com/open5e/open5e-api/blob/1253adb7e58dde6cae556c6bd3515dcb521b723e/data/v1/blackflag/Monster.json"
+    },
+    {
+      "url": "https://bfrd.net/monsters/giant-eagle"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

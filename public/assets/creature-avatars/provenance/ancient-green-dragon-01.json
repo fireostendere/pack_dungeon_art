@@ -1,0 +1,19 @@
+{
+  "creatureId": "ancient-green-dragon",
+  "variantId": "01",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-01",
+  "designReferences": [
+    {
+      "url": "https://www.dndbeyond.com/monsters/16781-ancient-green-dragon"
+    },
+    {
+      "url": "https://www.dndbeyond.com/monsters/16770-adult-green-dragon"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

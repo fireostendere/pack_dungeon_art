@@ -1,0 +1,19 @@
+{
+  "creatureId": "alchemist-archer",
+  "variantId": "01",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-01",
+  "designReferences": [
+    {
+      "url": "https://koboldpress.com/creature-codex-alchemist-archer-elf/"
+    },
+    {
+      "url": "https://koboldpress.com/wp-content/uploads/2018/10/alchemist-archer-elf.jpg"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

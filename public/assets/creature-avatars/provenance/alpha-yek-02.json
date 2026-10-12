@@ -1,0 +1,19 @@
+{
+  "creatureId": "alpha-yek",
+  "variantId": "02",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-01",
+  "designReferences": [
+    {
+      "url": "https://kpogl.wikidot.com/monster%3Ayek"
+    },
+    {
+      "url": "https://kpogl.wikidot.com/publication%3Acreature-codex"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

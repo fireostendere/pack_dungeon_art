@@ -1,0 +1,28 @@
+{
+  "creatureId": "gigantura",
+  "variantId": "04",
+  "style": "yolo",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-07",
+  "designReferences": [
+    {
+      "url": "https://github.com/open5e/open5e-api/blob/1253adb7e58dde6cae556c6bd3515dcb521b723e/data/v1/tob3/Monster.json"
+    },
+    {
+      "url": "https://www.5esrd.com/database/creature/gigantura/"
+    },
+    {
+      "url": "https://repository.library.noaa.gov/view/noaa/8561/noaa_8561_DS1.pdf"
+    },
+    {
+      "url": "https://fishesofaustralia.net.au/home/family/166"
+    },
+    {
+      "url": "https://osu-wams-blogs-uploads.s3.amazonaws.com/blogs.dir/3116/files/2018/03/Konstantinidis-_-Johnson_2017.pdf"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

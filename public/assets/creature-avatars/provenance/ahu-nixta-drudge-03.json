@@ -1,0 +1,19 @@
+{
+  "creatureId": "ahu-nixta-drudge",
+  "variantId": "03",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-09-30",
+  "designReferences": [
+    {
+      "url": "https://www.5esrd.com/database/creature/ahu-nixta-drudge/"
+    },
+    {
+      "url": "https://koboldpress.com/maze-mondays-take-your-campaign-world-apart-and-build-it-into-something-more-monstrous-with-the-ahu-nixta/"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

@@ -1,0 +1,31 @@
+{
+  "creatureId": "giant-wasp",
+  "variantId": "01",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-07",
+  "designReferences": [
+    {
+      "url": "https://github.com/open5e/open5e-api/blob/1253adb7e58dde6cae556c6bd3515dcb521b723e/data/v1/menagerie/Monster.json"
+    },
+    {
+      "url": "https://github.com/open5e/open5e-api/blob/1253adb7e58dde6cae556c6bd3515dcb521b723e/data/v1/wotc-srd/Monster.json"
+    },
+    {
+      "url": "https://a5e.tools/node/1961"
+    },
+    {
+      "url": "https://australian.museum/learn/animals/insects/sawflies-wasps-bees-ants-hymenoptera/"
+    },
+    {
+      "url": "https://extension.umn.edu/garden-and-home/yard-and-garden/yard-and-garden-insects/wasps-and-bees"
+    },
+    {
+      "url": "https://wwwn.cdc.gov/phil/Details.aspx?pid=26497"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

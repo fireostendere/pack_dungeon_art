@@ -1,0 +1,19 @@
+{
+  "creatureId": "accursed-guardian-naga-a5e",
+  "variantId": "01",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-09-30",
+  "designReferences": [
+    {
+      "url": "https://a5e.tools/node/1744"
+    },
+    {
+      "url": "https://a5e.tools/node/1742"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

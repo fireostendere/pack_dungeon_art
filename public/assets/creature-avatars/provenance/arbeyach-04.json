@@ -1,0 +1,19 @@
+{
+  "creatureId": "arbeyach",
+  "variantId": "04",
+  "style": "yolo",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-01",
+  "designReferences": [
+    {
+      "url": "https://www.worldanvil.com/w/ouroboros-unknownplayer25/a/arbeyach-article"
+    },
+    {
+      "url": "https://koboldpress.com/monday-monster-ia%E2%80%99affrat-the-insatiable/"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

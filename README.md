@@ -1,9 +1,9 @@
 # Dungeon art library
 
-## Migration in progress
+## Imported collection
 
-**845 of 5,800 ready images are currently available in this repository.**
-More images are being added in verified batches.
+**5,800 ready images are available: 5,660 creature portraits, 120 NPC portraits and 20 location scenes.**
+The existing-art migration is complete. The larger generation catalog still contains pending entries; these are not ready artwork.
 
 The files are stored individually under `public/assets/`, using their original
 paths. `art-index.json` lists only images that are present in this commit, with
@@ -16,7 +16,7 @@ provenance and source citation URLs are included in the index. Bestiary referenc
 identify creatures; they do not imply a license to publisher artwork. No new
 copyright or third-party artwork license is asserted by this migration.
 
-Image bytes are unchanged from the validated source collection. The planned
+Image bytes are unchanged from the validated source collection. The imported
 delivery contains 5,660 creature portraits, 20 location scenes, and 120 NPC portraits. Original
 source material and backups are preserved separately.
 
@@ -24,7 +24,7 @@ Source repository: `fireostendere/dungeon_master`.
 - Creature source branch: `assets/creature-avatars-2026-09-30`, commit `5e1285d213c4ab91bae8fc2e6f835fe27371ff20`.
 - Location source branch: `assets/location-scenes-2026-10-02`, commit `5df5771ff6f7013b77efb1835587a6b2f359608b`.
 
-The complete collection catalog will be published when the migration finishes.
+The complete imported collection is indexed in `art-index.json`. Pending catalog entries are excluded.
 
 ## NPC portraits and resource packs
 
@@ -33,3 +33,7 @@ The complete collection catalog will be published when the migration finishes.
 ## Location scenes
 
 20 existing location illustrations have been imported without changing their bytes. The [location catalog](public/assets/location-scenes/manifest.json) preserves 288 archetypes and a target of 1,367 illustrations. This import created no new AI-generated artwork. New generation tasks and layered scene authoring are documented in [locations/](locations/README.md).
+
+## Creature portraits
+
+5,660 individual [creature portraits](public/assets/creature-avatars/) cover 1,415 creatures, with 3 normal variants and 1 YOLO variant each. The [catalog](public/assets/creature-avatars/manifest.json) preserves all 2,308 canonical IDs; 893 remain pending. Names, variants, metadata and provenance are linked from the common index. See the [Drive import report](creatures/imports/google-drive-2026-10-12.json).

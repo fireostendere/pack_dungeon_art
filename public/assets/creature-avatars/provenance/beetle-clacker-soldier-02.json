@@ -1,0 +1,19 @@
+{
+  "creatureId": "beetle-clacker-soldier",
+  "variantId": "02",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-02",
+  "designReferences": [
+    {
+      "url": "https://www.5esrd.com/database/creature/clacker-beetle-soldier-2/"
+    },
+    {
+      "url": "https://www.5esrd.com/database/creature/swarm-of-clacker-beetles-2/"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

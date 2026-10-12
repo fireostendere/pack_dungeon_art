@@ -1,0 +1,16 @@
+{
+  "creatureId": "dwarf-pike-guard",
+  "variantId": "03",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-05",
+  "designReferences": [
+    {
+      "url": "https://www.5esrd.com/database/creature/dwarf-pike-guard/"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

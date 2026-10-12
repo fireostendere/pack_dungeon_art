@@ -1,0 +1,22 @@
+{
+  "creatureId": "alligator-turtle",
+  "variantId": "04",
+  "style": "yolo",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-01",
+  "designReferences": [
+    {
+      "url": "https://www.5esrd.com/database/creature/alligator-turtle/"
+    },
+    {
+      "url": "https://www.nationalzoo.si.edu/animals/alligator-snapping-turtle"
+    },
+    {
+      "url": "https://mdc.mo.gov/discover-nature/field-guide/western-alligator-snapping-turtle"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

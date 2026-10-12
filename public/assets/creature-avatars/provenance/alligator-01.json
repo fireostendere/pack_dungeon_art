@@ -1,0 +1,19 @@
+{
+  "creatureId": "alligator",
+  "variantId": "01",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-01",
+  "designReferences": [
+    {
+      "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+    },
+    {
+      "url": "https://nationalzoo.si.edu/animals/american-alligator"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

@@ -1,0 +1,25 @@
+{
+  "creatureId": "dretch",
+  "variantId": "02",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-05",
+  "designReferences": [
+    {
+      "url": "https://5thsrd.org/gamemaster_rules/monsters/dretch/"
+    },
+    {
+      "url": "https://a5e.tools/node/1500"
+    },
+    {
+      "url": "https://bfrd.net/monsters/dretch"
+    },
+    {
+      "url": "https://koboldpress.com/wp-content/uploads/2025/07/Black-Flag-Roleplaying-v04_2025_07_01.pdf#page=267"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

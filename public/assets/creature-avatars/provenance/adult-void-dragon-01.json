@@ -1,0 +1,22 @@
+{
+  "creatureId": "adult-void-dragon",
+  "variantId": "01",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-09-30",
+  "designReferences": [
+    {
+      "url": "https://www.dndbeyond.com/posts/1698-void-dragons-when-you-gaze-into-the-void-the-void"
+    },
+    {
+      "url": "https://www.dndbeyond.com/attachments/11/279/04-051-ancient-void-dragon-compressed.jpg"
+    },
+    {
+      "url": "https://koboldpress.com/kpstore/product-category/monsters/"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

@@ -1,0 +1,16 @@
+{
+  "creatureId": "goat_giant_bf",
+  "variantId": "03",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-07",
+  "designReferences": [
+    {
+      "url": "https://www.koboldpress.com/bfr-reference-doc/"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

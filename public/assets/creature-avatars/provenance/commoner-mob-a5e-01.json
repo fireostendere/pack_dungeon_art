@@ -1,0 +1,16 @@
+{
+  "creatureId": "commoner-mob-a5e",
+  "variantId": "01",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-03",
+  "designReferences": [
+    {
+      "url": "https://a5e.tools/node/1847"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

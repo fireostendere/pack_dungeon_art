@@ -1,0 +1,19 @@
+{
+  "creatureId": "akhlut",
+  "variantId": "02",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-09-30",
+  "designReferences": [
+    {
+      "url": "https://www.5esrd.com/database/creature/akhlut/"
+    },
+    {
+      "url": "https://www.theloremistress.co.uk/post/monster-monday-22-akhlut"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

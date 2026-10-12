@@ -1,0 +1,25 @@
+{
+  "creatureId": "drider",
+  "variantId": "04",
+  "style": "yolo",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-05",
+  "designReferences": [
+    {
+      "url": "https://5thsrd.org/gamemaster_rules/monsters/drider/"
+    },
+    {
+      "url": "https://a5e.tools/node/1484"
+    },
+    {
+      "url": "https://a5esrd.com/s/a5e_srd_191_monsters_A-F.pdf#page=59"
+    },
+    {
+      "url": "https://koboldpress.com/wp-content/uploads/2025/07/Black-Flag-Roleplaying-v04_2025_07_01.pdf#page=301"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

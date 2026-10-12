@@ -1,0 +1,28 @@
+{
+  "creatureId": "green-dragon-wyrmling",
+  "variantId": "04",
+  "style": "yolo",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-07",
+  "designReferences": [
+    {
+      "url": "https://github.com/open5e/open5e-api/blob/1253adb7e58dde6cae556c6bd3515dcb521b723e/data/v1/wotc-srd/Monster.json#L7852"
+    },
+    {
+      "url": "https://github.com/open5e/open5e-api/blob/1253adb7e58dde6cae556c6bd3515dcb521b723e/data/v1/wotc-srd/Document.json"
+    },
+    {
+      "url": "https://www.dndbeyond.com/monsters/16910-green-dragon-wyrmling"
+    },
+    {
+      "url": "https://shop.wizkids.com/products/d-d-replicas-of-the-realms-green-dragon-trophy-plaque"
+    },
+    {
+      "url": "https://wizkids.com/dd-icons-of-the-realms-adult-green-dragon-premium-figure/"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

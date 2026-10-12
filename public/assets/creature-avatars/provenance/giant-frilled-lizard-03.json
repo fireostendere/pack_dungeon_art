@@ -1,0 +1,25 @@
+{
+  "creatureId": "giant-frilled-lizard",
+  "variantId": "03",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-07",
+  "designReferences": [
+    {
+      "url": "https://github.com/open5e/open5e-api/blob/1253adb7e58dde6cae556c6bd3515dcb521b723e/data/v1/tob2/Monster.json"
+    },
+    {
+      "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+    },
+    {
+      "url": "https://www.5esrd.com/database/creature/lizard-giant-frilled/"
+    },
+    {
+      "url": "https://nt.gov.au/__data/assets/pdf_file/0007/200032/frilled-lizard.pdf"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

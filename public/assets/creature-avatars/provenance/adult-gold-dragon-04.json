@@ -1,0 +1,22 @@
+{
+  "creatureId": "adult-gold-dragon",
+  "variantId": "04",
+  "style": "yolo",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-09-30",
+  "designReferences": [
+    {
+      "url": "https://wizkids.com/dd-icons-of-the-realms-adult-gold-dragon/"
+    },
+    {
+      "url": "https://www.dndbeyond.com/monsters/16769-adult-gold-dragon"
+    },
+    {
+      "url": "https://a5e.tools/node/1588"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

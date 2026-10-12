@@ -1,0 +1,22 @@
+{
+  "creatureId": "animal-lord-mammoth-queen",
+  "variantId": "01",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-01",
+  "designReferences": [
+    {
+      "url": "https://koboldpress.com/wp-content/uploads/2022/11/Queen-of-Mammoths.png"
+    },
+    {
+      "url": "https://anyflip.com/plzy/jxhb/basic"
+    },
+    {
+      "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

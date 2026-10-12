@@ -1,0 +1,19 @@
+{
+  "creatureId": "behir-magus-a5e",
+  "variantId": "03",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-02",
+  "designReferences": [
+    {
+      "url": "https://a5e.tools/node/1465"
+    },
+    {
+      "url": "https://a5e.tools/node/1442"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

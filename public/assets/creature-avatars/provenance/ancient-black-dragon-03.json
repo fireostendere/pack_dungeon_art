@@ -1,0 +1,22 @@
+{
+  "creatureId": "ancient-black-dragon",
+  "variantId": "03",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-01",
+  "designReferences": [
+    {
+      "url": "https://www.dndbeyond.com/monsters/16775-ancient-black-dragon"
+    },
+    {
+      "url": "https://www.a5e.tools/node/1525"
+    },
+    {
+      "url": "https://media.dndbeyond.com/compendium-images/phb/DnD-Dragon-Art-Book.pdf"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

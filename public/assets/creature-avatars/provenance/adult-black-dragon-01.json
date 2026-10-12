@@ -1,0 +1,22 @@
+{
+  "creatureId": "adult-black-dragon",
+  "variantId": "01",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-09-30",
+  "designReferences": [
+    {
+      "url": "https://a5e.tools/node/1527"
+    },
+    {
+      "url": "https://www.dndbeyond.com/monsters/16764-adult-black-dragon"
+    },
+    {
+      "url": "https://forgottenrealms.fandom.com/wiki/Black_dragon"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

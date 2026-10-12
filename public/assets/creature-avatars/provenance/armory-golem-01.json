@@ -1,0 +1,19 @@
+{
+  "creatureId": "armory-golem",
+  "variantId": "01",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-01",
+  "designReferences": [
+    {
+      "url": "https://www.5esrd.com/database/creature/golem-armory/"
+    },
+    {
+      "url": "https://koboldpress.com/encounters-to-challenge-pcs-of-any-level-in-the-wasted-west-part-1-of-2-2/"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

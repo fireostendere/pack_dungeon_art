@@ -1,0 +1,19 @@
+{
+  "creatureId": "bloatblossom_bf",
+  "variantId": "02",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-02",
+  "designReferences": [
+    {
+      "url": "https://koboldpress.com/wp-content/uploads/2024/05/Black-Flag-Roleplaying.pdf#page=339"
+    },
+    {
+      "url": "https://koboldpress.com/wp-content/uploads/2023/10/Black-Flag-Roleplaying-v0.1_101123.pdf#page=125"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

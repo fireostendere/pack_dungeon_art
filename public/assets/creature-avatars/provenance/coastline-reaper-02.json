@@ -1,0 +1,16 @@
+{
+  "creatureId": "coastline-reaper",
+  "variantId": "02",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-03",
+  "designReferences": [
+    {
+      "url": "https://koboldpress.s3.us-east-2.amazonaws.com/tob3-preview.pdf"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

@@ -1,0 +1,25 @@
+{
+  "creatureId": "gaki",
+  "variantId": "02",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-06",
+  "designReferences": [
+    {
+      "url": "https://www.5esrd.com/database/creature/hungry-ghost-gaki/"
+    },
+    {
+      "url": "https://github.com/open5e/open5e-api/blob/1253adb7e58dde6cae556c6bd3515dcb521b723e/data/v1/cc/Monster.json"
+    },
+    {
+      "url": "https://koboldpress.com/tools/kobold-press-monsters/"
+    },
+    {
+      "url": "https://d1vzi28wh99zvq.cloudfront.net/pdf_previews/252157-sample.pdf"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

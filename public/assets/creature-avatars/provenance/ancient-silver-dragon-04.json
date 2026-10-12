@@ -1,0 +1,19 @@
+{
+  "creatureId": "ancient-silver-dragon",
+  "variantId": "04",
+  "style": "yolo",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-01",
+  "designReferences": [
+    {
+      "url": "https://www.dndbeyond.com/monsters/16783-ancient-silver-dragon"
+    },
+    {
+      "url": "https://a5e.tools/sites/default/files/monsters/dragon-silver%20-%20Gui%20Sommer.png"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

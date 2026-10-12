@@ -1,0 +1,31 @@
+{
+  "creatureId": "giant-vulture",
+  "variantId": "01",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-07",
+  "designReferences": [
+    {
+      "url": "https://github.com/open5e/open5e-api/blob/1253adb7e58dde6cae556c6bd3515dcb521b723e/data/v1/menagerie/Monster.json"
+    },
+    {
+      "url": "https://github.com/open5e/open5e-api/blob/1253adb7e58dde6cae556c6bd3515dcb521b723e/data/v1/wotc-srd/Monster.json"
+    },
+    {
+      "url": "https://a5e.tools/node/1960"
+    },
+    {
+      "url": "https://www.allaboutbirds.org/guide/Turkey_Vulture/id"
+    },
+    {
+      "url": "https://academy.allaboutbirds.org/all-about-raptor-feet/"
+    },
+    {
+      "url": "https://inr.oregonstate.edu/sites/inr.oregonstate.edu/files/a_guide_to_snowy_plover_nest_predators_051220.pdf"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

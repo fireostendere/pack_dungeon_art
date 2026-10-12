@@ -1,0 +1,16 @@
+{
+  "creatureId": "black-sun-orc",
+  "variantId": "04",
+  "style": "yolo",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-02",
+  "designReferences": [
+    {
+      "url": "https://www.5esrd.com/gamemastering/monsters-foes/monsters-by-type/humanoids/orc/orc-black-sun/"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}

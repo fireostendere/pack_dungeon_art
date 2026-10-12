@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "language": "en",
+  "importedAt": "2026-10-12",
+  "sourceFolder": "https://drive.google.com/drive/folders/12izBeLHxP8wkwbOWCBnC5Y8AK1cZj-Lg",
+  "sourceArchives": [
+    {
+      "name": "Dungeon-Art-part-01-of-05.zip",
+      "driveFileId": "1E6GkBwM6G81w6NGTPAqSescQHmqaO3m5",
+      "bytes": 95301327,
+      "sha256": "1f9d5770eff60e45b75781c486f55b2a1d95369565d548f01fa8c167545a9094",
+      "imageCount": 1022
+    },
+    {
+      "name": "Dungeon-Art-part-02-of-05.zip",
+      "driveFileId": "1a5boVReJCqGR9LAQN3FgAXe4rkfEEAxk",
+      "bytes": 95323494,
+      "sha256": "467d882d97679e2f01b5b3a9f3a733543c4746957ac515493c75862edff9131e",
+      "imageCount": 1111
+    },
+    {
+      "name": "Dungeon-Art-part-03-of-05.zip",
+      "driveFileId": "1GXOkDSfqZlBZcdDByJJaUp8IJIxhBzuh",
+      "bytes": 95257736,
+      "sha256": "feae707f900db6ebcad344fe12b5166f6ee7813ff4934c419be25b2d1fcdf12d",
+      "imageCount": 1134
+    },
+    {
+      "name": "Dungeon-Art-part-04-of-05.zip",
+      "driveFileId": "1MVXXny7AkhOcnqCe8IJxtb0Ko5NBvaaB",
+      "bytes": 95323100,
+      "sha256": "980da2d37cf04e5bdfb0d1220f5db1bf1ac9d4792c84be084696b226950acfaa",
+      "imageCount": 1256
+    },
+    {
+      "name": "Dungeon-Art-part-05-of-05.zip",
+      "driveFileId": "1Je2_XjrkngFAI0bt2bfmM70c9w3OGnrq",
+      "bytes": 95527304,
+      "sha256": "767e3cdc0b15aff1c5f14bf0c3e5e866aeb0e52a8105798586489d29f11b168a",
+      "imageCount": 1157
+    }
+  ],
+  "targetBaseCommit": "bab96f9a2d91f06d6069a3619717367b7b281901",
+  "sourceCreatureImages": 5660,
+  "addedCreatureImages": 4955,
+  "existingCreatureImagesReused": 705,
+  "existingLocationImagesReused": 20,
+  "repeatedMetadataEntriesSkipped": 28372,
+  "addedFilesFromArchives": 12042,
+  "imageBytesUnchanged": true,
+  "sourceArchivesStoredInGit": false,
+  "completeCreatureIdentities": 1415,
+  "creatureRosterCount": 2308,
+  "pendingCreatureIdentities": 893,
+  "styles": {
+    "normal": 4245,
+    "yolo": 1415
+  },
+  "totalImages": 5800,
+  "categoryCounts": {
+    "creature": 5660,
+    "npc": 120,
+    "location": 20
+  },
+  "imageBytes": 454902458,
+  "addedImageBytes": 381763116,
+  "scope": "Creature art and metadata only. Existing NPC, location and dynamic-scene files preserved. No images generated or recompressed.",
+  "validation": {
+    "sourceArchivesVerified": 5,
+    "allSourceImagesDecoded": 5680,
+    "repositoryImagesDecodedAndHashed": 5800,
+    "creatureCatalog": "passed",
+    "locationCatalogAndQueue": "passed",
+    "sceneUnitTestsPassed": 31,
+    "sceneUnitTestsFailed": 0,
+    "resolverCanonicalIDsChecked": 2308,
+    "resolverSpecialIDsChecked": 16,
+    "priorTrackedFilesPreserved": 871,
+    "unmodifiedPriorArtworkCount": 845
+  }
+}

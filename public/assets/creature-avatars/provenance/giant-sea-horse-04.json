@@ -1,0 +1,31 @@
+{
+  "creatureId": "giant-sea-horse",
+  "variantId": "04",
+  "style": "yolo",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-07",
+  "designReferences": [
+    {
+      "url": "https://github.com/open5e/open5e-api/blob/1253adb7e58dde6cae556c6bd3515dcb521b723e/data/v1/wotc-srd/Monster.json"
+    },
+    {
+      "url": "https://biogeodb.stri.si.edu/sftep/en/thefishes/taxon/955"
+    },
+    {
+      "url": "https://www.theseahorsetrust.org/wp-content/uploads/2020/12/2005-Syngnathid-Husbandry-Manual.pdf"
+    },
+    {
+      "url": "https://projectseahorse.org/wp-content/uploads/2021/06/Seahorse_ID_Guide_2004.pdf"
+    },
+    {
+      "url": "https://scripps.ucsd.edu/news/voyager-how-does-tail-seahorse-work-and-what-it"
+    },
+    {
+      "url": "https://www.aquariumofpacific.org/exhibits/tropical_pacific_gallery/what_are_seahorses_and_seadragons"
+    }
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-in-source-backups"
+}
