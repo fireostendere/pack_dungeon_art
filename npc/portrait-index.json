@@ -1,0 +1,775 @@
+{
+  "schemaVersion": 1,
+  "count": 120,
+  "format": "jpeg",
+  "packs": [
+    {
+      "path": "packs/npc/npcs-001-020.zip",
+      "firstIndex": 1,
+      "lastIndex": 20,
+      "count": 20,
+      "preview": "previews/npc/portraits-001-020.jpg"
+    },
+    {
+      "path": "packs/npc/npcs-021-040.zip",
+      "firstIndex": 21,
+      "lastIndex": 40,
+      "count": 20,
+      "preview": "previews/npc/portraits-021-040.jpg"
+    },
+    {
+      "path": "packs/npc/npcs-041-060.zip",
+      "firstIndex": 41,
+      "lastIndex": 60,
+      "count": 20,
+      "preview": "previews/npc/portraits-041-060.jpg"
+    },
+    {
+      "path": "packs/npc/npcs-061-080.zip",
+      "firstIndex": 61,
+      "lastIndex": 80,
+      "count": 20,
+      "preview": "previews/npc/portraits-061-080.jpg"
+    },
+    {
+      "path": "packs/npc/npcs-081-100.zip",
+      "firstIndex": 81,
+      "lastIndex": 100,
+      "count": 20,
+      "preview": "previews/npc/portraits-081-100.jpg"
+    },
+    {
+      "path": "packs/npc/npcs-101-120.zip",
+      "firstIndex": 101,
+      "lastIndex": 120,
+      "count": 20,
+      "preview": "previews/npc/portraits-101-120.jpg"
+    }
+  ],
+  "portraits": [
+    {
+      "id": "mara-ashkettle",
+      "pack": "packs/npc/npcs-001-020.zip",
+      "pathInPack": "portraits/mara-ashkettle.jpg",
+      "path": "public/assets/npc-portraits/mara-ashkettle.jpg"
+    },
+    {
+      "id": "orrin-mossbarrel",
+      "pack": "packs/npc/npcs-001-020.zip",
+      "pathInPack": "portraits/orrin-mossbarrel.jpg",
+      "path": "public/assets/npc-portraits/orrin-mossbarrel.jpg"
+    },
+    {
+      "id": "sella-thistlebun",
+      "pack": "packs/npc/npcs-001-020.zip",
+      "pathInPack": "portraits/sella-thistlebun.jpg",
+      "path": "public/assets/npc-portraits/sella-thistlebun.jpg"
+    },
+    {
+      "id": "neshra-reed",
+      "pack": "packs/npc/npcs-001-020.zip",
+      "pathInPack": "portraits/neshra-reed.jpg",
+      "path": "public/assets/npc-portraits/neshra-reed.jpg"
+    },
+    {
+      "id": "duchess-last-orders",
+      "pack": "packs/npc/npcs-001-020.zip",
+      "pathInPack": "portraits/duchess-last-orders.jpg",
+      "path": "public/assets/npc-portraits/duchess-last-orders.jpg"
+    },
+    {
+      "id": "bertram-cleanplate",
+      "pack": "packs/npc/npcs-001-020.zip",
+      "pathInPack": "portraits/bertram-cleanplate.jpg",
+      "path": "public/assets/npc-portraits/bertram-cleanplate.jpg"
+    },
+    {
+      "id": "irya-copperleaf",
+      "pack": "packs/npc/npcs-001-020.zip",
+      "pathInPack": "portraits/irya-copperleaf.jpg",
+      "path": "public/assets/npc-portraits/irya-copperleaf.jpg"
+    },
+    {
+      "id": "damas-velvetscale",
+      "pack": "packs/npc/npcs-001-020.zip",
+      "pathInPack": "portraits/damas-velvetscale.jpg",
+      "path": "public/assets/npc-portraits/damas-velvetscale.jpg"
+    },
+    {
+      "id": "pella-ninestring",
+      "pack": "packs/npc/npcs-001-020.zip",
+      "pathInPack": "portraits/pella-ninestring.jpg",
+      "path": "public/assets/npc-portraits/pella-ninestring.jpg"
+    },
+    {
+      "id": "hesh-marigold",
+      "pack": "packs/npc/npcs-001-020.zip",
+      "pathInPack": "portraits/hesh-marigold.jpg",
+      "path": "public/assets/npc-portraits/hesh-marigold.jpg"
+    },
+    {
+      "id": "madam-maybe",
+      "pack": "packs/npc/npcs-001-020.zip",
+      "pathInPack": "portraits/madam-maybe.jpg",
+      "path": "public/assets/npc-portraits/madam-maybe.jpg"
+    },
+    {
+      "id": "count-pockets",
+      "pack": "packs/npc/npcs-001-020.zip",
+      "pathInPack": "portraits/count-pockets.jpg",
+      "path": "public/assets/npc-portraits/count-pockets.jpg"
+    },
+    {
+      "id": "brena-stonewake",
+      "pack": "packs/npc/npcs-001-020.zip",
+      "pathInPack": "portraits/brena-stonewake.jpg",
+      "path": "public/assets/npc-portraits/brena-stonewake.jpg"
+    },
+    {
+      "id": "telio-amberneedle",
+      "pack": "packs/npc/npcs-001-020.zip",
+      "pathInPack": "portraits/telio-amberneedle.jpg",
+      "path": "public/assets/npc-portraits/telio-amberneedle.jpg"
+    },
+    {
+      "id": "dova-clearclay",
+      "pack": "packs/npc/npcs-001-020.zip",
+      "pathInPack": "portraits/dova-clearclay.jpg",
+      "path": "public/assets/npc-portraits/dova-clearclay.jpg"
+    },
+    {
+      "id": "sivren-bellwire",
+      "pack": "packs/npc/npcs-001-020.zip",
+      "pathInPack": "portraits/sivren-bellwire.jpg",
+      "path": "public/assets/npc-portraits/sivren-bellwire.jpg"
+    },
+    {
+      "id": "brokk-grandopening",
+      "pack": "packs/npc/npcs-001-020.zip",
+      "pathInPack": "portraits/brokk-grandopening.jpg",
+      "path": "public/assets/npc-portraits/brokk-grandopening.jpg"
+    },
+    {
+      "id": "tamsin-secondbest",
+      "pack": "packs/npc/npcs-001-020.zip",
+      "pathInPack": "portraits/tamsin-secondbest.jpg",
+      "path": "public/assets/npc-portraits/tamsin-secondbest.jpg"
+    },
+    {
+      "id": "sister-alwen",
+      "pack": "packs/npc/npcs-001-020.zip",
+      "pathInPack": "portraits/sister-alwen.jpg",
+      "path": "public/assets/npc-portraits/sister-alwen.jpg"
+    },
+    {
+      "id": "vared-sunthread",
+      "pack": "packs/npc/npcs-001-020.zip",
+      "pathInPack": "portraits/vared-sunthread.jpg",
+      "path": "public/assets/npc-portraits/vared-sunthread.jpg"
+    },
+    {
+      "id": "thessa-willowwake",
+      "pack": "packs/npc/npcs-021-040.zip",
+      "pathInPack": "portraits/thessa-willowwake.jpg",
+      "path": "public/assets/npc-portraits/thessa-willowwake.jpg"
+    },
+    {
+      "id": "jorek-openhand",
+      "pack": "packs/npc/npcs-021-040.zip",
+      "pathInPack": "portraits/jorek-openhand.jpg",
+      "path": "public/assets/npc-portraits/jorek-openhand.jpg"
+    },
+    {
+      "id": "brother-deadline",
+      "pack": "packs/npc/npcs-021-040.zip",
+      "pathInPack": "portraits/brother-deadline.jpg",
+      "path": "public/assets/npc-portraits/brother-deadline.jpg"
+    },
+    {
+      "id": "mother-quarrel",
+      "pack": "packs/npc/npcs-021-040.zip",
+      "pathInPack": "portraits/mother-quarrel.jpg",
+      "path": "public/assets/npc-portraits/mother-quarrel.jpg"
+    },
+    {
+      "id": "meret-dustglass",
+      "pack": "packs/npc/npcs-021-040.zip",
+      "pathInPack": "portraits/meret-dustglass.jpg",
+      "path": "public/assets/npc-portraits/meret-dustglass.jpg"
+    },
+    {
+      "id": "ollis-tarn",
+      "pack": "packs/npc/npcs-021-040.zip",
+      "pathInPack": "portraits/ollis-tarn.jpg",
+      "path": "public/assets/npc-portraits/ollis-tarn.jpg"
+    },
+    {
+      "id": "rena-hollowbrook",
+      "pack": "packs/npc/npcs-021-040.zip",
+      "pathInPack": "portraits/rena-hollowbrook.jpg",
+      "path": "public/assets/npc-portraits/rena-hollowbrook.jpg"
+    },
+    {
+      "id": "azren-quietink",
+      "pack": "packs/npc/npcs-021-040.zip",
+      "pathInPack": "portraits/azren-quietink.jpg",
+      "path": "public/assets/npc-portraits/azren-quietink.jpg"
+    },
+    {
+      "id": "professor-approximately",
+      "pack": "packs/npc/npcs-021-040.zip",
+      "pathInPack": "portraits/professor-approximately.jpg",
+      "path": "public/assets/npc-portraits/professor-approximately.jpg"
+    },
+    {
+      "id": "lettuce-the-librarian",
+      "pack": "packs/npc/npcs-021-040.zip",
+      "pathInPack": "portraits/lettuce-the-librarian.jpg",
+      "path": "public/assets/npc-portraits/lettuce-the-librarian.jpg"
+    },
+    {
+      "id": "veska-palesmoke",
+      "pack": "packs/npc/npcs-021-040.zip",
+      "pathInPack": "portraits/veska-palesmoke.jpg",
+      "path": "public/assets/npc-portraits/veska-palesmoke.jpg"
+    },
+    {
+      "id": "naro-starwindow",
+      "pack": "packs/npc/npcs-021-040.zip",
+      "pathInPack": "portraits/naro-starwindow.jpg",
+      "path": "public/assets/npc-portraits/naro-starwindow.jpg"
+    },
+    {
+      "id": "ilyen-softseal",
+      "pack": "packs/npc/npcs-021-040.zip",
+      "pathInPack": "portraits/ilyen-softseal.jpg",
+      "path": "public/assets/npc-portraits/ilyen-softseal.jpg"
+    },
+    {
+      "id": "kesh-fernjar",
+      "pack": "packs/npc/npcs-021-040.zip",
+      "pathInPack": "portraits/kesh-fernjar.jpg",
+      "path": "public/assets/npc-portraits/kesh-fernjar.jpg"
+    },
+    {
+      "id": "ixxi-latewish",
+      "pack": "packs/npc/npcs-021-040.zip",
+      "pathInPack": "portraits/ixxi-latewish.jpg",
+      "path": "public/assets/npc-portraits/ixxi-latewish.jpg"
+    },
+    {
+      "id": "mira-smallapocalypse",
+      "pack": "packs/npc/npcs-021-040.zip",
+      "pathInPack": "portraits/mira-smallapocalypse.jpg",
+      "path": "public/assets/npc-portraits/mira-smallapocalypse.jpg"
+    },
+    {
+      "id": "lady-serane-vell",
+      "pack": "packs/npc/npcs-021-040.zip",
+      "pathInPack": "portraits/lady-serane-vell.jpg",
+      "path": "public/assets/npc-portraits/lady-serane-vell.jpg"
+    },
+    {
+      "id": "corvin-paleacre",
+      "pack": "packs/npc/npcs-021-040.zip",
+      "pathInPack": "portraits/corvin-paleacre.jpg",
+      "path": "public/assets/npc-portraits/corvin-paleacre.jpg"
+    },
+    {
+      "id": "ilsa-riverglass",
+      "pack": "packs/npc/npcs-021-040.zip",
+      "pathInPack": "portraits/ilsa-riverglass.jpg",
+      "path": "public/assets/npc-portraits/ilsa-riverglass.jpg"
+    },
+    {
+      "id": "ereth-cinderhall",
+      "pack": "packs/npc/npcs-021-040.zip",
+      "pathInPack": "portraits/ereth-cinderhall.jpg",
+      "path": "public/assets/npc-portraits/ereth-cinderhall.jpg"
+    },
+    {
+      "id": "baron-soon",
+      "pack": "packs/npc/npcs-041-060.zip",
+      "pathInPack": "portraits/baron-soon.jpg",
+      "path": "public/assets/npc-portraits/baron-soon.jpg"
+    },
+    {
+      "id": "lady-crumbcourt",
+      "pack": "packs/npc/npcs-041-060.zip",
+      "pathInPack": "portraits/lady-crumbcourt.jpg",
+      "path": "public/assets/npc-portraits/lady-crumbcourt.jpg"
+    },
+    {
+      "id": "halden-rook",
+      "pack": "packs/npc/npcs-041-060.zip",
+      "pathInPack": "portraits/halden-rook.jpg",
+      "path": "public/assets/npc-portraits/halden-rook.jpg"
+    },
+    {
+      "id": "ema-fairline",
+      "pack": "packs/npc/npcs-041-060.zip",
+      "pathInPack": "portraits/ema-fairline.jpg",
+      "path": "public/assets/npc-portraits/ema-fairline.jpg"
+    },
+    {
+      "id": "sovan-plainstone",
+      "pack": "packs/npc/npcs-041-060.zip",
+      "pathInPack": "portraits/sovan-plainstone.jpg",
+      "path": "public/assets/npc-portraits/sovan-plainstone.jpg"
+    },
+    {
+      "id": "vessa-cointurn",
+      "pack": "packs/npc/npcs-041-060.zip",
+      "pathInPack": "portraits/vessa-cointurn.jpg",
+      "path": "public/assets/npc-portraits/vessa-cointurn.jpg"
+    },
+    {
+      "id": "inspector-sideways",
+      "pack": "packs/npc/npcs-041-060.zip",
+      "pathInPack": "portraits/inspector-sideways.jpg",
+      "path": "public/assets/npc-portraits/inspector-sideways.jpg"
+    },
+    {
+      "id": "magistrate-hush",
+      "pack": "packs/npc/npcs-041-060.zip",
+      "pathInPack": "portraits/magistrate-hush.jpg",
+      "path": "public/assets/npc-portraits/magistrate-hush.jpg"
+    },
+    {
+      "id": "sable-reed",
+      "pack": "packs/npc/npcs-041-060.zip",
+      "pathInPack": "portraits/sable-reed.jpg",
+      "path": "public/assets/npc-portraits/sable-reed.jpg"
+    },
+    {
+      "id": "orlo-dimbrass",
+      "pack": "packs/npc/npcs-041-060.zip",
+      "pathInPack": "portraits/orlo-dimbrass.jpg",
+      "path": "public/assets/npc-portraits/orlo-dimbrass.jpg"
+    },
+    {
+      "id": "lira-nightskein",
+      "pack": "packs/npc/npcs-041-060.zip",
+      "pathInPack": "portraits/lira-nightskein.jpg",
+      "path": "public/assets/npc-portraits/lira-nightskein.jpg"
+    },
+    {
+      "id": "petren-goldsigh",
+      "pack": "packs/npc/npcs-041-060.zip",
+      "pathInPack": "portraits/petren-goldsigh.jpg",
+      "path": "public/assets/npc-portraits/petren-goldsigh.jpg"
+    },
+    {
+      "id": "griska-emptyvault",
+      "pack": "packs/npc/npcs-041-060.zip",
+      "pathInPack": "portraits/griska-emptyvault.jpg",
+      "path": "public/assets/npc-portraits/griska-emptyvault.jpg"
+    },
+    {
+      "id": "uncle-forgetme",
+      "pack": "packs/npc/npcs-041-060.zip",
+      "pathInPack": "portraits/uncle-forgetme.jpg",
+      "path": "public/assets/npc-portraits/uncle-forgetme.jpg"
+    },
+    {
+      "id": "anen-duskfold",
+      "pack": "packs/npc/npcs-041-060.zip",
+      "pathInPack": "portraits/anen-duskfold.jpg",
+      "path": "public/assets/npc-portraits/anen-duskfold.jpg"
+    },
+    {
+      "id": "kasra-roadsong",
+      "pack": "packs/npc/npcs-041-060.zip",
+      "pathInPack": "portraits/kasra-roadsong.jpg",
+      "path": "public/assets/npc-portraits/kasra-roadsong.jpg"
+    },
+    {
+      "id": "drevan-milkstone",
+      "pack": "packs/npc/npcs-041-060.zip",
+      "pathInPack": "portraits/drevan-milkstone.jpg",
+      "path": "public/assets/npc-portraits/drevan-milkstone.jpg"
+    },
+    {
+      "id": "noema-manycups",
+      "pack": "packs/npc/npcs-041-060.zip",
+      "pathInPack": "portraits/noema-manycups.jpg",
+      "path": "public/assets/npc-portraits/noema-manycups.jpg"
+    },
+    {
+      "id": "edwin-offrecord",
+      "pack": "packs/npc/npcs-041-060.zip",
+      "pathInPack": "portraits/edwin-offrecord.jpg",
+      "path": "public/assets/npc-portraits/edwin-offrecord.jpg"
+    },
+    {
+      "id": "dot-of-the-corner",
+      "pack": "packs/npc/npcs-041-060.zip",
+      "pathInPack": "portraits/dot-of-the-corner.jpg",
+      "path": "public/assets/npc-portraits/dot-of-the-corner.jpg"
+    },
+    {
+      "id": "adena-cartwheel",
+      "pack": "packs/npc/npcs-061-080.zip",
+      "pathInPack": "portraits/adena-cartwheel.jpg",
+      "path": "public/assets/npc-portraits/adena-cartwheel.jpg"
+    },
+    {
+      "id": "tarel-mosspath",
+      "pack": "packs/npc/npcs-061-080.zip",
+      "pathInPack": "portraits/tarel-mosspath.jpg",
+      "path": "public/assets/npc-portraits/tarel-mosspath.jpg"
+    },
+    {
+      "id": "fenna-rainscript",
+      "pack": "packs/npc/npcs-061-080.zip",
+      "pathInPack": "portraits/fenna-rainscript.jpg",
+      "path": "public/assets/npc-portraits/fenna-rainscript.jpg"
+    },
+    {
+      "id": "borun-evenroad",
+      "pack": "packs/npc/npcs-061-080.zip",
+      "pathInPack": "portraits/borun-evenroad.jpg",
+      "path": "public/assets/npc-portraits/borun-evenroad.jpg"
+    },
+    {
+      "id": "hugo-almostthere",
+      "pack": "packs/npc/npcs-061-080.zip",
+      "pathInPack": "portraits/hugo-almostthere.jpg",
+      "path": "public/assets/npc-portraits/hugo-almostthere.jpg"
+    },
+    {
+      "id": "saffron-unpacked",
+      "pack": "packs/npc/npcs-061-080.zip",
+      "pathInPack": "portraits/saffron-unpacked.jpg",
+      "path": "public/assets/npc-portraits/saffron-unpacked.jpg"
+    },
+    {
+      "id": "captain-reva-tideglass",
+      "pack": "packs/npc/npcs-061-080.zip",
+      "pathInPack": "portraits/captain-reva-tideglass.jpg",
+      "path": "public/assets/npc-portraits/captain-reva-tideglass.jpg"
+    },
+    {
+      "id": "eshra-reedwake",
+      "pack": "packs/npc/npcs-061-080.zip",
+      "pathInPack": "portraits/eshra-reedwake.jpg",
+      "path": "public/assets/npc-portraits/eshra-reedwake.jpg"
+    },
+    {
+      "id": "padrin-saltstep",
+      "pack": "packs/npc/npcs-061-080.zip",
+      "pathInPack": "portraits/padrin-saltstep.jpg",
+      "path": "public/assets/npc-portraits/padrin-saltstep.jpg"
+    },
+    {
+      "id": "seva-lanternshore",
+      "pack": "packs/npc/npcs-061-080.zip",
+      "pathInPack": "portraits/seva-lanternshore.jpg",
+      "path": "public/assets/npc-portraits/seva-lanternshore.jpg"
+    },
+    {
+      "id": "admiral-bathtub",
+      "pack": "packs/npc/npcs-061-080.zip",
+      "pathInPack": "portraits/admiral-bathtub.jpg",
+      "path": "public/assets/npc-portraits/admiral-bathtub.jpg"
+    },
+    {
+      "id": "captain-morrow-dry",
+      "pack": "packs/npc/npcs-061-080.zip",
+      "pathInPack": "portraits/captain-morrow-dry.jpg",
+      "path": "public/assets/npc-portraits/captain-morrow-dry.jpg"
+    },
+    {
+      "id": "toma-brackenfield",
+      "pack": "packs/npc/npcs-061-080.zip",
+      "pathInPack": "portraits/toma-brackenfield.jpg",
+      "path": "public/assets/npc-portraits/toma-brackenfield.jpg"
+    },
+    {
+      "id": "nemi-honeyfern",
+      "pack": "packs/npc/npcs-061-080.zip",
+      "pathInPack": "portraits/nemi-honeyfern.jpg",
+      "path": "public/assets/npc-portraits/nemi-honeyfern.jpg"
+    },
+    {
+      "id": "ural-longmeadow",
+      "pack": "packs/npc/npcs-061-080.zip",
+      "pathInPack": "portraits/ural-longmeadow.jpg",
+      "path": "public/assets/npc-portraits/ural-longmeadow.jpg"
+    },
+    {
+      "id": "miraen-turnstone",
+      "pack": "packs/npc/npcs-061-080.zip",
+      "pathInPack": "portraits/miraen-turnstone.jpg",
+      "path": "public/assets/npc-portraits/miraen-turnstone.jpg"
+    },
+    {
+      "id": "millicent-thunderhen",
+      "pack": "packs/npc/npcs-061-080.zip",
+      "pathInPack": "portraits/millicent-thunderhen.jpg",
+      "path": "public/assets/npc-portraits/millicent-thunderhen.jpg"
+    },
+    {
+      "id": "gerro-lastcabbage",
+      "pack": "packs/npc/npcs-061-080.zip",
+      "pathInPack": "portraits/gerro-lastcabbage.jpg",
+      "path": "public/assets/npc-portraits/gerro-lastcabbage.jpg"
+    },
+    {
+      "id": "delra-mossveil",
+      "pack": "packs/npc/npcs-061-080.zip",
+      "pathInPack": "portraits/delra-mossveil.jpg",
+      "path": "public/assets/npc-portraits/delra-mossveil.jpg"
+    },
+    {
+      "id": "osren-graypool",
+      "pack": "packs/npc/npcs-061-080.zip",
+      "pathInPack": "portraits/osren-graypool.jpg",
+      "path": "public/assets/npc-portraits/osren-graypool.jpg"
+    },
+    {
+      "id": "kora-sweetbriar",
+      "pack": "packs/npc/npcs-081-100.zip",
+      "pathInPack": "portraits/kora-sweetbriar.jpg",
+      "path": "public/assets/npc-portraits/kora-sweetbriar.jpg"
+    },
+    {
+      "id": "reth-of-the-scree",
+      "pack": "packs/npc/npcs-081-100.zip",
+      "pathInPack": "portraits/reth-of-the-scree.jpg",
+      "path": "public/assets/npc-portraits/reth-of-the-scree.jpg"
+    },
+    {
+      "id": "oakley-notatree",
+      "pack": "packs/npc/npcs-081-100.zip",
+      "pathInPack": "portraits/oakley-notatree.jpg",
+      "path": "public/assets/npc-portraits/oakley-notatree.jpg"
+    },
+    {
+      "id": "bix-stormpicnic",
+      "pack": "packs/npc/npcs-081-100.zip",
+      "pathInPack": "portraits/bix-stormpicnic.jpg",
+      "path": "public/assets/npc-portraits/bix-stormpicnic.jpg"
+    },
+    {
+      "id": "nyra-foxchord",
+      "pack": "packs/npc/npcs-081-100.zip",
+      "pathInPack": "portraits/nyra-foxchord.jpg",
+      "path": "public/assets/npc-portraits/nyra-foxchord.jpg"
+    },
+    {
+      "id": "torven-maskwell",
+      "pack": "packs/npc/npcs-081-100.zip",
+      "pathInPack": "portraits/torven-maskwell.jpg",
+      "path": "public/assets/npc-portraits/torven-maskwell.jpg"
+    },
+    {
+      "id": "vela-redtoken",
+      "pack": "packs/npc/npcs-081-100.zip",
+      "pathInPack": "portraits/vela-redtoken.jpg",
+      "path": "public/assets/npc-portraits/vela-redtoken.jpg"
+    },
+    {
+      "id": "dellan-brightheel",
+      "pack": "packs/npc/npcs-081-100.zip",
+      "pathInPack": "portraits/dellan-brightheel.jpg",
+      "path": "public/assets/npc-portraits/dellan-brightheel.jpg"
+    },
+    {
+      "id": "mourna-cheergrave",
+      "pack": "packs/npc/npcs-081-100.zip",
+      "pathInPack": "portraits/mourna-cheergrave.jpg",
+      "path": "public/assets/npc-portraits/mourna-cheergrave.jpg"
+    },
+    {
+      "id": "fenwick-echo",
+      "pack": "packs/npc/npcs-081-100.zip",
+      "pathInPack": "portraits/fenwick-echo.jpg",
+      "path": "public/assets/npc-portraits/fenwick-echo.jpg"
+    },
+    {
+      "id": "jada-washline",
+      "pack": "packs/npc/npcs-081-100.zip",
+      "pathInPack": "portraits/jada-washline.jpg",
+      "path": "public/assets/npc-portraits/jada-washline.jpg"
+    },
+    {
+      "id": "tobin-slatefoot",
+      "pack": "packs/npc/npcs-081-100.zip",
+      "pathInPack": "portraits/tobin-slatefoot.jpg",
+      "path": "public/assets/npc-portraits/tobin-slatefoot.jpg"
+    },
+    {
+      "id": "asha-underbridge",
+      "pack": "packs/npc/npcs-081-100.zip",
+      "pathInPack": "portraits/asha-underbridge.jpg",
+      "path": "public/assets/npc-portraits/asha-underbridge.jpg"
+    },
+    {
+      "id": "noll-brassdrain",
+      "pack": "packs/npc/npcs-081-100.zip",
+      "pathInPack": "portraits/noll-brassdrain.jpg",
+      "path": "public/assets/npc-portraits/noll-brassdrain.jpg"
+    },
+    {
+      "id": "minister-lint",
+      "pack": "packs/npc/npcs-081-100.zip",
+      "pathInPack": "portraits/minister-lint.jpg",
+      "path": "public/assets/npc-portraits/minister-lint.jpg"
+    },
+    {
+      "id": "queen-bench",
+      "pack": "packs/npc/npcs-081-100.zip",
+      "pathInPack": "portraits/queen-bench.jpg",
+      "path": "public/assets/npc-portraits/queen-bench.jpg"
+    },
+    {
+      "id": "samira-fernroad",
+      "pack": "packs/npc/npcs-081-100.zip",
+      "pathInPack": "portraits/samira-fernroad.jpg",
+      "path": "public/assets/npc-portraits/samira-fernroad.jpg"
+    },
+    {
+      "id": "varren-lowbell",
+      "pack": "packs/npc/npcs-081-100.zip",
+      "pathInPack": "portraits/varren-lowbell.jpg",
+      "path": "public/assets/npc-portraits/varren-lowbell.jpg"
+    },
+    {
+      "id": "lume-ashpetal",
+      "pack": "packs/npc/npcs-081-100.zip",
+      "pathInPack": "portraits/lume-ashpetal.jpg",
+      "path": "public/assets/npc-portraits/lume-ashpetal.jpg"
+    },
+    {
+      "id": "sesh-bluekiln",
+      "pack": "packs/npc/npcs-081-100.zip",
+      "pathInPack": "portraits/sesh-bluekiln.jpg",
+      "path": "public/assets/npc-portraits/sesh-bluekiln.jpg"
+    },
+    {
+      "id": "ambassador-sparechair",
+      "pack": "packs/npc/npcs-101-120.zip",
+      "pathInPack": "portraits/ambassador-sparechair.jpg",
+      "path": "public/assets/npc-portraits/ambassador-sparechair.jpg"
+    },
+    {
+      "id": "pim-understudy",
+      "pack": "packs/npc/npcs-101-120.zip",
+      "pathInPack": "portraits/pim-understudy.jpg",
+      "path": "public/assets/npc-portraits/pim-understudy.jpg"
+    },
+    {
+      "id": "elyra-rootmemory",
+      "pack": "packs/npc/npcs-101-120.zip",
+      "pathInPack": "portraits/elyra-rootmemory.jpg",
+      "path": "public/assets/npc-portraits/elyra-rootmemory.jpg"
+    },
+    {
+      "id": "mother-sedge",
+      "pack": "packs/npc/npcs-101-120.zip",
+      "pathInPack": "portraits/mother-sedge.jpg",
+      "path": "public/assets/npc-portraits/mother-sedge.jpg"
+    },
+    {
+      "id": "orravel-silverbough",
+      "pack": "packs/npc/npcs-101-120.zip",
+      "pathInPack": "portraits/orravel-silverbough.jpg",
+      "path": "public/assets/npc-portraits/orravel-silverbough.jpg"
+    },
+    {
+      "id": "tethra-blueglass",
+      "pack": "packs/npc/npcs-101-120.zip",
+      "pathInPack": "portraits/tethra-blueglass.jpg",
+      "path": "public/assets/npc-portraits/tethra-blueglass.jpg"
+    },
+    {
+      "id": "sir-damp",
+      "pack": "packs/npc/npcs-101-120.zip",
+      "pathInPack": "portraits/sir-damp.jpg",
+      "path": "public/assets/npc-portraits/sir-damp.jpg"
+    },
+    {
+      "id": "velvet-moth",
+      "pack": "packs/npc/npcs-101-120.zip",
+      "pathInPack": "portraits/velvet-moth.jpg",
+      "path": "public/assets/npc-portraits/velvet-moth.jpg"
+    },
+    {
+      "id": "elna-winterwindow",
+      "pack": "packs/npc/npcs-101-120.zip",
+      "pathInPack": "portraits/elna-winterwindow.jpg",
+      "path": "public/assets/npc-portraits/elna-winterwindow.jpg"
+    },
+    {
+      "id": "darun-lateforge",
+      "pack": "packs/npc/npcs-101-120.zip",
+      "pathInPack": "portraits/darun-lateforge.jpg",
+      "path": "public/assets/npc-portraits/darun-lateforge.jpg"
+    },
+    {
+      "id": "sael-coldvelvet",
+      "pack": "packs/npc/npcs-101-120.zip",
+      "pathInPack": "portraits/sael-coldvelvet.jpg",
+      "path": "public/assets/npc-portraits/sael-coldvelvet.jpg"
+    },
+    {
+      "id": "izzara-lastindex",
+      "pack": "packs/npc/npcs-101-120.zip",
+      "pathInPack": "portraits/izzara-lastindex.jpg",
+      "path": "public/assets/npc-portraits/izzara-lastindex.jpg"
+    },
+    {
+      "id": "celia-afterparty",
+      "pack": "packs/npc/npcs-101-120.zip",
+      "pathInPack": "portraits/celia-afterparty.jpg",
+      "path": "public/assets/npc-portraits/celia-afterparty.jpg"
+    },
+    {
+      "id": "mortimer-endpaper",
+      "pack": "packs/npc/npcs-101-120.zip",
+      "pathInPack": "portraits/mortimer-endpaper.jpg",
+      "path": "public/assets/npc-portraits/mortimer-endpaper.jpg"
+    },
+    {
+      "id": "director-maelis-grain",
+      "pack": "packs/npc/npcs-101-120.zip",
+      "pathInPack": "portraits/director-maelis-grain.jpg",
+      "path": "public/assets/npc-portraits/director-maelis-grain.jpg"
+    },
+    {
+      "id": "prior-vethran",
+      "pack": "packs/npc/npcs-101-120.zip",
+      "pathInPack": "portraits/prior-vethran.jpg",
+      "path": "public/assets/npc-portraits/prior-vethran.jpg"
+    },
+    {
+      "id": "magda-whiteledger",
+      "pack": "packs/npc/npcs-101-120.zip",
+      "pathInPack": "portraits/magda-whiteledger.jpg",
+      "path": "public/assets/npc-portraits/magda-whiteledger.jpg"
+    },
+    {
+      "id": "varen-goldroot",
+      "pack": "packs/npc/npcs-101-120.zip",
+      "pathInPack": "portraits/varen-goldroot.jpg",
+      "path": "public/assets/npc-portraits/varen-goldroot.jpg"
+    },
+    {
+      "id": "lord-crumble",
+      "pack": "packs/npc/npcs-101-120.zip",
+      "pathInPack": "portraits/lord-crumble.jpg",
+      "path": "public/assets/npc-portraits/lord-crumble.jpg"
+    },
+    {
+      "id": "nerezza-absolutely",
+      "pack": "packs/npc/npcs-101-120.zip",
+      "pathInPack": "portraits/nerezza-absolutely.jpg",
+      "path": "public/assets/npc-portraits/nerezza-absolutely.jpg"
+    }
+  ],
+  "dimensions": {
+    "width": 384,
+    "height": 384
+  }
+}

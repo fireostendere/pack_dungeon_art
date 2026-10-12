@@ -2,7 +2,7 @@
 
 ## Migration in progress
 
-**705 of 5,680 ready images are currently available in this repository.**
+**825 of 5,800 ready images are currently available in this repository.**
 More images are being added in verified batches.
 
 The files are stored individually under `public/assets/`, using their original
@@ -17,7 +17,7 @@ identify creatures; they do not imply a license to publisher artwork. No new
 copyright or third-party artwork license is asserted by this migration.
 
 Image bytes are unchanged from the validated source collection. The planned
-delivery contains 5,660 creature portraits and 20 location scenes. Original
+delivery contains 5,660 creature portraits, 20 location scenes, and 120 NPC portraits. Original
 source material and backups are preserved separately.
 
 Source repository: `fireostendere/dungeon_master`.
@@ -25,3 +25,7 @@ Source repository: `fireostendere/dungeon_master`.
 - Location source branch: `assets/location-scenes-2026-10-02`, commit `5df5771ff6f7013b77efb1835587a6b2f359608b`.
 
 The complete collection catalog will be published when the migration finishes.
+
+## NPC portraits and resource packs
+
+120 extracted NPC portraits (80 normal, 40 YOLO) are now available individually in [public/assets/npc-portraits/](public/assets/npc-portraits/). The [NPC collection](npc/README.md) contains the character roster, mapping index, six original [ZIP resource packs](packs/npc/) and [previews](previews/npc/). Their files are cataloged in art-index.json alongside creature and location art.
