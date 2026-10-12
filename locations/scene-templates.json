@@ -204,6 +204,1006 @@
         "height": 864
       },
       "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "campsite-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/campsite/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "dungeon-corridor-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/dungeon-corridor/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "town-street-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/town-street/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "abandoned-mine-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/abandoned-mine/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "back-alley-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/back-alley/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "blacksmith-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/blacksmith/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "boss-chamber-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/boss-chamber/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "castle-exterior-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/castle-exterior/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "catacombs-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/catacombs/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cave-entrance-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/cave-entrance/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "city-gate-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/city-gate/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cottage-interior-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/cottage-interior/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "country-road-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/country-road/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "crypt-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/crypt/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "dense-forest-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/dense-forest/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "dungeon-entrance-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/dungeon-entrance/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "dwarven-mine-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/dwarven-mine/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "farming-village-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/farming-village/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "forest-clearing-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/forest-clearing/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "general-store-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/general-store/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "harbor-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/harbor/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "inn-common-room-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/inn-common-room/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "mountain-pass-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/mountain-pass/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "natural-cavern-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/natural-cavern/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "riverbank-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/riverbank/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "sewer-tunnels-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/sewer-tunnels/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "stone-bridge-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/stone-bridge/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "temple-sanctum-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/temple-sanctum/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "underground-bridge-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/underground-bridge/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "village-square-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/village-square/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "abandoned-campsite-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/abandoned-campsite/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "ancient-forest-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/ancient-forest/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "apothecary-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/apothecary/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "armorer-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/armorer/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "armory-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/armory/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "army-camp-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/army-camp/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "bandit-camp-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/bandit-camp/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "bandit-hideout-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/bandit-hideout/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "barn-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/barn/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "barracks-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/barracks/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "battlefield-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/battlefield/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "beach-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/beach/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "beached-shipwreck-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/beached-shipwreck/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "border-fort-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/border-fort/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "canyon-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/canyon/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "castle-courtyard-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/castle-courtyard/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cellar-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/cellar/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "chapel-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/chapel/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "city-rooftops-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/city-rooftops/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cliff-ledge-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/cliff-ledge/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "coastal-cliffs-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/coastal-cliffs/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "collapsed-tower-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/collapsed-tower/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "council-chamber-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/council-chamber/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "crossroads-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/crossroads/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "crumbling-stairway-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/crumbling-stairway/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "crystal-cavern-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/crystal-cavern/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cult-altar-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/cult-altar/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "dark-forest-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/dark-forest/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "desert-dunes-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/desert-dunes/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "dragon-lair-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/dragon-lair/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "drow-city-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/drow-city/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "druid-circle-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/druid-circle/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "excavated-ruins-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/excavated-ruins/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "farmyard-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/farmyard/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "festival-ground-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/festival-ground/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "fey-forest-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/fey-forest/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "flooded-chamber-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/flooded-chamber/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "formal-garden-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/formal-garden/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "fortress-wall-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/fortress-wall/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "gambling-den-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/gambling-den/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "ghost-town-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/ghost-town/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "grassland-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/grassland/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "guardhouse-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/guardhouse/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "guildhall-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/guildhall/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "haunted-manor-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/haunted-manor/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "hill-country-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/hill-country/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "inn-bedroom-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/inn-bedroom/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "island-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/island/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "jungle-path-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/jungle-path/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "keep-interior-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/keep-interior/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "lakeshore-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/lakeshore/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "library-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/library/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "magic-shop-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/magic-shop/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "manor-exterior-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/manor-exterior/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "manor-hall-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/manor-hall/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "mausoleum-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/mausoleum/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "meadow-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/meadow/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "mine-entrance-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/mine-entrance/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "mine-shaft-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/mine-shaft/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "mountain-trail-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/mountain-trail/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "mushroom-grove-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/mushroom-grove/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "necromancer-lair-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/necromancer-lair/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "oasis-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/oasis/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "open-sea-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/open-sea/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "overgrown-ruins-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/overgrown-ruins/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "pier-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/pier/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "pine-forest-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/pine-forest/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "pirate-cove-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/pirate-cove/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "portal-nexus-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/portal-nexus/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "prison-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/prison/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
     }
   ]
 }

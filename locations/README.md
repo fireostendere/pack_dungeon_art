@@ -1,5 +1,9 @@
 # Location art and dynamic resource packs
 
+## Google Drive location import
+
+120 ready location images are now indexed; 100 scenes were added by this import. The full 288-archetype catalog and all previously published images are preserved. 1,247 base images remain pending. Source bytes were not re-encoded. Earlier delivery descriptions below describe the original import. This update adds static art resources only, not live gameplay integration.
+
 ## Delivery status
 
 The original catalog is preserved: **288 location archetypes**, a target of

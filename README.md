@@ -1,8 +1,12 @@
 # Dungeon art library
 
+## Google Drive location import
+
+120 ready location images are now indexed; 100 scenes were added by this import. The full 288-archetype catalog and all previously published images are preserved. 1,247 base images remain pending. Source bytes were not re-encoded. Earlier delivery descriptions below describe the original import. This update adds static art resources only, not live gameplay integration.
+
 ## Imported collection
 
-**5,800 ready images are available: 5,660 creature portraits, 120 NPC portraits and 20 location scenes.**
+**5,900 ready images are available: 5,660 creature portraits, 120 NPC portraits and 120 location scenes.**
 The existing-art migration is complete. The larger generation catalog still contains pending entries; these are not ready artwork.
 
 The files are stored individually under `public/assets/`, using their original
@@ -17,7 +21,7 @@ identify creatures; they do not imply a license to publisher artwork. No new
 copyright or third-party artwork license is asserted by this migration.
 
 Image bytes are unchanged from the validated source collection. The imported
-delivery contains 5,660 creature portraits, 20 location scenes, and 120 NPC portraits. Original
+delivery contains 5,660 creature portraits, 120 location scenes, and 120 NPC portraits. Original
 source material and backups are preserved separately.
 
 Source repository: `fireostendere/dungeon_master`.
