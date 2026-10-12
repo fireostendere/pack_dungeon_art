@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "language": "en",
+  "status": "authoring-contract-only",
+  "readyOverlayCount": 0,
+  "integrationStatus": "resource-library-only",
+  "baseRule": "Clean initial-state base. Never paint campaign secrets or their discovery hints into the base.",
+  "featureKinds": {
+    "secret-passage": [
+      "discovered",
+      "open"
+    ],
+    "trap": [
+      "discovered",
+      "open",
+      "disarmed"
+    ],
+    "cache": [
+      "discovered",
+      "open"
+    ],
+    "clue": [
+      "discovered"
+    ],
+    "illusion": [
+      "discovered",
+      "open"
+    ]
+  },
+  "geometry": {
+    "units": "normalized-base-image-fractions",
+    "fields": [
+      "x",
+      "y",
+      "width",
+      "height"
+    ],
+    "requirements": [
+      "Within the base image",
+      "Registered to this exact base variant",
+      "Fixed camera and perspective",
+      "Independent localized patches"
+    ]
+  },
+  "delivery": {
+    "formats": [
+      "image/png",
+      "image/webp"
+    ],
+    "alphaRequired": true,
+    "paths": "public/assets/location-layers/<template-id>/<feature-id>-<state>.<extension>"
+  },
+  "requiredReview": [
+    "No clue visible in initial state",
+    "Discovered does not imply open",
+    "No unrelated pixels change on reveal",
+    "Light and perspective match base",
+    "Alpha edges composite correctly",
+    "Each feature works independently",
+    "Unknown viewers receive no feature metadata or layer URLs"
+  ],
+  "campaignSecurity": "Instantiate and persist actual secrets on the game server. A public reusable art template is not a private campaign manifest.",
+  "generationWorkflow": [
+    "Select a reviewed base",
+    "Author feature bounds on the server-side template",
+    "Edit the same base/reference for each feature state",
+    "Extract registered alpha patches",
+    "Review composites and metadata",
+    "Connect to authoritative checks through the host game adapter"
+  ]
+}

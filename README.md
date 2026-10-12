@@ -2,7 +2,7 @@
 
 ## Migration in progress
 
-**825 of 5,800 ready images are currently available in this repository.**
+**845 of 5,800 ready images are currently available in this repository.**
 More images are being added in verified batches.
 
 The files are stored individually under `public/assets/`, using their original
@@ -29,3 +29,7 @@ The complete collection catalog will be published when the migration finishes.
 ## NPC portraits and resource packs
 
 120 extracted NPC portraits (80 normal, 40 YOLO) are now available individually in [public/assets/npc-portraits/](public/assets/npc-portraits/). The [NPC collection](npc/README.md) contains the character roster, mapping index, six original [ZIP resource packs](packs/npc/) and [previews](previews/npc/). Their files are cataloged in art-index.json alongside creature and location art.
+
+## Location scenes
+
+20 existing location illustrations have been imported without changing their bytes. The [location catalog](public/assets/location-scenes/manifest.json) preserves 288 archetypes and a target of 1,367 illustrations. This import created no new AI-generated artwork. New generation tasks and layered scene authoring are documented in [locations/](locations/README.md).

@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 1,
+  "language": "en",
+  "integrationStatus": "resource-library-only",
+  "authoringStatus": "static-bases-no-secret-overlays",
+  "readyOverlayCount": 0,
+  "templates": [
+    {
+      "schemaVersion": 1,
+      "id": "tavern-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/tavern/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "tavern-normal-02",
+      "base": {
+        "asset": "public/assets/location-scenes/tavern/normal-02.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "tavern-normal-03",
+      "base": {
+        "asset": "public/assets/location-scenes/tavern/normal-03.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "tavern-normal-04",
+      "base": {
+        "asset": "public/assets/location-scenes/tavern/normal-04.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "tavern-normal-05",
+      "base": {
+        "asset": "public/assets/location-scenes/tavern/normal-05.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "tavern-normal-06",
+      "base": {
+        "asset": "public/assets/location-scenes/tavern/normal-06.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "tavern-yolo-01",
+      "base": {
+        "asset": "public/assets/location-scenes/tavern/yolo-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "tavern-yolo-02",
+      "base": {
+        "asset": "public/assets/location-scenes/tavern/yolo-02.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "city-market-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/city-market/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "city-market-yolo-01",
+      "base": {
+        "asset": "public/assets/location-scenes/city-market/yolo-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cemetery-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/cemetery/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cemetery-normal-02",
+      "base": {
+        "asset": "public/assets/location-scenes/cemetery/normal-02.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cemetery-normal-03",
+      "base": {
+        "asset": "public/assets/location-scenes/cemetery/normal-03.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cemetery-yolo-01",
+      "base": {
+        "asset": "public/assets/location-scenes/cemetery/yolo-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "dungeon-chamber-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/dungeon-chamber/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "dungeon-chamber-yolo-01",
+      "base": {
+        "asset": "public/assets/location-scenes/dungeon-chamber/yolo-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "forest-path-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/forest-path/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "forest-path-yolo-01",
+      "base": {
+        "asset": "public/assets/location-scenes/forest-path/yolo-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "volcanic-crater-normal-01",
+      "base": {
+        "asset": "public/assets/location-scenes/volcanic-crater/normal-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    },
+    {
+      "schemaVersion": 1,
+      "id": "volcanic-crater-yolo-01",
+      "base": {
+        "asset": "public/assets/location-scenes/volcanic-crater/yolo-01.webp",
+        "width": 1536,
+        "height": 864
+      },
+      "features": []
+    }
+  ]
+}
