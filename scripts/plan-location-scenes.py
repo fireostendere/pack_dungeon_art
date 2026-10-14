@@ -41,6 +41,17 @@ NEGATIVE = ('readable writing, labels, watermark, logo, UI, grid, collage, panel
             'obvious concealed door, outlined secret panel, exposed trap, treasure marker, inconsistent perspective')
 
 
+def spec_lines(spec: dict, style: str) -> str:
+    """The archetype's authored visualSpec; YOLO keeps only what makes the place recognizable."""
+    lines = [f'Required visible features: {"; ".join(spec["requiredFeatures"])}.',
+             f'Spatial relationships: {spec["spatialLayout"]}']
+    if style == 'normal':
+        lines += [f'Environment constraints: {spec["environmentalConstraints"]}',
+                  f'Setting: {spec["settingConstraints"]}',
+                  f'Avoid: {"; ".join(spec["forbiddenFeatures"])}.']
+    return ''.join(line + '\n' for line in lines)
+
+
 def build(catalog: dict) -> dict:
     jobs = []
     ready = []
@@ -58,6 +69,7 @@ def build(catalog: dict) -> dict:
                 art_direction = catalog['artDirection'][style]
                 prompt = (f'{COMMON}\nLocation: {location["name"]}.\n'
                           f'Environment: {location["description"]}\n'
+                          f'{spec_lines(location["visualSpec"], style)}'
                           f'Art direction: {art_direction}\nVariant direction: {brief}\n'
                           'Adapt the variation to this location; do not add indoor furniture to an outdoor landscape '
                           'unless the location description explicitly calls for it.\n'
