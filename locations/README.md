@@ -25,6 +25,10 @@ in `dungeon_master`. No live campaign, server or gameplay code was modified.
   [full catalog](../public/assets/location-scenes/manifest.json).
 - [Generation plan](generation-plan.json): all remaining base jobs, English prompts,
   priority order, delivery metadata and required review. These are tasks, NOT art.
+- [Visual authoring](visual-authoring.md): what each archetype's `visualSpec` in the
+  catalog means, how the plan folds it into prompts, campaign-specific scenes and YOLO.
+  Validate with `python3 scripts/validate-location-visual-specs.py --self-test`; rebuild
+  the plan after catalog edits with `python3 scripts/plan-location-scenes.py`.
 - [Scene templates](scene-templates.json): one static template per existing image.
   Their feature arrays are empty until matching overlays are actually authored.
 - [Layer authoring contract](layer-authoring.json): production requirements for

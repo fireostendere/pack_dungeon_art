@@ -36,8 +36,8 @@ The complete imported collection is indexed in `art-index.json`. Pending catalog
 
 ## Location scenes
 
-20 existing location illustrations have been imported without changing their bytes. The [location catalog](public/assets/location-scenes/manifest.json) preserves 288 archetypes and a target of 1,367 illustrations. This import created no new AI-generated artwork. New generation tasks and layered scene authoring are documented in [locations/](locations/README.md).
+20 existing location illustrations have been imported without changing their bytes. The [location catalog](public/assets/location-scenes/manifest.json) preserves 288 archetypes and a target of 1,367 illustrations. This import created no new AI-generated artwork. New generation tasks and layered scene authoring are documented in [locations/](locations/README.md). Each archetype carries an authored `visualSpec` (required, optional and forbidden features, spatial layout, environment and setting), and the pending queue in `locations/generation-plan.json` builds its prompts from it; see [locations/visual-authoring.md](locations/visual-authoring.md).
 
 ## Creature portraits
 
-5,660 individual [creature portraits](public/assets/creature-avatars/) cover 1,415 creatures, with 3 normal variants and 1 YOLO variant each. The [catalog](public/assets/creature-avatars/manifest.json) preserves all 2,308 canonical IDs; 893 remain pending. Names, variants, metadata and provenance are linked from the common index. See the [Drive import report](creatures/imports/google-drive-2026-10-12.json).
+5,660 individual [creature portraits](public/assets/creature-avatars/) cover 1,415 creatures, with 3 normal variants and 1 YOLO variant each. The [catalog](public/assets/creature-avatars/manifest.json) preserves all 2,308 canonical IDs; 893 remain pending. Names, variants, metadata and provenance are linked from the common index. See the [Drive import report](creatures/imports/google-drive-2026-10-12.json). How to generate the pending ones is in [creatures/README.md](creatures/README.md#generating-the-pending-creatures).
