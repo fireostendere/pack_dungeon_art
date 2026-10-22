@@ -4,18 +4,23 @@
 
 120 ready location images are now indexed; 100 scenes were added by this import. The full 288-archetype catalog and all previously published images are preserved. 1,247 base images remain pending. Source bytes were not re-encoded. Earlier delivery descriptions below describe the original import. This update adds static art resources only, not live gameplay integration.
 
+## Item icons
+
+270 original inventory icons cover 90 base items in three designs each (common, ornate, dark): all SRD weapons and armour, potions and alchemical flasks, and the most used adventuring gear. Each design ships as a flat SVG and a 512 x 512 WebP in [public/assets/item-icons/](public/assets/item-icons/), with English and Russian names. See the [item collection](items/README.md) and the previews in [previews/items/](previews/items/).
+
 ## Imported collection
 
-**5,900 ready images are available: 5,660 creature portraits, 120 NPC portraits and 120 location scenes.**
+**6,170 ready images are available: 5,660 creature portraits, 120 NPC portraits, 120 location scenes and 270 item icons.**
 The existing-art migration is complete. The larger generation catalog still contains pending entries; these are not ready artwork.
 
 The files are stored individually under `public/assets/`, using their original
 paths. `art-index.json` lists only images that are present in this commit, with
-names, variants, styles, dimensions, byte lengths and hashes.
+names, variants, styles, dimensions, byte lengths and hashes. Item icons also
+carry the path and hash of their SVG source.
 
 ## Artwork and source attribution
 
-This collection contains original AI-generated artwork. Available per-image
+This collection contains original AI-generated artwork, and original procedural vector item icons authored for the project. Available per-image
 provenance and source citation URLs are included in the index. Bestiary references
 identify creatures; they do not imply a license to publisher artwork. No new
 copyright or third-party artwork license is asserted by this migration.

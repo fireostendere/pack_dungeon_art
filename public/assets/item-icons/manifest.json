@@ -1,0 +1,760 @@
+{
+  "schemaVersion": 1,
+  "assetBaseUrl": "./public/assets/item-icons/",
+  "designsPerItem": 3,
+  "designPolicy": {
+    "01": "common: the plain issue make",
+    "02": "ornate: the better or parade make",
+    "03": "dark: the blackened, rugged or worn make"
+  },
+  "formats": {
+    "vector": "SVG, viewBox 0 0 64 64, flat cel tones under one outline, no gradients, filters or external references",
+    "raster": "WebP 512x512 lossless, transparent background"
+  },
+  "source": {
+    "repository": "fireostendere/dungeon_master",
+    "commit": "88b2e0e6797c5e07a9b8645f960b08cdb82e0d0f",
+    "catalog": "src/lib/item-art/base-items.ts",
+    "drawings": "src/lib/item-art/drawings",
+    "build": "node scripts/build-item-art.mjs"
+  },
+  "coverage": {
+    "items": 90,
+    "complete": 90,
+    "pending": 0,
+    "verifiedAssets": 270,
+    "targetAssets": 270
+  },
+  "groups": {
+    "weapon": [
+      "club",
+      "dagger",
+      "greatclub",
+      "handaxe",
+      "javelin",
+      "light-hammer",
+      "mace",
+      "quarterstaff",
+      "sickle",
+      "spear",
+      "light-crossbow",
+      "dart",
+      "shortbow",
+      "sling",
+      "battleaxe",
+      "flail",
+      "glaive",
+      "greataxe",
+      "greatsword",
+      "halberd",
+      "lance",
+      "longsword",
+      "maul",
+      "morningstar",
+      "pike",
+      "rapier",
+      "scimitar",
+      "shortsword",
+      "trident",
+      "war-pick",
+      "warhammer",
+      "whip",
+      "blowgun",
+      "hand-crossbow",
+      "heavy-crossbow",
+      "longbow",
+      "net"
+    ],
+    "armor": [
+      "padded",
+      "leather",
+      "studded-leather",
+      "hide",
+      "chain-shirt",
+      "scale-mail",
+      "breastplate",
+      "half-plate",
+      "ring-mail",
+      "chain-mail",
+      "splint",
+      "plate",
+      "shield"
+    ],
+    "elixir": [
+      "potion-of-healing",
+      "potion-of-greater-healing",
+      "potion-of-superior-healing",
+      "potion-of-supreme-healing",
+      "antitoxin",
+      "alchemists-fire",
+      "acid",
+      "holy-water",
+      "oil",
+      "basic-poison"
+    ],
+    "gear": [
+      "backpack",
+      "bedroll",
+      "rope",
+      "torch",
+      "lantern",
+      "candle",
+      "tinderbox",
+      "rations",
+      "waterskin",
+      "crowbar",
+      "hammer",
+      "shovel",
+      "grappling-hook",
+      "caltrops",
+      "healers-kit",
+      "thieves-tools",
+      "holy-symbol",
+      "arcane-focus",
+      "spellbook",
+      "component-pouch",
+      "arrows",
+      "crossbow-bolts",
+      "quiver",
+      "pouch",
+      "ink-and-quill",
+      "map",
+      "scroll",
+      "mirror",
+      "chest",
+      "manacles"
+    ]
+  },
+  "items": {
+    "club": {
+      "name": "Club",
+      "nameRu": "Дубинка",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/club.json"
+    },
+    "dagger": {
+      "name": "Dagger",
+      "nameRu": "Кинжал",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/dagger.json"
+    },
+    "greatclub": {
+      "name": "Greatclub",
+      "nameRu": "Палица",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/greatclub.json"
+    },
+    "handaxe": {
+      "name": "Handaxe",
+      "nameRu": "Ручной топор",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/handaxe.json"
+    },
+    "javelin": {
+      "name": "Javelin",
+      "nameRu": "Метательное копьё",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/javelin.json"
+    },
+    "light-hammer": {
+      "name": "Light Hammer",
+      "nameRu": "Лёгкий молот",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/light-hammer.json"
+    },
+    "mace": {
+      "name": "Mace",
+      "nameRu": "Булава",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/mace.json"
+    },
+    "quarterstaff": {
+      "name": "Quarterstaff",
+      "nameRu": "Боевой посох",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/quarterstaff.json"
+    },
+    "sickle": {
+      "name": "Sickle",
+      "nameRu": "Серп",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/sickle.json"
+    },
+    "spear": {
+      "name": "Spear",
+      "nameRu": "Копьё",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/spear.json"
+    },
+    "light-crossbow": {
+      "name": "Light Crossbow",
+      "nameRu": "Лёгкий арбалет",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/light-crossbow.json"
+    },
+    "dart": {
+      "name": "Dart",
+      "nameRu": "Дротик",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/dart.json"
+    },
+    "shortbow": {
+      "name": "Shortbow",
+      "nameRu": "Короткий лук",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/shortbow.json"
+    },
+    "sling": {
+      "name": "Sling",
+      "nameRu": "Праща",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/sling.json"
+    },
+    "battleaxe": {
+      "name": "Battleaxe",
+      "nameRu": "Боевой топор",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/battleaxe.json"
+    },
+    "flail": {
+      "name": "Flail",
+      "nameRu": "Цеп",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/flail.json"
+    },
+    "glaive": {
+      "name": "Glaive",
+      "nameRu": "Глефа",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/glaive.json"
+    },
+    "greataxe": {
+      "name": "Greataxe",
+      "nameRu": "Секира",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/greataxe.json"
+    },
+    "greatsword": {
+      "name": "Greatsword",
+      "nameRu": "Двуручный меч",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/greatsword.json"
+    },
+    "halberd": {
+      "name": "Halberd",
+      "nameRu": "Алебарда",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/halberd.json"
+    },
+    "lance": {
+      "name": "Lance",
+      "nameRu": "Рыцарское копьё",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/lance.json"
+    },
+    "longsword": {
+      "name": "Longsword",
+      "nameRu": "Длинный меч",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/longsword.json"
+    },
+    "maul": {
+      "name": "Maul",
+      "nameRu": "Двуручный молот",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/maul.json"
+    },
+    "morningstar": {
+      "name": "Morningstar",
+      "nameRu": "Моргенштерн",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/morningstar.json"
+    },
+    "pike": {
+      "name": "Pike",
+      "nameRu": "Пика",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/pike.json"
+    },
+    "rapier": {
+      "name": "Rapier",
+      "nameRu": "Рапира",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/rapier.json"
+    },
+    "scimitar": {
+      "name": "Scimitar",
+      "nameRu": "Скимитар",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/scimitar.json"
+    },
+    "shortsword": {
+      "name": "Shortsword",
+      "nameRu": "Короткий меч",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/shortsword.json"
+    },
+    "trident": {
+      "name": "Trident",
+      "nameRu": "Трезубец",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/trident.json"
+    },
+    "war-pick": {
+      "name": "War Pick",
+      "nameRu": "Боевая кирка",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/war-pick.json"
+    },
+    "warhammer": {
+      "name": "Warhammer",
+      "nameRu": "Боевой молот",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/warhammer.json"
+    },
+    "whip": {
+      "name": "Whip",
+      "nameRu": "Кнут",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/whip.json"
+    },
+    "blowgun": {
+      "name": "Blowgun",
+      "nameRu": "Духовая трубка",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/blowgun.json"
+    },
+    "hand-crossbow": {
+      "name": "Hand Crossbow",
+      "nameRu": "Ручной арбалет",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/hand-crossbow.json"
+    },
+    "heavy-crossbow": {
+      "name": "Heavy Crossbow",
+      "nameRu": "Тяжёлый арбалет",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/heavy-crossbow.json"
+    },
+    "longbow": {
+      "name": "Longbow",
+      "nameRu": "Длинный лук",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/longbow.json"
+    },
+    "net": {
+      "name": "Net",
+      "nameRu": "Сеть",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/net.json"
+    },
+    "padded": {
+      "name": "Padded Armor",
+      "nameRu": "Стёганый доспех",
+      "group": "armor",
+      "category": "armor",
+      "record": "records/padded.json"
+    },
+    "leather": {
+      "name": "Leather Armor",
+      "nameRu": "Кожаный доспех",
+      "group": "armor",
+      "category": "armor",
+      "record": "records/leather.json"
+    },
+    "studded-leather": {
+      "name": "Studded Leather Armor",
+      "nameRu": "Проклёпанный кожаный доспех",
+      "group": "armor",
+      "category": "armor",
+      "record": "records/studded-leather.json"
+    },
+    "hide": {
+      "name": "Hide Armor",
+      "nameRu": "Шкурный доспех",
+      "group": "armor",
+      "category": "armor",
+      "record": "records/hide.json"
+    },
+    "chain-shirt": {
+      "name": "Chain Shirt",
+      "nameRu": "Кольчужная рубаха",
+      "group": "armor",
+      "category": "armor",
+      "record": "records/chain-shirt.json"
+    },
+    "scale-mail": {
+      "name": "Scale Mail",
+      "nameRu": "Чешуйчатый доспех",
+      "group": "armor",
+      "category": "armor",
+      "record": "records/scale-mail.json"
+    },
+    "breastplate": {
+      "name": "Breastplate",
+      "nameRu": "Кираса",
+      "group": "armor",
+      "category": "armor",
+      "record": "records/breastplate.json"
+    },
+    "half-plate": {
+      "name": "Half Plate Armor",
+      "nameRu": "Полулаты",
+      "group": "armor",
+      "category": "armor",
+      "record": "records/half-plate.json"
+    },
+    "ring-mail": {
+      "name": "Ring Mail",
+      "nameRu": "Колечный доспех",
+      "group": "armor",
+      "category": "armor",
+      "record": "records/ring-mail.json"
+    },
+    "chain-mail": {
+      "name": "Chain Mail",
+      "nameRu": "Кольчуга",
+      "group": "armor",
+      "category": "armor",
+      "record": "records/chain-mail.json"
+    },
+    "splint": {
+      "name": "Splint Armor",
+      "nameRu": "Наборный доспех",
+      "group": "armor",
+      "category": "armor",
+      "record": "records/splint.json"
+    },
+    "plate": {
+      "name": "Plate Armor",
+      "nameRu": "Латы",
+      "group": "armor",
+      "category": "armor",
+      "record": "records/plate.json"
+    },
+    "shield": {
+      "name": "Shield",
+      "nameRu": "Щит",
+      "group": "armor",
+      "category": "armor",
+      "record": "records/shield.json"
+    },
+    "potion-of-healing": {
+      "name": "Potion of Healing",
+      "nameRu": "Зелье лечения",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-healing.json"
+    },
+    "potion-of-greater-healing": {
+      "name": "Potion of Greater Healing",
+      "nameRu": "Зелье большого лечения",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-greater-healing.json"
+    },
+    "potion-of-superior-healing": {
+      "name": "Potion of Superior Healing",
+      "nameRu": "Зелье превосходного лечения",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-superior-healing.json"
+    },
+    "potion-of-supreme-healing": {
+      "name": "Potion of Supreme Healing",
+      "nameRu": "Зелье высшего лечения",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-supreme-healing.json"
+    },
+    "antitoxin": {
+      "name": "Antitoxin",
+      "nameRu": "Противоядие",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/antitoxin.json"
+    },
+    "alchemists-fire": {
+      "name": "Alchemist's Fire",
+      "nameRu": "Алхимический огонь",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/alchemists-fire.json"
+    },
+    "acid": {
+      "name": "Acid",
+      "nameRu": "Кислота",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/acid.json"
+    },
+    "holy-water": {
+      "name": "Holy Water",
+      "nameRu": "Святая вода",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/holy-water.json"
+    },
+    "oil": {
+      "name": "Oil",
+      "nameRu": "Масло",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/oil.json"
+    },
+    "basic-poison": {
+      "name": "Basic Poison",
+      "nameRu": "Простой яд",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/basic-poison.json"
+    },
+    "backpack": {
+      "name": "Backpack",
+      "nameRu": "Рюкзак",
+      "group": "gear",
+      "category": "gear",
+      "record": "records/backpack.json"
+    },
+    "bedroll": {
+      "name": "Bedroll",
+      "nameRu": "Спальный мешок",
+      "group": "gear",
+      "category": "gear",
+      "record": "records/bedroll.json"
+    },
+    "rope": {
+      "name": "Rope",
+      "nameRu": "Верёвка",
+      "group": "gear",
+      "category": "gear",
+      "record": "records/rope.json"
+    },
+    "torch": {
+      "name": "Torch",
+      "nameRu": "Факел",
+      "group": "gear",
+      "category": "tool",
+      "record": "records/torch.json"
+    },
+    "lantern": {
+      "name": "Lantern",
+      "nameRu": "Фонарь",
+      "group": "gear",
+      "category": "tool",
+      "record": "records/lantern.json"
+    },
+    "candle": {
+      "name": "Candle",
+      "nameRu": "Свеча",
+      "group": "gear",
+      "category": "tool",
+      "record": "records/candle.json"
+    },
+    "tinderbox": {
+      "name": "Tinderbox",
+      "nameRu": "Трутница",
+      "group": "gear",
+      "category": "tool",
+      "record": "records/tinderbox.json"
+    },
+    "rations": {
+      "name": "Rations",
+      "nameRu": "Рационы",
+      "group": "gear",
+      "category": "food",
+      "record": "records/rations.json"
+    },
+    "waterskin": {
+      "name": "Waterskin",
+      "nameRu": "Бурдюк",
+      "group": "gear",
+      "category": "food",
+      "record": "records/waterskin.json"
+    },
+    "crowbar": {
+      "name": "Crowbar",
+      "nameRu": "Ломик",
+      "group": "gear",
+      "category": "tool",
+      "record": "records/crowbar.json"
+    },
+    "hammer": {
+      "name": "Hammer",
+      "nameRu": "Молоток",
+      "group": "gear",
+      "category": "tool",
+      "record": "records/hammer.json"
+    },
+    "shovel": {
+      "name": "Shovel",
+      "nameRu": "Лопата",
+      "group": "gear",
+      "category": "tool",
+      "record": "records/shovel.json"
+    },
+    "grappling-hook": {
+      "name": "Grappling Hook",
+      "nameRu": "Абордажный крюк",
+      "group": "gear",
+      "category": "tool",
+      "record": "records/grappling-hook.json"
+    },
+    "caltrops": {
+      "name": "Caltrops",
+      "nameRu": "Калтропы",
+      "group": "gear",
+      "category": "tool",
+      "record": "records/caltrops.json"
+    },
+    "healers-kit": {
+      "name": "Healer's Kit",
+      "nameRu": "Набор целителя",
+      "group": "gear",
+      "category": "tool",
+      "record": "records/healers-kit.json"
+    },
+    "thieves-tools": {
+      "name": "Thieves' Tools",
+      "nameRu": "Воровские инструменты",
+      "group": "gear",
+      "category": "tool",
+      "record": "records/thieves-tools.json"
+    },
+    "holy-symbol": {
+      "name": "Holy Symbol",
+      "nameRu": "Священный символ",
+      "group": "gear",
+      "category": "magic",
+      "record": "records/holy-symbol.json"
+    },
+    "arcane-focus": {
+      "name": "Arcane Focus",
+      "nameRu": "Магическая фокусировка",
+      "group": "gear",
+      "category": "magic",
+      "record": "records/arcane-focus.json"
+    },
+    "spellbook": {
+      "name": "Spellbook",
+      "nameRu": "Книга заклинаний",
+      "group": "gear",
+      "category": "document",
+      "record": "records/spellbook.json"
+    },
+    "component-pouch": {
+      "name": "Component Pouch",
+      "nameRu": "Мешочек с компонентами",
+      "group": "gear",
+      "category": "magic",
+      "record": "records/component-pouch.json"
+    },
+    "arrows": {
+      "name": "Arrows",
+      "nameRu": "Стрелы",
+      "group": "gear",
+      "category": "weapon",
+      "record": "records/arrows.json"
+    },
+    "crossbow-bolts": {
+      "name": "Crossbow Bolts",
+      "nameRu": "Арбалетные болты",
+      "group": "gear",
+      "category": "weapon",
+      "record": "records/crossbow-bolts.json"
+    },
+    "quiver": {
+      "name": "Quiver",
+      "nameRu": "Колчан",
+      "group": "gear",
+      "category": "weapon",
+      "record": "records/quiver.json"
+    },
+    "pouch": {
+      "name": "Coin Pouch",
+      "nameRu": "Кошель",
+      "group": "gear",
+      "category": "valuable",
+      "record": "records/pouch.json"
+    },
+    "ink-and-quill": {
+      "name": "Ink and Quill",
+      "nameRu": "Чернила и перо",
+      "group": "gear",
+      "category": "tool",
+      "record": "records/ink-and-quill.json"
+    },
+    "map": {
+      "name": "Map",
+      "nameRu": "Карта",
+      "group": "gear",
+      "category": "document",
+      "record": "records/map.json"
+    },
+    "scroll": {
+      "name": "Scroll",
+      "nameRu": "Свиток",
+      "group": "gear",
+      "category": "document",
+      "record": "records/scroll.json"
+    },
+    "mirror": {
+      "name": "Steel Mirror",
+      "nameRu": "Стальное зеркало",
+      "group": "gear",
+      "category": "tool",
+      "record": "records/mirror.json"
+    },
+    "chest": {
+      "name": "Chest",
+      "nameRu": "Сундук",
+      "group": "gear",
+      "category": "gear",
+      "record": "records/chest.json"
+    },
+    "manacles": {
+      "name": "Manacles",
+      "nameRu": "Кандалы",
+      "group": "gear",
+      "category": "tool",
+      "record": "records/manacles.json"
+    }
+  }
+}
