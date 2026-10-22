@@ -1,11 +1,15 @@
 {
   "schemaVersion": 1,
   "assetBaseUrl": "./public/assets/item-icons/",
-  "designsPerItem": 3,
+  "designsPerItem": {
+    "kinds": 3,
+    "potions": 1
+  },
   "designPolicy": {
     "01": "common: the plain issue make",
     "02": "ornate: the better or parade make",
-    "03": "dark: the blackened, rugged or worn make"
+    "03": "dark: the blackened, rugged or worn make",
+    "single": "a potion: one picture for one potion, so no two potions look alike"
   },
   "formats": {
     "vector": "SVG, viewBox 0 0 64 64, flat cel tones under one outline, no gradients, filters or external references",
@@ -13,17 +17,25 @@
   },
   "source": {
     "repository": "fireostendere/dungeon_master",
-    "commit": "88b2e0e6797c5e07a9b8645f960b08cdb82e0d0f",
+    "commit": "b036d1353c57f790fdb693b614f55a6b922fa5f8",
     "catalog": "src/lib/item-art/base-items.ts",
     "drawings": "src/lib/item-art/drawings",
     "build": "node scripts/build-item-art.mjs"
   },
   "coverage": {
-    "items": 90,
-    "complete": 90,
+    "items": 376,
+    "complete": 376,
     "pending": 0,
-    "verifiedAssets": 270,
-    "targetAssets": 270
+    "verifiedAssets": 882,
+    "targetAssets": 882
+  },
+  "magic": {
+    "manifest": "magic/manifest.json",
+    "items": 1242
+  },
+  "aura": {
+    "path": "aura/",
+    "layers": 112
   },
   "groups": {
     "weapon": [
@@ -63,7 +75,19 @@
       "hand-crossbow",
       "heavy-crossbow",
       "longbow",
-      "net"
+      "net",
+      "monoblade",
+      "chainblade",
+      "shock-baton",
+      "vibroknife",
+      "ripper-gauntlet",
+      "heavy-spanner",
+      "sword-cane",
+      "scattergun",
+      "revolver",
+      "hunting-rifle",
+      "hand-cannon",
+      "pistol"
     ],
     "armor": [
       "padded",
@@ -78,19 +102,148 @@
       "chain-mail",
       "splint",
       "plate",
-      "shield"
+      "shield",
+      "armorweave-vest",
+      "kevlar-vest",
+      "riot-plating",
+      "brass-carapace",
+      "scrap-plate",
+      "ballistic-shield",
+      "helmet",
+      "great-helm",
+      "chain-coif",
+      "gauntlets",
+      "bracers",
+      "greaves",
+      "pauldrons",
+      "gorget",
+      "buckler",
+      "tower-shield"
     ],
     "elixir": [
       "potion-of-healing",
       "potion-of-greater-healing",
       "potion-of-superior-healing",
       "potion-of-supreme-healing",
+      "potion-of-animal-friendship",
+      "potion-of-clairvoyance",
+      "potion-of-climbing",
+      "potion-of-diminution",
+      "potion-of-fire-breath",
+      "potion-of-flying",
+      "potion-of-gaseous-form",
+      "potion-of-hill-giant-strength",
+      "potion-of-stone-giant-strength",
+      "potion-of-frost-giant-strength",
+      "potion-of-fire-giant-strength",
+      "potion-of-cloud-giant-strength",
+      "potion-of-storm-giant-strength",
+      "potion-of-giant-strength",
+      "potion-of-growth",
+      "potion-of-heroism",
+      "potion-of-invisibility",
+      "potion-of-invulnerability",
+      "potion-of-longevity",
+      "potion-of-mind-reading",
+      "potion-of-poison",
+      "potion-of-acid-resistance",
+      "potion-of-cold-resistance",
+      "potion-of-fire-resistance",
+      "potion-of-force-resistance",
+      "potion-of-lightning-resistance",
+      "potion-of-necrotic-resistance",
+      "potion-of-poison-resistance",
+      "potion-of-psychic-resistance",
+      "potion-of-radiant-resistance",
+      "potion-of-thunder-resistance",
+      "potion-of-resistance",
+      "potion-of-speed",
+      "potion-of-vitality",
+      "potion-of-water-breathing",
+      "elixir-of-health",
+      "oil-of-etherealness",
+      "oil-of-sharpness",
+      "oil-of-slipperiness",
+      "philter-of-love",
+      "black-dragon-oil",
+      "bloodlink-potion",
+      "bloodspeed-elixir",
+      "catalyst-oil",
+      "cleaning-concoction",
+      "cordial-of-understanding",
+      "draught-of-ambrosia",
+      "draught-of-the-black-owl",
+      "elixir-of-corruption",
+      "elixir-of-deep-slumber",
+      "elixir-of-focus",
+      "elixir-of-mimicry",
+      "elixir-of-oracular-delirium",
+      "elixir-of-spike-skin",
+      "elixir-of-wakefulness",
+      "elixir-of-the-clear-mind",
+      "elixir-of-the-deep",
+      "extract-of-dual-mindedness",
+      "ghoulbane-oil",
+      "supreme-potion-of-troll-blood",
+      "superior-potion-of-troll-blood",
+      "greater-potion-of-troll-blood",
+      "trollsblood-elixir",
+      "hewers-draught",
+      "ironskin-oil",
+      "liquid-courage",
+      "liquid-luck",
+      "liquid-shadow",
+      "locksmiths-oil",
+      "maidens-tears",
+      "memory-philter",
+      "odorless-oil",
+      "oil-of-concussion",
+      "oil-of-cosmetic-enhancement",
+      "oil-of-defoliation",
+      "oil-of-extreme-bludgeoning",
+      "oil-of-numbing",
+      "oil-of-sharpening",
+      "philter-of-luck",
+      "potent-cure-all",
+      "potion-of-air-breathing",
+      "potion-of-bad-taste",
+      "potion-of-bouncing",
+      "potion-of-buoyancy",
+      "potion-of-dire-cleansing",
+      "potion-of-ebbing-strength",
+      "potion-of-effulgence",
+      "potion-of-empowering-truth",
+      "potion-of-freezing-fog",
+      "potion-of-infinite-possibilities",
+      "potion-of-malleability",
+      "potion-of-sand-form",
+      "potion-of-skating",
+      "potion-of-transparency",
+      "potion-of-worg-form",
+      "rainbow-extract",
+      "somnambulatory-brew",
+      "tincture-of-moonlit-blossom",
+      "tonic-for-the-troubled-mind",
+      "tonic-of-blandness",
+      "verdant-elixir",
+      "witchs-brew",
+      "wrathful-vapors",
       "antitoxin",
       "alchemists-fire",
-      "acid",
       "holy-water",
+      "acid",
       "oil",
-      "basic-poison"
+      "basic-poison",
+      "custom-potion-1",
+      "custom-potion-2",
+      "custom-potion-3",
+      "custom-potion-4",
+      "custom-potion-5",
+      "custom-potion-6",
+      "custom-potion-7",
+      "custom-potion-8",
+      "custom-potion-9",
+      "custom-potion-10"
     ],
     "gear": [
       "backpack",
@@ -122,7 +275,170 @@
       "scroll",
       "mirror",
       "chest",
-      "manacles"
+      "manacles",
+      "ladder",
+      "chain",
+      "walking-staff",
+      "tent",
+      "blanket",
+      "broom",
+      "carpet",
+      "banner",
+      "fan",
+      "umbrella",
+      "anchor",
+      "oar",
+      "horseshoe",
+      "saddle",
+      "painting",
+      "brazier"
+    ],
+    "zeitgeist": [
+      "pocket-watch",
+      "top-hat",
+      "greatcoat",
+      "badge",
+      "camera",
+      "clockwork-bird",
+      "gremlin",
+      "typewriter",
+      "newspaper",
+      "zg-target-pistol",
+      "zg-pistol",
+      "zg-rifled-carbine",
+      "zg-carbine",
+      "zg-rifled-musket",
+      "zg-musket",
+      "zg-shotgun",
+      "alchemical-launcher",
+      "ammunition-clip",
+      "reinforced-barrel",
+      "sniper-scope",
+      "suppressor",
+      "cover-piercing-ammo",
+      "bullets",
+      "firedust",
+      "grenade",
+      "gun-kit"
+    ],
+    "tool": [
+      "alchemy-kit",
+      "smith-tools",
+      "disguise-kit",
+      "poisoner-kit",
+      "herbalism-kit",
+      "toolbox",
+      "cookware",
+      "fishing-rod",
+      "sewing-kit",
+      "compass",
+      "magnifier",
+      "spyglass",
+      "whistle",
+      "chalk",
+      "seal",
+      "pipe",
+      "trap",
+      "key",
+      "lock",
+      "pickaxe"
+    ],
+    "jewelry": [
+      "ring",
+      "signet-ring",
+      "necklace",
+      "amulet",
+      "circlet",
+      "crown",
+      "earrings",
+      "bracelet",
+      "brooch",
+      "gemstone",
+      "coins",
+      "ingot",
+      "medal",
+      "bead"
+    ],
+    "arcana": [
+      "staff",
+      "wand",
+      "rod",
+      "robe",
+      "wizard-hat",
+      "druidic-focus",
+      "rune-stone",
+      "spell-scroll",
+      "hourglass",
+      "figurine",
+      "wings",
+      "crystal-ball"
+    ],
+    "attire": [
+      "gloves",
+      "boots",
+      "belt",
+      "cloak",
+      "clothes",
+      "fine-clothes",
+      "hat",
+      "hood",
+      "mask",
+      "goggles",
+      "costume",
+      "shoe",
+      "scarf"
+    ],
+    "instrument": [
+      "lute",
+      "flute",
+      "drum",
+      "horn",
+      "lyre",
+      "violin",
+      "bagpipes",
+      "tambourine",
+      "bell",
+      "gong"
+    ],
+    "container": [
+      "sack",
+      "barrel",
+      "bucket",
+      "jar",
+      "jug",
+      "mug",
+      "bowl",
+      "dust-pouch",
+      "book",
+      "journal",
+      "letter",
+      "document",
+      "cards",
+      "dice",
+      "chess"
+    ],
+    "food": [
+      "bread",
+      "cheese",
+      "fruit",
+      "berries",
+      "mushroom",
+      "sweets",
+      "meat",
+      "sausage",
+      "ale",
+      "wine",
+      "drink"
+    ],
+    "nature": [
+      "herbs",
+      "flower",
+      "incense",
+      "perfume",
+      "soap",
+      "pelt",
+      "trophy",
+      "feather"
     ]
   },
   "items": {
@@ -504,6 +820,727 @@
       "category": "consumable",
       "record": "records/potion-of-supreme-healing.json"
     },
+    "potion-of-animal-friendship": {
+      "name": "Potion of Animal Friendship",
+      "nameRu": "Зелье дружбы с животными",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-animal-friendship.json"
+    },
+    "potion-of-clairvoyance": {
+      "name": "Potion of Clairvoyance",
+      "nameRu": "Зелье ясновидения",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-clairvoyance.json"
+    },
+    "potion-of-climbing": {
+      "name": "Potion of Climbing",
+      "nameRu": "Зелье лазания",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-climbing.json"
+    },
+    "potion-of-diminution": {
+      "name": "Potion of Diminution",
+      "nameRu": "Зелье уменьшения",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-diminution.json"
+    },
+    "potion-of-fire-breath": {
+      "name": "Potion of Fire Breath",
+      "nameRu": "Зелье огненного дыхания",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-fire-breath.json"
+    },
+    "potion-of-flying": {
+      "name": "Potion of Flying",
+      "nameRu": "Зелье полёта",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-flying.json"
+    },
+    "potion-of-gaseous-form": {
+      "name": "Potion of Gaseous Form",
+      "nameRu": "Зелье газообразной формы",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-gaseous-form.json"
+    },
+    "potion-of-hill-giant-strength": {
+      "name": "Potion of Hill Giant Strength",
+      "nameRu": "Зелье силы холмового великана",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-hill-giant-strength.json"
+    },
+    "potion-of-stone-giant-strength": {
+      "name": "Potion of Stone Giant Strength",
+      "nameRu": "Зелье силы каменного великана",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-stone-giant-strength.json"
+    },
+    "potion-of-frost-giant-strength": {
+      "name": "Potion of Frost Giant Strength",
+      "nameRu": "Зелье силы ледяного великана",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-frost-giant-strength.json"
+    },
+    "potion-of-fire-giant-strength": {
+      "name": "Potion of Fire Giant Strength",
+      "nameRu": "Зелье силы огненного великана",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-fire-giant-strength.json"
+    },
+    "potion-of-cloud-giant-strength": {
+      "name": "Potion of Cloud Giant Strength",
+      "nameRu": "Зелье силы облачного великана",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-cloud-giant-strength.json"
+    },
+    "potion-of-storm-giant-strength": {
+      "name": "Potion of Storm Giant Strength",
+      "nameRu": "Зелье силы штормового великана",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-storm-giant-strength.json"
+    },
+    "potion-of-giant-strength": {
+      "name": "Potion of Giant Strength",
+      "nameRu": "Зелье силы великана",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-giant-strength.json"
+    },
+    "potion-of-growth": {
+      "name": "Potion of Growth",
+      "nameRu": "Зелье роста",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-growth.json"
+    },
+    "potion-of-heroism": {
+      "name": "Potion of Heroism",
+      "nameRu": "Зелье героизма",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-heroism.json"
+    },
+    "potion-of-invisibility": {
+      "name": "Potion of Invisibility",
+      "nameRu": "Зелье невидимости",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-invisibility.json"
+    },
+    "potion-of-invulnerability": {
+      "name": "Potion of Invulnerability",
+      "nameRu": "Зелье неуязвимости",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-invulnerability.json"
+    },
+    "potion-of-longevity": {
+      "name": "Potion of Longevity",
+      "nameRu": "Зелье долголетия",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-longevity.json"
+    },
+    "potion-of-mind-reading": {
+      "name": "Potion of Mind Reading",
+      "nameRu": "Зелье чтения мыслей",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-mind-reading.json"
+    },
+    "potion-of-poison": {
+      "name": "Potion of Poison",
+      "nameRu": "Зелье яда",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-poison.json"
+    },
+    "potion-of-acid-resistance": {
+      "name": "Potion of Acid Resistance",
+      "nameRu": "Зелье сопротивления кислоте",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-acid-resistance.json"
+    },
+    "potion-of-cold-resistance": {
+      "name": "Potion of Cold Resistance",
+      "nameRu": "Зелье сопротивления холоду",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-cold-resistance.json"
+    },
+    "potion-of-fire-resistance": {
+      "name": "Potion of Fire Resistance",
+      "nameRu": "Зелье сопротивления огню",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-fire-resistance.json"
+    },
+    "potion-of-force-resistance": {
+      "name": "Potion of Force Resistance",
+      "nameRu": "Зелье сопротивления силовому полю",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-force-resistance.json"
+    },
+    "potion-of-lightning-resistance": {
+      "name": "Potion of Lightning Resistance",
+      "nameRu": "Зелье сопротивления электричеству",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-lightning-resistance.json"
+    },
+    "potion-of-necrotic-resistance": {
+      "name": "Potion of Necrotic Resistance",
+      "nameRu": "Зелье сопротивления некротической энергии",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-necrotic-resistance.json"
+    },
+    "potion-of-poison-resistance": {
+      "name": "Potion of Poison Resistance",
+      "nameRu": "Зелье сопротивления яду",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-poison-resistance.json"
+    },
+    "potion-of-psychic-resistance": {
+      "name": "Potion of Psychic Resistance",
+      "nameRu": "Зелье сопротивления психической энергии",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-psychic-resistance.json"
+    },
+    "potion-of-radiant-resistance": {
+      "name": "Potion of Radiant Resistance",
+      "nameRu": "Зелье сопротивления излучению",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-radiant-resistance.json"
+    },
+    "potion-of-thunder-resistance": {
+      "name": "Potion of Thunder Resistance",
+      "nameRu": "Зелье сопротивления звуку",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-thunder-resistance.json"
+    },
+    "potion-of-resistance": {
+      "name": "Potion of Resistance",
+      "nameRu": "Зелье сопротивления",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-resistance.json"
+    },
+    "potion-of-speed": {
+      "name": "Potion of Speed",
+      "nameRu": "Зелье скорости",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-speed.json"
+    },
+    "potion-of-vitality": {
+      "name": "Potion of Vitality",
+      "nameRu": "Зелье живучести",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-vitality.json"
+    },
+    "potion-of-water-breathing": {
+      "name": "Potion of Water Breathing",
+      "nameRu": "Зелье подводного дыхания",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-water-breathing.json"
+    },
+    "elixir-of-health": {
+      "name": "Elixir of Health",
+      "nameRu": "Эликсир здоровья",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/elixir-of-health.json"
+    },
+    "oil-of-etherealness": {
+      "name": "Oil of Etherealness",
+      "nameRu": "Масло эфирности",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/oil-of-etherealness.json"
+    },
+    "oil-of-sharpness": {
+      "name": "Oil of Sharpness",
+      "nameRu": "Масло остроты",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/oil-of-sharpness.json"
+    },
+    "oil-of-slipperiness": {
+      "name": "Oil of Slipperiness",
+      "nameRu": "Масло скольжения",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/oil-of-slipperiness.json"
+    },
+    "philter-of-love": {
+      "name": "Philter of Love",
+      "nameRu": "Любовный напиток",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/philter-of-love.json"
+    },
+    "black-dragon-oil": {
+      "name": "Black Dragon Oil",
+      "nameRu": "Масло чёрного дракона",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/black-dragon-oil.json"
+    },
+    "bloodlink-potion": {
+      "name": "Bloodlink Potion",
+      "nameRu": "Зелье кровной связи",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/bloodlink-potion.json"
+    },
+    "bloodspeed-elixir": {
+      "name": "Bloodspeed Elixir",
+      "nameRu": "Эликсир кровавой скорости",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/bloodspeed-elixir.json"
+    },
+    "catalyst-oil": {
+      "name": "Catalyst Oil",
+      "nameRu": "Масло-катализатор",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/catalyst-oil.json"
+    },
+    "cleaning-concoction": {
+      "name": "Cleaning Concoction",
+      "nameRu": "Чистящее снадобье",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/cleaning-concoction.json"
+    },
+    "cordial-of-understanding": {
+      "name": "Cordial of Understanding",
+      "nameRu": "Настойка понимания",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/cordial-of-understanding.json"
+    },
+    "draught-of-ambrosia": {
+      "name": "Draught of Ambrosia",
+      "nameRu": "Амброзия",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/draught-of-ambrosia.json"
+    },
+    "draught-of-the-black-owl": {
+      "name": "Draught of the Black Owl",
+      "nameRu": "Отвар чёрной совы",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/draught-of-the-black-owl.json"
+    },
+    "elixir-of-corruption": {
+      "name": "Elixir of Corruption",
+      "nameRu": "Эликсир порчи",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/elixir-of-corruption.json"
+    },
+    "elixir-of-deep-slumber": {
+      "name": "Elixir of Deep Slumber",
+      "nameRu": "Эликсир глубокого сна",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/elixir-of-deep-slumber.json"
+    },
+    "elixir-of-focus": {
+      "name": "Elixir of Focus",
+      "nameRu": "Эликсир сосредоточенности",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/elixir-of-focus.json"
+    },
+    "elixir-of-mimicry": {
+      "name": "Elixir of Mimicry",
+      "nameRu": "Эликсир мимикрии",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/elixir-of-mimicry.json"
+    },
+    "elixir-of-oracular-delirium": {
+      "name": "Elixir of Oracular Delirium",
+      "nameRu": "Эликсир пророческого бреда",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/elixir-of-oracular-delirium.json"
+    },
+    "elixir-of-spike-skin": {
+      "name": "Elixir of Spike Skin",
+      "nameRu": "Эликсир шипастой кожи",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/elixir-of-spike-skin.json"
+    },
+    "elixir-of-wakefulness": {
+      "name": "Elixir of Wakefulness",
+      "nameRu": "Эликсир бодрости",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/elixir-of-wakefulness.json"
+    },
+    "elixir-of-the-clear-mind": {
+      "name": "Elixir of the Clear Mind",
+      "nameRu": "Эликсир ясного ума",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/elixir-of-the-clear-mind.json"
+    },
+    "elixir-of-the-deep": {
+      "name": "Elixir of the Deep",
+      "nameRu": "Эликсир глубин",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/elixir-of-the-deep.json"
+    },
+    "extract-of-dual-mindedness": {
+      "name": "Extract of Dual-Mindedness",
+      "nameRu": "Экстракт двойного разума",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/extract-of-dual-mindedness.json"
+    },
+    "ghoulbane-oil": {
+      "name": "Ghoulbane Oil",
+      "nameRu": "Масло против гулей",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/ghoulbane-oil.json"
+    },
+    "supreme-potion-of-troll-blood": {
+      "name": "Supreme Potion of Troll Blood",
+      "nameRu": "Высшее зелье крови тролля",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/supreme-potion-of-troll-blood.json"
+    },
+    "superior-potion-of-troll-blood": {
+      "name": "Superior Potion of Troll Blood",
+      "nameRu": "Превосходное зелье крови тролля",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/superior-potion-of-troll-blood.json"
+    },
+    "greater-potion-of-troll-blood": {
+      "name": "Greater Potion of Troll Blood",
+      "nameRu": "Большое зелье крови тролля",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/greater-potion-of-troll-blood.json"
+    },
+    "trollsblood-elixir": {
+      "name": "Trollsblood Elixir",
+      "nameRu": "Эликсир тролльей крови",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/trollsblood-elixir.json"
+    },
+    "hewers-draught": {
+      "name": "Hewer's Draught",
+      "nameRu": "Отвар лесоруба",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/hewers-draught.json"
+    },
+    "ironskin-oil": {
+      "name": "Ironskin Oil",
+      "nameRu": "Масло железной кожи",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/ironskin-oil.json"
+    },
+    "liquid-courage": {
+      "name": "Liquid Courage",
+      "nameRu": "Жидкая храбрость",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/liquid-courage.json"
+    },
+    "liquid-luck": {
+      "name": "Liquid Luck",
+      "nameRu": "Жидкая удача",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/liquid-luck.json"
+    },
+    "liquid-shadow": {
+      "name": "Liquid Shadow",
+      "nameRu": "Жидкая тень",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/liquid-shadow.json"
+    },
+    "locksmiths-oil": {
+      "name": "Locksmith's Oil",
+      "nameRu": "Масло взломщика",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/locksmiths-oil.json"
+    },
+    "maidens-tears": {
+      "name": "Maiden's Tears",
+      "nameRu": "Слёзы девы",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/maidens-tears.json"
+    },
+    "memory-philter": {
+      "name": "Memory Philter",
+      "nameRu": "Напиток памяти",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/memory-philter.json"
+    },
+    "odorless-oil": {
+      "name": "Odorless Oil",
+      "nameRu": "Масло без запаха",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/odorless-oil.json"
+    },
+    "oil-of-concussion": {
+      "name": "Oil of Concussion",
+      "nameRu": "Масло сотрясения",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/oil-of-concussion.json"
+    },
+    "oil-of-cosmetic-enhancement": {
+      "name": "Oil of Cosmetic Enhancement",
+      "nameRu": "Масло красоты",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/oil-of-cosmetic-enhancement.json"
+    },
+    "oil-of-defoliation": {
+      "name": "Oil of Defoliation",
+      "nameRu": "Масло увядания",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/oil-of-defoliation.json"
+    },
+    "oil-of-extreme-bludgeoning": {
+      "name": "Oil of Extreme Bludgeoning",
+      "nameRu": "Масло сокрушения",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/oil-of-extreme-bludgeoning.json"
+    },
+    "oil-of-numbing": {
+      "name": "Oil of Numbing",
+      "nameRu": "Масло онемения",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/oil-of-numbing.json"
+    },
+    "oil-of-sharpening": {
+      "name": "Oil of Sharpening",
+      "nameRu": "Масло заточки",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/oil-of-sharpening.json"
+    },
+    "philter-of-luck": {
+      "name": "Philter of Luck",
+      "nameRu": "Напиток удачи",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/philter-of-luck.json"
+    },
+    "potent-cure-all": {
+      "name": "Potent Cure-All",
+      "nameRu": "Сильное лекарство от всего",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potent-cure-all.json"
+    },
+    "potion-of-air-breathing": {
+      "name": "Potion of Air Breathing",
+      "nameRu": "Зелье дыхания воздухом",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-air-breathing.json"
+    },
+    "potion-of-bad-taste": {
+      "name": "Potion of Bad Taste",
+      "nameRu": "Зелье дурного вкуса",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-bad-taste.json"
+    },
+    "potion-of-bouncing": {
+      "name": "Potion of Bouncing",
+      "nameRu": "Зелье прыгучести",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-bouncing.json"
+    },
+    "potion-of-buoyancy": {
+      "name": "Potion of Buoyancy",
+      "nameRu": "Зелье плавучести",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-buoyancy.json"
+    },
+    "potion-of-dire-cleansing": {
+      "name": "Potion of Dire Cleansing",
+      "nameRu": "Зелье глубокого очищения",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-dire-cleansing.json"
+    },
+    "potion-of-ebbing-strength": {
+      "name": "Potion of Ebbing Strength",
+      "nameRu": "Зелье убывающей силы",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-ebbing-strength.json"
+    },
+    "potion-of-effulgence": {
+      "name": "Potion of Effulgence",
+      "nameRu": "Зелье сияния",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-effulgence.json"
+    },
+    "potion-of-empowering-truth": {
+      "name": "Potion of Empowering Truth",
+      "nameRu": "Зелье истины",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-empowering-truth.json"
+    },
+    "potion-of-freezing-fog": {
+      "name": "Potion of Freezing Fog",
+      "nameRu": "Зелье ледяного тумана",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-freezing-fog.json"
+    },
+    "potion-of-infinite-possibilities": {
+      "name": "Potion of Infinite Possibilities",
+      "nameRu": "Зелье бесконечных возможностей",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-infinite-possibilities.json"
+    },
+    "potion-of-malleability": {
+      "name": "Potion of Malleability",
+      "nameRu": "Зелье податливости",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-malleability.json"
+    },
+    "potion-of-sand-form": {
+      "name": "Potion of Sand Form",
+      "nameRu": "Зелье песчаной формы",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-sand-form.json"
+    },
+    "potion-of-skating": {
+      "name": "Potion of Skating",
+      "nameRu": "Зелье скольжения по льду",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-skating.json"
+    },
+    "potion-of-transparency": {
+      "name": "Potion of Transparency",
+      "nameRu": "Зелье прозрачности",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-transparency.json"
+    },
+    "potion-of-worg-form": {
+      "name": "Potion of Worg Form",
+      "nameRu": "Зелье облика ворга",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/potion-of-worg-form.json"
+    },
+    "rainbow-extract": {
+      "name": "Rainbow Extract",
+      "nameRu": "Радужный экстракт",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/rainbow-extract.json"
+    },
+    "somnambulatory-brew": {
+      "name": "Somnambulatory Brew",
+      "nameRu": "Сомнамбулическое варево",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/somnambulatory-brew.json"
+    },
+    "tincture-of-moonlit-blossom": {
+      "name": "Tincture of Moonlit Blossom",
+      "nameRu": "Настойка лунного цветка",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/tincture-of-moonlit-blossom.json"
+    },
+    "tonic-for-the-troubled-mind": {
+      "name": "Tonic for the Troubled Mind",
+      "nameRu": "Тоник для смятенного разума",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/tonic-for-the-troubled-mind.json"
+    },
+    "tonic-of-blandness": {
+      "name": "Tonic of Blandness",
+      "nameRu": "Тоник безвкусия",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/tonic-of-blandness.json"
+    },
+    "verdant-elixir": {
+      "name": "Verdant Elixir",
+      "nameRu": "Зелёный эликсир",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/verdant-elixir.json"
+    },
+    "witchs-brew": {
+      "name": "Witch's Brew",
+      "nameRu": "Ведьмино варево",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/witchs-brew.json"
+    },
+    "wrathful-vapors": {
+      "name": "Wrathful Vapors",
+      "nameRu": "Гневные пары",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/wrathful-vapors.json"
+    },
     "antitoxin": {
       "name": "Antitoxin",
       "nameRu": "Противоядие",
@@ -518,19 +1555,19 @@
       "category": "consumable",
       "record": "records/alchemists-fire.json"
     },
-    "acid": {
-      "name": "Acid",
-      "nameRu": "Кислота",
-      "group": "elixir",
-      "category": "consumable",
-      "record": "records/acid.json"
-    },
     "holy-water": {
       "name": "Holy Water",
       "nameRu": "Святая вода",
       "group": "elixir",
       "category": "consumable",
       "record": "records/holy-water.json"
+    },
+    "acid": {
+      "name": "Acid",
+      "nameRu": "Кислота",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/acid.json"
     },
     "oil": {
       "name": "Oil",
@@ -545,6 +1582,76 @@
       "group": "elixir",
       "category": "consumable",
       "record": "records/basic-poison.json"
+    },
+    "custom-potion-1": {
+      "name": "Custom Potion 1",
+      "nameRu": "Пользовательское зелье 1",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/custom-potion-1.json"
+    },
+    "custom-potion-2": {
+      "name": "Custom Potion 2",
+      "nameRu": "Пользовательское зелье 2",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/custom-potion-2.json"
+    },
+    "custom-potion-3": {
+      "name": "Custom Potion 3",
+      "nameRu": "Пользовательское зелье 3",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/custom-potion-3.json"
+    },
+    "custom-potion-4": {
+      "name": "Custom Potion 4",
+      "nameRu": "Пользовательское зелье 4",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/custom-potion-4.json"
+    },
+    "custom-potion-5": {
+      "name": "Custom Potion 5",
+      "nameRu": "Пользовательское зелье 5",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/custom-potion-5.json"
+    },
+    "custom-potion-6": {
+      "name": "Custom Potion 6",
+      "nameRu": "Пользовательское зелье 6",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/custom-potion-6.json"
+    },
+    "custom-potion-7": {
+      "name": "Custom Potion 7",
+      "nameRu": "Пользовательское зелье 7",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/custom-potion-7.json"
+    },
+    "custom-potion-8": {
+      "name": "Custom Potion 8",
+      "nameRu": "Пользовательское зелье 8",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/custom-potion-8.json"
+    },
+    "custom-potion-9": {
+      "name": "Custom Potion 9",
+      "nameRu": "Пользовательское зелье 9",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/custom-potion-9.json"
+    },
+    "custom-potion-10": {
+      "name": "Custom Potion 10",
+      "nameRu": "Пользовательское зелье 10",
+      "group": "elixir",
+      "category": "consumable",
+      "record": "records/custom-potion-10.json"
     },
     "backpack": {
       "name": "Backpack",
@@ -755,6 +1862,1217 @@
       "group": "gear",
       "category": "tool",
       "record": "records/manacles.json"
+    },
+    "monoblade": {
+      "name": "Monoblade",
+      "nameRu": "Моноклинок",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/monoblade.json"
+    },
+    "chainblade": {
+      "name": "Chainblade",
+      "nameRu": "Цепной клинок",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/chainblade.json"
+    },
+    "shock-baton": {
+      "name": "Shock Baton",
+      "nameRu": "Шоковая дубинка",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/shock-baton.json"
+    },
+    "vibroknife": {
+      "name": "Vibroknife",
+      "nameRu": "Виброклинок",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/vibroknife.json"
+    },
+    "ripper-gauntlet": {
+      "name": "Ripper Gauntlet",
+      "nameRu": "Когтистая перчатка",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/ripper-gauntlet.json"
+    },
+    "heavy-spanner": {
+      "name": "Heavy Spanner",
+      "nameRu": "Тяжёлый гаечный ключ",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/heavy-spanner.json"
+    },
+    "sword-cane": {
+      "name": "Sword Cane",
+      "nameRu": "Трость-шпага",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/sword-cane.json"
+    },
+    "armorweave-vest": {
+      "name": "Armorweave Vest",
+      "nameRu": "Жилет из бронеткани",
+      "group": "armor",
+      "category": "armor",
+      "record": "records/armorweave-vest.json"
+    },
+    "kevlar-vest": {
+      "name": "Kevlar Vest",
+      "nameRu": "Кевларовый жилет",
+      "group": "armor",
+      "category": "armor",
+      "record": "records/kevlar-vest.json"
+    },
+    "riot-plating": {
+      "name": "Riot Plating",
+      "nameRu": "Штурмовые латы",
+      "group": "armor",
+      "category": "armor",
+      "record": "records/riot-plating.json"
+    },
+    "brass-carapace": {
+      "name": "Brass Carapace",
+      "nameRu": "Латунный панцирь",
+      "group": "armor",
+      "category": "armor",
+      "record": "records/brass-carapace.json"
+    },
+    "scrap-plate": {
+      "name": "Scrap Plate",
+      "nameRu": "Доспех из лома",
+      "group": "armor",
+      "category": "armor",
+      "record": "records/scrap-plate.json"
+    },
+    "ballistic-shield": {
+      "name": "Ballistic Shield",
+      "nameRu": "Баллистический щит",
+      "group": "armor",
+      "category": "armor",
+      "record": "records/ballistic-shield.json"
+    },
+    "pocket-watch": {
+      "name": "Pocket Watch",
+      "nameRu": "Карманные часы",
+      "group": "zeitgeist",
+      "category": "valuable",
+      "record": "records/pocket-watch.json"
+    },
+    "top-hat": {
+      "name": "Top Hat",
+      "nameRu": "Цилиндр",
+      "group": "zeitgeist",
+      "category": "attire",
+      "record": "records/top-hat.json"
+    },
+    "greatcoat": {
+      "name": "Greatcoat",
+      "nameRu": "Шинель",
+      "group": "zeitgeist",
+      "category": "attire",
+      "record": "records/greatcoat.json"
+    },
+    "badge": {
+      "name": "Constable's Badge",
+      "nameRu": "Значок констебля",
+      "group": "zeitgeist",
+      "category": "valuable",
+      "record": "records/badge.json"
+    },
+    "camera": {
+      "name": "Camera",
+      "nameRu": "Фотокамера",
+      "group": "zeitgeist",
+      "category": "tool",
+      "record": "records/camera.json"
+    },
+    "clockwork-bird": {
+      "name": "Clockwork Bird",
+      "nameRu": "Заводная птица",
+      "group": "zeitgeist",
+      "category": "gear",
+      "record": "records/clockwork-bird.json"
+    },
+    "gremlin": {
+      "name": "Clockwork Gremlin",
+      "nameRu": "Заводной гремлин",
+      "group": "zeitgeist",
+      "category": "gear",
+      "record": "records/gremlin.json"
+    },
+    "typewriter": {
+      "name": "Typewriter",
+      "nameRu": "Печатная машинка",
+      "group": "zeitgeist",
+      "category": "tool",
+      "record": "records/typewriter.json"
+    },
+    "newspaper": {
+      "name": "Newspaper",
+      "nameRu": "Газета",
+      "group": "zeitgeist",
+      "category": "document",
+      "record": "records/newspaper.json"
+    },
+    "zg-target-pistol": {
+      "name": "ZEITGEIST Target Pistol",
+      "nameRu": "Целевой пистолет",
+      "group": "zeitgeist",
+      "category": "weapon",
+      "record": "records/zg-target-pistol.json"
+    },
+    "zg-pistol": {
+      "name": "ZEITGEIST Pistol",
+      "nameRu": "Пистолет Зейтгейста",
+      "group": "zeitgeist",
+      "category": "weapon",
+      "record": "records/zg-pistol.json"
+    },
+    "zg-rifled-carbine": {
+      "name": "ZEITGEIST Rifled Carbine",
+      "nameRu": "Нарезной карабин",
+      "group": "zeitgeist",
+      "category": "weapon",
+      "record": "records/zg-rifled-carbine.json"
+    },
+    "zg-carbine": {
+      "name": "ZEITGEIST Carbine",
+      "nameRu": "Карабин",
+      "group": "zeitgeist",
+      "category": "weapon",
+      "record": "records/zg-carbine.json"
+    },
+    "zg-rifled-musket": {
+      "name": "ZEITGEIST Rifled Musket",
+      "nameRu": "Нарезной мушкет",
+      "group": "zeitgeist",
+      "category": "weapon",
+      "record": "records/zg-rifled-musket.json"
+    },
+    "zg-musket": {
+      "name": "ZEITGEIST Musket",
+      "nameRu": "Мушкет",
+      "group": "zeitgeist",
+      "category": "weapon",
+      "record": "records/zg-musket.json"
+    },
+    "scattergun": {
+      "name": "Sawed-off Scattergun",
+      "nameRu": "Обрез",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/scattergun.json"
+    },
+    "zg-shotgun": {
+      "name": "ZEITGEIST Shotgun",
+      "nameRu": "Дробовик",
+      "group": "zeitgeist",
+      "category": "weapon",
+      "record": "records/zg-shotgun.json"
+    },
+    "revolver": {
+      "name": "Revolver",
+      "nameRu": "Револьвер",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/revolver.json"
+    },
+    "hunting-rifle": {
+      "name": "Hunting Rifle",
+      "nameRu": "Охотничья винтовка",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/hunting-rifle.json"
+    },
+    "hand-cannon": {
+      "name": "Hand Cannon",
+      "nameRu": "Ручная пушка",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/hand-cannon.json"
+    },
+    "pistol": {
+      "name": "Pistol",
+      "nameRu": "Пистолет",
+      "group": "weapon",
+      "category": "weapon",
+      "record": "records/pistol.json"
+    },
+    "alchemical-launcher": {
+      "name": "ZEITGEIST Alchemical Launcher",
+      "nameRu": "Алхимический гранатомёт",
+      "group": "zeitgeist",
+      "category": "tool",
+      "record": "records/alchemical-launcher.json"
+    },
+    "ammunition-clip": {
+      "name": "ZEITGEIST Ammunition Clip",
+      "nameRu": "Обойма",
+      "group": "zeitgeist",
+      "category": "tool",
+      "record": "records/ammunition-clip.json"
+    },
+    "reinforced-barrel": {
+      "name": "ZEITGEIST Reinforced Barrel",
+      "nameRu": "Усиленный ствол",
+      "group": "zeitgeist",
+      "category": "tool",
+      "record": "records/reinforced-barrel.json"
+    },
+    "sniper-scope": {
+      "name": "ZEITGEIST Sniper Scope",
+      "nameRu": "Снайперский прицел",
+      "group": "zeitgeist",
+      "category": "tool",
+      "record": "records/sniper-scope.json"
+    },
+    "suppressor": {
+      "name": "ZEITGEIST Suppressor",
+      "nameRu": "Глушитель",
+      "group": "zeitgeist",
+      "category": "tool",
+      "record": "records/suppressor.json"
+    },
+    "cover-piercing-ammo": {
+      "name": "ZEITGEIST Cover-Piercing Ammunition",
+      "nameRu": "Бронебойные патроны",
+      "group": "zeitgeist",
+      "category": "weapon",
+      "record": "records/cover-piercing-ammo.json"
+    },
+    "bullets": {
+      "name": "Bullets",
+      "nameRu": "Пули и патроны",
+      "group": "zeitgeist",
+      "category": "weapon",
+      "record": "records/bullets.json"
+    },
+    "firedust": {
+      "name": "Firedust",
+      "nameRu": "Огнепыль",
+      "group": "zeitgeist",
+      "category": "consumable",
+      "record": "records/firedust.json"
+    },
+    "grenade": {
+      "name": "ZEITGEIST Grenade",
+      "nameRu": "Граната",
+      "group": "zeitgeist",
+      "category": "consumable",
+      "record": "records/grenade.json"
+    },
+    "gun-kit": {
+      "name": "Gun Kit",
+      "nameRu": "Оружейный набор",
+      "group": "zeitgeist",
+      "category": "tool",
+      "record": "records/gun-kit.json"
+    },
+    "alchemy-kit": {
+      "name": "Alchemist's Supplies",
+      "nameRu": "Набор алхимика",
+      "group": "tool",
+      "category": "tool",
+      "record": "records/alchemy-kit.json"
+    },
+    "smith-tools": {
+      "name": "Smith's Tools",
+      "nameRu": "Инструменты кузнеца",
+      "group": "tool",
+      "category": "tool",
+      "record": "records/smith-tools.json"
+    },
+    "disguise-kit": {
+      "name": "Disguise Kit",
+      "nameRu": "Набор для грима",
+      "group": "tool",
+      "category": "tool",
+      "record": "records/disguise-kit.json"
+    },
+    "poisoner-kit": {
+      "name": "Poisoner's Kit",
+      "nameRu": "Набор отравителя",
+      "group": "tool",
+      "category": "tool",
+      "record": "records/poisoner-kit.json"
+    },
+    "herbalism-kit": {
+      "name": "Herbalism Kit",
+      "nameRu": "Набор травника",
+      "group": "tool",
+      "category": "tool",
+      "record": "records/herbalism-kit.json"
+    },
+    "toolbox": {
+      "name": "Artisan's Tools",
+      "nameRu": "Инструменты ремесленника",
+      "group": "tool",
+      "category": "tool",
+      "record": "records/toolbox.json"
+    },
+    "cookware": {
+      "name": "Cook's Utensils",
+      "nameRu": "Инструменты повара",
+      "group": "tool",
+      "category": "tool",
+      "record": "records/cookware.json"
+    },
+    "fishing-rod": {
+      "name": "Fishing Tackle",
+      "nameRu": "Рыболовные снасти",
+      "group": "tool",
+      "category": "tool",
+      "record": "records/fishing-rod.json"
+    },
+    "sewing-kit": {
+      "name": "Sewing Kit",
+      "nameRu": "Швейный набор",
+      "group": "tool",
+      "category": "tool",
+      "record": "records/sewing-kit.json"
+    },
+    "compass": {
+      "name": "Navigator's Tools",
+      "nameRu": "Инструменты навигатора",
+      "group": "tool",
+      "category": "tool",
+      "record": "records/compass.json"
+    },
+    "magnifier": {
+      "name": "Magnifying Glass",
+      "nameRu": "Увеличительное стекло",
+      "group": "tool",
+      "category": "tool",
+      "record": "records/magnifier.json"
+    },
+    "spyglass": {
+      "name": "Spyglass",
+      "nameRu": "Подзорная труба",
+      "group": "tool",
+      "category": "tool",
+      "record": "records/spyglass.json"
+    },
+    "whistle": {
+      "name": "Signal Whistle",
+      "nameRu": "Сигнальный свисток",
+      "group": "tool",
+      "category": "tool",
+      "record": "records/whistle.json"
+    },
+    "chalk": {
+      "name": "Chalk",
+      "nameRu": "Мел",
+      "group": "tool",
+      "category": "tool",
+      "record": "records/chalk.json"
+    },
+    "seal": {
+      "name": "Signet and Sealing Wax",
+      "nameRu": "Печать и сургуч",
+      "group": "tool",
+      "category": "tool",
+      "record": "records/seal.json"
+    },
+    "pipe": {
+      "name": "Smoking Pipe",
+      "nameRu": "Курительная трубка",
+      "group": "tool",
+      "category": "tool",
+      "record": "records/pipe.json"
+    },
+    "trap": {
+      "name": "Hunting Trap",
+      "nameRu": "Капкан",
+      "group": "tool",
+      "category": "tool",
+      "record": "records/trap.json"
+    },
+    "key": {
+      "name": "Key",
+      "nameRu": "Ключ",
+      "group": "tool",
+      "category": "tool",
+      "record": "records/key.json"
+    },
+    "lock": {
+      "name": "Lock",
+      "nameRu": "Замок",
+      "group": "tool",
+      "category": "tool",
+      "record": "records/lock.json"
+    },
+    "ladder": {
+      "name": "Ladder",
+      "nameRu": "Лестница",
+      "group": "gear",
+      "category": "gear",
+      "record": "records/ladder.json"
+    },
+    "chain": {
+      "name": "Chain",
+      "nameRu": "Цепь",
+      "group": "gear",
+      "category": "gear",
+      "record": "records/chain.json"
+    },
+    "pickaxe": {
+      "name": "Miner's Pick",
+      "nameRu": "Кирка",
+      "group": "tool",
+      "category": "tool",
+      "record": "records/pickaxe.json"
+    },
+    "walking-staff": {
+      "name": "Walking Stick",
+      "nameRu": "Дорожный посох",
+      "group": "gear",
+      "category": "gear",
+      "record": "records/walking-staff.json"
+    },
+    "tent": {
+      "name": "Tent",
+      "nameRu": "Палатка",
+      "group": "gear",
+      "category": "gear",
+      "record": "records/tent.json"
+    },
+    "blanket": {
+      "name": "Blanket",
+      "nameRu": "Одеяло",
+      "group": "gear",
+      "category": "gear",
+      "record": "records/blanket.json"
+    },
+    "ring": {
+      "name": "Ring",
+      "nameRu": "Кольцо",
+      "group": "jewelry",
+      "category": "valuable",
+      "record": "records/ring.json"
+    },
+    "signet-ring": {
+      "name": "Signet Ring",
+      "nameRu": "Перстень-печатка",
+      "group": "jewelry",
+      "category": "valuable",
+      "record": "records/signet-ring.json"
+    },
+    "necklace": {
+      "name": "Necklace",
+      "nameRu": "Ожерелье",
+      "group": "jewelry",
+      "category": "valuable",
+      "record": "records/necklace.json"
+    },
+    "amulet": {
+      "name": "Amulet",
+      "nameRu": "Амулет",
+      "group": "jewelry",
+      "category": "valuable",
+      "record": "records/amulet.json"
+    },
+    "circlet": {
+      "name": "Circlet",
+      "nameRu": "Диадема",
+      "group": "jewelry",
+      "category": "valuable",
+      "record": "records/circlet.json"
+    },
+    "crown": {
+      "name": "Crown",
+      "nameRu": "Корона",
+      "group": "jewelry",
+      "category": "valuable",
+      "record": "records/crown.json"
+    },
+    "earrings": {
+      "name": "Earrings",
+      "nameRu": "Серьги",
+      "group": "jewelry",
+      "category": "valuable",
+      "record": "records/earrings.json"
+    },
+    "bracelet": {
+      "name": "Bracelet",
+      "nameRu": "Браслет",
+      "group": "jewelry",
+      "category": "valuable",
+      "record": "records/bracelet.json"
+    },
+    "brooch": {
+      "name": "Brooch",
+      "nameRu": "Брошь",
+      "group": "jewelry",
+      "category": "valuable",
+      "record": "records/brooch.json"
+    },
+    "gemstone": {
+      "name": "Gemstone",
+      "nameRu": "Драгоценный камень",
+      "group": "jewelry",
+      "category": "valuable",
+      "record": "records/gemstone.json"
+    },
+    "coins": {
+      "name": "Coins",
+      "nameRu": "Монеты",
+      "group": "jewelry",
+      "category": "valuable",
+      "record": "records/coins.json"
+    },
+    "ingot": {
+      "name": "Ingot",
+      "nameRu": "Слиток",
+      "group": "jewelry",
+      "category": "valuable",
+      "record": "records/ingot.json"
+    },
+    "medal": {
+      "name": "Medal",
+      "nameRu": "Медаль",
+      "group": "jewelry",
+      "category": "valuable",
+      "record": "records/medal.json"
+    },
+    "bead": {
+      "name": "Bead",
+      "nameRu": "Бусина",
+      "group": "jewelry",
+      "category": "magic",
+      "record": "records/bead.json"
+    },
+    "staff": {
+      "name": "Staff",
+      "nameRu": "Посох",
+      "group": "arcana",
+      "category": "magic",
+      "record": "records/staff.json"
+    },
+    "wand": {
+      "name": "Wand",
+      "nameRu": "Волшебная палочка",
+      "group": "arcana",
+      "category": "magic",
+      "record": "records/wand.json"
+    },
+    "rod": {
+      "name": "Rod",
+      "nameRu": "Жезл",
+      "group": "arcana",
+      "category": "magic",
+      "record": "records/rod.json"
+    },
+    "robe": {
+      "name": "Robe",
+      "nameRu": "Мантия",
+      "group": "arcana",
+      "category": "attire",
+      "record": "records/robe.json"
+    },
+    "wizard-hat": {
+      "name": "Wizard's Hat",
+      "nameRu": "Шляпа волшебника",
+      "group": "arcana",
+      "category": "attire",
+      "record": "records/wizard-hat.json"
+    },
+    "druidic-focus": {
+      "name": "Druidic Focus",
+      "nameRu": "Друидическая фокусировка",
+      "group": "arcana",
+      "category": "magic",
+      "record": "records/druidic-focus.json"
+    },
+    "rune-stone": {
+      "name": "Rune Stone",
+      "nameRu": "Рунный камень",
+      "group": "arcana",
+      "category": "magic",
+      "record": "records/rune-stone.json"
+    },
+    "spell-scroll": {
+      "name": "Spell Scroll",
+      "nameRu": "Свиток заклинания",
+      "group": "arcana",
+      "category": "document",
+      "record": "records/spell-scroll.json"
+    },
+    "hourglass": {
+      "name": "Hourglass",
+      "nameRu": "Песочные часы",
+      "group": "arcana",
+      "category": "tool",
+      "record": "records/hourglass.json"
+    },
+    "figurine": {
+      "name": "Figurine",
+      "nameRu": "Статуэтка",
+      "group": "arcana",
+      "category": "magic",
+      "record": "records/figurine.json"
+    },
+    "wings": {
+      "name": "Wings",
+      "nameRu": "Крылья",
+      "group": "arcana",
+      "category": "magic",
+      "record": "records/wings.json"
+    },
+    "crystal-ball": {
+      "name": "Crystal Ball",
+      "nameRu": "Хрустальный шар",
+      "group": "arcana",
+      "category": "magic",
+      "record": "records/crystal-ball.json"
+    },
+    "helmet": {
+      "name": "Helmet",
+      "nameRu": "Шлем",
+      "group": "armor",
+      "category": "armor",
+      "record": "records/helmet.json"
+    },
+    "great-helm": {
+      "name": "Great Helm",
+      "nameRu": "Большой шлем",
+      "group": "armor",
+      "category": "armor",
+      "record": "records/great-helm.json"
+    },
+    "chain-coif": {
+      "name": "Chain Coif",
+      "nameRu": "Кольчужный капюшон",
+      "group": "armor",
+      "category": "armor",
+      "record": "records/chain-coif.json"
+    },
+    "gauntlets": {
+      "name": "Gauntlets",
+      "nameRu": "Латные перчатки",
+      "group": "armor",
+      "category": "armor",
+      "record": "records/gauntlets.json"
+    },
+    "gloves": {
+      "name": "Gloves",
+      "nameRu": "Перчатки",
+      "group": "attire",
+      "category": "attire",
+      "record": "records/gloves.json"
+    },
+    "bracers": {
+      "name": "Bracers",
+      "nameRu": "Наручи",
+      "group": "armor",
+      "category": "armor",
+      "record": "records/bracers.json"
+    },
+    "boots": {
+      "name": "Boots",
+      "nameRu": "Сапоги",
+      "group": "attire",
+      "category": "attire",
+      "record": "records/boots.json"
+    },
+    "greaves": {
+      "name": "Greaves",
+      "nameRu": "Поножи",
+      "group": "armor",
+      "category": "armor",
+      "record": "records/greaves.json"
+    },
+    "pauldrons": {
+      "name": "Pauldrons",
+      "nameRu": "Наплечники",
+      "group": "armor",
+      "category": "armor",
+      "record": "records/pauldrons.json"
+    },
+    "gorget": {
+      "name": "Gorget",
+      "nameRu": "Латный воротник",
+      "group": "armor",
+      "category": "armor",
+      "record": "records/gorget.json"
+    },
+    "belt": {
+      "name": "Belt",
+      "nameRu": "Пояс",
+      "group": "attire",
+      "category": "attire",
+      "record": "records/belt.json"
+    },
+    "buckler": {
+      "name": "Buckler",
+      "nameRu": "Баклер",
+      "group": "armor",
+      "category": "armor",
+      "record": "records/buckler.json"
+    },
+    "tower-shield": {
+      "name": "Tower Shield",
+      "nameRu": "Ростовой щит",
+      "group": "armor",
+      "category": "armor",
+      "record": "records/tower-shield.json"
+    },
+    "cloak": {
+      "name": "Cloak",
+      "nameRu": "Плащ",
+      "group": "attire",
+      "category": "attire",
+      "record": "records/cloak.json"
+    },
+    "clothes": {
+      "name": "Clothes",
+      "nameRu": "Одежда",
+      "group": "attire",
+      "category": "attire",
+      "record": "records/clothes.json"
+    },
+    "fine-clothes": {
+      "name": "Fine Clothes",
+      "nameRu": "Дорогая одежда",
+      "group": "attire",
+      "category": "attire",
+      "record": "records/fine-clothes.json"
+    },
+    "hat": {
+      "name": "Hat",
+      "nameRu": "Шляпа",
+      "group": "attire",
+      "category": "attire",
+      "record": "records/hat.json"
+    },
+    "hood": {
+      "name": "Hood",
+      "nameRu": "Капюшон",
+      "group": "attire",
+      "category": "attire",
+      "record": "records/hood.json"
+    },
+    "mask": {
+      "name": "Mask",
+      "nameRu": "Маска",
+      "group": "attire",
+      "category": "attire",
+      "record": "records/mask.json"
+    },
+    "goggles": {
+      "name": "Goggles",
+      "nameRu": "Очки",
+      "group": "attire",
+      "category": "attire",
+      "record": "records/goggles.json"
+    },
+    "costume": {
+      "name": "Costume",
+      "nameRu": "Костюм",
+      "group": "attire",
+      "category": "attire",
+      "record": "records/costume.json"
+    },
+    "shoe": {
+      "name": "Shoes",
+      "nameRu": "Туфли",
+      "group": "attire",
+      "category": "attire",
+      "record": "records/shoe.json"
+    },
+    "scarf": {
+      "name": "Scarf",
+      "nameRu": "Шарф",
+      "group": "attire",
+      "category": "attire",
+      "record": "records/scarf.json"
+    },
+    "lute": {
+      "name": "Lute",
+      "nameRu": "Лютня",
+      "group": "instrument",
+      "category": "instrument",
+      "record": "records/lute.json"
+    },
+    "flute": {
+      "name": "Flute",
+      "nameRu": "Флейта",
+      "group": "instrument",
+      "category": "instrument",
+      "record": "records/flute.json"
+    },
+    "drum": {
+      "name": "Drum",
+      "nameRu": "Барабан",
+      "group": "instrument",
+      "category": "instrument",
+      "record": "records/drum.json"
+    },
+    "horn": {
+      "name": "Horn",
+      "nameRu": "Рог",
+      "group": "instrument",
+      "category": "instrument",
+      "record": "records/horn.json"
+    },
+    "lyre": {
+      "name": "Lyre",
+      "nameRu": "Лира",
+      "group": "instrument",
+      "category": "instrument",
+      "record": "records/lyre.json"
+    },
+    "violin": {
+      "name": "Violin",
+      "nameRu": "Скрипка",
+      "group": "instrument",
+      "category": "instrument",
+      "record": "records/violin.json"
+    },
+    "bagpipes": {
+      "name": "Bagpipes",
+      "nameRu": "Волынка",
+      "group": "instrument",
+      "category": "instrument",
+      "record": "records/bagpipes.json"
+    },
+    "tambourine": {
+      "name": "Tambourine",
+      "nameRu": "Бубен",
+      "group": "instrument",
+      "category": "instrument",
+      "record": "records/tambourine.json"
+    },
+    "bell": {
+      "name": "Bell",
+      "nameRu": "Колокольчик",
+      "group": "instrument",
+      "category": "tool",
+      "record": "records/bell.json"
+    },
+    "gong": {
+      "name": "Gong",
+      "nameRu": "Гонг",
+      "group": "instrument",
+      "category": "instrument",
+      "record": "records/gong.json"
+    },
+    "sack": {
+      "name": "Sack",
+      "nameRu": "Мешок",
+      "group": "container",
+      "category": "gear",
+      "record": "records/sack.json"
+    },
+    "barrel": {
+      "name": "Barrel",
+      "nameRu": "Бочка",
+      "group": "container",
+      "category": "gear",
+      "record": "records/barrel.json"
+    },
+    "bucket": {
+      "name": "Bucket",
+      "nameRu": "Ведро",
+      "group": "container",
+      "category": "gear",
+      "record": "records/bucket.json"
+    },
+    "jar": {
+      "name": "Jar",
+      "nameRu": "Банка",
+      "group": "container",
+      "category": "consumable",
+      "record": "records/jar.json"
+    },
+    "jug": {
+      "name": "Jug",
+      "nameRu": "Кувшин",
+      "group": "container",
+      "category": "food",
+      "record": "records/jug.json"
+    },
+    "mug": {
+      "name": "Tankard",
+      "nameRu": "Кружка",
+      "group": "container",
+      "category": "food",
+      "record": "records/mug.json"
+    },
+    "bowl": {
+      "name": "Bowl",
+      "nameRu": "Миска",
+      "group": "container",
+      "category": "gear",
+      "record": "records/bowl.json"
+    },
+    "dust-pouch": {
+      "name": "Pouch of Dust",
+      "nameRu": "Мешочек с пылью",
+      "group": "container",
+      "category": "magic",
+      "record": "records/dust-pouch.json"
+    },
+    "book": {
+      "name": "Book",
+      "nameRu": "Книга",
+      "group": "container",
+      "category": "document",
+      "record": "records/book.json"
+    },
+    "journal": {
+      "name": "Journal",
+      "nameRu": "Дневник",
+      "group": "container",
+      "category": "document",
+      "record": "records/journal.json"
+    },
+    "letter": {
+      "name": "Letter",
+      "nameRu": "Письмо",
+      "group": "container",
+      "category": "document",
+      "record": "records/letter.json"
+    },
+    "document": {
+      "name": "Document",
+      "nameRu": "Документ",
+      "group": "container",
+      "category": "document",
+      "record": "records/document.json"
+    },
+    "cards": {
+      "name": "Deck of Cards",
+      "nameRu": "Колода карт",
+      "group": "container",
+      "category": "tool",
+      "record": "records/cards.json"
+    },
+    "dice": {
+      "name": "Dice",
+      "nameRu": "Игральные кости",
+      "group": "container",
+      "category": "tool",
+      "record": "records/dice.json"
+    },
+    "chess": {
+      "name": "Chess Set",
+      "nameRu": "Шахматы",
+      "group": "container",
+      "category": "tool",
+      "record": "records/chess.json"
+    },
+    "bread": {
+      "name": "Bread",
+      "nameRu": "Хлеб",
+      "group": "food",
+      "category": "food",
+      "record": "records/bread.json"
+    },
+    "cheese": {
+      "name": "Cheese",
+      "nameRu": "Сыр",
+      "group": "food",
+      "category": "food",
+      "record": "records/cheese.json"
+    },
+    "fruit": {
+      "name": "Fruit",
+      "nameRu": "Фрукты",
+      "group": "food",
+      "category": "food",
+      "record": "records/fruit.json"
+    },
+    "berries": {
+      "name": "Berries",
+      "nameRu": "Ягоды",
+      "group": "food",
+      "category": "food",
+      "record": "records/berries.json"
+    },
+    "mushroom": {
+      "name": "Mushrooms",
+      "nameRu": "Грибы",
+      "group": "food",
+      "category": "food",
+      "record": "records/mushroom.json"
+    },
+    "sweets": {
+      "name": "Sweets",
+      "nameRu": "Сладости",
+      "group": "food",
+      "category": "food",
+      "record": "records/sweets.json"
+    },
+    "meat": {
+      "name": "Meat",
+      "nameRu": "Мясо",
+      "group": "food",
+      "category": "food",
+      "record": "records/meat.json"
+    },
+    "sausage": {
+      "name": "Sausage",
+      "nameRu": "Колбаса",
+      "group": "food",
+      "category": "food",
+      "record": "records/sausage.json"
+    },
+    "ale": {
+      "name": "Ale",
+      "nameRu": "Эль",
+      "group": "food",
+      "category": "food",
+      "record": "records/ale.json"
+    },
+    "wine": {
+      "name": "Wine",
+      "nameRu": "Вино",
+      "group": "food",
+      "category": "food",
+      "record": "records/wine.json"
+    },
+    "drink": {
+      "name": "Drink",
+      "nameRu": "Напиток",
+      "group": "food",
+      "category": "food",
+      "record": "records/drink.json"
+    },
+    "herbs": {
+      "name": "Herbs",
+      "nameRu": "Травы",
+      "group": "nature",
+      "category": "nature",
+      "record": "records/herbs.json"
+    },
+    "flower": {
+      "name": "Flowers",
+      "nameRu": "Цветы",
+      "group": "nature",
+      "category": "nature",
+      "record": "records/flower.json"
+    },
+    "incense": {
+      "name": "Incense",
+      "nameRu": "Благовония",
+      "group": "nature",
+      "category": "consumable",
+      "record": "records/incense.json"
+    },
+    "perfume": {
+      "name": "Perfume",
+      "nameRu": "Духи",
+      "group": "nature",
+      "category": "consumable",
+      "record": "records/perfume.json"
+    },
+    "soap": {
+      "name": "Soap",
+      "nameRu": "Мыло",
+      "group": "nature",
+      "category": "consumable",
+      "record": "records/soap.json"
+    },
+    "pelt": {
+      "name": "Pelt",
+      "nameRu": "Шкура",
+      "group": "nature",
+      "category": "nature",
+      "record": "records/pelt.json"
+    },
+    "trophy": {
+      "name": "Hunting Trophy",
+      "nameRu": "Охотничий трофей",
+      "group": "nature",
+      "category": "nature",
+      "record": "records/trophy.json"
+    },
+    "feather": {
+      "name": "Feather",
+      "nameRu": "Перо",
+      "group": "nature",
+      "category": "magic",
+      "record": "records/feather.json"
+    },
+    "broom": {
+      "name": "Broom",
+      "nameRu": "Метла",
+      "group": "gear",
+      "category": "gear",
+      "record": "records/broom.json"
+    },
+    "carpet": {
+      "name": "Carpet",
+      "nameRu": "Ковёр",
+      "group": "gear",
+      "category": "gear",
+      "record": "records/carpet.json"
+    },
+    "banner": {
+      "name": "Banner",
+      "nameRu": "Знамя",
+      "group": "gear",
+      "category": "gear",
+      "record": "records/banner.json"
+    },
+    "fan": {
+      "name": "Fan",
+      "nameRu": "Веер",
+      "group": "gear",
+      "category": "attire",
+      "record": "records/fan.json"
+    },
+    "umbrella": {
+      "name": "Umbrella",
+      "nameRu": "Зонт",
+      "group": "gear",
+      "category": "attire",
+      "record": "records/umbrella.json"
+    },
+    "anchor": {
+      "name": "Anchor",
+      "nameRu": "Якорь",
+      "group": "gear",
+      "category": "gear",
+      "record": "records/anchor.json"
+    },
+    "oar": {
+      "name": "Oar",
+      "nameRu": "Весло",
+      "group": "gear",
+      "category": "gear",
+      "record": "records/oar.json"
+    },
+    "horseshoe": {
+      "name": "Horseshoe",
+      "nameRu": "Подкова",
+      "group": "gear",
+      "category": "gear",
+      "record": "records/horseshoe.json"
+    },
+    "saddle": {
+      "name": "Saddle",
+      "nameRu": "Седло",
+      "group": "gear",
+      "category": "gear",
+      "record": "records/saddle.json"
+    },
+    "painting": {
+      "name": "Painting",
+      "nameRu": "Картина",
+      "group": "gear",
+      "category": "valuable",
+      "record": "records/painting.json"
+    },
+    "brazier": {
+      "name": "Brazier",
+      "nameRu": "Жаровня",
+      "group": "gear",
+      "category": "gear",
+      "record": "records/brazier.json"
     }
   }
 }

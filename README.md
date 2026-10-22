@@ -6,11 +6,17 @@
 
 ## Item icons
 
-270 original inventory icons cover 90 base items in three designs each (common, ornate, dark): all SRD weapons and armour, potions and alchemical flasks, and the most used adventuring gear. Each design ships as a flat SVG and a 512 x 512 WebP in [public/assets/item-icons/](public/assets/item-icons/), with English and Russian names. See the [item collection](items/README.md) and the previews in [previews/items/](previews/items/).
+2,124 original inventory icons, each a flat SVG with a 512 x 512 WebP render in [public/assets/item-icons/](public/assets/item-icons/), with English and Russian names:
+
+- 882 designs of 376 base items. 253 kinds have three designs each (common, ornate, dark): every SRD weapon and armour piece, shields, helmets and gauntlets, clothes and robes, rings, amulets and diadems, staves, wands and focuses, instruments, tools, containers, food, and the ZEITGEIST guns and gadgets. 123 potions have one picture each (113 named potions, elixirs and oils, plus ten bottles for homebrew potions).
+- 1,242 named magic items: every printed magic item except artifacts and one-per-world relics, drawn as its base kind under an aura of its theme and rarity.
+- 112 aura layers (SVG only) to draw that enchantment over any base design.
+
+See the [item collection](items/README.md) and the previews in [previews/items/](previews/items/).
 
 ## Imported collection
 
-**6,170 ready images are available: 5,660 creature portraits, 120 NPC portraits, 120 location scenes and 270 item icons.**
+**8,024 ready images are available: 5,660 creature portraits, 120 NPC portraits, 120 location scenes and 2,124 item icons.**
 The existing-art migration is complete. The larger generation catalog still contains pending entries; these are not ready artwork.
 
 The files are stored individually under `public/assets/`, using their original
