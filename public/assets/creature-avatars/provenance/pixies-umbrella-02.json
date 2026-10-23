@@ -1,0 +1,21 @@
+{
+  "creatureId": "pixies-umbrella",
+  "variantId": "02",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-22",
+  "sourceBooks": [
+    "Tome of Beasts 2"
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-on-Google-Drive",
+  "sourceDriveFolderId": "12izBeLHxP8wkwbOWCBnC5Y8AK1cZj-Lg",
+  "sourceDriveImageId": "1m-85_Sc_rutveQ-FZj8wITBtCTXJl0hp",
+  "sourceDriveMetadataId": "1Z90OMnU8KwKlmgAutHgAI8k4F3rzKQds",
+  "originalSha256": "640cf601070354431e7c2bb56c8e8b98beef6ef7aafa31a32d474c843666611b",
+  "originalBytes": 2417008,
+  "sourceMetadataSha256": "dd76e1227fa506889b1e9a2c05df17113fed0236a00c770971ac07e92fc33372",
+  "qaStatus": "verified-accepted"
+}

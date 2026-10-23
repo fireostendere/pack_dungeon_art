@@ -1,0 +1,21 @@
+{
+  "creatureId": "pit-fiend-general-a5e",
+  "variantId": "04",
+  "style": "yolo",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-22",
+  "sourceBooks": [
+    "Level Up Advanced 5e Monstrous Menagerie"
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-on-Google-Drive",
+  "sourceDriveFolderId": "12izBeLHxP8wkwbOWCBnC5Y8AK1cZj-Lg",
+  "sourceDriveImageId": "1aZ4QyWRvrIuZ7MOahvNUmjGQpg8SOSBt",
+  "sourceDriveMetadataId": "1nSoRFSeTlk3k2YKULTCWiVKrJdci2hK9",
+  "originalSha256": "b15b3983af687a99aece2fd02027f642171b9cddcede39422d07e62d9a419691",
+  "originalBytes": 2819554,
+  "sourceMetadataSha256": "79c1bda63ca8f2100434aa0fb40f75eecc817ef8547c2990bf07fd571d3ea549",
+  "qaStatus": "verified-accepted"
+}

@@ -1,0 +1,21 @@
+{
+  "creatureId": "peri",
+  "variantId": "04",
+  "style": "yolo",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-22",
+  "sourceBooks": [
+    "Tome of Beasts 3"
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-on-Google-Drive",
+  "sourceDriveFolderId": "12izBeLHxP8wkwbOWCBnC5Y8AK1cZj-Lg",
+  "sourceDriveImageId": "1437CsPxIEz69opf50oRdpiV-n8fMB4NV",
+  "sourceDriveMetadataId": "1wxTVI0VLDsffVAngTwuERIIMnc2RNZzo",
+  "originalSha256": "08d07f206e2b1dff75e16b8551a37487fc42a023e0a21a4a2bf42f0e73c7195c",
+  "originalBytes": 3091523,
+  "sourceMetadataSha256": "713fcbee1272a273bffe3ab0efe6e30f4472292b9289246f34118757c165f344",
+  "qaStatus": "verified-accepted"
+}

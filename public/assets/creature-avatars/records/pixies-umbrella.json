@@ -1,0 +1,101 @@
+{
+  "id": "pixies-umbrella",
+  "status": "partial",
+  "variants": [
+    {
+      "id": "01",
+      "style": "normal",
+      "path": "pixies-umbrella/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 69910,
+      "sha256": "0572908893ad7892920530bd10c6d8a6fe4156c842c04ebdd8e492a256ac6f5c",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/pixies-umbrella-01.json",
+        "originalSha256": "d652f81a031f2048902d73cae74f6efdf76940fa965abbff951db84fb5950bbf",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "pixies-umbrella"
+      }
+    },
+    {
+      "id": "02",
+      "style": "normal",
+      "path": "pixies-umbrella/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 57456,
+      "sha256": "eee58afc2efce553877b405845a91e1df938bd903025d72d9adac3c3eefa4eb6",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/pixies-umbrella-02.json",
+        "originalSha256": "640cf601070354431e7c2bb56c8e8b98beef6ef7aafa31a32d474c843666611b",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "pixies-umbrella"
+      }
+    },
+    {
+      "id": "03",
+      "style": "normal",
+      "path": "pixies-umbrella/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 35674,
+      "sha256": "5de3d12af5b71c9f8b9d25cacae0e9744499fba639f1f3399b3c50b65b8c9082",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/pixies-umbrella-03.json",
+        "originalSha256": "4d1064fc5faf54553bafb01ca5511dc0b8e8d490eabfacda396c2bcf7e21a1aa",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "pixies-umbrella"
+      }
+    }
+  ],
+  "modes": {
+    "normal": [
+      "01",
+      "02",
+      "03"
+    ],
+    "yolo": []
+  }
+}

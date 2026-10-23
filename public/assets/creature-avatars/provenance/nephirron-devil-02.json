@@ -1,0 +1,21 @@
+{
+  "creatureId": "nephirron-devil",
+  "variantId": "02",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-22",
+  "sourceBooks": [
+    "Tome of Beasts 2"
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-on-Google-Drive",
+  "sourceDriveFolderId": "12izBeLHxP8wkwbOWCBnC5Y8AK1cZj-Lg",
+  "sourceDriveImageId": "1HFg_jtZyJsKjIVK-BNvBOhcHrIKvxyBA",
+  "sourceDriveMetadataId": "19AEbSBCQ3M51qBhyRTf5mlAtC44Ip8pw",
+  "originalSha256": "fc8bc969eb477e279187e44d6b36cbf7532aa472609ad195916b718109e2a182",
+  "originalBytes": 2760085,
+  "sourceMetadataSha256": "e6d2bdd0f5b4cf572040828063bbd077a244c2b2b5b4ce63309ad6798a6d0822",
+  "qaStatus": "verified-accepted"
+}

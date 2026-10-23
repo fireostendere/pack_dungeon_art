@@ -1,0 +1,21 @@
+{
+  "creatureId": "phase-monster-a5e",
+  "variantId": "03",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-22",
+  "sourceBooks": [
+    "Level Up Advanced 5e Monstrous Menagerie"
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-on-Google-Drive",
+  "sourceDriveFolderId": "12izBeLHxP8wkwbOWCBnC5Y8AK1cZj-Lg",
+  "sourceDriveImageId": "1X7me9YyfyEeoCAQ1pcMwZ1sxWSYtp49x",
+  "sourceDriveMetadataId": "1NRzY1mTDX8YdZjlLKWl1X34UryXt7HTM",
+  "originalSha256": "7c3fb82cc291f7ad1a99370c5c65e1d895e40d9798dc983e87c82c1f2f7cd1c5",
+  "originalBytes": 3012333,
+  "sourceMetadataSha256": "ea5bf42b38e062fb6ede2e36b0022781359b96f50c2d15c889c18319492ac979",
+  "qaStatus": "verified-accepted"
+}

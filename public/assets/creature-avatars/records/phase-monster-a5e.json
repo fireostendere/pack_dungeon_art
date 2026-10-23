@@ -1,0 +1,132 @@
+{
+  "id": "phase-monster-a5e",
+  "status": "complete",
+  "variants": [
+    {
+      "id": "01",
+      "style": "normal",
+      "path": "phase-monster-a5e/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 65660,
+      "sha256": "087cbfacab2e52019da6132e8170831af4a5ca92a3a7228070d2bc6224276bbd",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/phase-monster-a5e-01.json",
+        "originalSha256": "d2d45a631a2a111e95d60b198b798e4a0cff05d43b9a52a34c71494cd10e17e1",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "phase-monster-a5e"
+      }
+    },
+    {
+      "id": "02",
+      "style": "normal",
+      "path": "phase-monster-a5e/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 85366,
+      "sha256": "2e46ebbfdb903412f4b1ca7c35e8d94272e0c7e519017184807c4723f418f30d",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/phase-monster-a5e-02.json",
+        "originalSha256": "f1c9d04ff48ac006d569e19cefa80662ed240f73cf203c22953a3613c9b31df8",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "phase-monster-a5e"
+      }
+    },
+    {
+      "id": "03",
+      "style": "normal",
+      "path": "phase-monster-a5e/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 87996,
+      "sha256": "684a11ddec21884609cc9882e978c42458f15d44d62d0a891845858836352482",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/phase-monster-a5e-03.json",
+        "originalSha256": "7c3fb82cc291f7ad1a99370c5c65e1d895e40d9798dc983e87c82c1f2f7cd1c5",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "phase-monster-a5e"
+      }
+    },
+    {
+      "id": "04",
+      "style": "yolo",
+      "path": "phase-monster-a5e/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 68256,
+      "sha256": "4a2923d19502d3ab37c18fba7b78dc6c4efaf123178299634742d9030d073210",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/phase-monster-a5e-04.json",
+        "originalSha256": "794ed20e13da642e1ed459686c97be64c582bab28530a879e8831caec1eb8440",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "phase-monster-a5e"
+      }
+    }
+  ],
+  "modes": {
+    "normal": [
+      "01",
+      "02",
+      "03"
+    ],
+    "yolo": [
+      "04"
+    ]
+  }
+}

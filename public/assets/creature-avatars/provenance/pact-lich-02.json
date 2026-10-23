@@ -1,0 +1,21 @@
+{
+  "creatureId": "pact-lich",
+  "variantId": "02",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-22",
+  "sourceBooks": [
+    "Creature Codex"
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-on-Google-Drive",
+  "sourceDriveFolderId": "12izBeLHxP8wkwbOWCBnC5Y8AK1cZj-Lg",
+  "sourceDriveImageId": "1z-IAgf1dkb1w0fUABEp1RcfCN_BzwI1k",
+  "sourceDriveMetadataId": "1CPSD9zWmME8T24ZoTnJgA6vtg_zVXstK",
+  "originalSha256": "44845dcb1ad4c3582ce6cb8ff94b3783a6d65ae3344db967f8c2dd43c768614a",
+  "originalBytes": 2612800,
+  "sourceMetadataSha256": "9a627db8355d2ad818799abbeadcb462d6fb1dccbc0634e81b6af28acc1b2256",
+  "qaStatus": "verified-accepted"
+}

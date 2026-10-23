@@ -1,0 +1,21 @@
+{
+  "creatureId": "marsh-dire",
+  "variantId": "04",
+  "style": "yolo",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-22",
+  "sourceBooks": [
+    "Tome of Beasts 2"
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-on-Google-Drive",
+  "sourceDriveFolderId": "12izBeLHxP8wkwbOWCBnC5Y8AK1cZj-Lg",
+  "sourceDriveImageId": "1JBxQ8LMuH8OCDQGJ1sb0iiN5rYmoQx5E",
+  "sourceDriveMetadataId": "134EbQIydsgB4V-Hk1p7r63JB3TauBUqM",
+  "originalSha256": "f8d99bdb72d8a90a91fba958a3d64392eb1327ac0fd8beaad65a72207c536c2d",
+  "originalBytes": 2657348,
+  "sourceMetadataSha256": "324e07ade6450bc13b79a88a0bf5e73bfdcf3bfaf63d131b868df93b4af844b2",
+  "qaStatus": "verified-accepted"
+}

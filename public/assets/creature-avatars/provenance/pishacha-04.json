@@ -1,0 +1,21 @@
+{
+  "creatureId": "pishacha",
+  "variantId": "04",
+  "style": "yolo",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-22",
+  "sourceBooks": [
+    "Creature Codex"
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-on-Google-Drive",
+  "sourceDriveFolderId": "12izBeLHxP8wkwbOWCBnC5Y8AK1cZj-Lg",
+  "sourceDriveImageId": "1hsq3wIS0kLeQKzrw_kL3LjmB4TOMU0yC",
+  "sourceDriveMetadataId": "1QAcRvGwQpn1PIHPQyxBl1Y5BKyrc1V0V",
+  "originalSha256": "3605bb3e8f9a1a6911a8709ba1ebfa29a41c021a2f2465dc3a0aa69c6c8ec7b9",
+  "originalBytes": 2562806,
+  "sourceMetadataSha256": "bcfd3b92a2cafcac71b520bc0f9437cd282e361c1657174c568fd3ce85531807",
+  "qaStatus": "verified-accepted"
+}

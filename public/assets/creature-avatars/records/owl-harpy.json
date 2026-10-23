@@ -1,0 +1,132 @@
+{
+  "id": "owl-harpy",
+  "status": "complete",
+  "variants": [
+    {
+      "id": "01",
+      "style": "normal",
+      "path": "owl-harpy/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 89396,
+      "sha256": "a3e2debc21f69a32a57997df3fdca6376071f4ed147f79f1bd9801d04323afce",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/owl-harpy-01.json",
+        "originalSha256": "701e5eb46c7922699a825b6bc7b36d6ccf55ae480b16eefc459a51c178a2c5f3",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "owl-harpy"
+      }
+    },
+    {
+      "id": "02",
+      "style": "normal",
+      "path": "owl-harpy/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 64136,
+      "sha256": "699eeac060c63d661860c7119dbc0597ad4ebe1ca129b3efbae1ac276d4c13a0",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/owl-harpy-02.json",
+        "originalSha256": "917c8383d0ab911b8dcdb46153efba296d0d082059efaafbf21d90e7c3599cce",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "owl-harpy"
+      }
+    },
+    {
+      "id": "03",
+      "style": "normal",
+      "path": "owl-harpy/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 74744,
+      "sha256": "7cd69b63bb4e44a13bec57bb00e8aaeb430e10725e16aa7f273b6eac1b2b5014",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/owl-harpy-03.json",
+        "originalSha256": "f4a30afd1bc0e8a57b37455b03124c6d1efe9b5d6b87287c5c316d51434e048c",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "owl-harpy"
+      }
+    },
+    {
+      "id": "04",
+      "style": "yolo",
+      "path": "owl-harpy/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 72244,
+      "sha256": "eb767d6699fedda3490f88cba1494722077bf55d94e56d1600412bedc340910a",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/owl-harpy-04.json",
+        "originalSha256": "3a135f840005008204ce80fa651f390eb40cb54263ae5b7c3aa230b03032fffa",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "owl-harpy"
+      }
+    }
+  ],
+  "modes": {
+    "normal": [
+      "01",
+      "02",
+      "03"
+    ],
+    "yolo": [
+      "04"
+    ]
+  }
+}

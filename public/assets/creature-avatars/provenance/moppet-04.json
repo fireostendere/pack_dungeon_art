@@ -1,0 +1,21 @@
+{
+  "creatureId": "moppet",
+  "variantId": "04",
+  "style": "yolo",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-22",
+  "sourceBooks": [
+    "Tome of Beasts 3"
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-on-Google-Drive",
+  "sourceDriveFolderId": "12izBeLHxP8wkwbOWCBnC5Y8AK1cZj-Lg",
+  "sourceDriveImageId": "1_7ZYmdids0OdbTm5iWHhgw3SgfeN5Dd_",
+  "sourceDriveMetadataId": "1VsCJSeYQO6IbrME-WTmbjXi91ysmN4E8",
+  "originalSha256": "bdf8650f37f66a4c8e9b89afd466076a27c16c9fea01516f7cf35828f1d73bbe",
+  "originalBytes": 2047506,
+  "sourceMetadataSha256": "57e16a5b431094265d66a1e88980bb007ee1c107fd6f7cc451ea027b3a3f51d6",
+  "qaStatus": "verified-accepted"
+}

@@ -1,0 +1,21 @@
+{
+  "creatureId": "pelagic-blush-worm",
+  "variantId": "03",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-22",
+  "sourceBooks": [
+    "Tome of Beasts 3"
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-on-Google-Drive",
+  "sourceDriveFolderId": "12izBeLHxP8wkwbOWCBnC5Y8AK1cZj-Lg",
+  "sourceDriveImageId": "1yKkaq2BTp0HFvrY3-8RvSANVpUXEMeHt",
+  "sourceDriveMetadataId": "1-spi_8sZDXj5hkn0v5IwYnahGar1p9aN",
+  "originalSha256": "e19428cd17f0ec25898263500ce9ab1421c603c096ed2c9c91481d4aa01dd05e",
+  "originalBytes": 2127390,
+  "sourceMetadataSha256": "fa874c44f8d3b4aacaed35923c1efe0c0e5e81d97e54503f596de2beed8bc16c",
+  "qaStatus": "verified-accepted"
+}

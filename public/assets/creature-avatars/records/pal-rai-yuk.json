@@ -1,0 +1,132 @@
+{
+  "id": "pal-rai-yuk",
+  "status": "complete",
+  "variants": [
+    {
+      "id": "01",
+      "style": "normal",
+      "path": "pal-rai-yuk/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 80552,
+      "sha256": "d324eae0178dd64613ca45abad162602d29aa4987477623ad1f343f681b78e14",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/pal-rai-yuk-01.json",
+        "originalSha256": "605402071d63922dd1a554c5edfd78aa75ff8c6c2f47a81efd2296ea510b09d1",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "pal-rai-yuk"
+      }
+    },
+    {
+      "id": "02",
+      "style": "normal",
+      "path": "pal-rai-yuk/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 72382,
+      "sha256": "f35d61d28cc4242bbf019d1acef7fc6d25e57a746ad38900925071d6748c3855",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/pal-rai-yuk-02.json",
+        "originalSha256": "add0b7f2503c2254eaf384144e613785efa79a8075476d16cdc98f70a713fa72",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "pal-rai-yuk"
+      }
+    },
+    {
+      "id": "03",
+      "style": "normal",
+      "path": "pal-rai-yuk/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 80892,
+      "sha256": "cc7c872295ba7d34291373188aa4b925666f7205733c0a82467ae5fae6e7a311",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/pal-rai-yuk-03.json",
+        "originalSha256": "424bfe188281e1c138eb902b4746fa7635845ec874a61c3d5769253231871fce",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "pal-rai-yuk"
+      }
+    },
+    {
+      "id": "04",
+      "style": "yolo",
+      "path": "pal-rai-yuk/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 84802,
+      "sha256": "8db68d5571e1b716513657c5621427ec6f11970c1d7f8115044a5ae3864e2871",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/pal-rai-yuk-04.json",
+        "originalSha256": "a1d33ccabdf3a7cdd9c6a388c92f30eb624b2005b1f378716c2a11284049ec29",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "pal-rai-yuk"
+      }
+    }
+  ],
+  "modes": {
+    "normal": [
+      "01",
+      "02",
+      "03"
+    ],
+    "yolo": [
+      "04"
+    ]
+  }
+}

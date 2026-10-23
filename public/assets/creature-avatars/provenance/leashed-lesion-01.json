@@ -1,0 +1,21 @@
+{
+  "creatureId": "leashed-lesion",
+  "variantId": "01",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-22",
+  "sourceBooks": [
+    "Tome of Beasts 3"
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-on-Google-Drive",
+  "sourceDriveFolderId": "12izBeLHxP8wkwbOWCBnC5Y8AK1cZj-Lg",
+  "sourceDriveImageId": "1Eqy-fFaUC2UiuJjdQOS8EupaWWq8uda0",
+  "sourceDriveMetadataId": "1Yqg7Ph-oZyb6tBZZ6ojej05A7k4pHLii",
+  "originalSha256": "d511188c46c178864dc87cea955d367bf396d001c89ee6b7a64d77448b3f274d",
+  "originalBytes": 3047269,
+  "sourceMetadataSha256": "7310ef195962bc1bfaec57f02116ac58d5653ece8e61e394fd835a5987f18e0c",
+  "qaStatus": "verified-accepted"
+}

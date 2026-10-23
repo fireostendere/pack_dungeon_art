@@ -1,0 +1,1025 @@
+{
+  "schemaVersion": 1,
+  "batch": 3,
+  "verifiedSourceManifest": "monster-drive-batch-03-100-verified.json",
+  "sourceDriveFolderId": "12izBeLHxP8wkwbOWCBnC5Y8AK1cZj-Lg",
+  "sourceVerifiedAtUtc": "2026-10-22T21:25:11.962271+00:00",
+  "originalPNGUnchangedOnDrive": true,
+  "newFormat": "512x512 WebP quality88 method6",
+  "sourceMetadataUnchangedOnDrive": true,
+  "newSecretOverlays": 0,
+  "summary": {
+    "added": 100,
+    "affectedCreatureIds": 27,
+    "completeAdded": 22,
+    "partialAdded": 5,
+    "creatureImages": 5760,
+    "allImages": 8124,
+    "complete": 1437,
+    "partial": 5,
+    "pending": 866,
+    "oldMainSha": "2801cde93e204f9abb2865ad94b891f40c683121"
+  },
+  "assets": [
+    {
+      "jobId": "leashed-lesion/01",
+      "path": "public/assets/creature-avatars/leashed-lesion/01.webp",
+      "webpSha256": "7beaedbfcef205e9a170e54652c23d682651b23403dab6e6588bbd58a7ce2ed0",
+      "webpBytes": 83896,
+      "sourceImageDriveId": "1Eqy-fFaUC2UiuJjdQOS8EupaWWq8uda0",
+      "sourceImageSha256": "d511188c46c178864dc87cea955d367bf396d001c89ee6b7a64d77448b3f274d",
+      "sourceMetadataDriveId": "1Yqg7Ph-oZyb6tBZZ6ojej05A7k4pHLii",
+      "sourceMetadataSha256": "7310ef195962bc1bfaec57f02116ac58d5653ece8e61e394fd835a5987f18e0c"
+    },
+    {
+      "jobId": "leashed-lesion/02",
+      "path": "public/assets/creature-avatars/leashed-lesion/02.webp",
+      "webpSha256": "dbcdf5b0fd3a3b986c9a94bfcc2209a87ecede94cb08ff400629a92a53bb3da2",
+      "webpBytes": 96048,
+      "sourceImageDriveId": "1QyRuKK3oeFxnDrmTUz6HZVJ1wioYKu7q",
+      "sourceImageSha256": "2811da70d72b36db702038152509aa70c9bc33858266235e851377e17e0a77ff",
+      "sourceMetadataDriveId": "1GJLdTZBFjsHfe2xWET9VO3Et1AhhnLeM",
+      "sourceMetadataSha256": "81f449c8168d01e24131e449d9836f6a10e7b602aba5e8b8d729408c9402d47b"
+    },
+    {
+      "jobId": "leashed-lesion/03",
+      "path": "public/assets/creature-avatars/leashed-lesion/03.webp",
+      "webpSha256": "2d577e6436afa2f507a204e02d970da119114e64b82be6434674bd9b75449459",
+      "webpBytes": 81322,
+      "sourceImageDriveId": "1eZ2vdsoB0GYf4MV7q2n8iLUMAQfS_g_o",
+      "sourceImageSha256": "deae7a85b7c4665391fe5405b4206f8cfb9f959dd74c6c89c0678cd9b2e70e36",
+      "sourceMetadataDriveId": "11cLewi7O_yXZvyLvsPLh5Lg8LsVjZUzs",
+      "sourceMetadataSha256": "d1390920facd54eebf061afe2a515ca6f2c360a654a9e2d0ab49818a6b7cf27f"
+    },
+    {
+      "jobId": "leashed-lesion/04",
+      "path": "public/assets/creature-avatars/leashed-lesion/04.webp",
+      "webpSha256": "ee2299940871b1eee39f45bea3ab2c81155936385c4fe906186a329de151465c",
+      "webpBytes": 91730,
+      "sourceImageDriveId": "1TRS1DvAIh1zqZYdSw8sTDg7NGkq4nQW3",
+      "sourceImageSha256": "c8eb41a992fee18538e8a217fc0d00e12007c934cbd5dfdd9fc2d6fc80d94e9c",
+      "sourceMetadataDriveId": "1Uj5Djp_9tyXHkxHERfv6AdMrQaBzxO3T",
+      "sourceMetadataSha256": "cf052ef1a2c753333131e5563e1ad265af22f0a3cdc1ed89ca71f6161803ec1a"
+    },
+    {
+      "jobId": "luck-leech/01",
+      "path": "public/assets/creature-avatars/luck-leech/01.webp",
+      "webpSha256": "db1a3ca05cdf5ef6404ff9d4ed8223a5d77a4f205e9ecefc8aaf355bf82995a5",
+      "webpBytes": 65442,
+      "sourceImageDriveId": "1uKVEunhzAToibYMTyLFTzthtiNEJYt-e",
+      "sourceImageSha256": "470485e39956bf915ed8f1a80e772f0bc6b81cb1b547dccb81429a4b4b4cefa2",
+      "sourceMetadataDriveId": "1qk8Wwy6wMPMhsOWKm22Nmo_5z_gNhO_O",
+      "sourceMetadataSha256": "65e9c2dbe498b038c52300fc62140da7bc8cc8b7aea62fec4dbafaa8a945d373"
+    },
+    {
+      "jobId": "luck-leech/02",
+      "path": "public/assets/creature-avatars/luck-leech/02.webp",
+      "webpSha256": "b854b5bd5f4042d8ac76137382803553a07c8e113f702a1ddc84a3e9073b9fc6",
+      "webpBytes": 46294,
+      "sourceImageDriveId": "13pPDJ6reniRSWCvlwBUcrccUhrcmmZRu",
+      "sourceImageSha256": "ce3d39aa2aa1cffc33d1f5ba2d961335128dc64993a317ecf9414e1aee45a45e",
+      "sourceMetadataDriveId": "1JUUkmN3QiZjiNj4kFZktFEDd72jEyfbK",
+      "sourceMetadataSha256": "829e26900fd71afe39221f352da5f998a9f43dc16b42a891178c31dabcaf645f"
+    },
+    {
+      "jobId": "luck-leech/03",
+      "path": "public/assets/creature-avatars/luck-leech/03.webp",
+      "webpSha256": "ec0daff88cb1dfa6bef4438968539d1057273edfa69149144111c93de12f3493",
+      "webpBytes": 53348,
+      "sourceImageDriveId": "1vDRJoQx0Nm3uZS3V7oOo5nVPYCdQZUOI",
+      "sourceImageSha256": "82ecb0034883e563f15dee7b9faa9cbc9a72b197d171a0858a65e600d65bbe22",
+      "sourceMetadataDriveId": "1EQDLBS4DZH0rJJtf01owQndXuvA3avJ-",
+      "sourceMetadataSha256": "ac6700d3bfc554b4c54b5488c5e16c0f148402a516b82a5528446b053fc14570"
+    },
+    {
+      "jobId": "luck-leech/04",
+      "path": "public/assets/creature-avatars/luck-leech/04.webp",
+      "webpSha256": "c6f8e108a1b4666bc67123b99063dd97b31852e8b34083b8c63c65862f92fcdd",
+      "webpBytes": 71446,
+      "sourceImageDriveId": "1PzyOar_-Uy-YHqAL-PkuwfX-kxpLpDLd",
+      "sourceImageSha256": "787c7389dccc6d3906eb91ef21806acbc394b23f1cbab4b17317623f76f6a60e",
+      "sourceMetadataDriveId": "1XEVDNQiAHf081Q5T66IY4T9kUiNLxUgY",
+      "sourceMetadataSha256": "8cafca826e181771f039ccd28df0ab379c4f9f6d38fd4ffcec76643a1e403a64"
+    },
+    {
+      "jobId": "marsh-dire/01",
+      "path": "public/assets/creature-avatars/marsh-dire/01.webp",
+      "webpSha256": "6aca63adf0526ce898eeccc0b131fc71f872625f9018fb345e65831e57ae2b08",
+      "webpBytes": 63664,
+      "sourceImageDriveId": "1zibvuNx82Y3u9cx2VIJPIroIc9XTQS75",
+      "sourceImageSha256": "f29f4b8a84bb2291f9add9998b2d969d7b28bfe9dbab4ecc9af2a0cc55755c2f",
+      "sourceMetadataDriveId": "1q9i87hsR_agW52LlVwfdCXi1nFrHyNCl",
+      "sourceMetadataSha256": "1f1f67cab4c2d7c658631c0c1c6eaa6d181fb4fbadb36704eb5a9d728473ae3c"
+    },
+    {
+      "jobId": "marsh-dire/02",
+      "path": "public/assets/creature-avatars/marsh-dire/02.webp",
+      "webpSha256": "028a37ebb38d5ffe954efc621bdbb6ac6bb5814d32b824629c1bbce3fcda40be",
+      "webpBytes": 70770,
+      "sourceImageDriveId": "1d1xhlxLm-E87XQyVyukUktWbBn0qrmu1",
+      "sourceImageSha256": "9b833f4be12b6c3fcfe0ca2a9a36eafa0e10f21b1fdcafefb61ef1bf43a16e39",
+      "sourceMetadataDriveId": "1OXcRlI3WeWxgfoOZXujbb0iYycJo_i4f",
+      "sourceMetadataSha256": "34ea229c6e215c6f2ec65ae09e611b306394ddf2d4e43369f6a97cf8639ae62c"
+    },
+    {
+      "jobId": "marsh-dire/03",
+      "path": "public/assets/creature-avatars/marsh-dire/03.webp",
+      "webpSha256": "cd83804fd8f1dff2ae2049d17df80517686a8c08ebc525dc54d9cec0c73c5c86",
+      "webpBytes": 63616,
+      "sourceImageDriveId": "1YjFZlpcrdpaviXRvz4r4OJl_LVMj8ZIf",
+      "sourceImageSha256": "6257a741f8a8533750e1a5161748f8aabccf1325eedd3e42f5cae05a00b16fde",
+      "sourceMetadataDriveId": "1lanBBM0n6APFf_ylPydLPjkw8GlUBcj6",
+      "sourceMetadataSha256": "a2da25c4dda3567a44e046d6be54e3936b3f1fe0d80de0253c22112cfc33ec11"
+    },
+    {
+      "jobId": "marsh-dire/04",
+      "path": "public/assets/creature-avatars/marsh-dire/04.webp",
+      "webpSha256": "8003eb347a3467defc9511682206e44499e687a6aefffb6a3dd3d6113702e5e5",
+      "webpBytes": 69996,
+      "sourceImageDriveId": "1JBxQ8LMuH8OCDQGJ1sb0iiN5rYmoQx5E",
+      "sourceImageSha256": "f8d99bdb72d8a90a91fba958a3d64392eb1327ac0fd8beaad65a72207c536c2d",
+      "sourceMetadataDriveId": "134EbQIydsgB4V-Hk1p7r63JB3TauBUqM",
+      "sourceMetadataSha256": "324e07ade6450bc13b79a88a0bf5e73bfdcf3bfaf63d131b868df93b4af844b2"
+    },
+    {
+      "jobId": "mire_fiend_bf/01",
+      "path": "public/assets/creature-avatars/mire_fiend_bf/01.webp",
+      "webpSha256": "768f5b86ef3895c2b49b9528196eb81ae32617042eef39bc3e517b810732aaf9",
+      "webpBytes": 68266,
+      "sourceImageDriveId": "1ACf9nsmulf00Q30zM_Ky4nb284nnNc7B",
+      "sourceImageSha256": "9a34788d9649cd3fcc381b6d140f7b2e7c214512ec4db27ac10b17972ca8a7cc",
+      "sourceMetadataDriveId": "13epXZ64diHTkij6N4sctr_kWVHQfGj7M",
+      "sourceMetadataSha256": "757e43a1091a3fdb8e2bba8739dc11b440c6017b78bce0a1b0db1b46122afa17"
+    },
+    {
+      "jobId": "mire_fiend_bf/02",
+      "path": "public/assets/creature-avatars/mire_fiend_bf/02.webp",
+      "webpSha256": "81b9c87acba5784629713c747703903093bb2805ae089ff280187c17ef0a010b",
+      "webpBytes": 82956,
+      "sourceImageDriveId": "1Gb9MwtjO5AYaRmkl3HRP8-oyJ2vWdEIS",
+      "sourceImageSha256": "f581ef0140a29da4aaa952931f411f0265f23245a525e8de8a4d23fce099edc2",
+      "sourceMetadataDriveId": "1uTKVyuhBIRfAZmdDz6vjRFUNbTHBeAVr",
+      "sourceMetadataSha256": "b544765851a7b945dff6ec39beccbb265293c97daad56b1094393a993898e283"
+    },
+    {
+      "jobId": "mire_fiend_bf/03",
+      "path": "public/assets/creature-avatars/mire_fiend_bf/03.webp",
+      "webpSha256": "1bb25f5cb2c50054af9446784cd4ea3f20d8adb9d0c561665101a660130d1fae",
+      "webpBytes": 69974,
+      "sourceImageDriveId": "1eWy8YTir65-l-RJRBz6PAAAob-I1cOiX",
+      "sourceImageSha256": "44e2c0df24403102419690154a7a7568478fed81b95c87d5e50a0bfd34ea5912",
+      "sourceMetadataDriveId": "1I99lCu_q8MOUXsYwr4DVAFBN-mfVd12-",
+      "sourceMetadataSha256": "cbb186075ce443991c155f5892aee2a3cbe29ecb74662970b682b33e1d948237"
+    },
+    {
+      "jobId": "mire_fiend_bf/04",
+      "path": "public/assets/creature-avatars/mire_fiend_bf/04.webp",
+      "webpSha256": "935bcfaea457db30c0ab8d5087e4c3f442c2eb5c3353f0922d6b9c175ee25fa4",
+      "webpBytes": 72286,
+      "sourceImageDriveId": "18SpTAF-rhHzK-TqSe_l84mggM1KU06rO",
+      "sourceImageSha256": "736e2b83f03950c30d8c4a96542e41c58cafd29da4aafa58672dbafa89660231",
+      "sourceMetadataDriveId": "1Hk1L7T4bWxEzd7uBkIP5BalxIHCwgcpn",
+      "sourceMetadataSha256": "9a27fc88f8682afaf2a6f5a6289a0801c09e5290180a35d07aea1fe2f70bed06"
+    },
+    {
+      "jobId": "moppet/01",
+      "path": "public/assets/creature-avatars/moppet/01.webp",
+      "webpSha256": "f5a462369a5383aff60c9bdf0cc5b40052e041b1e9dc63994a921e5a9c2ed723",
+      "webpBytes": 44074,
+      "sourceImageDriveId": "1FCpGX-GGdEweReS6A8SDwamNOlGUTOp0",
+      "sourceImageSha256": "35fbe49cd7af031158cb4ba9172fdd4a5306429a9f20c85ecb3557e8d61154af",
+      "sourceMetadataDriveId": "1WX-cjdkLAKiBscgwQC41NJRJE818CRNp",
+      "sourceMetadataSha256": "dbc372d2e1b874ff82a670a42768a6f270b30b9e5b52f9f5b475e12de076d9d3"
+    },
+    {
+      "jobId": "moppet/02",
+      "path": "public/assets/creature-avatars/moppet/02.webp",
+      "webpSha256": "625c59f874baf86cfdd070ddde76116dd45626a528b735185df15c7a7cad4dc5",
+      "webpBytes": 55956,
+      "sourceImageDriveId": "1Ys9889jEUoRB-v9ZDKX7IE8Imsvs6IZ8",
+      "sourceImageSha256": "4ec8785cf465e55de00ef1e3c13acb1d31e9c78a786e8ec4381764a20c9da2d9",
+      "sourceMetadataDriveId": "1OO5hvbhT7IUJFlXeVPwNf04FT0WJhX5l",
+      "sourceMetadataSha256": "8ebe3a8280c2e04abd99fbe61458cef78066544726dd2be7281fdf74157cf537"
+    },
+    {
+      "jobId": "moppet/03",
+      "path": "public/assets/creature-avatars/moppet/03.webp",
+      "webpSha256": "7819df3eb8a1092c37aaf6a2d942e89749f9ff503e7cb4736032f7e2e0de676d",
+      "webpBytes": 42118,
+      "sourceImageDriveId": "1VGHpDGZ7TmQq5eFWSW6eUBvukjL7NETd",
+      "sourceImageSha256": "5c0e2719b5830fead366d1657e294e045cdd1ac62aee8f472246f4b76fde2e73",
+      "sourceMetadataDriveId": "1rfT_tZ2vANikSLqTcU1q_mNsBMgFexY_",
+      "sourceMetadataSha256": "b45a5cf44a1759e12161d2e637256602614425f25a73631a0b63a307721c3449"
+    },
+    {
+      "jobId": "moppet/04",
+      "path": "public/assets/creature-avatars/moppet/04.webp",
+      "webpSha256": "910f995f7a2e65cebad36571501e8367228f02f623790b7abddfdbbb39f33062",
+      "webpBytes": 38650,
+      "sourceImageDriveId": "1_7ZYmdids0OdbTm5iWHhgw3SgfeN5Dd_",
+      "sourceImageSha256": "bdf8650f37f66a4c8e9b89afd466076a27c16c9fea01516f7cf35828f1d73bbe",
+      "sourceMetadataDriveId": "1VsCJSeYQO6IbrME-WTmbjXi91ysmN4E8",
+      "sourceMetadataSha256": "57e16a5b431094265d66a1e88980bb007ee1c107fd6f7cc451ea027b3a3f51d6"
+    },
+    {
+      "jobId": "mordovermis_bf/01",
+      "path": "public/assets/creature-avatars/mordovermis_bf/01.webp",
+      "webpSha256": "9502250345227f432e41f5a686f1277d1251f71c8804193cc37f6dc119198e9d",
+      "webpBytes": 50934,
+      "sourceImageDriveId": "1lQfhs7AtemJ-MYc-9VyP-1roMxdkgUy5",
+      "sourceImageSha256": "edf456b6c16fe8d8cd8c9f5bea4d05971038adeb8553aa87c5eb66b7ee99a923",
+      "sourceMetadataDriveId": "1FMmMNQdK0DY_1GK1iBeR5Keh2pwkRPar",
+      "sourceMetadataSha256": "77e855e9fdcb80852a8c043085beb6ecc728325ac58691a5589b2f0728413ca4"
+    },
+    {
+      "jobId": "mordovermis_bf/02",
+      "path": "public/assets/creature-avatars/mordovermis_bf/02.webp",
+      "webpSha256": "35946a0b1ec5c9e22970c64376b85d1bfcf54677eb3eec64bebf2aba200e9558",
+      "webpBytes": 34690,
+      "sourceImageDriveId": "1BspkLGzIr27iBCHL7yHGehVnkFIH80zA",
+      "sourceImageSha256": "1b21d65a3d4b938e501bf2f4b94b44109f06b7e41e652a8c7cadfc9ed3003a8e",
+      "sourceMetadataDriveId": "1uWmsTJErQ8sHDBwONWBSPcKub0uO7-Ck",
+      "sourceMetadataSha256": "0016a74adc8e637f90fef3c7f3fea93f09b5727ca7941535af2c4d0fa48afa00"
+    },
+    {
+      "jobId": "mordovermis_bf/03",
+      "path": "public/assets/creature-avatars/mordovermis_bf/03.webp",
+      "webpSha256": "abda09e95252ad9118e68e40221b35eedfa021e80bba932aee84621d46f266b2",
+      "webpBytes": 44812,
+      "sourceImageDriveId": "1SDBBwEgnBJFNCoCj7Mx9M0o_Ik7O3OIV",
+      "sourceImageSha256": "b4d9173264c4b18b608f743bb8d74c3e3c517f9bb7a452dceddf7063c244d34b",
+      "sourceMetadataDriveId": "1zAklKuWw-iSmd9ImSezpdL1hd9q_Lp-g",
+      "sourceMetadataSha256": "5af331973377104e79a7fa98b7e30988ebf495223a3ee8f37c8326d57fd2ecf6"
+    },
+    {
+      "jobId": "mordovermis_bf/04",
+      "path": "public/assets/creature-avatars/mordovermis_bf/04.webp",
+      "webpSha256": "7555926eebd5c1545e47778bf3217491ddf3094d164a20afe405f6cc88484839",
+      "webpBytes": 56090,
+      "sourceImageDriveId": "1YpDBvzJLTVe4GVbe_VKSP2R5icy3Yt0x",
+      "sourceImageSha256": "f70cc800878438c233c0b802bd72e2435d07678727a268bee7f85d6c5101c46d",
+      "sourceMetadataDriveId": "1L-DvXEIY-weCMuSPHj1IY74a49VgDBPk",
+      "sourceMetadataSha256": "8e2074150665ce9cd7ff5458d65960994e145b02824f12819a67911478b1a273"
+    },
+    {
+      "jobId": "murgrik/02",
+      "path": "public/assets/creature-avatars/murgrik/02.webp",
+      "webpSha256": "f7b5adfab86eebbcac60aa16abde4bb38f06c3627eb2aca65fbe2d52899a01e8",
+      "webpBytes": 65370,
+      "sourceImageDriveId": "1lTm_4Vq0F0XYAPjj4uRM8K4oFwKnf2BL",
+      "sourceImageSha256": "a0c1ff359113e5f9e770e3270bcac552fc1f873c7b4f532a42b7cd402fd41000",
+      "sourceMetadataDriveId": "1YFX7Y6aarMeJRTUwfdJNbiGHGcfRMtVp",
+      "sourceMetadataSha256": "0bfee313213af8f04301f865d3518b9e9ad2915c2df8f769b81d246e28e541e8"
+    },
+    {
+      "jobId": "murgrik/04",
+      "path": "public/assets/creature-avatars/murgrik/04.webp",
+      "webpSha256": "517f25b183836687bd7720d074a087435f9a2da1cef860937749570119afdda3",
+      "webpBytes": 79470,
+      "sourceImageDriveId": "15_FLeJljiZBOZoiPQ-vkiEp5yfra1UzX",
+      "sourceImageSha256": "e0b024cb9832847641e800a7d4d7900333fce8a1d64177d466a7e39c8142e099",
+      "sourceMetadataDriveId": "1sheVNP2IJWIcTMBRMF9g90XOhanNouU-",
+      "sourceMetadataSha256": "5bffd58c3da29ad5694b9cca08b1d57b9c0d31ad904711ff4ef8b5be8c9cc54e"
+    },
+    {
+      "jobId": "myrmex/01",
+      "path": "public/assets/creature-avatars/myrmex/01.webp",
+      "webpSha256": "5e5a2d616a4a953d8a97ef2f6cf8f7a865aa048d7729a2743dcaf0be1a39ee1a",
+      "webpBytes": 105646,
+      "sourceImageDriveId": "1kZu-Vl1erKmFm4Ipv214BeM-ZXRgdmWY",
+      "sourceImageSha256": "445a89add7815a1c29121a41a2f53db87635f06173bda8398785f6ba836e1482",
+      "sourceMetadataDriveId": "1LycPP9yElDjDVlCV7dKlCNFEMrvqWfte",
+      "sourceMetadataSha256": "597eca587b9fa1d65286684e247c9a39cab6cb28e5bd0aa1859f46133457d246"
+    },
+    {
+      "jobId": "myrmex/02",
+      "path": "public/assets/creature-avatars/myrmex/02.webp",
+      "webpSha256": "a8a12b083bbb9e4e5a9b9165ff905da069aae547b625b94d7ce89931d57fd6e6",
+      "webpBytes": 94594,
+      "sourceImageDriveId": "1266wRH8Z0Y71CGZ5Z_6GnNRmD2CYo-8w",
+      "sourceImageSha256": "80a8ff4993eea88bf5380cb40c6213263e042ff6e3cc0cba7a679fd4da3d2970",
+      "sourceMetadataDriveId": "1RVJ20lRmJ9Keo6cuW5VWn8zzoig_sc95",
+      "sourceMetadataSha256": "97dcac1e8231e4fbbf8a46caa78a3efa700a7f0c6085a9daf8501282ddf2ab75"
+    },
+    {
+      "jobId": "myrmex/03",
+      "path": "public/assets/creature-avatars/myrmex/03.webp",
+      "webpSha256": "960533d7e5c72665b13c0bda7543556f96ba25c23aa04ce100f792279148550f",
+      "webpBytes": 84266,
+      "sourceImageDriveId": "1YXXAkc9-Kg2B_G4iQUvzzDrZKyWsvC84",
+      "sourceImageSha256": "95ed16ba793a4fdf99b0884ea1c05d5653e342719889e7eddd1e362634c9cb27",
+      "sourceMetadataDriveId": "16KJnnrUtg9tfAcNCYWU4p1asYJ8Gp_gk",
+      "sourceMetadataSha256": "73da4722e83202ce907220d6082c24b8ac8bf8e4302e7ff904b63ad9b332e00a"
+    },
+    {
+      "jobId": "nephirron-devil/01",
+      "path": "public/assets/creature-avatars/nephirron-devil/01.webp",
+      "webpSha256": "b081f4934c1f207d2ce8f5a7d1920e3d9412e8ee2e2036db2ce364aad1c85301",
+      "webpBytes": 80604,
+      "sourceImageDriveId": "1Y3VMxAxOEGM4Wkd_DFl8YzK21t7Nq5GB",
+      "sourceImageSha256": "fe5d7ee46b56ebb3b3f00ba8c1f53722d9a9af6f68186ed8a5d99276fbf473e9",
+      "sourceMetadataDriveId": "1n6FN8G1yIm8QVC_mQzECtG2KDDU5WUXB",
+      "sourceMetadataSha256": "2ff599614fa10592663eeee4bdcab603aca9852a7ad9543156a04018b8317722"
+    },
+    {
+      "jobId": "nephirron-devil/02",
+      "path": "public/assets/creature-avatars/nephirron-devil/02.webp",
+      "webpSha256": "f86d67811508484037eae35b8c5878ba6785b87f76cce8bf5d2304d60dec3fd8",
+      "webpBytes": 84032,
+      "sourceImageDriveId": "1HFg_jtZyJsKjIVK-BNvBOhcHrIKvxyBA",
+      "sourceImageSha256": "fc8bc969eb477e279187e44d6b36cbf7532aa472609ad195916b718109e2a182",
+      "sourceMetadataDriveId": "19AEbSBCQ3M51qBhyRTf5mlAtC44Ip8pw",
+      "sourceMetadataSha256": "e6d2bdd0f5b4cf572040828063bbd077a244c2b2b5b4ce63309ad6798a6d0822"
+    },
+    {
+      "jobId": "nephirron-devil/03",
+      "path": "public/assets/creature-avatars/nephirron-devil/03.webp",
+      "webpSha256": "badf6a97bda32901337ca79c9c19a0c31703cac39ab93449e697bc37ff13e748",
+      "webpBytes": 93430,
+      "sourceImageDriveId": "1U0VVvuZngjNH4QOFM6BSTU-oSybTNOCU",
+      "sourceImageSha256": "1b15cfbac4b52b77833e234596ee128a1b2c5c14a0b46b90c4660a08d0a5c6fc",
+      "sourceMetadataDriveId": "1klPxva7MiMou4MewZci0Fq7a1AyPD2Rk",
+      "sourceMetadataSha256": "49ffc93a7e4561d3d41091ee0a41954b74f5154dae2ca6a4502d35e2d7c6ba9f"
+    },
+    {
+      "jobId": "nephirron-devil/04",
+      "path": "public/assets/creature-avatars/nephirron-devil/04.webp",
+      "webpSha256": "f15fb4e66843897b402ea6802c098f2539b5c80cdd523683aa52d2446b429b3c",
+      "webpBytes": 89156,
+      "sourceImageDriveId": "15Nkbf8eVvPRGAO6dlPOPP3bgWIVFV5q3",
+      "sourceImageSha256": "0529cb33e66cad4e19e639b6335c0e582616c91edee4495301a3a0b9926335a2",
+      "sourceMetadataDriveId": "1HlSvXksvtWtc5NdRsYeuJYhgG2FUzkbP",
+      "sourceMetadataSha256": "abd50ec6518dd10b077ca6dd7c4f07d25aefb5abbade286637765cff11c5101a"
+    },
+    {
+      "jobId": "ogre-void-blessed/01",
+      "path": "public/assets/creature-avatars/ogre-void-blessed/01.webp",
+      "webpSha256": "cb750ff0ff82139e8e0a38164f2d95de88d7aa2668cd55aa6a16fc897380b0c7",
+      "webpBytes": 62922,
+      "sourceImageDriveId": "1DrW8-bs0B8BZgCR1vL68Wj5hc7sTDTRg",
+      "sourceImageSha256": "ee2e910829a39e81a170cba5ed1fc7b5de51ec2b6e0d39363568ff2774687bfb",
+      "sourceMetadataDriveId": "17DGq8UQCPWKb39PudAL5TZCeIsjmVO-k",
+      "sourceMetadataSha256": "68cc60efadc94eb10657b9fb7a814ef5d48ef10be6aa5783c4586da1c0e464b1"
+    },
+    {
+      "jobId": "ogre-void-blessed/02",
+      "path": "public/assets/creature-avatars/ogre-void-blessed/02.webp",
+      "webpSha256": "e6d41555c61b3236c85675cdd4101868b2cae99a26078db48f07c6eb9c0b6a0e",
+      "webpBytes": 57724,
+      "sourceImageDriveId": "1XgHfAtclg_WpGNQm-lW1YFiB1JjRcPZH",
+      "sourceImageSha256": "085c67bba1b5d28f91f877a45800fdc19bf20aa45eb7a99e0eacd613aea05db3",
+      "sourceMetadataDriveId": "1t8SYdCHqWA2LHxPt9FGKEd4ot9-2EzT8",
+      "sourceMetadataSha256": "c144a17c8789b839672ccc6f14d578431204585742364894a91e42d1a9295fae"
+    },
+    {
+      "jobId": "ogre-void-blessed/03",
+      "path": "public/assets/creature-avatars/ogre-void-blessed/03.webp",
+      "webpSha256": "7794c5781b70f97ec5e8d02d16a3795205d1468bd617c5c4cd39661d6d967b5b",
+      "webpBytes": 59054,
+      "sourceImageDriveId": "1Guvh1CoLTqwc3qTrISAaIketjVZ62b6l",
+      "sourceImageSha256": "7e475eda2eda397eac6ae2301b03f335e228454ce7735573d663a27a41c33fea",
+      "sourceMetadataDriveId": "1tWJogXCrn0JtYs_V3jtjMXXSomyqK5LR",
+      "sourceMetadataSha256": "50f22d70845a82d62ff055649cac4ace828d847a2927744e7673569fbdd1cc32"
+    },
+    {
+      "jobId": "ogre-void-blessed/04",
+      "path": "public/assets/creature-avatars/ogre-void-blessed/04.webp",
+      "webpSha256": "84d3a2a666677ccda51cbcf075441db89dc251cb853e36772d7a87015155258c",
+      "webpBytes": 53410,
+      "sourceImageDriveId": "1Tie5ALBrIZS6OJMjJ4uzCvr5o_B2j87K",
+      "sourceImageSha256": "ec22fdfc160688668054d152b8f801d5d38c46d8fd18e72577329ec624a194e8",
+      "sourceMetadataDriveId": "1POXdhHBlVvkYKd5mJ0UvsJHIcCs2dpL8",
+      "sourceMetadataSha256": "40325ce9143de39b7c42f0d4d811e2dcb726bfa56eb5fd759a6d3294f7b00060"
+    },
+    {
+      "jobId": "ostinato/01",
+      "path": "public/assets/creature-avatars/ostinato/01.webp",
+      "webpSha256": "b0749d7f717c0e56a77badcf97c31fa9feb25d6aad9a05eac660d7c00e93ad86",
+      "webpBytes": 66884,
+      "sourceImageDriveId": "1Mtq50QsHnBbSxby8zdpg7iqFvMPTetX5",
+      "sourceImageSha256": "f5cf4d7a816eac435828ba22422ec5f87eee34cda55434f022252f02e1c443a7",
+      "sourceMetadataDriveId": "1RUc2d7uw_E_f3plN0F4KHNs95VNW-jG3",
+      "sourceMetadataSha256": "e5062e92e00a7ae3a2041550646c99241efe261807115e31fe467e66ce99e156"
+    },
+    {
+      "jobId": "ostinato/02",
+      "path": "public/assets/creature-avatars/ostinato/02.webp",
+      "webpSha256": "d4d5c44e0dfd3dc89ec6ab86f455ddd83e5a2c938bf388912f112973894eb864",
+      "webpBytes": 76254,
+      "sourceImageDriveId": "1kzGbOYRDuglfp7WfayWYWYnvKrPHkhAM",
+      "sourceImageSha256": "7383bcedbf9e010cbc6344e40d893d2a936225356a15d0d7f6d670f31ca276c2",
+      "sourceMetadataDriveId": "1VT8JOcYgm74SQFhEpYkWOTzsX29VyCbP",
+      "sourceMetadataSha256": "a92c0c1b5352dd5fc4e054a9fc804246da3e441fde60bf0cd5706457269fc16f"
+    },
+    {
+      "jobId": "ostinato/03",
+      "path": "public/assets/creature-avatars/ostinato/03.webp",
+      "webpSha256": "e353d0995b55fca6bbbec8a0e59d9abab1622cc5372a4044111c4c6f6c0fefc8",
+      "webpBytes": 79194,
+      "sourceImageDriveId": "1t4Q4d9dS_blcJFJttDJqWSzpgt0_Ex0D",
+      "sourceImageSha256": "fab9564754aea86328ec4d8bdf974e099356987788ef9f6acce9f0682f3ea4a9",
+      "sourceMetadataDriveId": "1rnQa0UVLT8ocRwl0znP4oFWRWPVum0kI",
+      "sourceMetadataSha256": "c2658eab9ea0611cdb7155320243dfccbfd65f9dd6d10fccd4c02c30ca7b3264"
+    },
+    {
+      "jobId": "ostinato/04",
+      "path": "public/assets/creature-avatars/ostinato/04.webp",
+      "webpSha256": "612a631c79f5ec386f56c34bf163898ad23d00860be0e53abcddf7981aaea42a",
+      "webpBytes": 58902,
+      "sourceImageDriveId": "18mr2TZeAFy4wFYvtrE0zEWtm4gyUeVV8",
+      "sourceImageSha256": "52e217158fee00cb6c4f606442e3b0e16c72975c2ef370115060a59471998733",
+      "sourceMetadataDriveId": "1AETgopL0q7LQpJ7V75-m8op6PgCFOUF5",
+      "sourceMetadataSha256": "f0e158da7d53d94e2214397cface6fe0990982e5cd242de279ffef74c59b1f85"
+    },
+    {
+      "jobId": "owl-harpy/01",
+      "path": "public/assets/creature-avatars/owl-harpy/01.webp",
+      "webpSha256": "a3e2debc21f69a32a57997df3fdca6376071f4ed147f79f1bd9801d04323afce",
+      "webpBytes": 89396,
+      "sourceImageDriveId": "1u2q2rpj6SsjxiUJNKWh2bYdxscwHQ8W9",
+      "sourceImageSha256": "701e5eb46c7922699a825b6bc7b36d6ccf55ae480b16eefc459a51c178a2c5f3",
+      "sourceMetadataDriveId": "1oWl-6YKDJ0eyx60bA7Pei3GOkmKVkg_Q",
+      "sourceMetadataSha256": "c9205a7928ed5a8bfd4b8f6cbbe0ac1bb18e153b4d795fee07527f4794ec01fc"
+    },
+    {
+      "jobId": "owl-harpy/02",
+      "path": "public/assets/creature-avatars/owl-harpy/02.webp",
+      "webpSha256": "699eeac060c63d661860c7119dbc0597ad4ebe1ca129b3efbae1ac276d4c13a0",
+      "webpBytes": 64136,
+      "sourceImageDriveId": "122RK0IbUHoegUlph1H6mCeTXnNg7Zzb2",
+      "sourceImageSha256": "917c8383d0ab911b8dcdb46153efba296d0d082059efaafbf21d90e7c3599cce",
+      "sourceMetadataDriveId": "1LQIwS7yBSPd2mBCBnpTt1Ji4hH5D1Luc",
+      "sourceMetadataSha256": "17c278dc7fec2dcb187d42f0cc696f50e271c14ed9179acf4bd2d2b170f30de7"
+    },
+    {
+      "jobId": "owl-harpy/03",
+      "path": "public/assets/creature-avatars/owl-harpy/03.webp",
+      "webpSha256": "7cd69b63bb4e44a13bec57bb00e8aaeb430e10725e16aa7f273b6eac1b2b5014",
+      "webpBytes": 74744,
+      "sourceImageDriveId": "1DrPjyJxfLTX_7qQ-pb4iQWhl1B6loa0d",
+      "sourceImageSha256": "f4a30afd1bc0e8a57b37455b03124c6d1efe9b5d6b87287c5c316d51434e048c",
+      "sourceMetadataDriveId": "1V_1vZtui-sHP2kJdVTrc7nVZ9FmejJPs",
+      "sourceMetadataSha256": "e28c19ae67710775dce3eef608b19760500c57654d923652e1288c5da8c53c5a"
+    },
+    {
+      "jobId": "owl-harpy/04",
+      "path": "public/assets/creature-avatars/owl-harpy/04.webp",
+      "webpSha256": "eb767d6699fedda3490f88cba1494722077bf55d94e56d1600412bedc340910a",
+      "webpBytes": 72244,
+      "sourceImageDriveId": "185ictSINobJcD3SGBl2EELzOE1bxIgqY",
+      "sourceImageSha256": "3a135f840005008204ce80fa651f390eb40cb54263ae5b7c3aa230b03032fffa",
+      "sourceMetadataDriveId": "11zusLibf0FLshUbG7hcXWnA3nOk2mLVM",
+      "sourceMetadataSha256": "f8719821fd794a7d8665c13408803112788b0cc11272d9dd4c9965cfde0adc31"
+    },
+    {
+      "jobId": "pact-drake/01",
+      "path": "public/assets/creature-avatars/pact-drake/01.webp",
+      "webpSha256": "e8e182188ace46437999f4da637eb49601a057efd202121e80c26fd1ecaa6866",
+      "webpBytes": 62226,
+      "sourceImageDriveId": "15MZnfxbVH3rbeHdRdHf6eEYju_V1iA1r",
+      "sourceImageSha256": "35314d872a49fb8dcd38abda477ec5fa039452ab625ee4bfaf9a1494b2955d12",
+      "sourceMetadataDriveId": "1wjlfEvTo96pWgrYai7VFzp-gFDHrj9yb",
+      "sourceMetadataSha256": "bc94b33d752cf23c3c1e18c4804856422aeedfa94397fc9aabe3e683e7844b03"
+    },
+    {
+      "jobId": "pact-drake/02",
+      "path": "public/assets/creature-avatars/pact-drake/02.webp",
+      "webpSha256": "5e44cd4b2fae20d0092fc3e641991d6aa7b2feb819c33f58295e398b21f77e5c",
+      "webpBytes": 74620,
+      "sourceImageDriveId": "1lX-I1YVLSbf0Tvord-dbmIAGo-fTG2du",
+      "sourceImageSha256": "fa7b01d1ca717470ef40a55582feeceb3a9af41c0d0c3e23689b69cd90b0fe32",
+      "sourceMetadataDriveId": "1w-jgK0DB9fApF3W1FgMhoLCjGBlhtiQx",
+      "sourceMetadataSha256": "0212e4eab80d1324f0a8ebae8969fc566448e8b1bc59dcee8155bfa15460dbe4"
+    },
+    {
+      "jobId": "pact-drake/03",
+      "path": "public/assets/creature-avatars/pact-drake/03.webp",
+      "webpSha256": "d8dfd8fe476048e3bd5929f46477878acec671918992d11a942ddb103e63008b",
+      "webpBytes": 61038,
+      "sourceImageDriveId": "16Cddx9hwRSnAzWFY_CvzWfJlyCZYSzWY",
+      "sourceImageSha256": "9a970ebb257b4d963c385af82cd59c00bb4e5ced72fb04772b6da370aaf52808",
+      "sourceMetadataDriveId": "1L84ADHwSTl5sqVGvvohL-ykCKC_bBRIc",
+      "sourceMetadataSha256": "0c30bd98ee6671d1bd75e3d6a14935ee8a88d0f62f4e4d37d7c570f23d6d2141"
+    },
+    {
+      "jobId": "pact-drake/04",
+      "path": "public/assets/creature-avatars/pact-drake/04.webp",
+      "webpSha256": "7a0a1b1c962835ec556bf721464165662cdbdc1ab8d6e5d39897d6e5c31dc6e0",
+      "webpBytes": 69968,
+      "sourceImageDriveId": "18T3eQanwAXqJNh7tKw_WhNhI4QafgTnd",
+      "sourceImageSha256": "9a8df271b4c1324a623777fd03735c1b51d66556f2d6404d678563f15f4ca04b",
+      "sourceMetadataDriveId": "1uaCEniXdBhL2h83KEPMMouswCz41bS9a",
+      "sourceMetadataSha256": "123731e3c93b86da90d4f5a6b5b6416e2c424344615e57255b71a7f53441cfdb"
+    },
+    {
+      "jobId": "pact-lich/01",
+      "path": "public/assets/creature-avatars/pact-lich/01.webp",
+      "webpSha256": "cfc62e7963196b4ae57d843c5009887471ef3648923b096e4a25aff7ecbb25af",
+      "webpBytes": 57136,
+      "sourceImageDriveId": "1ww4fmE9Oe037Es9qC2zFza3QYmUDnUdY",
+      "sourceImageSha256": "a00493c11e7ffeda75ceff44cf6179a60ea0d16b21e234e45bf5064fa2f68b54",
+      "sourceMetadataDriveId": "1NbhVNAWg6Jo30Yv3htgFuKoI5jXdpkkc",
+      "sourceMetadataSha256": "361cd829f986cf620009a776a876ac077ece2fa9e28008cc90addf79f85b3cfe"
+    },
+    {
+      "jobId": "pact-lich/02",
+      "path": "public/assets/creature-avatars/pact-lich/02.webp",
+      "webpSha256": "aaa2bb9f40f5d40fc42833b05a552340026937d9c4aff4df378cb8566dc4aa62",
+      "webpBytes": 53782,
+      "sourceImageDriveId": "1z-IAgf1dkb1w0fUABEp1RcfCN_BzwI1k",
+      "sourceImageSha256": "44845dcb1ad4c3582ce6cb8ff94b3783a6d65ae3344db967f8c2dd43c768614a",
+      "sourceMetadataDriveId": "1CPSD9zWmME8T24ZoTnJgA6vtg_zVXstK",
+      "sourceMetadataSha256": "9a627db8355d2ad818799abbeadcb462d6fb1dccbc0634e81b6af28acc1b2256"
+    },
+    {
+      "jobId": "pact-lich/03",
+      "path": "public/assets/creature-avatars/pact-lich/03.webp",
+      "webpSha256": "b0318edebbb1fbd881c52c70a699585ae4685f5ed8eb258c794c13762f6aae9a",
+      "webpBytes": 48462,
+      "sourceImageDriveId": "1cvz-bWjHgNd0oRfwQq85mItWBvNPt22q",
+      "sourceImageSha256": "f0cdf266f5aac346cb05538effaf06afb7c8f8634350987019b174ac04550f9e",
+      "sourceMetadataDriveId": "1iyeXDpB9romOr6OU1uXGQcIidZWyMCLh",
+      "sourceMetadataSha256": "d444b3421e0b807a37d3461b9a651ef2361a073ed55ba1e8298eadee9a2918a9"
+    },
+    {
+      "jobId": "pact-lich/04",
+      "path": "public/assets/creature-avatars/pact-lich/04.webp",
+      "webpSha256": "527b1d18807691351c0c1e61712dbae2a87da8973de316a435582f6c769138ab",
+      "webpBytes": 43996,
+      "sourceImageDriveId": "1XmPbs5afOUKKc11Uzg8pvtYUYExS2aRe",
+      "sourceImageSha256": "96e899eba308281006639be119bb6b2a699d11c8b6a6efc2488643b0b255a117",
+      "sourceMetadataDriveId": "1LSOw5mqOy4Sz6dfsTQ7FSPCLkKOBfATB",
+      "sourceMetadataSha256": "319b52988f15cec1fbe6a76fdd99aef61050b02946224b90d6c4d0b45fba2368"
+    },
+    {
+      "jobId": "pal-rai-yuk/01",
+      "path": "public/assets/creature-avatars/pal-rai-yuk/01.webp",
+      "webpSha256": "d324eae0178dd64613ca45abad162602d29aa4987477623ad1f343f681b78e14",
+      "webpBytes": 80552,
+      "sourceImageDriveId": "1n2nBIT3fofH1Ier8uwI7IJYXxIiL45VN",
+      "sourceImageSha256": "605402071d63922dd1a554c5edfd78aa75ff8c6c2f47a81efd2296ea510b09d1",
+      "sourceMetadataDriveId": "198CeGkpqFAKbPFTX_bLRn4MuOrIQgFF1",
+      "sourceMetadataSha256": "eb1b1f575caa7eafadef8a521b144558cd6e4c4e13f15b1c68fa16b5467e309b"
+    },
+    {
+      "jobId": "pal-rai-yuk/02",
+      "path": "public/assets/creature-avatars/pal-rai-yuk/02.webp",
+      "webpSha256": "f35d61d28cc4242bbf019d1acef7fc6d25e57a746ad38900925071d6748c3855",
+      "webpBytes": 72382,
+      "sourceImageDriveId": "1Qb6yb5qd3Z5bbuG4t4EJcze5WK8f3xQe",
+      "sourceImageSha256": "add0b7f2503c2254eaf384144e613785efa79a8075476d16cdc98f70a713fa72",
+      "sourceMetadataDriveId": "1HKCDm7m7NcWvIMNwvilS9RMC2NAevJw_",
+      "sourceMetadataSha256": "33d191d17e7d18c7b39be441274ea414686039832c2ea94be237107a86956770"
+    },
+    {
+      "jobId": "pal-rai-yuk/03",
+      "path": "public/assets/creature-avatars/pal-rai-yuk/03.webp",
+      "webpSha256": "cc7c872295ba7d34291373188aa4b925666f7205733c0a82467ae5fae6e7a311",
+      "webpBytes": 80892,
+      "sourceImageDriveId": "1RpPgrzPKZrZxO9xs4EDtrtlVyzN1wx9M",
+      "sourceImageSha256": "424bfe188281e1c138eb902b4746fa7635845ec874a61c3d5769253231871fce",
+      "sourceMetadataDriveId": "1EKT4ZwUyU5mQz_y3p_dd-rIcLfuiDPbc",
+      "sourceMetadataSha256": "1893b366703b56ce15de78d698b5c7ee79bb5bb05b53ffe62b9c09dd20399745"
+    },
+    {
+      "jobId": "pal-rai-yuk/04",
+      "path": "public/assets/creature-avatars/pal-rai-yuk/04.webp",
+      "webpSha256": "8db68d5571e1b716513657c5621427ec6f11970c1d7f8115044a5ae3864e2871",
+      "webpBytes": 84802,
+      "sourceImageDriveId": "10UjpfPLTDxS7AtMq4rs6oIPR7xoc9C0i",
+      "sourceImageSha256": "a1d33ccabdf3a7cdd9c6a388c92f30eb624b2005b1f378716c2a11284049ec29",
+      "sourceMetadataDriveId": "14kr10l8biATxv1iCiGL3l4sasLvztxjq",
+      "sourceMetadataSha256": "3ce867e12a4dec5f561ed789d397af881e91f07b0028ca3fcd2c0ce5cbba5a2c"
+    },
+    {
+      "jobId": "paper-drake/01",
+      "path": "public/assets/creature-avatars/paper-drake/01.webp",
+      "webpSha256": "daaf440f1819fe87907e37d89a63ce23ba85c3fb1097d54bd36e85af4996b0ec",
+      "webpBytes": 54252,
+      "sourceImageDriveId": "1SWziI6UubmpWroQjJVqw8M9XJ7UgJ92l",
+      "sourceImageSha256": "03276f5a09509903680e019242b507413c414d3bef5277b1515e4d8412dda55c",
+      "sourceMetadataDriveId": "1InulLntakBm1OiTH-xJwdaftGQ2f5Q1j",
+      "sourceMetadataSha256": "bb700b7e78447466630d23bf163d972d009b663b07ccda4299cd4c07586659ac"
+    },
+    {
+      "jobId": "paper-drake/02",
+      "path": "public/assets/creature-avatars/paper-drake/02.webp",
+      "webpSha256": "39283c63d04159d59b3090565f663aa248ce9004c3f35da012d83081a02325bb",
+      "webpBytes": 55178,
+      "sourceImageDriveId": "1ONjJ2EgfPqMRQgCqflSkQ6ZYTor6r75q",
+      "sourceImageSha256": "8a3dad70688f9c72ac2d8805e31e787cf99141dce703f021968da24d356cfaf2",
+      "sourceMetadataDriveId": "1IIzPNgbgfdm1HPrKjbl0b-bn8aN6jn_L",
+      "sourceMetadataSha256": "f75bd2a73280a83fba1eacf7a0b406037bdd0a3d2608042f668cf2339e2829cb"
+    },
+    {
+      "jobId": "paper-drake/03",
+      "path": "public/assets/creature-avatars/paper-drake/03.webp",
+      "webpSha256": "ecb15805afc256b8c1454e00ac9e6b1e9707c5de6508b079485cec22cb3cb6b1",
+      "webpBytes": 51204,
+      "sourceImageDriveId": "16miVGw6VeRzeSDq181J-R5muL6xk_jor",
+      "sourceImageSha256": "5c2edce945ab30b42b3a3760691f13a0337afa3f3d34ca090c4941456ce00687",
+      "sourceMetadataDriveId": "1Jn1MZ4RtDhC4eaa4vC1UHhbhvpfoCzpB",
+      "sourceMetadataSha256": "756e384e0a743307731587cbdaa74180eaa48822c41bada2a30d70fed9d6032d"
+    },
+    {
+      "jobId": "paper-drake/04",
+      "path": "public/assets/creature-avatars/paper-drake/04.webp",
+      "webpSha256": "71929f259f6b7430cace98cc35eec0529e5fa74c6f417505f84d45503a629856",
+      "webpBytes": 49784,
+      "sourceImageDriveId": "1MaU_peik3CSUT5nlhkWBLHoWFTLRPd_b",
+      "sourceImageSha256": "133637f374923ffe1a2a795e1eca601b8a901492051f9e043e49c9c92248ba07",
+      "sourceMetadataDriveId": "1hAJ3eIIqfiGetkwdWz9uYJ5m0iYeNmLq",
+      "sourceMetadataSha256": "f10b2a9d09d4a55a84b36d0fce287425182ac2932b31895a0a333388918932bc"
+    },
+    {
+      "jobId": "pelagic-blush-worm/01",
+      "path": "public/assets/creature-avatars/pelagic-blush-worm/01.webp",
+      "webpSha256": "9df24700545e43cb8916c2667ed1e6c332c890d732eba33ca3892bc1afd6ea7d",
+      "webpBytes": 58272,
+      "sourceImageDriveId": "1zbxpHSKZJlFnfloNKgyd1SRRJ5wcknXA",
+      "sourceImageSha256": "82a7412ab7ffd556c6dcaec1c2247ddacfcf74747722cd8024f7caefd67211d1",
+      "sourceMetadataDriveId": "1xV3BvItRG8Eew1Wq5V4mfe_d2Cgl351Q",
+      "sourceMetadataSha256": "9470ec9730a12812e4628cad5b606805f49b619825a2e3ff78d9a6a8dd5a4db5"
+    },
+    {
+      "jobId": "pelagic-blush-worm/02",
+      "path": "public/assets/creature-avatars/pelagic-blush-worm/02.webp",
+      "webpSha256": "171979ca0def2ab707caef7d604002e468bc1f0ba08cc7f2d9f330635b4a0053",
+      "webpBytes": 56856,
+      "sourceImageDriveId": "1HL7zZmBGv8I8RPQypxdSAuSZMWZrWyQJ",
+      "sourceImageSha256": "2bdfd05faf2fcc4a4183cfa0122195bb5615c3b51ca7e02ef2edbf758172d644",
+      "sourceMetadataDriveId": "1FYFiE9eMhTB_otYUbYC1M2Ie8Ne5k8tk",
+      "sourceMetadataSha256": "63aa8f782b8e485fbe09c00b1c07bcc2ed2993f32fe91572e88a74c6df49689d"
+    },
+    {
+      "jobId": "pelagic-blush-worm/03",
+      "path": "public/assets/creature-avatars/pelagic-blush-worm/03.webp",
+      "webpSha256": "2483624c3124335bd2dec760dcf582a4cbcf4135feda0209e624cf25fafbe8b0",
+      "webpBytes": 36902,
+      "sourceImageDriveId": "1yKkaq2BTp0HFvrY3-8RvSANVpUXEMeHt",
+      "sourceImageSha256": "e19428cd17f0ec25898263500ce9ab1421c603c096ed2c9c91481d4aa01dd05e",
+      "sourceMetadataDriveId": "1-spi_8sZDXj5hkn0v5IwYnahGar1p9aN",
+      "sourceMetadataSha256": "fa874c44f8d3b4aacaed35923c1efe0c0e5e81d97e54503f596de2beed8bc16c"
+    },
+    {
+      "jobId": "pelagic-blush-worm/04",
+      "path": "public/assets/creature-avatars/pelagic-blush-worm/04.webp",
+      "webpSha256": "eeded00c72b8b2dbd718dd722fd61ab46eeba691d8a3b448f47ba412bd95a496",
+      "webpBytes": 57658,
+      "sourceImageDriveId": "16E4ckF4lqPCIfsTB8l_WfA60vEmbjp6x",
+      "sourceImageSha256": "838d84695a34443d3f1511925d49124733da200467028171e49eb6b306389615",
+      "sourceMetadataDriveId": "1hz4B4HUkHjvDcKbexFEhDXcy92MzBmVP",
+      "sourceMetadataSha256": "22a0d5e6ff4664106287fcf0be081d1474704fce18c2968f9aa4a4decdcba019"
+    },
+    {
+      "jobId": "peluda-drake/02",
+      "path": "public/assets/creature-avatars/peluda-drake/02.webp",
+      "webpSha256": "aa56ec23de015216f33afcd84ed300c8568a41232075a8bb0d9be1807dad5c09",
+      "webpBytes": 73740,
+      "sourceImageDriveId": "1H-B7wgUyVdP6swG7vjHvzNjWEzusoSEk",
+      "sourceImageSha256": "66ee73b4e61fc732fe711e78ee7fc21b1c4e52df9248dbe1ad574fb024e435f6",
+      "sourceMetadataDriveId": "1fatapJTtgszAZkL3hQeW9pUrb84im1A5",
+      "sourceMetadataSha256": "4ae3b229e6ad25c48f0814d969d6c51dd8a4face22a0e267fea6ad8d84e49093"
+    },
+    {
+      "jobId": "peri/01",
+      "path": "public/assets/creature-avatars/peri/01.webp",
+      "webpSha256": "13ba2713fd8bcb12d341bfb22b576539e8d2c7eee9404d36100b189a4c7d0ea3",
+      "webpBytes": 85416,
+      "sourceImageDriveId": "1Vi870IHlwMLHI6SxI3axZG68s_FAp4-f",
+      "sourceImageSha256": "4220b4d7817489b65294e932c97e7b8ba87cc9806f7d62b58adacd15fc79aa5d",
+      "sourceMetadataDriveId": "1pNhoF-tQ5aooPmPaVdNBn9AAmTXjt-y0",
+      "sourceMetadataSha256": "ddfa825b7bfd1323420c18835b9fc1ee6d0da90dd7fd634d5b16d2e0b8fed4d4"
+    },
+    {
+      "jobId": "peri/02",
+      "path": "public/assets/creature-avatars/peri/02.webp",
+      "webpSha256": "d21295b61dfa87a7d8569927789907bd83c0c4d82310ebbe377a7cde332ac0ad",
+      "webpBytes": 70160,
+      "sourceImageDriveId": "1_Pj3vZObVZf0KwYeRmPIRBI7NeHepTyJ",
+      "sourceImageSha256": "4602290363babf958f9aa907755fd8c6fa45e1b3c02114db2e388763fea80e49",
+      "sourceMetadataDriveId": "1Zdt5e-b2ZHPU5K0OAemdZRKk3Ocb079g",
+      "sourceMetadataSha256": "86be1dc5590d7f704a1c173eeb4094f15cf56ae95bc5bdbf52cb4dc6cb33e5c9"
+    },
+    {
+      "jobId": "peri/03",
+      "path": "public/assets/creature-avatars/peri/03.webp",
+      "webpSha256": "3acbce1d5644c0aab35823061f5b0c75861be02852bb2bad445aaa97e1101ba6",
+      "webpBytes": 67762,
+      "sourceImageDriveId": "1x7yzgin1yMP4HbzAYvLLApXD0REOxBjR",
+      "sourceImageSha256": "315ad34625f2b5c32a52cc24941e1938100d6ac86f8597d8114d3773bc96a741",
+      "sourceMetadataDriveId": "1sqUQ7AeIf-2WYeozk7XC2-EuN8Yuqe5X",
+      "sourceMetadataSha256": "2ab2ee51d2f81c12a7a1006f9ab7ad6f5c569353da9da7640a8ebb34b8236dce"
+    },
+    {
+      "jobId": "peri/04",
+      "path": "public/assets/creature-avatars/peri/04.webp",
+      "webpSha256": "26c809a97cb5929c70b68bf9851c8d7aef796307c9d158ffa2319a7c7b06cb55",
+      "webpBytes": 95668,
+      "sourceImageDriveId": "1437CsPxIEz69opf50oRdpiV-n8fMB4NV",
+      "sourceImageSha256": "08d07f206e2b1dff75e16b8551a37487fc42a023e0a21a4a2bf42f0e73c7195c",
+      "sourceMetadataDriveId": "1wxTVI0VLDsffVAngTwuERIIMnc2RNZzo",
+      "sourceMetadataSha256": "713fcbee1272a273bffe3ab0efe6e30f4472292b9289246f34118757c165f344"
+    },
+    {
+      "jobId": "phase-monster-a5e/01",
+      "path": "public/assets/creature-avatars/phase-monster-a5e/01.webp",
+      "webpSha256": "087cbfacab2e52019da6132e8170831af4a5ca92a3a7228070d2bc6224276bbd",
+      "webpBytes": 65660,
+      "sourceImageDriveId": "18pTTo2Gei96mk1H6AoSbuGAc8eY5V5kG",
+      "sourceImageSha256": "d2d45a631a2a111e95d60b198b798e4a0cff05d43b9a52a34c71494cd10e17e1",
+      "sourceMetadataDriveId": "1e-lHZNT-CbkVu49Usu2SL6Dtri5ArtaQ",
+      "sourceMetadataSha256": "115aac43b8e878d317408f8124bbf9eb3d198886336b85ca0f0b6dd51937633f"
+    },
+    {
+      "jobId": "phase-monster-a5e/02",
+      "path": "public/assets/creature-avatars/phase-monster-a5e/02.webp",
+      "webpSha256": "2e46ebbfdb903412f4b1ca7c35e8d94272e0c7e519017184807c4723f418f30d",
+      "webpBytes": 85366,
+      "sourceImageDriveId": "1plv2aBXKAQ43ZOXnU4vwhQzX72CWtHqV",
+      "sourceImageSha256": "f1c9d04ff48ac006d569e19cefa80662ed240f73cf203c22953a3613c9b31df8",
+      "sourceMetadataDriveId": "1gP2GP5LfZHgmKQH-V-1TnvtkpM5LtAFR",
+      "sourceMetadataSha256": "4b7ca24c2b7056bac7480aedab0cabf09d110af6129f328e52875b78aa3bca28"
+    },
+    {
+      "jobId": "phase-monster-a5e/03",
+      "path": "public/assets/creature-avatars/phase-monster-a5e/03.webp",
+      "webpSha256": "684a11ddec21884609cc9882e978c42458f15d44d62d0a891845858836352482",
+      "webpBytes": 87996,
+      "sourceImageDriveId": "1X7me9YyfyEeoCAQ1pcMwZ1sxWSYtp49x",
+      "sourceImageSha256": "7c3fb82cc291f7ad1a99370c5c65e1d895e40d9798dc983e87c82c1f2f7cd1c5",
+      "sourceMetadataDriveId": "1NRzY1mTDX8YdZjlLKWl1X34UryXt7HTM",
+      "sourceMetadataSha256": "ea5bf42b38e062fb6ede2e36b0022781359b96f50c2d15c889c18319492ac979"
+    },
+    {
+      "jobId": "phase-monster-a5e/04",
+      "path": "public/assets/creature-avatars/phase-monster-a5e/04.webp",
+      "webpSha256": "4a2923d19502d3ab37c18fba7b78dc6c4efaf123178299634742d9030d073210",
+      "webpBytes": 68256,
+      "sourceImageDriveId": "1Cn3fpbSYa-VEXQK2oc0hWq8CaGFwaODh",
+      "sourceImageSha256": "794ed20e13da642e1ed459686c97be64c582bab28530a879e8831caec1eb8440",
+      "sourceMetadataDriveId": "1ng6jdikW0VSr0WTPrW15iE0uu60rnKge",
+      "sourceMetadataSha256": "ebf162746fef539efcfe8ad32cd0762a48f90f43a6c7aafddb3fc0a1d2442a8d"
+    },
+    {
+      "jobId": "phoenixborn-sorcerer/01",
+      "path": "public/assets/creature-avatars/phoenixborn-sorcerer/01.webp",
+      "webpSha256": "a610e533d6ff7dca8549527e8d09974c86da47f91f8bef255da43f1cdfa01d34",
+      "webpBytes": 90934,
+      "sourceImageDriveId": "1MFjl77lanUC6x24KjBlMxuGvBzJYOEyN",
+      "sourceImageSha256": "710da4c8e034816c090bbf3348fa5aa88a668f272b96033962061b97942538c8",
+      "sourceMetadataDriveId": "1p1yQgA-fcgvY_QZk5iXWU7sfZtQX0hQ8",
+      "sourceMetadataSha256": "359b0968743b002791786d0163a8264770d0b62fe85eb0cf06e23e46dd09c368"
+    },
+    {
+      "jobId": "phoenixborn-sorcerer/02",
+      "path": "public/assets/creature-avatars/phoenixborn-sorcerer/02.webp",
+      "webpSha256": "2964e77e5e281f7976f8bd3839f9f247e72b2ace3ce5e3766fa5d8de3d1d324c",
+      "webpBytes": 79412,
+      "sourceImageDriveId": "1oAGShoSaLk7A26AOKp2iEWWYStj9lvj6",
+      "sourceImageSha256": "68d17851602628321eca6a02c4bf7bab2a0663626b9768384c43c928c2f13a02",
+      "sourceMetadataDriveId": "1C7N0BATse0GfyKMiams4ZmZbceyskTfC",
+      "sourceMetadataSha256": "ffb56027c4f0b04994fea50f6ace1cb5a9bdacb96768d8f0a9a4a454d40a5bb3"
+    },
+    {
+      "jobId": "phoenixborn-sorcerer/03",
+      "path": "public/assets/creature-avatars/phoenixborn-sorcerer/03.webp",
+      "webpSha256": "764422c7909986d120d7316d00d07cd3ecc9d0c8fb61cd88f1fa6fff8cb5004a",
+      "webpBytes": 90796,
+      "sourceImageDriveId": "1tRruUWukcROTuI4_IzbOCS3MAidplVdK",
+      "sourceImageSha256": "6e015deaddc809c6f13f6eabe8bbd268727dfa08e551f90ffb92167a5e59f62a",
+      "sourceMetadataDriveId": "1OuUEthYjFuQfA4daGh8E19Abzcx9Kkac",
+      "sourceMetadataSha256": "2be0066b556e3d46e756aacdd28783b70381049d6a076f1d20fadfa875c196cd"
+    },
+    {
+      "jobId": "phoenixborn-sorcerer/04",
+      "path": "public/assets/creature-avatars/phoenixborn-sorcerer/04.webp",
+      "webpSha256": "d6bb8345d9b8b00d568572e40b4e5335c7e29a9464f038dcdbf936ec1d1f0950",
+      "webpBytes": 91176,
+      "sourceImageDriveId": "120ECcACfAx9x8r5Bxx13SMgUmTjvfcKB",
+      "sourceImageSha256": "fc5da07be25e0f4a23fb003de5578150db7780dd91c1748a5c7e40c9aca7c7d8",
+      "sourceMetadataDriveId": "1tEYi3LKLkNRezPOqHvgluCU_bmp9QLE7",
+      "sourceMetadataSha256": "58996daa45e35e8403247fd1c73524d6c01e65affe9d6b11745d5f8a3b72aff4"
+    },
+    {
+      "jobId": "phoenixborn/01",
+      "path": "public/assets/creature-avatars/phoenixborn/01.webp",
+      "webpSha256": "45dd06cb315648fe41edce72601a8f8c19cfbb2ece9d66b645b996b7400c312f",
+      "webpBytes": 67362,
+      "sourceImageDriveId": "1glpVMiu7yLKlXxbjs1cju2VprKGmTlps",
+      "sourceImageSha256": "8784ac242efc9dce52dbd06f0a17dce08f8fd5afbd123bd00c35be08ff647432",
+      "sourceMetadataDriveId": "1a7wwJE9YiXOSjcVhUxdpMIqovOiWY8hf",
+      "sourceMetadataSha256": "972d4167fd4f0fabb1392a91ab256ef8e0dc2726ad3c7bcb8df40047fbf7a52e"
+    },
+    {
+      "jobId": "phoenixborn/03",
+      "path": "public/assets/creature-avatars/phoenixborn/03.webp",
+      "webpSha256": "5fd8eae45d34ec27511260e6a3a736615a44aa839119e2eee7cc3e3696554452",
+      "webpBytes": 88774,
+      "sourceImageDriveId": "1gOieyEX5AWZhfFwQcvshw07dcZh04Gji",
+      "sourceImageSha256": "50572284dab6a9a2d58ad612d2314c32422864abf916a8d601959fe61377ad6e",
+      "sourceMetadataDriveId": "1gXmvz9GWvmbDT0Vt3aCXPb9CDqSInqbI",
+      "sourceMetadataSha256": "e9154b6539f472b032d5e23f759162e80e472240a3c5b080c060f419871d2db1"
+    },
+    {
+      "jobId": "phoenixborn/04",
+      "path": "public/assets/creature-avatars/phoenixborn/04.webp",
+      "webpSha256": "7ea44a2c8d65b41e42ecbd929c36c4635f079386242404254a0a344150606485",
+      "webpBytes": 85434,
+      "sourceImageDriveId": "11EdsrsVRInpwvdEx2GXoVA61orDhbMX8",
+      "sourceImageSha256": "fc26f5a485d00176c2bf7ac210ea7430f9604648a26f408173b7493706a5937f",
+      "sourceMetadataDriveId": "1mDcXSEaxcbdam7GiIPIR-8INvhKErdyD",
+      "sourceMetadataSha256": "6a9a8fd4a1eeeff0fcf4b080429e9399b4c022c9e8caf9bcd6e6ee71466b5557"
+    },
+    {
+      "jobId": "piasa/01",
+      "path": "public/assets/creature-avatars/piasa/01.webp",
+      "webpSha256": "bc4f5ba2e00bc63e74639d1780ca077b51037a4288091319a2c08a323b567358",
+      "webpBytes": 92414,
+      "sourceImageDriveId": "1fFNkrLf3dAmUgBKpJMkbWEtJfGFJAnxv",
+      "sourceImageSha256": "2d83f590e53f18052697b4cce480446cfcdea7a4f9f4ada28968418c9408b97c",
+      "sourceMetadataDriveId": "1JsE7zeF93nebYHP1iyyX8UsuNXL2OElW",
+      "sourceMetadataSha256": "802d4afb1da4eb268c135993998de005d255d7357525b1150675d6032f9ff9f2"
+    },
+    {
+      "jobId": "piasa/02",
+      "path": "public/assets/creature-avatars/piasa/02.webp",
+      "webpSha256": "22e750ac2809939fa6563c813012d1f3bfb90196c76be3298265556d2644c20b",
+      "webpBytes": 85548,
+      "sourceImageDriveId": "1yK_6ePcsMi4_hdyFLFHgIJJewJUcrIzj",
+      "sourceImageSha256": "4c8a93bf67270bd7348df385891266ec5e262ceba30f4409e86bc06c41f521e3",
+      "sourceMetadataDriveId": "1pwj3jcXW6TwoQZPYVT2d3yCsUTfHT17k",
+      "sourceMetadataSha256": "cb1131553b0937a0b291fc261b5ea65643abbe9e0b745fbc19c0a2261a1320e2"
+    },
+    {
+      "jobId": "piasa/03",
+      "path": "public/assets/creature-avatars/piasa/03.webp",
+      "webpSha256": "8ff7588e96923db3a948db88b42c1cd5513b9c5a8226368ff50d8cd8a6011b57",
+      "webpBytes": 94778,
+      "sourceImageDriveId": "1ltZB4akgHBAgS9w7g2oVY9lRGbG-i480",
+      "sourceImageSha256": "24a2f29a9ebc65ac94d9dd0a0e4eb0dea8648620b4dbbf099e9b63349986d4ba",
+      "sourceMetadataDriveId": "1ExrbjpXyXTeUReYtjZ9Mj9Aw2cjdeIh-",
+      "sourceMetadataSha256": "fbf2812a8c85e42d8523911d2401aaae4ea3be5679790dd835757cb361465119"
+    },
+    {
+      "jobId": "piasa/04",
+      "path": "public/assets/creature-avatars/piasa/04.webp",
+      "webpSha256": "81acbb10a0486c058be5dc988546334ed1025c9633e49eb57c5a8e9059401205",
+      "webpBytes": 110300,
+      "sourceImageDriveId": "1duThLXJQqx83t7vyXXABhLaclDsxtlSe",
+      "sourceImageSha256": "e8a3e8c53f8885327b8a5a93537eab7a9c1e4b6fce9c2893d6f15d9bf8b0583e",
+      "sourceMetadataDriveId": "1EGtEcxSb5IgLqWrgANEmPS47chf5eBKK",
+      "sourceMetadataSha256": "180605751b59b1b3079dba84132e40ef5c6017672c5857bd9a22c509efd82f13"
+    },
+    {
+      "jobId": "pishacha/01",
+      "path": "public/assets/creature-avatars/pishacha/01.webp",
+      "webpSha256": "08e6322169072f2f43c16508ef1d955d5eb99038d13875380abb078f4118a0d6",
+      "webpBytes": 72714,
+      "sourceImageDriveId": "1zc4gaWhw2XPLb_Mg4nx64gutgyECRiZU",
+      "sourceImageSha256": "2a4a998a4b2803da9e93792b61d166fa64763920b9c4aceb873462e36d18a8c7",
+      "sourceMetadataDriveId": "1Yg5b4if7CtJTxXZDGWU4kV3EVxNdDOrc",
+      "sourceMetadataSha256": "28214305ccce231f35ee71647a2dfc1c7b411be23b02edca02953d389450b03f"
+    },
+    {
+      "jobId": "pishacha/02",
+      "path": "public/assets/creature-avatars/pishacha/02.webp",
+      "webpSha256": "dbd610b1e7864897b4101a511aa251f2bd4b8900e30eeba2578bda7181bd2a79",
+      "webpBytes": 59482,
+      "sourceImageDriveId": "16DtUDvFfGijPreHJvmGJSA-tJCXiPR8Q",
+      "sourceImageSha256": "b667d16a3e9ee19732626759899cb9d056bd89e7040bc14accfdcaa38f52682e",
+      "sourceMetadataDriveId": "1tG6VrOaaF9RHHxPks2A52nwBH4W9YkK7",
+      "sourceMetadataSha256": "19d89319e758349135c13eda65c0b06dc178461b90e7b43dbeb7432031735b92"
+    },
+    {
+      "jobId": "pishacha/03",
+      "path": "public/assets/creature-avatars/pishacha/03.webp",
+      "webpSha256": "b1956dc0d6a38b484721d375c017874802865728cfb1273da50f42ada1df366b",
+      "webpBytes": 69676,
+      "sourceImageDriveId": "1Ook-Rt7XXRthON5mLuXK1Dc_QqmN4Iv9",
+      "sourceImageSha256": "d6e1487de21e3820be4f342addd6f2453a757da901f3c9e41efcde23a52e4794",
+      "sourceMetadataDriveId": "1O-aK_8hIqa_skFnUqt-daIsThdGljXxq",
+      "sourceMetadataSha256": "c089c64a5468d7871c2076c400d1a695fc0181bc90c03ce5d358e9512ff86945"
+    },
+    {
+      "jobId": "pishacha/04",
+      "path": "public/assets/creature-avatars/pishacha/04.webp",
+      "webpSha256": "6d40661578ddc287673b7761ebddf5d345a913c742d221a0361ee66b572af4de",
+      "webpBytes": 62112,
+      "sourceImageDriveId": "1hsq3wIS0kLeQKzrw_kL3LjmB4TOMU0yC",
+      "sourceImageSha256": "3605bb3e8f9a1a6911a8709ba1ebfa29a41c021a2f2465dc3a0aa69c6c8ec7b9",
+      "sourceMetadataDriveId": "1QAcRvGwQpn1PIHPQyxBl1Y5BKyrc1V0V",
+      "sourceMetadataSha256": "bcfd3b92a2cafcac71b520bc0f9437cd282e361c1657174c568fd3ce85531807"
+    },
+    {
+      "jobId": "pit-fiend-general-a5e/01",
+      "path": "public/assets/creature-avatars/pit-fiend-general-a5e/01.webp",
+      "webpSha256": "b6c141df0e506ccdb34d3f52b735c2168488443ece4c1eff0b0376a81bdef360",
+      "webpBytes": 75288,
+      "sourceImageDriveId": "1CoUowkEqWBsPnqDUPkrrh2o12pjyQiqH",
+      "sourceImageSha256": "3cd6f2013506ebe4c02c33828146eb83360c16b5047ff35baf8db4dc1220587e",
+      "sourceMetadataDriveId": "1gunNIn9yMc6u9KJuEZV0ijKac7s7n6xt",
+      "sourceMetadataSha256": "0284f2330f7c91bd7844132eb358d78528d0484edd8d065b89b9d9f7f84f1844"
+    },
+    {
+      "jobId": "pit-fiend-general-a5e/02",
+      "path": "public/assets/creature-avatars/pit-fiend-general-a5e/02.webp",
+      "webpSha256": "3a9efdda1dc285ae469e793ea619127f8cc6f3bdf05ea3b4b029c1f6c0878e58",
+      "webpBytes": 78454,
+      "sourceImageDriveId": "1Xb4iipwsT575qki-Eu8OT_Ao6Psa3sWQ",
+      "sourceImageSha256": "97accb0088cdf9316c9ec9f5dae97f657b7f30685f1407227f7acaae4ed75da0",
+      "sourceMetadataDriveId": "1Q8fy9q6mVfBR8EA63ojg2tms67_8xrze",
+      "sourceMetadataSha256": "916f67bd7931b42b22399205aabf183766e5bb9cbc05f63d3e7311ec00564033"
+    },
+    {
+      "jobId": "pit-fiend-general-a5e/03",
+      "path": "public/assets/creature-avatars/pit-fiend-general-a5e/03.webp",
+      "webpSha256": "1e2eb4612771d2ea4d9bc0c2d59a59323ca9c330952fc9784c274ff5d9290c8a",
+      "webpBytes": 82246,
+      "sourceImageDriveId": "1dEcOMvgLpplCh0KZNvRgcLsS4etIemGi",
+      "sourceImageSha256": "3e2f90a35c8ddaf3bbe29555eb460427b9ce7df322a2664f36ac34915ee5fa19",
+      "sourceMetadataDriveId": "1GcJ1hD-bmQYd9odTtouXekCnykEEpXC-",
+      "sourceMetadataSha256": "d255a7b9b2ff3b3ef5ef77c0902654bd696906583de5fd35d0040f5ef366b34c"
+    },
+    {
+      "jobId": "pit-fiend-general-a5e/04",
+      "path": "public/assets/creature-avatars/pit-fiend-general-a5e/04.webp",
+      "webpSha256": "1d9204fdc86de82009a4abb38f6f02a1ea448b3801d19cd7f79c861955a89505",
+      "webpBytes": 93918,
+      "sourceImageDriveId": "1aZ4QyWRvrIuZ7MOahvNUmjGQpg8SOSBt",
+      "sourceImageSha256": "b15b3983af687a99aece2fd02027f642171b9cddcede39422d07e62d9a419691",
+      "sourceMetadataDriveId": "1nSoRFSeTlk3k2YKULTCWiVKrJdci2hK9",
+      "sourceMetadataSha256": "79c1bda63ca8f2100434aa0fb40f75eecc817ef8547c2990bf07fd571d3ea549"
+    },
+    {
+      "jobId": "pit-fiend/01",
+      "path": "public/assets/creature-avatars/pit-fiend/01.webp",
+      "webpSha256": "89a2c7e005b66106f355529dc860cb2a2c209172a015dc398324423ac9b3080a",
+      "webpBytes": 74720,
+      "sourceImageDriveId": "1E-rxNvP_n51jmqQ1odj42-zmYANq012H",
+      "sourceImageSha256": "7ed2b336b34c8e1e6dba1c7e10cc68b8e2a6a69b5bbc5c47420582c82137feb4",
+      "sourceMetadataDriveId": "1OP9jOdKEgRplIPljA6xfm677dBSdiarl",
+      "sourceMetadataSha256": "ac08b17380a160b946a6d8d67de7eae60c599a39b842ff8de66be97f31f044bf"
+    },
+    {
+      "jobId": "pit-fiend/02",
+      "path": "public/assets/creature-avatars/pit-fiend/02.webp",
+      "webpSha256": "cca4472de6580b606fadeb79bd453601bc831936fe0e757bd5a2c71e7d4430f0",
+      "webpBytes": 81194,
+      "sourceImageDriveId": "1Xtn3OEGC6QnDxCLAN3Q-cqYYakjAHj0R",
+      "sourceImageSha256": "fbe9d3a4b3eb59fe74595da117ff9040987721875ac797020572e2a2da816794",
+      "sourceMetadataDriveId": "1d97KTlTdPlTih--C_mKmRlfz0OdVJSCp",
+      "sourceMetadataSha256": "10c1fdc152c61420a9483e937137f5db040641249abbd17a5dfc0670103fc520"
+    },
+    {
+      "jobId": "pit-fiend/03",
+      "path": "public/assets/creature-avatars/pit-fiend/03.webp",
+      "webpSha256": "2af94c95f32cf4ea30cca876fb7a9566a2ec6398905db15b6802d79b39d1eb0e",
+      "webpBytes": 75226,
+      "sourceImageDriveId": "1VTd9i923EnzZJV-S2USC_5Gn0_j1U97N",
+      "sourceImageSha256": "250634b7c68eade82024e5633d26dafa8f5f954e2768543ae537bece527e1034",
+      "sourceMetadataDriveId": "10BnelkJCkEes82NcNypK0B22G7jkXvHY",
+      "sourceMetadataSha256": "51b884304952062e9b437e84a63f0e1e38c7083cb6102b843c6c8e98105c601e"
+    },
+    {
+      "jobId": "pit-fiend/04",
+      "path": "public/assets/creature-avatars/pit-fiend/04.webp",
+      "webpSha256": "b85e6b169e4264df0c21c2b2d5d57713b31dcf9fe571890339a6ebc716f22842",
+      "webpBytes": 68030,
+      "sourceImageDriveId": "1_e1COdpYnYXiqSxu0niR9vNE4iJlc9n-",
+      "sourceImageSha256": "92be69460c386ca571f5589f886ec79de919e0b4ed0064913aa0f3bea18fbf7d",
+      "sourceMetadataDriveId": "10izCiLu6ENzF7s9q-qLdI1y0NDohg1ei",
+      "sourceMetadataSha256": "c401cc295d59e3d4a368d41b3199fb603757cb7c91bfc33abbd3a520e41899cb"
+    },
+    {
+      "jobId": "pixies-umbrella/01",
+      "path": "public/assets/creature-avatars/pixies-umbrella/01.webp",
+      "webpSha256": "0572908893ad7892920530bd10c6d8a6fe4156c842c04ebdd8e492a256ac6f5c",
+      "webpBytes": 69910,
+      "sourceImageDriveId": "1iThLZ-LAypoWyLFDV-9jiso1Ui4TC86I",
+      "sourceImageSha256": "d652f81a031f2048902d73cae74f6efdf76940fa965abbff951db84fb5950bbf",
+      "sourceMetadataDriveId": "1uCjrHJF8666n61IM4inkqkI5kh3wL-f_",
+      "sourceMetadataSha256": "1bec188758efd61356b744b5ea7bf9f06336fa430ce04a815673102509166872"
+    },
+    {
+      "jobId": "pixies-umbrella/02",
+      "path": "public/assets/creature-avatars/pixies-umbrella/02.webp",
+      "webpSha256": "eee58afc2efce553877b405845a91e1df938bd903025d72d9adac3c3eefa4eb6",
+      "webpBytes": 57456,
+      "sourceImageDriveId": "1m-85_Sc_rutveQ-FZj8wITBtCTXJl0hp",
+      "sourceImageSha256": "640cf601070354431e7c2bb56c8e8b98beef6ef7aafa31a32d474c843666611b",
+      "sourceMetadataDriveId": "1Z90OMnU8KwKlmgAutHgAI8k4F3rzKQds",
+      "sourceMetadataSha256": "dd76e1227fa506889b1e9a2c05df17113fed0236a00c770971ac07e92fc33372"
+    },
+    {
+      "jobId": "pixies-umbrella/03",
+      "path": "public/assets/creature-avatars/pixies-umbrella/03.webp",
+      "webpSha256": "5de3d12af5b71c9f8b9d25cacae0e9744499fba639f1f3399b3c50b65b8c9082",
+      "webpBytes": 35674,
+      "sourceImageDriveId": "1Ex558yC7moEV71mfhAMTOyEziyGF9G0S",
+      "sourceImageSha256": "4d1064fc5faf54553bafb01ca5511dc0b8e8d490eabfacda396c2bcf7e21a1aa",
+      "sourceMetadataDriveId": "1fJ-44qCoLGuM99ndvIcXLVTLDQzDNX1F",
+      "sourceMetadataSha256": "fe64c631b4bf9be1561b8bc329f1d80f81f658ad04581aaf631adcf7bc95c163"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "creatureId": "piasa",
+  "variantId": "01",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-22",
+  "sourceBooks": [
+    "Creature Codex"
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-on-Google-Drive",
+  "sourceDriveFolderId": "12izBeLHxP8wkwbOWCBnC5Y8AK1cZj-Lg",
+  "sourceDriveImageId": "1fFNkrLf3dAmUgBKpJMkbWEtJfGFJAnxv",
+  "sourceDriveMetadataId": "1JsE7zeF93nebYHP1iyyX8UsuNXL2OElW",
+  "originalSha256": "2d83f590e53f18052697b4cce480446cfcdea7a4f9f4ada28968418c9408b97c",
+  "originalBytes": 3014370,
+  "sourceMetadataSha256": "802d4afb1da4eb268c135993998de005d255d7357525b1150675d6032f9ff9f2",
+  "qaStatus": "verified-accepted"
+}

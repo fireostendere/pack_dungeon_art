@@ -1,0 +1,132 @@
+{
+  "id": "peri",
+  "status": "complete",
+  "variants": [
+    {
+      "id": "01",
+      "style": "normal",
+      "path": "peri/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 85416,
+      "sha256": "13ba2713fd8bcb12d341bfb22b576539e8d2c7eee9404d36100b189a4c7d0ea3",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/peri-01.json",
+        "originalSha256": "4220b4d7817489b65294e932c97e7b8ba87cc9806f7d62b58adacd15fc79aa5d",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "peri"
+      }
+    },
+    {
+      "id": "02",
+      "style": "normal",
+      "path": "peri/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 70160,
+      "sha256": "d21295b61dfa87a7d8569927789907bd83c0c4d82310ebbe377a7cde332ac0ad",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/peri-02.json",
+        "originalSha256": "4602290363babf958f9aa907755fd8c6fa45e1b3c02114db2e388763fea80e49",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "peri"
+      }
+    },
+    {
+      "id": "03",
+      "style": "normal",
+      "path": "peri/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 67762,
+      "sha256": "3acbce1d5644c0aab35823061f5b0c75861be02852bb2bad445aaa97e1101ba6",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/peri-03.json",
+        "originalSha256": "315ad34625f2b5c32a52cc24941e1938100d6ac86f8597d8114d3773bc96a741",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "peri"
+      }
+    },
+    {
+      "id": "04",
+      "style": "yolo",
+      "path": "peri/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 95668,
+      "sha256": "26c809a97cb5929c70b68bf9851c8d7aef796307c9d158ffa2319a7c7b06cb55",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/peri-04.json",
+        "originalSha256": "08d07f206e2b1dff75e16b8551a37487fc42a023e0a21a4a2bf42f0e73c7195c",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "peri"
+      }
+    }
+  ],
+  "modes": {
+    "normal": [
+      "01",
+      "02",
+      "03"
+    ],
+    "yolo": [
+      "04"
+    ]
+  }
+}

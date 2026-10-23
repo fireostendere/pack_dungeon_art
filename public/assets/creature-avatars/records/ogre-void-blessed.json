@@ -1,0 +1,132 @@
+{
+  "id": "ogre-void-blessed",
+  "status": "complete",
+  "variants": [
+    {
+      "id": "01",
+      "style": "normal",
+      "path": "ogre-void-blessed/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 62922,
+      "sha256": "cb750ff0ff82139e8e0a38164f2d95de88d7aa2668cd55aa6a16fc897380b0c7",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/ogre-void-blessed-01.json",
+        "originalSha256": "ee2e910829a39e81a170cba5ed1fc7b5de51ec2b6e0d39363568ff2774687bfb",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "ogre-void-blessed"
+      }
+    },
+    {
+      "id": "02",
+      "style": "normal",
+      "path": "ogre-void-blessed/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 57724,
+      "sha256": "e6d41555c61b3236c85675cdd4101868b2cae99a26078db48f07c6eb9c0b6a0e",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/ogre-void-blessed-02.json",
+        "originalSha256": "085c67bba1b5d28f91f877a45800fdc19bf20aa45eb7a99e0eacd613aea05db3",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "ogre-void-blessed"
+      }
+    },
+    {
+      "id": "03",
+      "style": "normal",
+      "path": "ogre-void-blessed/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 59054,
+      "sha256": "7794c5781b70f97ec5e8d02d16a3795205d1468bd617c5c4cd39661d6d967b5b",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/ogre-void-blessed-03.json",
+        "originalSha256": "7e475eda2eda397eac6ae2301b03f335e228454ce7735573d663a27a41c33fea",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "ogre-void-blessed"
+      }
+    },
+    {
+      "id": "04",
+      "style": "yolo",
+      "path": "ogre-void-blessed/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 53410,
+      "sha256": "84d3a2a666677ccda51cbcf075441db89dc251cb853e36772d7a87015155258c",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/ogre-void-blessed-04.json",
+        "originalSha256": "ec22fdfc160688668054d152b8f801d5d38c46d8fd18e72577329ec624a194e8",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "ogre-void-blessed"
+      }
+    }
+  ],
+  "modes": {
+    "normal": [
+      "01",
+      "02",
+      "03"
+    ],
+    "yolo": [
+      "04"
+    ]
+  }
+}

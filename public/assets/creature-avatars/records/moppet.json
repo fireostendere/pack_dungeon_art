@@ -1,0 +1,132 @@
+{
+  "id": "moppet",
+  "status": "complete",
+  "variants": [
+    {
+      "id": "01",
+      "style": "normal",
+      "path": "moppet/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 44074,
+      "sha256": "f5a462369a5383aff60c9bdf0cc5b40052e041b1e9dc63994a921e5a9c2ed723",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/moppet-01.json",
+        "originalSha256": "35fbe49cd7af031158cb4ba9172fdd4a5306429a9f20c85ecb3557e8d61154af",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "moppet"
+      }
+    },
+    {
+      "id": "02",
+      "style": "normal",
+      "path": "moppet/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 55956,
+      "sha256": "625c59f874baf86cfdd070ddde76116dd45626a528b735185df15c7a7cad4dc5",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/moppet-02.json",
+        "originalSha256": "4ec8785cf465e55de00ef1e3c13acb1d31e9c78a786e8ec4381764a20c9da2d9",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "moppet"
+      }
+    },
+    {
+      "id": "03",
+      "style": "normal",
+      "path": "moppet/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 42118,
+      "sha256": "7819df3eb8a1092c37aaf6a2d942e89749f9ff503e7cb4736032f7e2e0de676d",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/moppet-03.json",
+        "originalSha256": "5c0e2719b5830fead366d1657e294e045cdd1ac62aee8f472246f4b76fde2e73",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "moppet"
+      }
+    },
+    {
+      "id": "04",
+      "style": "yolo",
+      "path": "moppet/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 38650,
+      "sha256": "910f995f7a2e65cebad36571501e8367228f02f623790b7abddfdbbb39f33062",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/moppet-04.json",
+        "originalSha256": "bdf8650f37f66a4c8e9b89afd466076a27c16c9fea01516f7cf35828f1d73bbe",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "moppet"
+      }
+    }
+  ],
+  "modes": {
+    "normal": [
+      "01",
+      "02",
+      "03"
+    ],
+    "yolo": [
+      "04"
+    ]
+  }
+}

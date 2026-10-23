@@ -1,0 +1,132 @@
+{
+  "id": "leashed-lesion",
+  "status": "complete",
+  "variants": [
+    {
+      "id": "01",
+      "style": "normal",
+      "path": "leashed-lesion/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 83896,
+      "sha256": "7beaedbfcef205e9a170e54652c23d682651b23403dab6e6588bbd58a7ce2ed0",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/leashed-lesion-01.json",
+        "originalSha256": "d511188c46c178864dc87cea955d367bf396d001c89ee6b7a64d77448b3f274d",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "leashed-lesion"
+      }
+    },
+    {
+      "id": "02",
+      "style": "normal",
+      "path": "leashed-lesion/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 96048,
+      "sha256": "dbcdf5b0fd3a3b986c9a94bfcc2209a87ecede94cb08ff400629a92a53bb3da2",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/leashed-lesion-02.json",
+        "originalSha256": "2811da70d72b36db702038152509aa70c9bc33858266235e851377e17e0a77ff",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "leashed-lesion"
+      }
+    },
+    {
+      "id": "03",
+      "style": "normal",
+      "path": "leashed-lesion/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 81322,
+      "sha256": "2d577e6436afa2f507a204e02d970da119114e64b82be6434674bd9b75449459",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/leashed-lesion-03.json",
+        "originalSha256": "deae7a85b7c4665391fe5405b4206f8cfb9f959dd74c6c89c0678cd9b2e70e36",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "leashed-lesion"
+      }
+    },
+    {
+      "id": "04",
+      "style": "yolo",
+      "path": "leashed-lesion/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 91730,
+      "sha256": "ee2299940871b1eee39f45bea3ab2c81155936385c4fe906186a329de151465c",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/leashed-lesion-04.json",
+        "originalSha256": "c8eb41a992fee18538e8a217fc0d00e12007c934cbd5dfdd9fc2d6fc80d94e9c",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "leashed-lesion"
+      }
+    }
+  ],
+  "modes": {
+    "normal": [
+      "01",
+      "02",
+      "03"
+    ],
+    "yolo": [
+      "04"
+    ]
+  }
+}

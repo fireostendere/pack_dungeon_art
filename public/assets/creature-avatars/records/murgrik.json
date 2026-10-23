@@ -1,0 +1,72 @@
+{
+  "id": "murgrik",
+  "status": "partial",
+  "variants": [
+    {
+      "id": "02",
+      "style": "normal",
+      "path": "murgrik/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 65370,
+      "sha256": "f7b5adfab86eebbcac60aa16abde4bb38f06c3627eb2aca65fbe2d52899a01e8",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/murgrik-02.json",
+        "originalSha256": "a0c1ff359113e5f9e770e3270bcac552fc1f873c7b4f532a42b7cd402fd41000",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "murgrik"
+      }
+    },
+    {
+      "id": "04",
+      "style": "yolo",
+      "path": "murgrik/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 79470,
+      "sha256": "517f25b183836687bd7720d074a087435f9a2da1cef860937749570119afdda3",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/murgrik-04.json",
+        "originalSha256": "e0b024cb9832847641e800a7d4d7900333fce8a1d64177d466a7e39c8142e099",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "murgrik"
+      }
+    }
+  ],
+  "modes": {
+    "normal": [
+      "02"
+    ],
+    "yolo": [
+      "04"
+    ]
+  }
+}

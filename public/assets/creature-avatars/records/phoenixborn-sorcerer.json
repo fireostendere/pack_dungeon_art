@@ -1,0 +1,132 @@
+{
+  "id": "phoenixborn-sorcerer",
+  "status": "complete",
+  "variants": [
+    {
+      "id": "01",
+      "style": "normal",
+      "path": "phoenixborn-sorcerer/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 90934,
+      "sha256": "a610e533d6ff7dca8549527e8d09974c86da47f91f8bef255da43f1cdfa01d34",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/phoenixborn-sorcerer-01.json",
+        "originalSha256": "710da4c8e034816c090bbf3348fa5aa88a668f272b96033962061b97942538c8",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "phoenixborn-sorcerer"
+      }
+    },
+    {
+      "id": "02",
+      "style": "normal",
+      "path": "phoenixborn-sorcerer/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 79412,
+      "sha256": "2964e77e5e281f7976f8bd3839f9f247e72b2ace3ce5e3766fa5d8de3d1d324c",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/phoenixborn-sorcerer-02.json",
+        "originalSha256": "68d17851602628321eca6a02c4bf7bab2a0663626b9768384c43c928c2f13a02",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "phoenixborn-sorcerer"
+      }
+    },
+    {
+      "id": "03",
+      "style": "normal",
+      "path": "phoenixborn-sorcerer/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 90796,
+      "sha256": "764422c7909986d120d7316d00d07cd3ecc9d0c8fb61cd88f1fa6fff8cb5004a",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/phoenixborn-sorcerer-03.json",
+        "originalSha256": "6e015deaddc809c6f13f6eabe8bbd268727dfa08e551f90ffb92167a5e59f62a",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "phoenixborn-sorcerer"
+      }
+    },
+    {
+      "id": "04",
+      "style": "yolo",
+      "path": "phoenixborn-sorcerer/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 91176,
+      "sha256": "d6bb8345d9b8b00d568572e40b4e5335c7e29a9464f038dcdbf936ec1d1f0950",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/phoenixborn-sorcerer-04.json",
+        "originalSha256": "fc5da07be25e0f4a23fb003de5578150db7780dd91c1748a5c7e40c9aca7c7d8",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "phoenixborn-sorcerer"
+      }
+    }
+  ],
+  "modes": {
+    "normal": [
+      "01",
+      "02",
+      "03"
+    ],
+    "yolo": [
+      "04"
+    ]
+  }
+}

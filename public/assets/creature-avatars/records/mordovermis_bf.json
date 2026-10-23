@@ -1,0 +1,132 @@
+{
+  "id": "mordovermis_bf",
+  "status": "complete",
+  "variants": [
+    {
+      "id": "01",
+      "style": "normal",
+      "path": "mordovermis_bf/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 50934,
+      "sha256": "9502250345227f432e41f5a686f1277d1251f71c8804193cc37f6dc119198e9d",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/mordovermis_bf-01.json",
+        "originalSha256": "edf456b6c16fe8d8cd8c9f5bea4d05971038adeb8553aa87c5eb66b7ee99a923",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "mordovermis_bf"
+      }
+    },
+    {
+      "id": "02",
+      "style": "normal",
+      "path": "mordovermis_bf/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 34690,
+      "sha256": "35946a0b1ec5c9e22970c64376b85d1bfcf54677eb3eec64bebf2aba200e9558",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/mordovermis_bf-02.json",
+        "originalSha256": "1b21d65a3d4b938e501bf2f4b94b44109f06b7e41e652a8c7cadfc9ed3003a8e",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "mordovermis_bf"
+      }
+    },
+    {
+      "id": "03",
+      "style": "normal",
+      "path": "mordovermis_bf/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 44812,
+      "sha256": "abda09e95252ad9118e68e40221b35eedfa021e80bba932aee84621d46f266b2",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/mordovermis_bf-03.json",
+        "originalSha256": "b4d9173264c4b18b608f743bb8d74c3e3c517f9bb7a452dceddf7063c244d34b",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "mordovermis_bf"
+      }
+    },
+    {
+      "id": "04",
+      "style": "yolo",
+      "path": "mordovermis_bf/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 56090,
+      "sha256": "7555926eebd5c1545e47778bf3217491ddf3094d164a20afe405f6cc88484839",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/mordovermis_bf-04.json",
+        "originalSha256": "f70cc800878438c233c0b802bd72e2435d07678727a268bee7f85d6c5101c46d",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "mordovermis_bf"
+      }
+    }
+  ],
+  "modes": {
+    "normal": [
+      "01",
+      "02",
+      "03"
+    ],
+    "yolo": [
+      "04"
+    ]
+  }
+}

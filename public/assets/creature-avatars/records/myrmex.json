@@ -1,0 +1,101 @@
+{
+  "id": "myrmex",
+  "status": "partial",
+  "variants": [
+    {
+      "id": "01",
+      "style": "normal",
+      "path": "myrmex/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 105646,
+      "sha256": "5e5a2d616a4a953d8a97ef2f6cf8f7a865aa048d7729a2743dcaf0be1a39ee1a",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/myrmex-01.json",
+        "originalSha256": "445a89add7815a1c29121a41a2f53db87635f06173bda8398785f6ba836e1482",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "myrmex"
+      }
+    },
+    {
+      "id": "02",
+      "style": "normal",
+      "path": "myrmex/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 94594,
+      "sha256": "a8a12b083bbb9e4e5a9b9165ff905da069aae547b625b94d7ce89931d57fd6e6",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/myrmex-02.json",
+        "originalSha256": "80a8ff4993eea88bf5380cb40c6213263e042ff6e3cc0cba7a679fd4da3d2970",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "myrmex"
+      }
+    },
+    {
+      "id": "03",
+      "style": "normal",
+      "path": "myrmex/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 84266,
+      "sha256": "960533d7e5c72665b13c0bda7543556f96ba25c23aa04ce100f792279148550f",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/myrmex-03.json",
+        "originalSha256": "95ed16ba793a4fdf99b0884ea1c05d5653e342719889e7eddd1e362634c9cb27",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "myrmex"
+      }
+    }
+  ],
+  "modes": {
+    "normal": [
+      "01",
+      "02",
+      "03"
+    ],
+    "yolo": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "creatureId": "phoenixborn-sorcerer",
+  "variantId": "04",
+  "style": "yolo",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-22",
+  "sourceBooks": [
+    "Tome of Beasts 3"
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-on-Google-Drive",
+  "sourceDriveFolderId": "12izBeLHxP8wkwbOWCBnC5Y8AK1cZj-Lg",
+  "sourceDriveImageId": "120ECcACfAx9x8r5Bxx13SMgUmTjvfcKB",
+  "sourceDriveMetadataId": "1tEYi3LKLkNRezPOqHvgluCU_bmp9QLE7",
+  "originalSha256": "fc5da07be25e0f4a23fb003de5578150db7780dd91c1748a5c7e40c9aca7c7d8",
+  "originalBytes": 2702435,
+  "sourceMetadataSha256": "58996daa45e35e8403247fd1c73524d6c01e65affe9d6b11745d5f8a3b72aff4",
+  "qaStatus": "verified-accepted"
+}

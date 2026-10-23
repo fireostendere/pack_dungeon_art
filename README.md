@@ -1,5 +1,9 @@
 # Dungeon art library
 
+## Verified creature batch 03 (2026-10-22)
+
+Added 100 512x512 WebP portraits from verified Google Drive originals, covering 27 creature IDs (22 complete, 5 partial). Original PNG images and generation JSON remain on Drive. The asset catalog now has 5,760 creature images; 1,437 creature IDs are complete, 5 partial and 866 pending. See creatures/imports/google-drive-2026-10-22-batch-03.json. This changes only static art library resources, not gameplay integration.
+
 ## Google Drive location import
 
 120 ready location images are now indexed; 100 scenes were added by this import. The full 288-archetype catalog and all previously published images are preserved. 1,247 base images remain pending. Source bytes were not re-encoded. Earlier delivery descriptions below describe the original import. This update adds static art resources only, not live gameplay integration.
@@ -16,7 +20,7 @@ See the [item collection](items/README.md) and the previews in [previews/items/]
 
 ## Imported collection
 
-**8,024 ready images are available: 5,660 creature portraits, 120 NPC portraits, 120 location scenes and 2,124 item icons.**
+**8,124 ready images are available: 5,760 creature portraits, 120 NPC portraits, 120 location scenes and 2,124 item icons.**
 The existing-art migration is complete. The larger generation catalog still contains pending entries; these are not ready artwork.
 
 The files are stored individually under `public/assets/`, using their original

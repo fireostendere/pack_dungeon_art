@@ -1,0 +1,21 @@
+{
+  "creatureId": "murgrik",
+  "variantId": "02",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-22",
+  "sourceBooks": [
+    "Tome of Beasts 2"
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-on-Google-Drive",
+  "sourceDriveFolderId": "12izBeLHxP8wkwbOWCBnC5Y8AK1cZj-Lg",
+  "sourceDriveImageId": "1lTm_4Vq0F0XYAPjj4uRM8K4oFwKnf2BL",
+  "sourceDriveMetadataId": "1YFX7Y6aarMeJRTUwfdJNbiGHGcfRMtVp",
+  "originalSha256": "a0c1ff359113e5f9e770e3270bcac552fc1f873c7b4f532a42b7cd402fd41000",
+  "originalBytes": 2511167,
+  "sourceMetadataSha256": "0bfee313213af8f04301f865d3518b9e9ad2915c2df8f769b81d246e28e541e8",
+  "qaStatus": "verified-accepted"
+}

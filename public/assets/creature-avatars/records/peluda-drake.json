@@ -1,0 +1,41 @@
+{
+  "id": "peluda-drake",
+  "status": "partial",
+  "variants": [
+    {
+      "id": "02",
+      "style": "normal",
+      "path": "peluda-drake/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 73740,
+      "sha256": "aa56ec23de015216f33afcd84ed300c8568a41232075a8bb0d9be1807dad5c09",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/peluda-drake-02.json",
+        "originalSha256": "66ee73b4e61fc732fe711e78ee7fc21b1c4e52df9248dbe1ad574fb024e435f6",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "peluda-drake"
+      }
+    }
+  ],
+  "modes": {
+    "normal": [
+      "02"
+    ],
+    "yolo": []
+  }
+}

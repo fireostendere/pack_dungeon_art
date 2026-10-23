@@ -1,0 +1,132 @@
+{
+  "id": "pact-drake",
+  "status": "complete",
+  "variants": [
+    {
+      "id": "01",
+      "style": "normal",
+      "path": "pact-drake/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 62226,
+      "sha256": "e8e182188ace46437999f4da637eb49601a057efd202121e80c26fd1ecaa6866",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/pact-drake-01.json",
+        "originalSha256": "35314d872a49fb8dcd38abda477ec5fa039452ab625ee4bfaf9a1494b2955d12",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "pact-drake"
+      }
+    },
+    {
+      "id": "02",
+      "style": "normal",
+      "path": "pact-drake/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 74620,
+      "sha256": "5e44cd4b2fae20d0092fc3e641991d6aa7b2feb819c33f58295e398b21f77e5c",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/pact-drake-02.json",
+        "originalSha256": "fa7b01d1ca717470ef40a55582feeceb3a9af41c0d0c3e23689b69cd90b0fe32",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "pact-drake"
+      }
+    },
+    {
+      "id": "03",
+      "style": "normal",
+      "path": "pact-drake/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 61038,
+      "sha256": "d8dfd8fe476048e3bd5929f46477878acec671918992d11a942ddb103e63008b",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/pact-drake-03.json",
+        "originalSha256": "9a970ebb257b4d963c385af82cd59c00bb4e5ced72fb04772b6da370aaf52808",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "pact-drake"
+      }
+    },
+    {
+      "id": "04",
+      "style": "yolo",
+      "path": "pact-drake/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 69968,
+      "sha256": "7a0a1b1c962835ec556bf721464165662cdbdc1ab8d6e5d39897d6e5c31dc6e0",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/pact-drake-04.json",
+        "originalSha256": "9a8df271b4c1324a623777fd03735c1b51d66556f2d6404d678563f15f4ca04b",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "pact-drake"
+      }
+    }
+  ],
+  "modes": {
+    "normal": [
+      "01",
+      "02",
+      "03"
+    ],
+    "yolo": [
+      "04"
+    ]
+  }
+}

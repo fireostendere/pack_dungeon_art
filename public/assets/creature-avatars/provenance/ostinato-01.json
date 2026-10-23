@@ -1,0 +1,22 @@
+{
+  "creatureId": "ostinato",
+  "variantId": "01",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-22",
+  "sourceBooks": [
+    "Tome of Beasts",
+    "Tome of Beasts 2023"
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-on-Google-Drive",
+  "sourceDriveFolderId": "12izBeLHxP8wkwbOWCBnC5Y8AK1cZj-Lg",
+  "sourceDriveImageId": "1Mtq50QsHnBbSxby8zdpg7iqFvMPTetX5",
+  "sourceDriveMetadataId": "1RUc2d7uw_E_f3plN0F4KHNs95VNW-jG3",
+  "originalSha256": "f5cf4d7a816eac435828ba22422ec5f87eee34cda55434f022252f02e1c443a7",
+  "originalBytes": 2974931,
+  "sourceMetadataSha256": "e5062e92e00a7ae3a2041550646c99241efe261807115e31fe467e66ce99e156",
+  "qaStatus": "verified-accepted"
+}

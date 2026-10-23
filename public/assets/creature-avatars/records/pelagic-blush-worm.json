@@ -1,0 +1,132 @@
+{
+  "id": "pelagic-blush-worm",
+  "status": "complete",
+  "variants": [
+    {
+      "id": "01",
+      "style": "normal",
+      "path": "pelagic-blush-worm/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 58272,
+      "sha256": "9df24700545e43cb8916c2667ed1e6c332c890d732eba33ca3892bc1afd6ea7d",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/pelagic-blush-worm-01.json",
+        "originalSha256": "82a7412ab7ffd556c6dcaec1c2247ddacfcf74747722cd8024f7caefd67211d1",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "pelagic-blush-worm"
+      }
+    },
+    {
+      "id": "02",
+      "style": "normal",
+      "path": "pelagic-blush-worm/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 56856,
+      "sha256": "171979ca0def2ab707caef7d604002e468bc1f0ba08cc7f2d9f330635b4a0053",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/pelagic-blush-worm-02.json",
+        "originalSha256": "2bdfd05faf2fcc4a4183cfa0122195bb5615c3b51ca7e02ef2edbf758172d644",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "pelagic-blush-worm"
+      }
+    },
+    {
+      "id": "03",
+      "style": "normal",
+      "path": "pelagic-blush-worm/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 36902,
+      "sha256": "2483624c3124335bd2dec760dcf582a4cbcf4135feda0209e624cf25fafbe8b0",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/pelagic-blush-worm-03.json",
+        "originalSha256": "e19428cd17f0ec25898263500ce9ab1421c603c096ed2c9c91481d4aa01dd05e",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "pelagic-blush-worm"
+      }
+    },
+    {
+      "id": "04",
+      "style": "yolo",
+      "path": "pelagic-blush-worm/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 57658,
+      "sha256": "eeded00c72b8b2dbd718dd722fd61ab46eeba691d8a3b448f47ba412bd95a496",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/pelagic-blush-worm-04.json",
+        "originalSha256": "838d84695a34443d3f1511925d49124733da200467028171e49eb6b306389615",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "pelagic-blush-worm"
+      }
+    }
+  ],
+  "modes": {
+    "normal": [
+      "01",
+      "02",
+      "03"
+    ],
+    "yolo": [
+      "04"
+    ]
+  }
+}

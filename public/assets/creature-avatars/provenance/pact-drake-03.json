@@ -1,0 +1,21 @@
+{
+  "creatureId": "pact-drake",
+  "variantId": "03",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-22",
+  "sourceBooks": [
+    "Creature Codex"
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-on-Google-Drive",
+  "sourceDriveFolderId": "12izBeLHxP8wkwbOWCBnC5Y8AK1cZj-Lg",
+  "sourceDriveImageId": "16Cddx9hwRSnAzWFY_CvzWfJlyCZYSzWY",
+  "sourceDriveMetadataId": "1L84ADHwSTl5sqVGvvohL-ykCKC_bBRIc",
+  "originalSha256": "9a970ebb257b4d963c385af82cd59c00bb4e5ced72fb04772b6da370aaf52808",
+  "originalBytes": 2458210,
+  "sourceMetadataSha256": "0c30bd98ee6671d1bd75e3d6a14935ee8a88d0f62f4e4d37d7c570f23d6d2141",
+  "qaStatus": "verified-accepted"
+}

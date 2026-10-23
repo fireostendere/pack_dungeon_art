@@ -1,0 +1,132 @@
+{
+  "id": "luck-leech",
+  "status": "complete",
+  "variants": [
+    {
+      "id": "01",
+      "style": "normal",
+      "path": "luck-leech/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 65442,
+      "sha256": "db1a3ca05cdf5ef6404ff9d4ed8223a5d77a4f205e9ecefc8aaf355bf82995a5",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/luck-leech-01.json",
+        "originalSha256": "470485e39956bf915ed8f1a80e772f0bc6b81cb1b547dccb81429a4b4b4cefa2",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "luck-leech"
+      }
+    },
+    {
+      "id": "02",
+      "style": "normal",
+      "path": "luck-leech/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 46294,
+      "sha256": "b854b5bd5f4042d8ac76137382803553a07c8e113f702a1ddc84a3e9073b9fc6",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/luck-leech-02.json",
+        "originalSha256": "ce3d39aa2aa1cffc33d1f5ba2d961335128dc64993a317ecf9414e1aee45a45e",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "luck-leech"
+      }
+    },
+    {
+      "id": "03",
+      "style": "normal",
+      "path": "luck-leech/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 53348,
+      "sha256": "ec0daff88cb1dfa6bef4438968539d1057273edfa69149144111c93de12f3493",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/luck-leech-03.json",
+        "originalSha256": "82ecb0034883e563f15dee7b9faa9cbc9a72b197d171a0858a65e600d65bbe22",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "luck-leech"
+      }
+    },
+    {
+      "id": "04",
+      "style": "yolo",
+      "path": "luck-leech/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 71446,
+      "sha256": "c6f8e108a1b4666bc67123b99063dd97b31852e8b34083b8c63c65862f92fcdd",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/luck-leech-04.json",
+        "originalSha256": "787c7389dccc6d3906eb91ef21806acbc394b23f1cbab4b17317623f76f6a60e",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "luck-leech"
+      }
+    }
+  ],
+  "modes": {
+    "normal": [
+      "01",
+      "02",
+      "03"
+    ],
+    "yolo": [
+      "04"
+    ]
+  }
+}

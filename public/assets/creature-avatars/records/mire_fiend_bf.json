@@ -1,0 +1,132 @@
+{
+  "id": "mire_fiend_bf",
+  "status": "complete",
+  "variants": [
+    {
+      "id": "01",
+      "style": "normal",
+      "path": "mire_fiend_bf/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 68266,
+      "sha256": "768f5b86ef3895c2b49b9528196eb81ae32617042eef39bc3e517b810732aaf9",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/mire_fiend_bf-01.json",
+        "originalSha256": "9a34788d9649cd3fcc381b6d140f7b2e7c214512ec4db27ac10b17972ca8a7cc",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "mire_fiend_bf"
+      }
+    },
+    {
+      "id": "02",
+      "style": "normal",
+      "path": "mire_fiend_bf/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 82956,
+      "sha256": "81b9c87acba5784629713c747703903093bb2805ae089ff280187c17ef0a010b",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/mire_fiend_bf-02.json",
+        "originalSha256": "f581ef0140a29da4aaa952931f411f0265f23245a525e8de8a4d23fce099edc2",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "mire_fiend_bf"
+      }
+    },
+    {
+      "id": "03",
+      "style": "normal",
+      "path": "mire_fiend_bf/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 69974,
+      "sha256": "1bb25f5cb2c50054af9446784cd4ea3f20d8adb9d0c561665101a660130d1fae",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/mire_fiend_bf-03.json",
+        "originalSha256": "44e2c0df24403102419690154a7a7568478fed81b95c87d5e50a0bfd34ea5912",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "mire_fiend_bf"
+      }
+    },
+    {
+      "id": "04",
+      "style": "yolo",
+      "path": "mire_fiend_bf/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 72286,
+      "sha256": "935bcfaea457db30c0ab8d5087e4c3f442c2eb5c3353f0922d6b9c175ee25fa4",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/mire_fiend_bf-04.json",
+        "originalSha256": "736e2b83f03950c30d8c4a96542e41c58cafd29da4aafa58672dbafa89660231",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "mire_fiend_bf"
+      }
+    }
+  ],
+  "modes": {
+    "normal": [
+      "01",
+      "02",
+      "03"
+    ],
+    "yolo": [
+      "04"
+    ]
+  }
+}

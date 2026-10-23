@@ -1,0 +1,23 @@
+{
+  "creatureId": "pit-fiend",
+  "variantId": "03",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-22",
+  "sourceBooks": [
+    "5e Core Rules",
+    "Level Up Advanced 5e Monstrous Menagerie",
+    "Black Flag SRD"
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-on-Google-Drive",
+  "sourceDriveFolderId": "12izBeLHxP8wkwbOWCBnC5Y8AK1cZj-Lg",
+  "sourceDriveImageId": "1VTd9i923EnzZJV-S2USC_5Gn0_j1U97N",
+  "sourceDriveMetadataId": "10BnelkJCkEes82NcNypK0B22G7jkXvHY",
+  "originalSha256": "250634b7c68eade82024e5633d26dafa8f5f954e2768543ae537bece527e1034",
+  "originalBytes": 2604572,
+  "sourceMetadataSha256": "51b884304952062e9b437e84a63f0e1e38c7083cb6102b843c6c8e98105c601e",
+  "qaStatus": "verified-accepted"
+}

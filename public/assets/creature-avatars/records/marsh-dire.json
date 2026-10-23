@@ -1,0 +1,132 @@
+{
+  "id": "marsh-dire",
+  "status": "complete",
+  "variants": [
+    {
+      "id": "01",
+      "style": "normal",
+      "path": "marsh-dire/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 63664,
+      "sha256": "6aca63adf0526ce898eeccc0b131fc71f872625f9018fb345e65831e57ae2b08",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/marsh-dire-01.json",
+        "originalSha256": "f29f4b8a84bb2291f9add9998b2d969d7b28bfe9dbab4ecc9af2a0cc55755c2f",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "marsh-dire"
+      }
+    },
+    {
+      "id": "02",
+      "style": "normal",
+      "path": "marsh-dire/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 70770,
+      "sha256": "028a37ebb38d5ffe954efc621bdbb6ac6bb5814d32b824629c1bbce3fcda40be",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/marsh-dire-02.json",
+        "originalSha256": "9b833f4be12b6c3fcfe0ca2a9a36eafa0e10f21b1fdcafefb61ef1bf43a16e39",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "marsh-dire"
+      }
+    },
+    {
+      "id": "03",
+      "style": "normal",
+      "path": "marsh-dire/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 63616,
+      "sha256": "cd83804fd8f1dff2ae2049d17df80517686a8c08ebc525dc54d9cec0c73c5c86",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/marsh-dire-03.json",
+        "originalSha256": "6257a741f8a8533750e1a5161748f8aabccf1325eedd3e42f5cae05a00b16fde",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "marsh-dire"
+      }
+    },
+    {
+      "id": "04",
+      "style": "yolo",
+      "path": "marsh-dire/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 69996,
+      "sha256": "8003eb347a3467defc9511682206e44499e687a6aefffb6a3dd3d6113702e5e5",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/marsh-dire-04.json",
+        "originalSha256": "f8d99bdb72d8a90a91fba958a3d64392eb1327ac0fd8beaad65a72207c536c2d",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "marsh-dire"
+      }
+    }
+  ],
+  "modes": {
+    "normal": [
+      "01",
+      "02",
+      "03"
+    ],
+    "yolo": [
+      "04"
+    ]
+  }
+}

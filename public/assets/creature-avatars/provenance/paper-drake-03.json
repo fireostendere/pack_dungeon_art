@@ -1,0 +1,22 @@
+{
+  "creatureId": "paper-drake",
+  "variantId": "03",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-22",
+  "sourceBooks": [
+    "Tome of Beasts",
+    "Tome of Beasts 2023"
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-on-Google-Drive",
+  "sourceDriveFolderId": "12izBeLHxP8wkwbOWCBnC5Y8AK1cZj-Lg",
+  "sourceDriveImageId": "16miVGw6VeRzeSDq181J-R5muL6xk_jor",
+  "sourceDriveMetadataId": "1Jn1MZ4RtDhC4eaa4vC1UHhbhvpfoCzpB",
+  "originalSha256": "5c2edce945ab30b42b3a3760691f13a0337afa3f3d34ca090c4941456ce00687",
+  "originalBytes": 2101802,
+  "sourceMetadataSha256": "756e384e0a743307731587cbdaa74180eaa48822c41bada2a30d70fed9d6032d",
+  "qaStatus": "verified-accepted"
+}

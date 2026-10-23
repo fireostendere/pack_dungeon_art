@@ -1,0 +1,21 @@
+{
+  "creatureId": "ogre-void-blessed",
+  "variantId": "02",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-22",
+  "sourceBooks": [
+    "Tome of Beasts 3"
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-on-Google-Drive",
+  "sourceDriveFolderId": "12izBeLHxP8wkwbOWCBnC5Y8AK1cZj-Lg",
+  "sourceDriveImageId": "1XgHfAtclg_WpGNQm-lW1YFiB1JjRcPZH",
+  "sourceDriveMetadataId": "1t8SYdCHqWA2LHxPt9FGKEd4ot9-2EzT8",
+  "originalSha256": "085c67bba1b5d28f91f877a45800fdc19bf20aa45eb7a99e0eacd613aea05db3",
+  "originalBytes": 2632736,
+  "sourceMetadataSha256": "c144a17c8789b839672ccc6f14d578431204585742364894a91e42d1a9295fae",
+  "qaStatus": "verified-accepted"
+}

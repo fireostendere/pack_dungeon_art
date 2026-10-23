@@ -1,0 +1,21 @@
+{
+  "creatureId": "phoenixborn",
+  "variantId": "04",
+  "style": "yolo",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-22",
+  "sourceBooks": [
+    "Tome of Beasts 3"
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-on-Google-Drive",
+  "sourceDriveFolderId": "12izBeLHxP8wkwbOWCBnC5Y8AK1cZj-Lg",
+  "sourceDriveImageId": "11EdsrsVRInpwvdEx2GXoVA61orDhbMX8",
+  "sourceDriveMetadataId": "1mDcXSEaxcbdam7GiIPIR-8INvhKErdyD",
+  "originalSha256": "fc26f5a485d00176c2bf7ac210ea7430f9604648a26f408173b7493706a5937f",
+  "originalBytes": 2660739,
+  "sourceMetadataSha256": "6a9a8fd4a1eeeff0fcf4b080429e9399b4c022c9e8caf9bcd6e6ee71466b5557",
+  "qaStatus": "verified-accepted"
+}

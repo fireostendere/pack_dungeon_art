@@ -1,0 +1,21 @@
+{
+  "creatureId": "myrmex",
+  "variantId": "02",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-22",
+  "sourceBooks": [
+    "Tome of Beasts 3"
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-on-Google-Drive",
+  "sourceDriveFolderId": "12izBeLHxP8wkwbOWCBnC5Y8AK1cZj-Lg",
+  "sourceDriveImageId": "1266wRH8Z0Y71CGZ5Z_6GnNRmD2CYo-8w",
+  "sourceDriveMetadataId": "1RVJ20lRmJ9Keo6cuW5VWn8zzoig_sc95",
+  "originalSha256": "80a8ff4993eea88bf5380cb40c6213263e042ff6e3cc0cba7a679fd4da3d2970",
+  "originalBytes": 3023030,
+  "sourceMetadataSha256": "97dcac1e8231e4fbbf8a46caa78a3efa700a7f0c6085a9daf8501282ddf2ab75",
+  "qaStatus": "verified-accepted"
+}

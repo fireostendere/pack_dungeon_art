@@ -1,0 +1,21 @@
+{
+  "creatureId": "luck-leech",
+  "variantId": "03",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-22",
+  "sourceBooks": [
+    "Tome of Beasts 2"
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-on-Google-Drive",
+  "sourceDriveFolderId": "12izBeLHxP8wkwbOWCBnC5Y8AK1cZj-Lg",
+  "sourceDriveImageId": "1vDRJoQx0Nm3uZS3V7oOo5nVPYCdQZUOI",
+  "sourceDriveMetadataId": "1EQDLBS4DZH0rJJtf01owQndXuvA3avJ-",
+  "originalSha256": "82ecb0034883e563f15dee7b9faa9cbc9a72b197d171a0858a65e600d65bbe22",
+  "originalBytes": 2226862,
+  "sourceMetadataSha256": "ac6700d3bfc554b4c54b5488c5e16c0f148402a516b82a5528446b053fc14570",
+  "qaStatus": "verified-accepted"
+}

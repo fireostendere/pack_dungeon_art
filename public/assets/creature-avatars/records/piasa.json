@@ -1,0 +1,132 @@
+{
+  "id": "piasa",
+  "status": "complete",
+  "variants": [
+    {
+      "id": "01",
+      "style": "normal",
+      "path": "piasa/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 92414,
+      "sha256": "bc4f5ba2e00bc63e74639d1780ca077b51037a4288091319a2c08a323b567358",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/piasa-01.json",
+        "originalSha256": "2d83f590e53f18052697b4cce480446cfcdea7a4f9f4ada28968418c9408b97c",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "piasa"
+      }
+    },
+    {
+      "id": "02",
+      "style": "normal",
+      "path": "piasa/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 85548,
+      "sha256": "22e750ac2809939fa6563c813012d1f3bfb90196c76be3298265556d2644c20b",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/piasa-02.json",
+        "originalSha256": "4c8a93bf67270bd7348df385891266ec5e262ceba30f4409e86bc06c41f521e3",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "piasa"
+      }
+    },
+    {
+      "id": "03",
+      "style": "normal",
+      "path": "piasa/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 94778,
+      "sha256": "8ff7588e96923db3a948db88b42c1cd5513b9c5a8226368ff50d8cd8a6011b57",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/piasa-03.json",
+        "originalSha256": "24a2f29a9ebc65ac94d9dd0a0e4eb0dea8648620b4dbbf099e9b63349986d4ba",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "piasa"
+      }
+    },
+    {
+      "id": "04",
+      "style": "yolo",
+      "path": "piasa/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 110300,
+      "sha256": "81acbb10a0486c058be5dc988546334ed1025c9633e49eb57c5a8e9059401205",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/piasa-04.json",
+        "originalSha256": "e8a3e8c53f8885327b8a5a93537eab7a9c1e4b6fce9c2893d6f15d9bf8b0583e",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "piasa"
+      }
+    }
+  ],
+  "modes": {
+    "normal": [
+      "01",
+      "02",
+      "03"
+    ],
+    "yolo": [
+      "04"
+    ]
+  }
+}

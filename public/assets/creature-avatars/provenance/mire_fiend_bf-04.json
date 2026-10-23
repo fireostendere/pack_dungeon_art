@@ -1,0 +1,21 @@
+{
+  "creatureId": "mire_fiend_bf",
+  "variantId": "04",
+  "style": "yolo",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-22",
+  "sourceBooks": [
+    "Black Flag SRD"
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-on-Google-Drive",
+  "sourceDriveFolderId": "12izBeLHxP8wkwbOWCBnC5Y8AK1cZj-Lg",
+  "sourceDriveImageId": "18SpTAF-rhHzK-TqSe_l84mggM1KU06rO",
+  "sourceDriveMetadataId": "1Hk1L7T4bWxEzd7uBkIP5BalxIHCwgcpn",
+  "originalSha256": "736e2b83f03950c30d8c4a96542e41c58cafd29da4aafa58672dbafa89660231",
+  "originalBytes": 2600777,
+  "sourceMetadataSha256": "9a27fc88f8682afaf2a6f5a6289a0801c09e5290180a35d07aea1fe2f70bed06",
+  "qaStatus": "verified-accepted"
+}

@@ -1,0 +1,22 @@
+{
+  "creatureId": "owl-harpy",
+  "variantId": "02",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-22",
+  "sourceBooks": [
+    "Tome of Beasts",
+    "Tome of Beasts 2023"
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-on-Google-Drive",
+  "sourceDriveFolderId": "12izBeLHxP8wkwbOWCBnC5Y8AK1cZj-Lg",
+  "sourceDriveImageId": "122RK0IbUHoegUlph1H6mCeTXnNg7Zzb2",
+  "sourceDriveMetadataId": "1LQIwS7yBSPd2mBCBnpTt1Ji4hH5D1Luc",
+  "originalSha256": "917c8383d0ab911b8dcdb46153efba296d0d082059efaafbf21d90e7c3599cce",
+  "originalBytes": 2717620,
+  "sourceMetadataSha256": "17c278dc7fec2dcb187d42f0cc696f50e271c14ed9179acf4bd2d2b170f30de7",
+  "qaStatus": "verified-accepted"
+}

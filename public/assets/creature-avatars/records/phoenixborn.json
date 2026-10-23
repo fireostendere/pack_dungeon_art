@@ -1,0 +1,102 @@
+{
+  "id": "phoenixborn",
+  "status": "partial",
+  "variants": [
+    {
+      "id": "01",
+      "style": "normal",
+      "path": "phoenixborn/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 67362,
+      "sha256": "45dd06cb315648fe41edce72601a8f8c19cfbb2ece9d66b645b996b7400c312f",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/phoenixborn-01.json",
+        "originalSha256": "8784ac242efc9dce52dbd06f0a17dce08f8fd5afbd123bd00c35be08ff647432",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "phoenixborn"
+      }
+    },
+    {
+      "id": "03",
+      "style": "normal",
+      "path": "phoenixborn/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 88774,
+      "sha256": "5fd8eae45d34ec27511260e6a3a736615a44aa839119e2eee7cc3e3696554452",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/phoenixborn-03.json",
+        "originalSha256": "50572284dab6a9a2d58ad612d2314c32422864abf916a8d601959fe61377ad6e",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "phoenixborn"
+      }
+    },
+    {
+      "id": "04",
+      "style": "yolo",
+      "path": "phoenixborn/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 85434,
+      "sha256": "7ea44a2c8d65b41e42ecbd929c36c4635f079386242404254a0a344150606485",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/phoenixborn-04.json",
+        "originalSha256": "fc26f5a485d00176c2bf7ac210ea7430f9604648a26f408173b7493706a5937f",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "phoenixborn"
+      }
+    }
+  ],
+  "modes": {
+    "normal": [
+      "01",
+      "03"
+    ],
+    "yolo": [
+      "04"
+    ]
+  }
+}

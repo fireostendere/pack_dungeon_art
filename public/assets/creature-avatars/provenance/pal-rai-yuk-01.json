@@ -1,0 +1,21 @@
+{
+  "creatureId": "pal-rai-yuk",
+  "variantId": "01",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-22",
+  "sourceBooks": [
+    "Tome of Beasts 2"
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-on-Google-Drive",
+  "sourceDriveFolderId": "12izBeLHxP8wkwbOWCBnC5Y8AK1cZj-Lg",
+  "sourceDriveImageId": "1n2nBIT3fofH1Ier8uwI7IJYXxIiL45VN",
+  "sourceDriveMetadataId": "198CeGkpqFAKbPFTX_bLRn4MuOrIQgFF1",
+  "originalSha256": "605402071d63922dd1a554c5edfd78aa75ff8c6c2f47a81efd2296ea510b09d1",
+  "originalBytes": 2994451,
+  "sourceMetadataSha256": "eb1b1f575caa7eafadef8a521b144558cd6e4c4e13f15b1c68fa16b5467e309b",
+  "qaStatus": "verified-accepted"
+}

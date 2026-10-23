@@ -1,0 +1,21 @@
+{
+  "creatureId": "peluda-drake",
+  "variantId": "02",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-22",
+  "sourceBooks": [
+    "Creature Codex"
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-on-Google-Drive",
+  "sourceDriveFolderId": "12izBeLHxP8wkwbOWCBnC5Y8AK1cZj-Lg",
+  "sourceDriveImageId": "1H-B7wgUyVdP6swG7vjHvzNjWEzusoSEk",
+  "sourceDriveMetadataId": "1fatapJTtgszAZkL3hQeW9pUrb84im1A5",
+  "originalSha256": "66ee73b4e61fc732fe711e78ee7fc21b1c4e52df9248dbe1ad574fb024e435f6",
+  "originalBytes": 2631640,
+  "sourceMetadataSha256": "4ae3b229e6ad25c48f0814d969d6c51dd8a4face22a0e267fea6ad8d84e49093",
+  "qaStatus": "verified-accepted"
+}

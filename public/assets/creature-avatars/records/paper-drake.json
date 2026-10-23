@@ -1,0 +1,132 @@
+{
+  "id": "paper-drake",
+  "status": "complete",
+  "variants": [
+    {
+      "id": "01",
+      "style": "normal",
+      "path": "paper-drake/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 54252,
+      "sha256": "daaf440f1819fe87907e37d89a63ce23ba85c3fb1097d54bd36e85af4996b0ec",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/paper-drake-01.json",
+        "originalSha256": "03276f5a09509903680e019242b507413c414d3bef5277b1515e4d8412dda55c",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "paper-drake"
+      }
+    },
+    {
+      "id": "02",
+      "style": "normal",
+      "path": "paper-drake/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 55178,
+      "sha256": "39283c63d04159d59b3090565f663aa248ce9004c3f35da012d83081a02325bb",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/paper-drake-02.json",
+        "originalSha256": "8a3dad70688f9c72ac2d8805e31e787cf99141dce703f021968da24d356cfaf2",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "paper-drake"
+      }
+    },
+    {
+      "id": "03",
+      "style": "normal",
+      "path": "paper-drake/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 51204,
+      "sha256": "ecb15805afc256b8c1454e00ac9e6b1e9707c5de6508b079485cec22cb3cb6b1",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/paper-drake-03.json",
+        "originalSha256": "5c2edce945ab30b42b3a3760691f13a0337afa3f3d34ca090c4941456ce00687",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "paper-drake"
+      }
+    },
+    {
+      "id": "04",
+      "style": "yolo",
+      "path": "paper-drake/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 49784,
+      "sha256": "71929f259f6b7430cace98cc35eec0529e5fa74c6f417505f84d45503a629856",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/paper-drake-04.json",
+        "originalSha256": "133637f374923ffe1a2a795e1eca601b8a901492051f9e043e49c9c92248ba07",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "paper-drake"
+      }
+    }
+  ],
+  "modes": {
+    "normal": [
+      "01",
+      "02",
+      "03"
+    ],
+    "yolo": [
+      "04"
+    ]
+  }
+}

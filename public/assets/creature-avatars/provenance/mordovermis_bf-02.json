@@ -1,0 +1,21 @@
+{
+  "creatureId": "mordovermis_bf",
+  "variantId": "02",
+  "style": "normal",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen",
+  "generatedAt": "2026-10-22",
+  "sourceBooks": [
+    "Black Flag SRD"
+  ],
+  "license": "generated-output; no third-party artwork license asserted",
+  "promptStatus": "retained-on-Google-Drive",
+  "sourceDriveFolderId": "12izBeLHxP8wkwbOWCBnC5Y8AK1cZj-Lg",
+  "sourceDriveImageId": "1BspkLGzIr27iBCHL7yHGehVnkFIH80zA",
+  "sourceDriveMetadataId": "1uWmsTJErQ8sHDBwONWBSPcKub0uO7-Ck",
+  "originalSha256": "1b21d65a3d4b938e501bf2f4b94b44109f06b7e41e652a8c7cadfc9ed3003a8e",
+  "originalBytes": 2213008,
+  "sourceMetadataSha256": "0016a74adc8e637f90fef3c7f3fea93f09b5727ca7941535af2c4d0fa48afa00",
+  "qaStatus": "verified-accepted"
+}

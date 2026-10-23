@@ -1,0 +1,132 @@
+{
+  "id": "pact-lich",
+  "status": "complete",
+  "variants": [
+    {
+      "id": "01",
+      "style": "normal",
+      "path": "pact-lich/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 57136,
+      "sha256": "cfc62e7963196b4ae57d843c5009887471ef3648923b096e4a25aff7ecbb25af",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/pact-lich-01.json",
+        "originalSha256": "a00493c11e7ffeda75ceff44cf6179a60ea0d16b21e234e45bf5064fa2f68b54",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "pact-lich"
+      }
+    },
+    {
+      "id": "02",
+      "style": "normal",
+      "path": "pact-lich/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 53782,
+      "sha256": "aaa2bb9f40f5d40fc42833b05a552340026937d9c4aff4df378cb8566dc4aa62",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/pact-lich-02.json",
+        "originalSha256": "44845dcb1ad4c3582ce6cb8ff94b3783a6d65ae3344db967f8c2dd43c768614a",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "pact-lich"
+      }
+    },
+    {
+      "id": "03",
+      "style": "normal",
+      "path": "pact-lich/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 48462,
+      "sha256": "b0318edebbb1fbd881c52c70a699585ae4685f5ed8eb258c794c13762f6aae9a",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/pact-lich-03.json",
+        "originalSha256": "f0cdf266f5aac346cb05538effaf06afb7c8f8634350987019b174ac04550f9e",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "pact-lich"
+      }
+    },
+    {
+      "id": "04",
+      "style": "yolo",
+      "path": "pact-lich/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 43996,
+      "sha256": "527b1d18807691351c0c1e61712dbae2a87da8973de316a435582f6c769138ab",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/pact-lich-04.json",
+        "originalSha256": "96e899eba308281006639be119bb6b2a699d11c8b6a6efc2488643b0b255a117",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "pact-lich"
+      }
+    }
+  ],
+  "modes": {
+    "normal": [
+      "01",
+      "02",
+      "03"
+    ],
+    "yolo": [
+      "04"
+    ]
+  }
+}

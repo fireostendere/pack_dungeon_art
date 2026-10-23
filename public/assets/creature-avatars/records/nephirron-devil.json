@@ -1,0 +1,132 @@
+{
+  "id": "nephirron-devil",
+  "status": "complete",
+  "variants": [
+    {
+      "id": "01",
+      "style": "normal",
+      "path": "nephirron-devil/01.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 80604,
+      "sha256": "b081f4934c1f207d2ce8f5a7d1920e3d9412e8ee2e2036db2ce364aad1c85301",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/nephirron-devil-01.json",
+        "originalSha256": "fe5d7ee46b56ebb3b3f00ba8c1f53722d9a9af6f68186ed8a5d99276fbf473e9",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "nephirron-devil"
+      }
+    },
+    {
+      "id": "02",
+      "style": "normal",
+      "path": "nephirron-devil/02.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 84032,
+      "sha256": "f86d67811508484037eae35b8c5878ba6785b87f76cce8bf5d2304d60dec3fd8",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/nephirron-devil-02.json",
+        "originalSha256": "fc8bc969eb477e279187e44d6b36cbf7532aa472609ad195916b718109e2a182",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "nephirron-devil"
+      }
+    },
+    {
+      "id": "03",
+      "style": "normal",
+      "path": "nephirron-devil/03.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 93430,
+      "sha256": "badf6a97bda32901337ca79c9c19a0c31703cac39ab93449e697bc37ff13e748",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/nephirron-devil-03.json",
+        "originalSha256": "1b15cfbac4b52b77833e234596ee128a1b2c5c14a0b46b90c4660a08d0a5c6fc",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "nephirron-devil"
+      }
+    },
+    {
+      "id": "04",
+      "style": "yolo",
+      "path": "nephirron-devil/04.webp",
+      "mime": "image/webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 89156,
+      "sha256": "f15fb4e66843897b402ea6802c098f2539b5c80cdd523683aa52d2446b429b3c",
+      "provenance": {
+        "type": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen",
+        "date": "2026-10-22",
+        "promptRef": "provenance/nephirron-devil-04.json",
+        "originalSha256": "0529cb33e66cad4e19e639b6335c0e582616c91edee4495301a3a0b9926335a2",
+        "license": "generated-output; no third-party artwork license asserted"
+      },
+      "processing": {
+        "resize": "512x512 Lanczos",
+        "encoding": "WebP quality88 method6",
+        "originalRetained": true
+      },
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "nephirron-devil"
+      }
+    }
+  ],
+  "modes": {
+    "normal": [
+      "01",
+      "02",
+      "03"
+    ],
+    "yolo": [
+      "04"
+    ]
+  }
+}
