@@ -73,7 +73,8 @@ def main() -> None:
             require(images[name]['sha256'] == variant['sha256'], f'Catalog hash mismatch: {name}')
     coverage = manifest['coverage']
     require(len(manifest['locations']) == coverage['locationTypes'], 'Location-type count mismatch')
-    require(len(ready) == coverage['verifiedAssets'] == totals['location'], 'Ready scene count mismatch')
+    catalog_scenes = sum(entry['category'] == 'location' and name.startswith('public/assets/location-scenes/') for name, entry in images.items())
+    require(len(ready) == coverage['verifiedAssets'] == catalog_scenes, 'Ready scene count mismatch')
     require(len(expected) == coverage['targetAssets'], 'Target scene count mismatch')
     require(dict(target_by_style) == coverage['targetByStyle'], 'Style targets mismatch')
     for key, count in statuses.items():

@@ -1,5 +1,21 @@
 # Dungeon art library
 
+## ODM archive and live Codex additions (2026-10-24)
+
+The hash audit in [imports/odm-art-audit-2026-10-24.json](imports/odm-art-audit-2026-10-24.json)
+checked 4,176 image files from ODM source assets, local/server uploads, server media
+and the generated-art cache. All are present by SHA-256: 1,908 unique missing
+files were added without re-encoding (615 rasters and 1,293 SVG resources).
+The library now indexes 8,740 raster images; SVG source/resources are stored alongside them.
+
+OpenCode V2's `dnd_art` worker can publish original Codex-generated NPC/location
+art under `public/assets/narrator/`, updating `art-index.json` atomically. The first
+live verification portrait is included. Publication includes the image and neutral
+provenance, without private campaign identifiers or plot text. Generation/ODM
+integration lives in `fireostendere/custom_opencode`, not in this static repository.
+Re-run `scripts/sync-odm-art.py --source <directory> --report <report.json>` to audit
+another source, adding `--apply` to import missing original bytes.
+
 ## Verified creature batch 03 (2026-10-22)
 
 Added 100 512x512 WebP portraits from verified Google Drive originals, covering 27 creature IDs (22 complete, 5 partial). Original PNG images and generation JSON remain on Drive. The asset catalog now has 5,760 creature images; 1,437 creature IDs are complete, 5 partial and 866 pending. See creatures/imports/google-drive-2026-10-22-batch-03.json. This changes only static art library resources, not gameplay integration.
