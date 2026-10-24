@@ -4,11 +4,11 @@
   "repository": "fireostendere/pack_dungeon_art",
   "imageStorage": "individual-files",
   "migrationStatus": "complete",
-  "imageCount": 8124,
+  "imageCount": 8125,
   "plannedReadyImageCount": 8124,
   "creatureImageCount": 5760,
   "locationImageCount": 120,
-  "imageBytes": 533685170,
+  "imageBytes": 536359181,
   "images": [
     {
       "category": "creature",
@@ -269605,9 +269605,29 @@
       "gitBlobSha": "5692d03aebbbd6a23dbd55ffbe2c1524b3eff00e",
       "metadata": "public/assets/creature-avatars/records/pixies-umbrella.json",
       "provenancePath": "public/assets/creature-avatars/provenance/pixies-umbrella-03.json"
+    },
+    {
+      "category": "npc",
+      "subjectId": "narrator-7925b130977ac2bc5462",
+      "name": "Original fantasy character",
+      "variantId": "01",
+      "style": "normal",
+      "path": "public/assets/narrator/npc/7925b130977ac2bc54627d0e8059367c839a8a05fc126d6d6fec9dcec3a33380.png",
+      "width": 1254,
+      "height": 1254,
+      "mime": "image/png",
+      "bytes": 2674011,
+      "sha256": "7925b130977ac2bc54627d0e8059367c839a8a05fc126d6d6fec9dcec3a33380",
+      "provenance": {
+        "sourceType": "generated",
+        "provider": "OpenAI",
+        "tool": "image_gen.imagegen",
+        "model": "gpt-image-2",
+        "generatedAt": "2026-10-24"
+      }
     }
   ],
-  "npcImageCount": 120,
+  "npcImageCount": 121,
   "collections": {
     "creatures": {
       "manifest": "public/assets/creature-avatars/manifest.json",
