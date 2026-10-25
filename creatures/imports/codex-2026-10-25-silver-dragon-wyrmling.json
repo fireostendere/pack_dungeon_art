@@ -1,0 +1,86 @@
+{
+  "source": "OpenAI Codex image_gen.imagegen",
+  "date": "2026-10-25",
+  "creatureId": "silver-dragon-wyrmling",
+  "variantPolicy": {
+    "normal": 3,
+    "yolo": 1
+  },
+  "originalsRetained": true,
+  "promptsRetained": true,
+  "reviewedFiles": [
+    {
+      "variantId": "01",
+      "style": "normal",
+      "sha256": "0deae3375e868700b0ea9d35db172129c37ed3144630d86a37fc5121e0f89ed3",
+      "originalSha256": "3d5d87d0c10a330b3e25d1c97c81cb5de25a2242ed072d1ffa3105619f82225c",
+      "byteSize": 100132,
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "silver-dragon-wyrmling",
+        "singleSubject": true,
+        "anatomy": "four legs, two wings, one tail; portrait crop/natural occlusion allowed",
+        "reviewedBy": "primary-agent",
+        "notes": "original silver dragon design, no text, gore, duplicate bodies or extra subjects"
+      }
+    },
+    {
+      "variantId": "02",
+      "style": "normal",
+      "sha256": "9d68fac058803bc0b3f0c571d83cc7b741c05a46616befd7acd63e216126cb21",
+      "originalSha256": "32082755b08e0b6cbe64a6b3785346f6e28b9e72ed47dbf8ef352be4e206fd77",
+      "byteSize": 68166,
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "silver-dragon-wyrmling",
+        "singleSubject": true,
+        "anatomy": "four legs, two wings, one tail; portrait crop/natural occlusion allowed",
+        "reviewedBy": "primary-agent",
+        "notes": "original silver dragon design, no text, gore, duplicate bodies or extra subjects"
+      }
+    },
+    {
+      "variantId": "03",
+      "style": "normal",
+      "sha256": "d3f63f96b82ca4c73d3d164fd4181f66603af5f778b9c667ef8adb2789231aac",
+      "originalSha256": "51d8ea135903c14ff0baa09ff130c47a145641b88977a56b9ccab85096e4b7d9",
+      "byteSize": 96326,
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "silver-dragon-wyrmling",
+        "singleSubject": true,
+        "anatomy": "four legs, two wings, one tail; portrait crop/natural occlusion allowed",
+        "reviewedBy": "primary-agent",
+        "notes": "original silver dragon design, no text, gore, duplicate bodies or extra subjects"
+      }
+    },
+    {
+      "variantId": "04",
+      "style": "yolo",
+      "sha256": "ede39c43ed2ec290bb8ccf63d37a53cbc88f8b9b6b5ba0cb722a5bf84fca6e0d",
+      "originalSha256": "f995fdea54a0dcce9cbcaccda9de5ac7fbbee681330b749d378d5acefb9cda51",
+      "byteSize": 87788,
+      "review": {
+        "file": "passed",
+        "visual": "passed",
+        "identity": "silver-dragon-wyrmling",
+        "singleSubject": true,
+        "anatomy": "four legs, two wings, one tail; portrait crop/natural occlusion allowed",
+        "reviewedBy": "primary-agent",
+        "notes": "original silver dragon design, no text, gore, duplicate bodies or extra subjects"
+      }
+    }
+  ],
+  "coverage": {
+    "creatures": 2308,
+    "complete": 1438,
+    "partial": 5,
+    "pending": 865,
+    "verifiedAssets": 5764,
+    "targetAssets": 9232
+  },
+  "validationScope": "new creature files, source PNGs, prompts, metadata/index consistency and whole-roster metadata counts; unrelated sparse images not re-downloaded"
+}

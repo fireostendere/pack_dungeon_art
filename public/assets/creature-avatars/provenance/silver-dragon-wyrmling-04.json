@@ -1,0 +1,19 @@
+{
+  "creatureId": "silver-dragon-wyrmling",
+  "variantId": "04",
+  "style": "yolo",
+  "sourceType": "generated",
+  "provider": "OpenAI",
+  "tool": "image_gen.imagegen",
+  "generatedAt": "2026-10-25T02:31:34.197Z",
+  "license": "generated-output; no third-party artwork license asserted",
+  "designReferences": [
+    {
+      "url": "https://media.dndbeyond.com/compendium-images/srd/5.2/SRD_CC_v5.2.1.pdf#page=324"
+    }
+  ],
+  "promptStatus": "retained-in-repository",
+  "promptPath": "creatures/prompts/silver-dragon-wyrmling/04.txt",
+  "originalPath": "creatures/originals/silver-dragon-wyrmling/04.png",
+  "originalSha256": "f995fdea54a0dcce9cbcaccda9de5ac7fbbee681330b749d378d5acefb9cda51"
+}

@@ -12,10 +12,10 @@
   },
   "coverage": {
     "creatures": 2308,
-    "complete": 1437,
+    "complete": 1438,
     "partial": 5,
-    "pending": 866,
-    "verifiedAssets": 5760,
+    "pending": 865,
+    "verifiedAssets": 5764,
     "targetAssets": 9232
   },
   "schemaVersion": 2,
@@ -3783,7 +3783,8 @@
     "pishacha": "records/pishacha.json",
     "pit-fiend-general-a5e": "records/pit-fiend-general-a5e.json",
     "pit-fiend": "records/pit-fiend.json",
-    "pixies-umbrella": "records/pixies-umbrella.json"
+    "pixies-umbrella": "records/pixies-umbrella.json",
+    "silver-dragon-wyrmling": "records/silver-dragon-wyrmling.json"
   },
   "pendingPolicy": "A creature without a variantRecords entry is pending, with empty normal and yolo mode arrays."
 }

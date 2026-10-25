@@ -1,5 +1,15 @@
 # Dungeon art library
 
+## Silver Dragon Wyrmling (2026-10-25)
+
+Added four original Codex/image_gen portraits: `01`–`03` normal and `04` YOLO
+(the wyrmling has accidentally frozen its tiny tea kettle). The 512 × 512 WebP
+avatars, original PNGs, visual briefs and provenance are included. See the
+[batch receipt](creatures/imports/codex-2026-10-25-silver-dragon-wyrmling.json).
+The catalog now indexes 8,744 raster images, including 5,764 creature portraits;
+1,438 creature IDs are complete, 5 partial and 865 pending. This addition contains
+no private campaign identifiers or plot text.
+
 ## ODM archive and live Codex additions (2026-10-24)
 
 The hash audit in [imports/odm-art-audit-2026-10-24.json](imports/odm-art-audit-2026-10-24.json)
