@@ -179,3 +179,32 @@ SHA-256 and provenance, then publish images and consistent indices in batches of
 20. Rebuild the queue after each accepted batch. Preserve existing creature/NPC
 assets. Do not use GitHub Actions or automatically charge an external image API.
 There is no background image-generation job running as part of this delivery.
+
+## Expansion request: 2026-11-08 (planning only)
+
+Increase reusable location variety and alternate views. The user gave no numeric
+location quota, so **no new per-location or overall target is assigned**.
+Preserve the catalog, authored visual specs, existing queue, completed art and
+all layered-scene contracts.
+
+Current structured baseline: 288 archetypes, 1,367 existing planned base images,
+120 ready entries, 1,247 pending jobs and 182 coverage-first jobs. These are
+existing plan counts, not a newly requested expansion quantity. Older delivery
+counts above remain as history.
+
+Close uncovered archetypes first, then prioritize places where selection keeps
+repeating the same scene. Useful differences include architecture/materials,
+settlement scale, region/biome, interior versus exterior, camera angle, time of
+day, weather, season, occupancy and maintained/ruined state when appropriate.
+Do not blindly generate every combination. Record a concrete visual difference
+and intended use for each proposed variant. Inspect existing images first and
+reuse pending jobs already covering the need. Respect each visualSpec, clean-base
+no-secret-spoiler requirements and compatible overlay geometry. YOLO stays
+separately labeled and appropriate to the location.
+
+Next planning pass: inventory ready variants by archetype, identify actual gaps,
+and add only distinct reviewed briefs to the catalog before rebuilding
+`generation-plan.json`. This documentation-only update leaves that queue and its
+generator unchanged; no images, overlays or generation jobs were created.
+NPC quotas and their verified scope/baseline are in
+[the existing NPC document](../npc/README.md#expansion-request-2026-11-08-planning-only).
